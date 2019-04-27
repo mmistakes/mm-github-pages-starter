@@ -109,8 +109,7 @@ theme: minimal-mistakes-jekyll
 collections:
   protocol:
     output: true
-    permalink: /protocol/:path/
-
+    
 
 
   
