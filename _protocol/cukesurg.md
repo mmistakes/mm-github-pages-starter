@@ -1,6 +1,5 @@
 ---
 title: "Sea Cucumber Surgery Protocol"
-permalink: /protocols/
 defaults:
   # _pages
   - scope:
