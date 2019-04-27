@@ -1,6 +1,6 @@
 ---
 title: "Welcome"
-layout: home
+layout: /
 ---
 
 this is my home page
