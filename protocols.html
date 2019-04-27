@@ -5,9 +5,9 @@ title: Protocols
 <h1>Protocols</h1>
 
 <ul>
-  {% for author in site.protocols %}
+  {% for protocols in site.protocol %}
     <li>
-      <h2><a href="{{ author.url }}">{{ author.title }}</a></h2>
+      <h2><a href="{{ protocols.url }}">{{ protocols.title }}</a></h2>
        </li>
   {% endfor %}
 </ul>
