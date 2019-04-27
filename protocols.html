@@ -1,0 +1,15 @@
+---
+layout: default
+title: Protocols
+---
+<h1>Protocols</h1>
+
+<ul>
+  {% for author in site.protocols %}
+    <li>
+      <h2>{{ author.name }}</h2>
+      <h3>{{ author.position }}</h3>
+      <p>{{ author.content | markdownify }}</p>
+    </li>
+  {% endfor %}
+</ul>
