@@ -1,7 +1,7 @@
 ---
 title: "Sea Cucumber Surgery Protocol"
 permalink: /cukesurg/
-layout: posts
+layout: single
 ---
 
 stuff about sea cuke surgeries
