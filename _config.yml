@@ -107,7 +107,10 @@ tag_archive:
 theme: minimal-mistakes-jekyll
 
 collections:
-  portfolio:
+  protocols:
+    output: true
+    permalink: /:collection/:path/
+  labnotebook:
     output: true
     permalink: /:collection/:path/
 
