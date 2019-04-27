@@ -3,7 +3,5 @@ main:
     url: /posts/
   - title: "Protocols"
     url: /protocols/
-  - title: "Parastichopus californicus"
-    url: /paracali/
   - title: "About"
     url: /about/
