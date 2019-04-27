@@ -1,6 +1,6 @@
 ---
 permalinks: /para_cali/
-title: Parastichopus californicus
+title: "Parastichopus californicus"
 
 defaults:
   # _pages
