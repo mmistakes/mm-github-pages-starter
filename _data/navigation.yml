@@ -3,7 +3,7 @@ main:
     url: /about/
   - title: "Parastichopus californicus"
     url: /seacuke/
-  - title: "Posts"
-    url: /posts/
+  - title: "Lab Notebook"
+    url: /labnotebook/
   - title: "Protocols"
     url: /protocols/
