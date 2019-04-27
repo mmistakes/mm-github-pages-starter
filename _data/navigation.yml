@@ -1,9 +1,9 @@
 main:
+  - title: "About"
+    url: /about/
+   - title: "Parastichopus californicus"
+    url: /seacuke/
   - title: "Posts"
     url: /posts/
   - title: "Protocols"
     url: /protocols/
-  - title: "About"
-    url: /about/
-  - title: "Parastichopus californicus"
-    url: /seacuke/
