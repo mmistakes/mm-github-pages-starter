@@ -2,7 +2,7 @@ main:
   - title: "Posts"
     url: /posts/
   - title: "Protocols"
-    link: /protocols.html
+    url: /protocols.html
   - title: "About"
     url: /about/
   - title: "Parastichopus californicus"
