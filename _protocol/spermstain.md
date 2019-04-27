@@ -1,6 +1,6 @@
 ---
 title: "Staining Sea Cuke Sperm"
-layout: posts
+layout: single
 ---
 
 stuff about sea cuke sperm staining
