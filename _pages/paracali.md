@@ -1,5 +1,5 @@
 ---
-permalinks: /para_cali/
+permalinks: /paracali/
 title: "Parastichopus californicus"
 
 defaults:
