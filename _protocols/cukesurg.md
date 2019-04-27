@@ -1,13 +1,14 @@
 ---
+title: "Sea Cucumber Surgery Protocol"
+permalink: /protocols/
 defaults:
-  # _protocols
+  # _pages
   - scope:
       path: ""
-      type: protocols
+      type: pages
     values:
       layout: single
       author_profile: false
-      share: true
 ---
 
 stuff about sea cuke surgeries
