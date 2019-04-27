@@ -110,9 +110,7 @@ collections:
   protocols:
     output: true
     permalink: /:collection/:path/
-  labnotebook:
-    output: true
-    permalink: /:collection/:path/
+
 
 
   
