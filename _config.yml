@@ -107,9 +107,9 @@ tag_archive:
 theme: minimal-mistakes-jekyll
 
 collections:
-  protocols:
+  protocol:
     output: true
-    permalink: /protocols/:path/
+    permalink: /protocol/:path/
 
 
 
