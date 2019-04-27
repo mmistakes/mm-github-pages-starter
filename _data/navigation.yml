@@ -1,7 +1,7 @@
 main:
   - title: "About"
     url: /about/
-   - title: "Parastichopus californicus"
+  - title: "Parastichopus californicus"
     url: /seacuke/
   - title: "Posts"
     url: /posts/
