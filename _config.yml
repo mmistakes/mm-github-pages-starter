@@ -23,6 +23,7 @@ baseurl: /mm-github-pages-starter
 url: https://mmistakes.github.io
 twitter_username: username
 github_username: username
+github         : # username E.g. mmistakes
 minimal_mistakes_skin: default
 search: true
 
