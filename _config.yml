@@ -63,9 +63,9 @@ author:
   avatar : "/assets/images/58382205_575954296244618_3014640770582839296_n.jpg"
   bio    : "Studying the genome of Parastichopus californicus"
   links:
-    - label: "Website"
+    - label: "iNaturalist"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://www.inaturalist.org/observations?place_id=any&subview=grid&user_id=dhaosvoz"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
