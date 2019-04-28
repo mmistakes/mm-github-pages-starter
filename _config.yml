@@ -69,6 +69,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
+    - label: "The Natural Philosopher Publication"
+      icon: "fa fa-newspaper-o"
+      url: "https://medium.com/the-geneticist"
 
 
 footer:
