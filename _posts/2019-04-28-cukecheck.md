@@ -3,10 +3,10 @@ title: "Cuke Check"
 author: "Jon Eilers"
 
 gallery:
-  - url: /assets/images/4-28-19/20190428_142143.jpg
-    image_path: /assets/images/4-28-19/20190428_142143.jpg
-  - url: /assets/images/4-28-19/20190428_142214.jpg
-    image_path: /assets/images/4-28-19/20190428_142214.jpg
+  - url: /assets/images/2019-04-28/20190428_142143.jpg
+    image_path: /assets/images/2019-04-28/20190428_142143.jpg
+  - url: /assets/images/2019-04-28/20190428_142214.jpg
+    image_path: /assets/images/2019-04-28/20190428_142214.jpg
     
 ---
 
