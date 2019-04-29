@@ -4,9 +4,9 @@ author: Jon Eilers
 
 gallery:
   - url: /assets/images/2019-04-29/20190429_124258.jpg 
-    image_path: /assets/images/2019-04-28/20190429_124258.jpg 
+    image_path: /assets/images/2019-04-29/20190429_124258.jpg 
   - url: /assets/images/2019-04-29/20190429_124309.jpg 
-    image_path: /assets/images/2019-04-28/20190429_124309.jpg 
+    image_path: /assets/images/2019-04-29/20190429_124309.jpg 
 ---
 
 ### Cuke Check
