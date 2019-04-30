@@ -1,6 +1,6 @@
 ---
 title: "28/04/19 Cuke Check"
-author: "Jon Eilers"
+author: Jon Eilers
 
 gallery:
   - url: /assets/images/2019-04-28/20190428_142143.jpg 
