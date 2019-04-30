@@ -7,13 +7,7 @@ gallery:
     image_path: /assets/images/2019-04-28/20190428_142143.jpg  
   - url: /assets/images/2019-04-28/20190428_142214.jpg
     image_path: /assets/images/2019-04-28/20190428_142214.jpg
-    
 
-gallery:
-  - url: /assets/images/4-26-19/20190426_111629.jpg
-    image_path: /assets/images/4-26-19/20190426_111629.jpg
-  - url: /assets/images/4-26-19/20190426_111637.jpg
-    image_path: /assets/images/4-26-19/20190426_111637.jpg
 ---
 
 ### 28/04 Cuke Check
