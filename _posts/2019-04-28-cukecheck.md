@@ -11,7 +11,7 @@ gallery:
 ---
 
 ### Cuke Check
-Cukes 3 days post op: Big guy is looking good. The little guy appears to have either ejected the stitches from its body or the surrounding tissue has become necrotic and the stitches fell out. Either way, the wound is open and its outlook isn't great. Still alive though. 
+Cukes 3 days post op: Big guy is looking good. The little guy appears to have either ejected the stitches from its body or the surrounding tissue has become necrotic and the stitches fell out. Either way, the wound is open and its outlook isn't great. Still alive though, but probably not for much longer. 
 
 ### Photos
 {% include gallery %}
