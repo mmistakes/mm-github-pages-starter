@@ -1,6 +1,6 @@
 # Minimal Mistakes remote theme starter
 
-Fork this repo for the quickest method of getting started with the Minimal Mistakes Jekyll theme.
+Fork this repo for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
 
 Contains basic configuration to get you a site with:
 
