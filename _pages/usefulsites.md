@@ -13,3 +13,6 @@ Different types of gel electrophoresis and a bit about their application and his
 
 An explanation of how Pulse Field Gel Electrophoresis works
 <https://bitesizebio.com/29971/pulsed-field-gel-electrophoresis/>
+
+Some troubleshooting tips for Pulse Field Gel Electrophoresis
+<http://www.pulsenetinternational.org/assets/PulseNet/uploads/pfge/PFGEPresentation6-PFGETroubleshooting.pdf>
