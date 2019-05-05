@@ -16,3 +16,6 @@ An explanation of how Pulse Field Gel Electrophoresis works
 
 Some troubleshooting tips for Pulse Field Gel Electrophoresis
 <http://www.pulsenetinternational.org/assets/PulseNet/uploads/pfge/PFGEPresentation6-PFGETroubleshooting.pdf>
+
+Some information regarding eluting DNA from agarose gels
+<http://www.methodbook.net/dna/gelextrc.html>
