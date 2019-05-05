@@ -19,3 +19,7 @@ Some troubleshooting tips for Pulse Field Gel Electrophoresis
 
 Some information regarding eluting DNA from agarose gels
 <http://www.methodbook.net/dna/gelextrc.html>
+
+Protocol for Phenol/Chloroform DNA extraction/purification and subsequent ethanol precipitation
+<https://openwetware.org/wiki/Phenol/chloroform_extraction>
+<https://openwetware.org/wiki/Ethanol_precipitation_of_nucleic_acids>
