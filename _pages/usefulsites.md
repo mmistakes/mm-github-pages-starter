@@ -23,3 +23,7 @@ Some information regarding eluting DNA from agarose gels
 Protocol for Phenol/Chloroform DNA extraction/purification and subsequent ethanol precipitation
 <https://openwetware.org/wiki/Phenol/chloroform_extraction>
 <https://openwetware.org/wiki/Ethanol_precipitation_of_nucleic_acids>
+
+Methods for DNA extraction and purification for Nanopore sequencing
+<http://lab.loman.net/#__RefHeading___Toc505877564>
+
