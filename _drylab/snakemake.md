@@ -5,8 +5,7 @@ layout: single
 
 ### Snakemake file for running paired-end read merging and reference genome alignment of reads for parvimensis raw data to japonicus
 
-'''
-
+```
 rule seqprep:
 	input: 
 		first_in = "SRR1693446/SRR1693446_1.fastq.gz",
@@ -26,8 +25,23 @@ rule nucmer:
 		out = "Test/jap.parv"
 	log:
 		"logs/nucmer.log"	
-	threads: 10
 	shell:
-		"nucmer --mum {input.ref} {input.query} -p {output.out}" 
-    
-'''
+		"nucmer --mum {input.ref} {input.query} -p {output.out} -t 10" 
+
+rule filterdelta:
+	input:
+		deltafile = "Test/jap.parv.delta"
+	output:
+		outfile = "Test/japparv.filter.delta"
+	shell:
+		"delta-filter -q {input.deltafile} > {output.outfile}"
+
+rule showcoords:
+	input:
+		filterdelta = "Test/japparv.filter.delta"
+	output:
+		deltacoords = "Test/japparv.filter.coords.txt"
+	shell:
+		"show-coords -c -l -r -T {input.filterdelta} > {output.deltacoords}"
+```
+
