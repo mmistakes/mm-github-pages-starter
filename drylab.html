@@ -1,0 +1,13 @@
+---
+title: "Dry Lab Notebook"
+permalink: /drylabnotebook/
+layout: collection
+---
+
+<ul>
+  {% for protocols in site.drylab %}
+    <li>
+      <h2><a href="{{ protocols.url }}">{{ protocols.title }}</a></h2>
+       </li>
+  {% endfor %}
+</ul>
