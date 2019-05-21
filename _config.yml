@@ -124,7 +124,9 @@ collections:
   protocol:
     output: true
     permalink: /protocol/:path/
-    
+  drylab:
+    output: true
+    permalink: /drylab/:path/
 
 
   
