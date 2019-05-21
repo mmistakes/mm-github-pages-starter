@@ -1,5 +1,6 @@
 ---
 title: "Snakemake Test"
+layout: single
 ---
 
 '''
