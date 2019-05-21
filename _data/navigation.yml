@@ -3,8 +3,10 @@ main:
     url: /about/
   - title: "Parastichopus californicus"
     url: /seacuke/
-  - title: "Lab Notebook"
+  - title: "Wet Lab Notebook"
     url: /posts/
+  - title: "Dry Lab Notebook"
+    url: /drylab/
   - title: "Protocols"
     url: /protocols/
   - title: "Useful and Interesting Websites"
