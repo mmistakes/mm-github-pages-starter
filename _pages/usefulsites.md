@@ -5,7 +5,7 @@ permalink: /usefulsites/
 
 
 Some info on visualizing output from Mummer4 alignments
-<https://taylorreiter.github.io/2017-08-10-Visualizing-NUCmer-Output/>
+<https://taylorreiter.github.io/2019-05-11-Visualizing-NUCmer-Output/>
 
 
 Different types of gel electrophoresis and a bit about their application and history
