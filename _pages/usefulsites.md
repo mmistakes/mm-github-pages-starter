@@ -3,24 +3,24 @@ title: "Useful websites"
 permalink: /usefulsites/
 ---
 
-### Genome Assembly Using Closely Related Reference Genomes
+## Genome Assembly Using Closely Related Reference Genomes
 
-#### Paper on how to do it
+### Paper on how to do it
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5681816/
 
-##### Her scripts
+#### Her scripts
 https://bitbucket.org/HeidiLischer/refguideddenovoassembly_pipelines/src/master/
 
-#### Another paper on it
+### Another paper on it
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3121819/
 
-### Bioninformatic Visualization Tools
+## Bioninformatic Visualization Tools
 Some info on visualizing output from Mummer4 alignmets
 <https://taylorreiter.github.io/2019-05-11-Visualizing-NUCmer-Output/>
 
-### Wet Lab information
+## Wet Lab information
 
-#### Gel Electrophoresis
+### Gel Electrophoresis
 Different types of gel electrophoresis and a bit about their application and history
 <http://www.biologydiscussion.com/biochemistry/electrochemical-techniques/top-10-types-of-electrophoretic-techniques-used-in-biochemistry/12669>
 
@@ -30,7 +30,7 @@ An explanation of how Pulse Field Gel Electrophoresis works
 Some troubleshooting tips for Pulse Field Gel Electrophoresis
 <http://www.pulsenetinternational.org/assets/PulseNet/uploads/pfge/PFGEPresentation6-PFGETroubleshooting.pdf>
 
-#### DNA extraction
+### DNA extraction
 Some information regarding eluting DNA from agarose gels
 <http://www.methodbook.net/dna/gelextrc.html>
 
