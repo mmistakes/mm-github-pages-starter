@@ -41,3 +41,6 @@ Protocol for Phenol/Chloroform DNA extraction/purification and subsequent ethano
 Methods for DNA extraction and purification for Nanopore sequencing
 <http://lab.loman.net/#__RefHeading___Toc505877564>
 
+Josh Quick Protocol for HMW DNA extraction
+<https://www.protocols.io/view/ultra-long-read-sequencing-protocol-for-rad004-mrxc57n>
+
