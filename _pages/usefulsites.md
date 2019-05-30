@@ -6,13 +6,13 @@ permalink: /usefulsites/
 ## Genome Assembly Using Closely Related Reference Genomes
 
 ### Paper on how to do it
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5681816/
+<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5681816/>
 
 #### Her scripts
-https://bitbucket.org/HeidiLischer/refguideddenovoassembly_pipelines/src/master/
+<https://bitbucket.org/HeidiLischer/refguideddenovoassembly_pipelines/src/master/>
 
 ### Another paper on it
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3121819/
+<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3121819/>
 
 ## Bioninformatic Visualization Tools
 Some info on visualizing output from Mummer4 alignmets
