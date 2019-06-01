@@ -44,3 +44,6 @@ Methods for DNA extraction and purification for Nanopore sequencing
 Josh Quick Protocol for HMW DNA extraction
 <https://www.protocols.io/view/ultra-long-read-sequencing-protocol-for-rad004-mrxc57n>
 
+A website containing DIY wet lab tools and tricks including DIY phase gels for dna extraction
+<https://pipettejockey.com/2018/11/13/dense-phase-separating-gel-homemade-trizol-combo/>
+
