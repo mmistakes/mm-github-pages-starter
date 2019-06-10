@@ -11,4 +11,4 @@ design and I am too lazy to do that at the moment. Instead, below is a link to t
 in order to see my profile. I have not "published" any of the protocols so they are currently "private" and inaccessible for now. 
 
 ### The Protocols.io Website
-<www.protocols.io>
+<https://www.protocols.io>
