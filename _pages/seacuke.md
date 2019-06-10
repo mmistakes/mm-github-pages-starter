@@ -1,8 +1,8 @@
 ---
 permalink: /seacuke/
-title: "Parastichopus californicus"
-
+title: "The Californian Giant Sea Cucumber: A life-saving drug or instagramable cuisine?"
 ---
+
 In 2018, a man in Washington State was fined $1.8 million dollars for underreporting, processing, and selling illegally harvested sea cucumber. In 2017, a father and son in California were fined $17 million for smuggling sea cucumbers. So what about this strange and unfamiliar creature is so compelling people risk jail time and multi-million dollar fines? Well my friend, you have come to the right place. 
 
 Most people on the West coast will only encounter sea cucumbers at public aquariums and in the occasional tidepool, however, sea cucumbers are a widely sought after delicacy in Eastern Asia. This may come as a suprise to many of us. I can't attest to how they taste, but I can say they have very thick and tough skin. This skin and the muscles lining the inside of the sea cucumber are what captures the appetite of some. They are either dried and fermented or served fresh often with winter melon or shittake mushrooms. 
