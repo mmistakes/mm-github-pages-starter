@@ -14,8 +14,8 @@ permalink: /usefulsites/
 ### Another paper on it
 <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3121819/>
 
-### Someone who knows their stuff documented their use of the pipeline
-<https://github.com/wolf-adam-eily/grape_ref_guided_assembly>
+### Github version
+<https://github.com/cyklee/ref-guided-assembly-pipeline/blob/b89cc2bf8273f6bd60827565c426d9485c27518c/refGuidedDeNovoAssembly_ABYSS.sh>
 
 ## Bioninformatic Visualization Tools
 Some info on visualizing output from Mummer4 alignmets
