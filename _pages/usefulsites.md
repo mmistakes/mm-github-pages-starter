@@ -14,6 +14,9 @@ permalink: /usefulsites/
 ### Another paper on it
 <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3121819/>
 
+### Someone who knows their stuff documented their use of the pipeline
+<https://github.com/wolf-adam-eily/grape_ref_guided_assembly>
+
 ## Bioninformatic Visualization Tools
 Some info on visualizing output from Mummer4 alignmets
 <https://taylorreiter.github.io/2019-05-11-Visualizing-NUCmer-Output/>
