@@ -1,7 +1,7 @@
 ---
 title: "Development of image-based surgical planning software for bone-conduction implants"
 categories:
-  - Projects
+  - projects
 tags:
   - projects
 link: https://pdfs.semanticscholar.org/a0b5/d64a473c5b472b510301769e41e34d926161.pdf
