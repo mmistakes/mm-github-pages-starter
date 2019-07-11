@@ -17,7 +17,7 @@ tags:
 link: https://pdfs.semanticscholar.org/a0b5/d64a473c5b472b510301769e41e34d926161.pdf
 ---
 
-Abstract
+#Abstract
 The BONEBRIDGE bone-conduction device is used to treat conductive and mixed hearing
 losses. The size of its floating mass transducer (FMT) can preclude implantation in certain
 anatomies, necessitating comprehensive surgical planning. Current techniques are time
@@ -31,12 +31,11 @@ achieving sub-millimeter accuracy. Results suggest this software can be used in 
 workflow to automate thickness estimation and aid in finding an ideal location for the
 BONEBRIDGE device and screws.
 
-Keywords
+##Keywords
 Image Processing, BONEBRIDGE, Temporal Bone, Surgical Planning, Computed
 Tomography, Bone Conduction Devices
 
-
-Recommended Citation
+###Recommended Citation
 >Salgado, Carlos D., "Development of image-based surgical planning software for bone-conduction implants" (2018). Electronic Thesis
 and Dissertation Repository. 5535. [https://ir.lib.uwo.ca/etd/5535](https://ir.lib.uwo.ca/etd/5535)
 
