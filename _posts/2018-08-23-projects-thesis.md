@@ -4,6 +4,11 @@ categories:
   - projects
 tags:
   - projects
+  - software
+  - image processing
+  - matlab
+  - research
+  - medical imaging
 link: https://pdfs.semanticscholar.org/a0b5/d64a473c5b472b510301769e41e34d926161.pdf
 ---
 
