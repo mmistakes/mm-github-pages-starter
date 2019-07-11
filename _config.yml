@@ -65,6 +65,9 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://socd06.github.io"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:socd06@email.com
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/socd06"
@@ -88,7 +91,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: splash
+      layout: single
       author_profile: true
       read_time: true
       comments: true
