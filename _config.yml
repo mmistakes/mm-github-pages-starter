@@ -64,13 +64,13 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://socd06.github.io/"
+      url: "https://socd06.github.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/socd06"
     - label: "GitHub"
       icon: ""fab fa-linkedin""
-      url: "https://www.linkedin.com/in/eng-socd/"
+      url: "https://www.linkedin.com/in/eng-socd"
       
     
 footer:
