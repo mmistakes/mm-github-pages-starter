@@ -18,8 +18,11 @@ header:
   image: https://www.eluniversal.com.co/sites/default/files/201406/bone_bridge.jpg
   preview: true
   image_description: "The BONEBRIDGE"
+image:
+  feature: https://s3.medel.com/images/BB/bonebridge-bci.png
+  thumb: https://s3.medel.com/images/BB/bonebridge-bci.png
 ---
-![screenshot](https://s3.medel.com/images/BB/bonebridge-bci.png)
+
 
 
 **Abstract**
