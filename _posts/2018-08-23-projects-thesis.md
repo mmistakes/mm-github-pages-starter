@@ -15,7 +15,7 @@ tags:
   - bone conduction devices
 link: https://pdfs.semanticscholar.org/a0b5/d64a473c5b472b510301769e41e34d926161.pdf
 header:
-  image: https://www.eluniversal.com.co/sites/default/files/201406/bone_bridge.jpg
+  overlay_image: https://www.eluniversal.com.co/sites/default/files/201406/bone_bridge.jpg
   image_description: "The BONEBRIDGE"
 ---
 
