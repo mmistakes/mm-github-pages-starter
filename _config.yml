@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Carlos Salgado"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "UWO MESc. Electrical and Computer Engineering"
+  bio    : "MESc Electrical Engineering | BEng Mechatronics, Robotics and Control | Signal Processing Tinkerer | Quality Assurance"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -68,12 +68,19 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/socd06"
+    - label: "GitHub"
+      icon: ""fab fa-linkedin""
+      url: "https://www.linkedin.com/in/eng-socd/"
+      
     
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/socd06"
+    - label: "GitHub"
+      icon: ""fab fa-linkedin""
+      url: "https://www.linkedin.com/in/eng-socd/"
     
 defaults:
   # _posts
