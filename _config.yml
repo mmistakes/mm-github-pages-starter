@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Carlos Salgado"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "MESc Electrical Engineering | BEng Mechatronics, Robotics and Control | Signal Processing Tinkerer | Quality Assurance"
+  bio    : "MESc Electrical Engineering | BEng Mechatronics, Robotics and Control | Signal Processing Tinkerer | Quality Assurance---"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
