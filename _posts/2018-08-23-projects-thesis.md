@@ -1,5 +1,6 @@
 ---
 title: "Development of image-based surgical planning software for bone-conduction implants"
+cover: "http://s3-ap-southeast-1.amazonaws.com/monster-machine/images/horssghonr-1436272011-Midas.jpg"
 categories:
   - Projects
 tags:
