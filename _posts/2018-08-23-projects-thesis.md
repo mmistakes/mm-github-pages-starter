@@ -14,7 +14,8 @@ tags:
   - computed tomography
   - bone conduction devices
 link: https://pdfs.semanticscholar.org/a0b5/d64a473c5b472b510301769e41e34d926161.pdf
-featured-image: BB.png
+image:
+  feature: BB.jpg
 ---
 <header class="post-header">
    <h1 class="post-title">{{ page.title }}</h1>
