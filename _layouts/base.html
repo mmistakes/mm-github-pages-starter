@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  {{ content }}
+
+  {% include footer.html %}
+  {% if site.ga_id %}
+      {% include analytics.html %}
+  {% endif %}
+</body>
+</html>

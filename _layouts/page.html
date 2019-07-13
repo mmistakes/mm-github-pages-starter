@@ -1,0 +1,17 @@
+---
+layout: base
+---
+<body style="padding: 0">
+
+  <article class="post-full">
+    <header class="bg-holder post-page {% if page.color %}bg-{{ page.color }}{% endif %}" style="{% if page.cover %}background:url({{page.cover}}) no-repeat center center; background-size: cover{% endif %}">
+      <a href="/" class="overlay"><i class="fa fa-home fa-2x"></i></a>
+      {% if page.cover %}<div class="img-overlay"></div>{% endif %}
+    </header>
+    <div class="mui-container mui-panel post-content">
+      <h1><a href="{{page.url}}">{{ page.title }}</a></h1>
+      <div class="post-html" style="border: none">
+          {{ content }}
+      </div>
+    </div>
+  </article>
