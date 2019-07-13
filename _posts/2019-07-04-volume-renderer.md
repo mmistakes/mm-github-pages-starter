@@ -14,7 +14,7 @@ Written in C++, uses the Visualization Toolkit (VTK) to read a Computed Tomograp
 **Left Ear Test**
 ![L90(05)100(1)](https://user-images.githubusercontent.com/51087091/60770156-fca17b00-a0a5-11e9-89e0-3d612381d283.png)
 
-In this dataset, the program allowed to visualize the left temporal bone, determining it has a larger amount of air cells than the right temporal bone. 
+In this dataset, the program allowed to determine that the left temporal bone had a larger amount of air cells than the right temporal bone. 
 
 ### Link to Code Repository -> [<u>VIEW IN GITHUB</u>](https://github.com/socd06/DCMBoneVolRender)
 
