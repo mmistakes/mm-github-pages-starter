@@ -16,7 +16,8 @@ sass:
   style: :compressed
 links:
   email: socd06@gmail.com
-  github: socd06  
+  linkedin: eng-socd06
+  github: socd06
 exclude:
   - bower_components
   - README.md
