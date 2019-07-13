@@ -1,3 +1,4 @@
+
 ---
 layout: post
 color: deep-purple
@@ -8,13 +9,13 @@ title:  "Development of image-based surgical planning software for bone-conducti
 date:   2018-08-25 00:00:00
 categories: projects
 ---
-**Keywords**
+**Keywords:**
 Image Processing, BONEBRIDGE, Temporal Bone, Surgical Planning, Computed
 Tomography, Bone Conduction Devices
 
-**Abstract** 
+**Abstract:** 
 The BONEBRIDGE bone-conduction device is used to treat conductive and mixed hearing losses. The size of its floating mass transducer (FMT) can preclude implantation in certain anatomies, necessitating comprehensive surgical planning. Current techniques are time consuming and difficult to transfer to the operating room. The objective of this thesis was to develop software for calculating skull thickness to the dura mater to find locations for the FMT and to the first air cells which guarantee sufficient bone for the implant screws to grasp. Temporal bone computed tomography (CT) images were segmented and processed and custom Matlab code was written to generate and test thickness colormaps. For validation, measurements performed by a trained otologist were compared to the algorithm estimations achieving sub-millimeter accuracy. Results suggest this software can be used in the surgical workflow to automate thickness estimation and aid in finding an ideal location for the BONEBRIDGE device and screws.
 
-**Recommended Citation**
+**Recommended Citation:**
 >Salgado, Carlos D., "Development of image-based surgical planning software for bone-conduction implants" (2018). Electronic Thesis
 and Dissertation Repository. 5535. [https://ir.lib.uwo.ca/etd/5535](https://ir.lib.uwo.ca/etd/5535)

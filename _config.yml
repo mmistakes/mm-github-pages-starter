@@ -11,21 +11,20 @@ paginate: 10
 paginate_path: "page:num"
 # Build settings
 markdown: kramdown
-highlighter: rouge #pygments
+highlighter: rouge #pygments not supported anymore
 sass:
   sass_dir: _sass
   style: :compressed
 links:
   email: socd06@gmail.com
-  github: socd06
-  linkedin: socd06-eng
+  github: socd06  
 exclude:
   - bower_components
   - README.md
 full_name: Carlos Salgado
 
 ##set this to enable disqus commenting
-disqus: bitwiser
+##disqus: bitwiser
 
 ##set this to enable google analytics
 #ga_id: analyticsID
