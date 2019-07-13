@@ -4,9 +4,8 @@ title: socd06
 email: socd06@gmail.com
 description: "Projects Portfolio"
 keywords: "mechatronics, image processing, engineering"
-#url: "http://bitwiser.in/bitwiser-material" # the base hostname & protocol for your site
 url: "https://socd06.github.io/" # the base hostname & protocol for your site
-baseurl: "/_posts" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 paginate: 10
 paginate_path: "page:num"
 # Build settings
