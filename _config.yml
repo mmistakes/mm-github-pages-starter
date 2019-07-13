@@ -1,29 +1,28 @@
 # Site settings
 ## Change the values as needed.
-title: Bitwiser-Material
-email: brijeshb42@gmail.com
-description: "A jekyll theme implementing material design by using muicss."
-keywords: "jekyll, theme, material, muicss"
+title: socd06
+email: socd06@gmail.com
+description: "Projects Portfolio"
+keywords: "mechatronics, image processing, engineering"
 #url: "http://bitwiser.in/bitwiser-material" # the base hostname & protocol for your site
-url: "http://bitwiser.in/bitwiser-material" # the base hostname & protocol for your site
+url: "https://socd06.github.io/" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
-paginate: 5
+paginate: 10
 paginate_path: "page:num"
 # Build settings
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge #pygments
 sass:
   sass_dir: _sass
   style: :compressed
 links:
-  facebook: brijeshb42
-  twitter: brijeshb42
-  email: brijeshb42@gmail.com
-  github: brijeshb42/bitwiser-material/
+  email: socd06@gmail.com
+  github: socd06
+  linkedin: socd06-eng
 exclude:
   - bower_components
   - README.md
-full_name: Brijesh
+full_name: Carlos Salgado
 
 ##set this to enable disqus commenting
 disqus: bitwiser
