@@ -24,6 +24,10 @@ Technology used:
 C++, CMake, The Visualization Toolkit (VTK), OpenGL, Visual Studio 2019, Github, Git Bash     </h2>
 </div>
 
-<a href="https://github.com/socd06/DCMBoneVolRender" target="_blank" class="mui-btn"><i class="fa fa-github"></i> Github Repository </a>
 
-<p> <span style="background-color: #2b2301; color: #fff; display: inline-block; padding: 3px 10px; font-weight: bold; border-radius: 5px;"> <a href="https://github.com/socd06/DCMBoneVolRender" target="_blank" class="mui-btn"><i class="fa fa-github"></i> Github Repository </a> </span> </p>
+<a href="https://github.com/socd06/DCMBoneVolRender" target="_blank" class="mui-btn"><i class="fa fa-github"></i> GitHub Repository </a>
+
+
+<span style="background-color: #CAC8C0; color: #fff; display: inline-block; padding: 3px 10px; font-weight: bold; border-radius: 5px;"> 
+<a href="https://github.com/socd06/DCMBoneVolRender" target="_blank" class="mui-btn">
+<i class="fa fa-github"></i> GitHub Repository </a> </span> </p>
