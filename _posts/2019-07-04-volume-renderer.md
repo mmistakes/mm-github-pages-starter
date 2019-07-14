@@ -16,14 +16,10 @@ Written in C++, uses the Visualization Toolkit (VTK) to read a Computed Tomograp
 
 In this dataset, the program allowed to determine that the left temporal bone had a larger amount of air cells than the right temporal bone. 
 
-#### Technology used: C++, CMake, The Visualization Toolkit (VTK), OpenGL, Visual Studio 2019, Github, Git Bash
+### Technology used: C++, CMake, The Visualization Toolkit (VTK), OpenGL, Visual Studio 2019, Github, Git Bash
 
+<p>
 <span style="background-color: #CAC8C0; color: #fff; display: inline-block; padding: 3px 10px; font-weight: bold; border-radius: 5px;"> 
 <a href="https://github.com/socd06/DCMBoneVolRender" target="_blank" class="mui-btn">
 <i class="fa fa-github"></i> GitHub Repository </a> </span>
-
-
-
-<a href="https://github.com/socd06/DCMBoneVolRender" target="_blank" class="mui-btn">
-<button style="font-size:24px"> GitHub Repository <i class="fa fa-github"></i></button></a> 
-
+</p>
