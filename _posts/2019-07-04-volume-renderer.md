@@ -22,13 +22,9 @@ In this dataset, the program allowed to determine that the left temporal bone ha
     </h2>
 </div>
 
+### Technology used: 
 <div class="bg-grey">
     <h2>
-Technology used: C++, CMake, The Visualization Toolkit (VTK), OpenGL, Visual Studio 2019, Github, Git Bash    
+C++, CMake, The Visualization Toolkit (VTK), OpenGL, Visual Studio 2019, Github, Git Bash    
     </h2>
 </div>
-
-
-
-`© 2019 Carlos Salgado`
-
