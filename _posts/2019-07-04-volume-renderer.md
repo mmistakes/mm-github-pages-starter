@@ -18,6 +18,11 @@ In this dataset, the program allowed to determine that the left temporal bone ha
 
 ### Link to Code Repository -> [<u>VIEW IN GITHUB</u>](https://github.com/socd06/DCMBoneVolRender)
 
-**Technology used**
+<div class="bg-black-87"> 
+    <h2>
+Technology used
+    </h2>
+</div>
 
 `C++, CMake, The Visualization Toolkit (VTK), OpenGL, Visual Studio 2019, Github, Git Bash`
+
