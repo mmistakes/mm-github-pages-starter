@@ -1,4 +1,10 @@
 main:
+  - title: "Start here"
+    url: /start/
+  - title: "Blog"
+    url: /posts/
+  - title: "Reading list"
+    url: /reading/
   - title: "Posts"
     url: /posts/
   - title: "Categories"
