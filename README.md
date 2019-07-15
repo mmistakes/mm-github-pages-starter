@@ -1,6 +1,6 @@
 # Minimal Mistakes remote theme starter
 
-Hi
+[View main blog (here)](https://rainymood.github.io/minimal-mistakes/)
 
 Fork this repo for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
 
