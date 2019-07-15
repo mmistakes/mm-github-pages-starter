@@ -3,13 +3,9 @@ main:
     url: /start/
   - title: "Blog"
     url: /posts/
+  - title: "Projects"
+    url: /projects/
   - title: "Reading list"
     url: /reading/
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
   - title: "About"
     url: /about/
