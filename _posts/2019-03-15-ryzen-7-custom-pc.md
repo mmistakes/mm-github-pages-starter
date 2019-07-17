@@ -11,15 +11,14 @@ Built during the beginning of March 2019. Upgrading from Dell 7559 laptop lookin
 # Specs 
 * CPU: AMD - Ryzen 7 2700 3.2 GHz 8-Core 
 * GPU: Asus - Radeon RX VEGA 56 8 GB ROG STRIX Video Card
-* HDD: 500 GB SSD / 2 TB 7200
+* HDD: 500 GB nVME M.2 SSD / 2 TB 3.5" 7200RPM
 * RAM: 2x8 GB DDR3
 
 <span style="background-color: #CAC8C0; color: #fff; display: inline-block; padding: 3px 10px; font-weight: bold; border-radius: 5px;"> 
 <a href="https://ca.pcpartpicker.com/user/socd06/builds/#view=2PWD4D" target="_blank" class="mui-btn">
 <i class="fa fa-shopping-cart"></i> See Full Part List </a> </span>
 
-
-Overclocked @ 4.0 Ghz using Gigabyte AORUS Easy Tune
+Overclocked CPU to 4.0 Ghz using Gigabyte AORUS Easy Tune
 ![OC Parameters](https://i.imgur.com/mwD0TMG.png) 
 
 ### Boxes
@@ -32,7 +31,7 @@ Overclocked @ 4.0 Ghz using Gigabyte AORUS Easy Tune
 ![Outside Tower](https://cdn.pcpartpicker.com/static/forever/images/userbuild/249312.a9385bdfc15dbaa4a960a15f57baeaad.1600.jpg)
 
 ### Technology used: 
->Screwdriver and patience
+>Screwdriver and lots of patience
 
 <span style="background-color: #CAC8C0; color: #fff; display: inline-block; padding: 3px 10px; 
 font-weight: bold; border-radius: 5px;"> 
