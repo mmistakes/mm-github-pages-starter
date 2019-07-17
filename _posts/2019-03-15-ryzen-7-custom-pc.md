@@ -1,7 +1,7 @@
 ---
 layout: post
 color: deep-purple
-cover: "https://cdn.pcpartpicker.com/static/forever/images/userbuild/249312.6aa95e1c143ce72b732966484dfdc7b0.1600.jpg"
+cover: "https://cdn.pcpartpicker.com/static/forever/images/userbuild/249312.0b9403699a68cfd05993a52fea583da5.1600.jpg"
 title:  "Ryzen 7 Custom PC"
 date:   2019-03-15 18:15:06
 categories: projects
