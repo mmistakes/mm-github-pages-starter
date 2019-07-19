@@ -2,7 +2,7 @@
 layout: post
 color: deep-purple
 cover: "https://user-images.githubusercontent.com/51087091/60770080-36be4d00-a0a5-11e9-833b-d831dbd88b33.png"
-title:  "DICOM Bone Volume Render"
+title:  "DICOM Bone Volume Renderer"
 date:   2019-07-04 00:00:00
 categories: projects
 ---
