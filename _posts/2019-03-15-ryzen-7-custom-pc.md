@@ -19,6 +19,7 @@ Built during the beginning of March 2019. Upgrading from Dell 7559 laptop lookin
 <i class="fa fa-shopping-cart"></i> See Full Part List </a> </span>
 
 Overclocked CPU to 4.0 Ghz using Gigabyte AORUS Easy Tune to increase VCore to 1.28 V.
+
 ![OC Parameters](https://i.imgur.com/mwD0TMG.png) 
 
 ### Boxes
