@@ -1,0 +1,23 @@
+ # /_data/authors.yml
+
+huan:
+  name        : "Huan LI (李卓桓)"
+  bio         : "Conversational AI Coder with 💖"
+  avatar      : "https://avatars1.githubusercontent.com/u/1361891?s=460&v=4"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/huan"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://weibo.com/lizhuohuan"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://facebook.com/lizhuohuan"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:zixia@zixia.net"
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://www.zixia.net"
+
