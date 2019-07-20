@@ -22,6 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
+teaser: /assets/images/bio-photo.jpg
 search: true
 
 # Build settings
@@ -99,6 +100,8 @@ defaults:
       comments: true
       share: true
       related: true
+      toc: true
+      toc_sticky: true
   # _pages
   - scope:
       path: "_pages"
