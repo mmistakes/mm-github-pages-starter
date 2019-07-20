@@ -1,0 +1,23 @@
+{
+  "default": true,
+  "no-trailing-punctuation": {
+    "punctuation": ".,;:!"
+  },
+  "MD013": false,
+  "MD033": {
+    "allowed_elements": [
+      "cite",
+      "code",
+      "dl",
+      "dt",
+      "dd",
+      "script",
+      "var"
+    ]
+  },
+  "first-line-h1": false,
+  "no-hard-tabs": true,
+  "no-trailing-spaces": {
+    "br_spaces": 2
+  }
+}

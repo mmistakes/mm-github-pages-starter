@@ -1,0 +1,17 @@
+{
+  "rules": {
+    "docs/_posts": [
+      "^docs/_posts/",
+      "/[0-9\\-a-z]+\\.",
+      "\\.md$"
+    ],
+    "docs/assets": [
+      "^docs/assets/",
+      "/[0-9\\-a-z]+\\.",
+      "\\.(jpg|png|gif)$"
+    ]
+  },
+  "ignore": [
+    "tests/fixtures/"
+  ]
+}

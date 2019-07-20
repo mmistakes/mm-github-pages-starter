@@ -1,0 +1,51 @@
+{
+  "name": "mm-github-pages-starter",
+  "version": "0.0.24",
+  "description": "Minimal Mistakes GitHub Pages Site Starter for Chatie Org",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "fit-image": "./scripts/fit-image.sh",
+    "lint": "npm run lint:es && npm run lint:ts && npm run lint:md && npm run lint:fn",
+    "lint:es": "eslint 'src/**/*.ts' 'tests/**/*.spec.ts' --ignore-pattern tests/fixtures/",
+    "lint:ts": "tsc --noEmit",
+    "lint:md": "markdownlint README.md 'docs/**/*.md'",
+    "lint:fn": "file-name-linter .file-name-linter.json",
+    "test": "npm run lint && npm run test:unit",
+    "test:unit": "ts-node --files ./node_modules/.bin/blue-tape 'src/**/*.spec.ts' 'tests/**/*.spec.ts'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chatie/mm-github-pages-starter.git"
+  },
+  "keywords": [
+    "Minimal Mistakes",
+    "Jekyll"
+  ],
+  "author": "Huan LI <zixia@zixia.net>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/chatie/mm-github-pages-starter/issues"
+  },
+  "homepage": "https://github.com/chatie/mm-github-pages-starter#readme",
+  "devDependencies": {
+    "@chatie/eslint-config": "^0.6.13",
+    "@chatie/git-scripts": "^0.2.5",
+    "@chatie/tsconfig": "^0.6.1",
+    "@types/glob": "^7.1.1",
+    "@types/image-size": "^0.7.0",
+    "file-box": "^0.8.27",
+    "glob": "^7.1.4",
+    "image-size": "^0.7.4",
+    "is-pr": "^1.1.0",
+    "probe-image-size": "^4.0.0",
+    "tstest": "^0.4.2"
+  },
+  "git": {
+    "scripts": {
+      "pre-push": "npx git-scripts-pre-push"
+    }
+  }
+}
