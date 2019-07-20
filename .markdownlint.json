@@ -8,6 +8,7 @@
     "allowed_elements": [
       "cite",
       "code",
+      "del",
       "dl",
       "dt",
       "dd",

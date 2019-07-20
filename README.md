@@ -40,6 +40,15 @@ npm test
 
 ## Troubleshooting
 
+### For using `scripts/fit-image.sh`
+
+```sh
+sudo apt-get install imagemagic
+sudo apt-get install webp
+```
+
+### Jekyll
+
 If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
 
 - [Ruby 101](https://jekyllrb.com/docs/ruby-101/)

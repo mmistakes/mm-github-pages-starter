@@ -3,6 +3,7 @@ set -e
 
 function resize () {
   FILE=$1
+  echo "resizing $FILE ..."
   mogrify \
     -verbose \
     -quality 80 \
@@ -22,9 +23,10 @@ echo "fit-image: $DST is directory"
 pushd ${DST}
 
 # FILES=$(git ls-files --exclude-standard --others *.jpg)
-FILE_LIST=($(find . -type f -name '*.jpg' -o -name '*.png' -o -name '*.gif'))
+FILE_LIST=($(find . -type f -name '*.jpg' -o -name '*.jpeg' -o -name '*.png' -o -name '*.gif'))
 
 for FILE in "${FILE_LIST[@]}"; do
+  echo "checking $FILE ..."
   WIDTH=$(identify -ping -format '%w' "$FILE")
   if [ $WIDTH -gt 1920 ]; then
     resize $FILE

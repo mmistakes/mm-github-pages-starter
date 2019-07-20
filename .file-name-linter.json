@@ -8,7 +8,7 @@
     "docs/assets": [
       "^docs/assets/",
       "/[0-9\\-a-z]+\\.",
-      "\\.(jpg|png|gif)$"
+      "\\.(jpg|jpeg|png|gif)$"
     ]
   },
   "ignore": [

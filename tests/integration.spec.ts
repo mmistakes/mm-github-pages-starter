@@ -34,7 +34,7 @@ test('image size should not more than 1MB', async t => {
   const MAX_WIDTH = 1920         // HD
   const MAX_SIZE  = 1024 * 1024  // 1MB
 
-  const fileList = await glob('docs/assets/**/*.{jpg,png,gif}')
+  const fileList = await glob('docs/assets/**/*.{jpg,jpeg,png}')
   t.true(fileList.length > 0, 'should get image file list')
 
   for (const file of fileList) {
