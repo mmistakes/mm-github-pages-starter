@@ -1,6 +1,6 @@
 {
   "name": "mm-github-pages-starter",
-  "version": "0.0.24",
+  "version": "0.0.25",
   "description": "Minimal Mistakes GitHub Pages Site Starter for Chatie Org",
   "main": "index.js",
   "directories": {
