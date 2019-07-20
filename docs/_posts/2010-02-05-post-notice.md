@@ -5,6 +5,10 @@ categories:
 tags:
   - Post Formats
   - notice
+toc: true
+toc_sticky: true
+toc_label: "TOC Example"
+toc_icon: "tasks"  # corresponding Font Awesome icon name (without fa prefix)
 ---
 
 A notice displays information that explains nearby content. Often used to call attention to a particular detail.
