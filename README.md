@@ -38,6 +38,20 @@ npm install
 npm test
 ```
 
+## Viewers
+
+### Slide Viewer
+
+[Viewer.js](https://viewerjs.org/) is the best easy to use.
+
+Others:
+
+1. [reveal.js - The HTML Presentation Framework](https://revealjs.com) Used by slides.com
+1. [PDF.js JSFiddle Example](https://jsfiddle.net/pdfjs/wagvs9Lf) from [PDF.js Examples 3](https://mozilla.github.io/pdf.js/examples/)
+1. [Online PowerPoint to HTML5 Converter](https://www.digitalofficepro.com/powerpoint/powerpoint-to-html5-converter.html)
+1. [React MDX-based presentation decks](https://github.com/jxnblk/mdx-deck)
+1. [WikiPedia:Web-based slideshow](https://en.wikipedia.org/wiki/Web-based_slideshow)
+
 ## Troubleshooting
 
 ### `scripts/fit-image.sh` Realted

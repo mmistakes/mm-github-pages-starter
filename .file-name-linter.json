@@ -8,10 +8,11 @@
     "docs/assets": [
       "^docs/assets/",
       "/[0-9\\-a-z]+\\.",
-      "\\.(jpg|jpeg|png|gif)$"
+      "\\.(jpg|jpeg|png|gif|zip|pdf)$"
     ]
   },
   "ignore": [
-    "tests/fixtures/"
+    "docs/assets/js/viewer-js",
+    "tests/fixtures"
   ]
 }
