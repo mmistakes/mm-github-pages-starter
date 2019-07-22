@@ -18,6 +18,8 @@ feature_row:
 
 ---
 
+Research is an information heavy endeavor. Countless hours can be lost scouring papers and the internet for information on how to perform one step in an experiment or troubleshooting. For that reason, sharing information resources is invaluable. Each section below is one aspect of my thesis research. In each you will find a brief explanation and links to resources I found useful when I looking for information.  
+
 {% include feature_row %}
 
 
