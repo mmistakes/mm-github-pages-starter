@@ -52,6 +52,10 @@ Others:
 1. [React MDX-based presentation decks](https://github.com/jxnblk/mdx-deck)
 1. [WikiPedia:Web-based slideshow](https://en.wikipedia.org/wiki/Web-based_slideshow)
 
+## Resources
+
+1. [Jekyll cheatsheet](https://devhints.io/jekyll)
+
 ## Troubleshooting
 
 ### `scripts/fit-image.sh` Realted
