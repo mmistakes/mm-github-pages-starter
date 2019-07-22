@@ -1,0 +1,16 @@
+---
+title: "Genome Assembly"
+permalink: /assembly/
+layout: collection
+---
+<p> Genome Assembly is a computationally expensive and complex process. There are hundreds if not thousands of different software packages and algorithms which attempt to improve the speed and accuracy of assembling fragment sequence data. </p>
+
+<p> Most scientists will try a number of different programs and pick the best assembly produced. You will find my thoughts, attempts, and code below. </p>
+
+<ul>
+  {% for protocols in site.assembly %}
+    <li>
+      <h2><a href="{{ protocols.url }}">{{ protocols.title }}</a></h2>
+       </li>
+  {% endfor %}
+</ul>

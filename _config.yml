@@ -117,12 +117,16 @@ tag_archive:
 theme: minimal-mistakes-jekyll
 
 collections:
-  protocol:
+  annotation:
     output: true
-    permalink: /protocol/:path/
-  drylab:
+    permalink: /:collection/:path/
+  assembly:
     output: true
-    permalink: /drylab/:path/
+    permalink: /:collection/:path/
+  data-cleaning:
+    output: true
+    permalink: /:collection/:path/
+
 
 
   
