@@ -12,7 +12,7 @@ feature_row:
     title: "Gonad Removal"
     excerpt: "Protocol for removing gonads without killing the sea cucumber"
     url: "https://www.protocols.io/view/surgical-removal-of-sea-cucumber-gonads-5pag5ie"
-  - image_path: /assets/images/drunkcuke.jpg
+  - image_path: /assets/images/drunkcuke.jpg 
     title: "Sea Cucumber Anesthesia"
     excerpt: "Protocol for anesthetizing Sea Cucumbers"
     url: "https://www.protocols.io/view/anesthetizing-sea-cucumbers-5nyg5fw"
@@ -22,3 +22,5 @@ feature_row:
 Having detailed instructions for how to perform procedures in the lab is critical for successful experiments and reproducibility. I use the website [www.protocols.io](https://www.protocols.io/) for writing and storing the protocols I use. Below are the protocols I have used for my thesis research.
 
 {% include feature_row %}
+
+
