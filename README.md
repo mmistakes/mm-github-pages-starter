@@ -55,6 +55,7 @@ Others:
 ## Resources
 
 1. [Jekyll cheatsheet](https://devhints.io/jekyll)
+1. [Jekyll Liquid Cheatsheet](https://gist.github.com/JJediny/a466eed62cee30ad45e2)
 
 ## Troubleshooting
 
