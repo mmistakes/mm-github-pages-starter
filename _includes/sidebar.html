@@ -1,36 +1,29 @@
 <div class="mui-col-md-4">
   <div class="mui-panel">
-    <h2>Links</h2>
+	  
+    <h1>Links</h1>
     <ul class="about-links">
         <li><a href="/socd06.github.io/about/" class="mui-btn">About</a></li>
-        <li><a href="https://github.com/socd06/resume/raw/master/Carlos_Salgado_Resume_git.doc" target="_blank" class="mui-btn ">
+    </ul>  
+	  
+    <h2>Resume</h2>
+    <ul class="about-links">
+	<li><a href="https://github.com/socd06/resume/raw/master/Carlos_Salgado_Resume_git.doc" target="_blank" class="mui-btn ">
 		<i class="fa fa-file-word-o"></i>*.doc</a></li>
       	<li><a href="https://github.com/socd06/resume/raw/master/Carlos_Salgado_Resume_git.pdf" target="_blank" class="mui-btn ">
 		<i class="fa fa-file-pdf-o"></i>*.pdf</a></li>	    
-	  </ul>
-	  
-	  <div class="btn-group">
-  		<a class="btn btn-primary" href="#"><i class="fa fa-file-text fa-fw"></i>Resume</a>
-  		<a class="btn btn-primary dropdown-toggle" data-toggle="dropdown" href="#">
-    		<span class="fa fa-caret-down" title="Toggle dropdown menu"></span>
-  		</a>
-  		<ul class="dropdown-menu">
-    		<li><a href="https://github.com/socd06/resume/raw/master/Carlos_Salgado_Resume_git.doc"><i class="fa fa-file-word-o fa-fw"></i>*.DOC</a></li>
-    		<li class="divider"></li>
-    		<li><a href="https://github.com/socd06/resume/raw/master/Carlos_Salgado_Resume_git.pdf"><i class="fa fa-file-pdf-o fa-fw"></i>*.PDF</a></li>
-  		</ul>
-	</div>
-	  
+    </ul>  
 	  
     <h2>Contact</h2>
     <ul class="about-links">
         {% if site.links.github %}
-            <li><a href="https://github.com/{{ site.links.github }}" target="_blank" class="mui-btn"><i class="fa fa-github"></i>Github</a></li>
+        <li><a href="https://github.com/{{ site.links.github }}" target="_blank" class="mui-btn"><i class="fa fa-github"></i>Github</a></li>
         {% endif %}
-            <li><a href="https://www.linkedin.com/in/eng-socd/" target="_blank" class="mui-btn "><i class="fa fa-linkedin-square"></i>LinkedIn</a></li>
+        <li><a href="https://www.linkedin.com/in/eng-socd/" target="_blank" class="mui-btn "><i class="fa fa-linkedin-square"></i>LinkedIn</a></li>
         {% if site.links.email %}
-            <li><a href="mailto:{{ site.links.email }}" class="mui-btn"><i class="fa fa-envelope"></i>Mail</a></li>
+        <li><a href="mailto:{{ site.links.email }}" class="mui-btn"><i class="fa fa-envelope"></i>Mail</a></li>
         {% endif %}
     </ul>
+	  
   </div>
 </div>
