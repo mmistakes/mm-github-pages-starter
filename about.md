@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-color: indigo
+color: black-87
 permalink: /about/
 ---
 
