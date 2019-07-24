@@ -16,6 +16,10 @@ feature_row:
     title: "Sea Cucumber Anesthesia"
     excerpt: "Protocol for anesthetizing Sea Cucumbers"
     url: "https://www.protocols.io/view/anesthetizing-sea-cucumbers-5nyg5fw"
+  - image_path: /assets/images/sperm-extract.jpg
+    title: "Sperm Extraction"
+    excerpt: "Protocol for extracting sperm from sea cucumber gonads"
+    url: "https://www.protocols.io/view/sea-cucumber-sperm-extraction-from-gonads-5pbg5in"
 
 ---
 
