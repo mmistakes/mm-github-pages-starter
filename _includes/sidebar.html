@@ -4,6 +4,9 @@
     <h1>Links</h1>
     <ul class="about-links">
         <li><a href="/socd06.github.io/about/" class="mui-btn "><i class="fa fa-user"></i>About</a></li>
+		{% if site.links.github %}
+        <li><a href="https://github.com/{{ site.links.github }}" target="_blank" class="mui-btn"><i class="fa fa-github"></i>Github</a></li>
+        {% endif %}
     </ul>  
 	  
     <h2>Resume</h2>
@@ -16,14 +19,11 @@
 	  
     <h2>Contact</h2>
     <ul class="about-links">
-        {% if site.links.github %}
-        <li><a href="https://github.com/{{ site.links.github }}" target="_blank" class="mui-btn"><i class="fa fa-github"></i>Github</a></li>
-        {% endif %}
         <li><a href="https://www.linkedin.com/in/eng-socd/" target="_blank" class="mui-btn "><i class="fa fa-linkedin-square"></i>LinkedIn</a></li>
         {% if site.links.email %}
         <li><a href="mailto:{{ site.links.email }}" class="mui-btn"><i class="fa fa-envelope"></i>Personal</a></li>
         {% endif %}
-		<li><a href="csalgado@uwo.ca" target="_blank" class="mui-btn "><i class="fa fa-suitcase"></i>Professional</a></li>	    
+		<li><a href="mailto:csalgado@uwo.ca" target="_blank" class="mui-btn "><i class="fa fa-suitcase"></i>Professional</a></li>	    
     </ul>
 	  
   </div>
