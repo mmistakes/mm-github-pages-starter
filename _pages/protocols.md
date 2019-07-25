@@ -20,7 +20,10 @@ feature_row:
     title: "Sperm Extraction"
     excerpt: "Protocol for extracting sperm from sea cucumber gonads"
     url: "https://www.protocols.io/view/sea-cucumber-sperm-extraction-from-gonads-5pbg5in"
-
+  - image_path: /assets/images/phenol.jpg
+    title: Phenol preparation
+    url: "https://stockingerlab.osu.edu/sites/stockinger/files/imce/PDFs/Protocols/PhenolPrep.pdf"
+    excerpt: Protocol for preparing TE saturated phenol for DNA extraction
 ---
 
 Having detailed instructions for how to perform procedures in the lab is critical for successful experiments and reproducibility. I use the website [www.protocols.io](https://www.protocols.io/) for writing and storing the protocols I use. Below are the protocols I have used for my thesis research.
