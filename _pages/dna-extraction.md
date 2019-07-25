@@ -24,7 +24,12 @@ feature_row:
 <http://www.methodbook.net/dna/gelextrc.html>
 
 ### Phenol/Chloroform DNA extraction 
+
+#### Protocol for performing the extraction
 <https://openwetware.org/wiki/Phenol/chloroform_extraction>
+
+#### Good explanation on how to prepare the chemicals and how they work
+<http://geneticeducation.co.in/phenol-chloroform-dna-extraction-basics-preparation-of-chemicals-and-protocol/>
 
 ### Ethanol precipitation of DNA
 <https://openwetware.org/wiki/Ethanol_precipitation_of_nucleic_acids>
