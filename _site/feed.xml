@@ -3,33 +3,84 @@
   <channel>
     <title>socd06</title>
     <description>Projects Portfolio</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 13 Jul 2019 20:58:54 -0400</pubDate>
-    <lastBuildDate>Sat, 13 Jul 2019 20:58:54 -0400</lastBuildDate>
+    <link>https://socd06.github.io//</link>
+    <atom:link href="https://socd06.github.io//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 24 Jul 2019 21:41:26 -0400</pubDate>
+    <lastBuildDate>Wed, 24 Jul 2019 21:41:26 -0400</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
-        <title>DICOM Bone Volume Render</title>
+        <title>DICOM Bone Volume Renderer</title>
         <description>&lt;p&gt;Written in C++, uses the Visualization Toolkit (VTK) to read a Computed Tomography DICOM (*.dcm) image file and render its bone data. Only intensities above 350 Hounfield Units (HU) are rendered to allow the viewing of air cells in the temporal bones.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Right Ear Test&lt;/strong&gt;
-&lt;img src=&quot;https://user-images.githubusercontent.com/51087091/60770080-36be4d00-a0a5-11e9-833b-d831dbd88b33.png&quot; alt=&quot;R90(05)100(1)&quot; /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;right-ear-test&quot;&gt;Right Ear Test&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/51087091/60770080-36be4d00-a0a5-11e9-833b-d831dbd88b33.png&quot; alt=&quot;R90(05)100(1)&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Left Ear Test&lt;/strong&gt;
-&lt;img src=&quot;https://user-images.githubusercontent.com/51087091/60770156-fca17b00-a0a5-11e9-89e0-3d612381d283.png&quot; alt=&quot;L90(05)100(1)&quot; /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;left-ear-test&quot;&gt;Left Ear Test&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/51087091/60770156-fca17b00-a0a5-11e9-89e0-3d612381d283.png&quot; alt=&quot;L90(05)100(1)&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;In this dataset, the program allowed to determine that the left temporal bone had a larger amount of air cells than the right temporal bone.&lt;/p&gt;
 
-&lt;h3 id=&quot;link-to-code-repository---view-in-github&quot;&gt;Link to Code Repository -&amp;gt; &lt;a href=&quot;https://github.com/socd06/DCMBoneVolRender&quot;&gt;&lt;u&gt;VIEW IN GITHUB&lt;/u&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;technology-used&quot;&gt;Technology used:&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;C++, CMake, The Visualization Toolkit (VTK), OpenGL, Visual Studio 2019, Github, Git Bash&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;&lt;strong&gt;Technology used&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;background-color: #CAC8C0; color: #fff; display: inline-block; padding: 3px 10px; font-weight: bold; border-radius: 5px;&quot;&gt; 
+&lt;a href=&quot;https://github.com/socd06/DCMBoneVolRender&quot; target=&quot;_blank&quot; class=&quot;mui-btn&quot;&gt;
+&lt;i class=&quot;fa fa-github&quot;&gt;&lt;/i&gt; GitHub Repository &lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;C++, CMake, The Visualization Toolkit (VTK), OpenGL, Visual Studio 2019, Github, Git Bash&lt;/code&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 03 Jul 2019 20:00:00 -0400</pubDate>
-        <link>http://localhost:4000/projects/2019/07/03/volume-renderer.html</link>
-        <guid isPermaLink="true">http://localhost:4000/projects/2019/07/03/volume-renderer.html</guid>
+        <link>https://socd06.github.io//projects/2019/07/03/volume-renderer.html</link>
+        <guid isPermaLink="true">https://socd06.github.io//projects/2019/07/03/volume-renderer.html</guid>
+        
+        
+        <category>projects</category>
+        
+      </item>
+    
+      <item>
+        <title>Ryzen 7 Custom PC</title>
+        <description>&lt;p&gt;Built during the beginning of March 2019. Upgrading from Dell 7559 laptop looking into faster tinkering with image processing, CAD and gaming.&lt;/p&gt;
+
+&lt;h1 id=&quot;specs&quot;&gt;Specs&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;CPU: AMD - Ryzen 7 2700 3.2 GHz 8-Core&lt;/li&gt;
+  &lt;li&gt;GPU: Asus - Radeon RX VEGA 56 8 GB ROG STRIX Video Card&lt;/li&gt;
+  &lt;li&gt;HDD: 500 GB nVME M.2 SSD / 2 TB 3.5” 7200RPM&lt;/li&gt;
+  &lt;li&gt;RAM: 2x8 GB DDR3&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style=&quot;background-color: #CAC8C0; color: #fff; display: inline-block; padding: 3px 10px; font-weight: bold; border-radius: 5px;&quot;&gt; 
+&lt;a href=&quot;https://ca.pcpartpicker.com/user/socd06/builds/#view=2PWD4D&quot; target=&quot;_blank&quot; class=&quot;mui-btn&quot;&gt;
+&lt;i class=&quot;fa fa-shopping-cart&quot;&gt;&lt;/i&gt; See Full Part List &lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Overclocked CPU to 4.0 Ghz using Gigabyte AORUS Easy Tune to increase VCore to 1.28 V.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/mwD0TMG.png&quot; alt=&quot;OC Parameters&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;boxes&quot;&gt;Boxes&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn.pcpartpicker.com/static/forever/images/userbuild/249312.897731f33c473039672e74a49603593e.1600.jpg&quot; alt=&quot;Boxes&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;built-eatx-tower-inside&quot;&gt;Built eATX Tower (Inside)&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn.pcpartpicker.com/static/forever/images/userbuild/249312.48d5b966074be4973191e1e4d245d52d.1600.jpg&quot; alt=&quot;Inside tower&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;built-eatx-tower-up-and-running-outside&quot;&gt;Built eATX Tower Up and Running (Outside)&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn.pcpartpicker.com/static/forever/images/userbuild/249312.a9385bdfc15dbaa4a960a15f57baeaad.1600.jpg&quot; alt=&quot;Outside Tower&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;technology-used&quot;&gt;Technology used:&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Screwdriver and lots of patience&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;span style=&quot;background-color: #CAC8C0; color: #fff; display: inline-block; padding: 3px 10px;  font-weight: bold; border-radius: 5px;&quot;&gt; 
+&lt;a href=&quot;https://www.userbenchmark.com/UserRun/15665205&quot; target=&quot;_blank&quot; class=&quot;mui-btn&quot;&gt;
+&lt;i class=&quot;fa fa-tachometer&quot;&gt;&lt;/i&gt; See Benchmarks &lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 15 Mar 2019 14:15:06 -0400</pubDate>
+        <link>https://socd06.github.io//projects/2019/03/15/ryzen-7-custom-pc.html</link>
+        <guid isPermaLink="true">https://socd06.github.io//projects/2019/03/15/ryzen-7-custom-pc.html</guid>
         
         
         <category>projects</category>
@@ -48,239 +99,33 @@
 &lt;p&gt;Image Processing, BONEBRIDGE, Temporal Bone, Surgical Planning, Computed
 Tomography, Bone Conduction Devices&lt;/p&gt;
 
-&lt;h4 id=&quot;recommended-citation&quot;&gt;Recommended Citation&lt;/h4&gt;
+&lt;h3 id=&quot;recommended-citation&quot;&gt;Recommended Citation&lt;/h3&gt;
 &lt;blockquote&gt;
   &lt;p&gt;Salgado, Carlos D., “Development of image-based surgical planning software for bone-conduction implants” (2018). Electronic Thesis
 and Dissertation Repository. 5535. &lt;a href=&quot;https://ir.lib.uwo.ca/etd/5535&quot;&gt;https://ir.lib.uwo.ca/etd/5535&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h5 id=&quot;bone-thickness-maps&quot;&gt;Bone Thickness Maps&lt;/h5&gt;
-
-&lt;p&gt;&lt;strong&gt;Bone to air cells and bone to dura thickness maps of two different bone samples&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&quot;bone-thickness-maps&quot;&gt;Bone Thickness Maps&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/Figure5.png&quot; alt=&quot;Bone Thickness Maps&quot; title=&quot;Bone to aircells (left) and bone to dura mater (right)&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Bone to air cells (left) and bone to dura mater, the layer covering the brain (right). Measurements in millimeters (mm).&lt;/p&gt;
 
-&lt;h3 id=&quot;link-to-thesis---view&quot;&gt;Link to Thesis -&amp;gt; &lt;a href=&quot;https://ir.lib.uwo.ca/cgi/viewcontent.cgi?article=7690&amp;amp;context=etd&quot;&gt;&lt;u&gt;VIEW&lt;/u&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;technology-used&quot;&gt;Technology used:&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;MATLAB, 3D Slicer, 3D Systems Geomagic, IBM SPSS, GraphPad Prism&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;&lt;strong&gt;Technology used&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;MATLAB, 3D Slicer, 3D Systems Geomagic, IBM SPSS, GraphPad Prism&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;background-color: #CAC8C0; color: #fff; display: inline-block; padding: 3px 10px; font-weight: bold; border-radius: 5px;&quot;&gt; 
+&lt;a href=&quot;https://ir.lib.uwo.ca/cgi/viewcontent.cgi?article=7690&amp;amp;context=etd&quot; target=&quot;_blank&quot; class=&quot;mui-btn&quot;&gt;
+&lt;i class=&quot;fa fa-file-pdf-o&quot;&gt;&lt;/i&gt; Electronic Thesis and Dissertation Repository &lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 24 Aug 2018 20:00:00 -0400</pubDate>
-        <link>http://localhost:4000/projects/2018/08/24/thesis.html</link>
-        <guid isPermaLink="true">http://localhost:4000/projects/2018/08/24/thesis.html</guid>
+        <link>https://socd06.github.io//projects/2018/08/24/thesis.html</link>
+        <guid isPermaLink="true">https://socd06.github.io//projects/2018/08/24/thesis.html</guid>
         
         
         <category>projects</category>
-        
-      </item>
-    
-      <item>
-        <title>Demo Post</title>
-        <description>&lt;p&gt;&lt;small&gt;This demo page has been used from &lt;a href=&quot;http://jasonm23.github.io/markdown-css-themes/&quot; target=&quot;_blank&quot;&gt;http://jasonm23.github.io/markdown-css-themes/&lt;/a&gt;.&lt;/small&gt;&lt;/p&gt;
-
-&lt;h1&gt;A First Level Header&lt;/h1&gt;
-
-&lt;h2&gt;A Second Level Header&lt;/h2&gt;
-
-&lt;h3&gt;A Third Level Header&lt;/h3&gt;
-
-&lt;h4&gt;A Fourth Level Header&lt;/h4&gt;
-
-&lt;h5&gt;A Fifth Level Header&lt;/h5&gt;
-
-&lt;h6&gt;A Sixed Level Header&lt;/h6&gt;
-
-&lt;p&gt;Now is the time for all good men to come to
-the aid of their country. This is just a
-regular paragraph.&lt;/p&gt;
-
-&lt;p&gt;The quick brown fox jumped over the lazy
-dog&amp;rsquo;s back.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h3&gt;Header 3&lt;/h3&gt;
-
-&lt;blockquote&gt;&lt;p&gt;This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
-consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
-Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.&lt;/p&gt;
-
-&lt;p&gt;Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
-id sem consectetuer libero luctus adipiscing.&lt;/p&gt;
-
-&lt;h2&gt;This is an H2 in a blockquote&lt;/h2&gt;
-
-&lt;p&gt;This is the first level of quoting.&lt;/p&gt;
-
-&lt;blockquote&gt;&lt;p&gt;This is nested blockquote.&lt;/p&gt;&lt;/blockquote&gt;
-
-&lt;p&gt;Back to the first level.&lt;/p&gt;&lt;/blockquote&gt;
-
-&lt;p&gt;Some of these words &lt;em&gt;are emphasized&lt;/em&gt;.
-Some of these words &lt;em&gt;are emphasized also&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Use two asterisks for &lt;strong&gt;strong emphasis&lt;/strong&gt;.
-Or, if you prefer, &lt;strong&gt;use two underscores instead&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Candy.&lt;/li&gt;
-&lt;li&gt;Gum.&lt;/li&gt;
-&lt;li&gt;Booze.&lt;/li&gt;
-&lt;li&gt;Red&lt;/li&gt;
-&lt;li&gt;Green&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Blue&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;A list item.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;With multiple paragraphs.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Another item in the list.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;This is a list item with two paragraphs. Lorem ipsum dolor
-sit amet, consectetuer adipiscing elit. Aliquam hendrerit
-mi posuere lectus.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Vestibulum enim wisi, viverra nec, fringilla in, laoreet
-vitae, risus. Donec sit amet nisl. Aliquam semper ipsum
-sit amet velit.*   Suspendisse id sem consectetuer libero luctus adipiscing.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;This is a list item with two paragraphs.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;This is the second paragraph in the list item. You&amp;rsquo;re
-only required to indent the first line. Lorem ipsum dolor
-sit amet, consectetuer adipiscing elit.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Another item in the same list.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;A list item with a bit of &lt;code&gt;code&lt;/code&gt; inline.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;A list item with a blockquote:&lt;/p&gt;
-
-&lt;blockquote&gt;&lt;p&gt;This is a blockquote
-inside a list item.&lt;/p&gt;&lt;/blockquote&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Here is an example of a pre code block&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;tell application &quot;Foo&quot;
-    beep
-end tell
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;This is an &lt;a href=&quot;#&quot;&gt;example link&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;I start my morning with a cup of coffee and
-&lt;a href=&quot;http://www.nytimes.com/&quot;&gt;The New York Times&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;code-snippet&quot;&gt;Code snippet&lt;/h3&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;__name__&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'__main__'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;img_thread&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;threading&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Thread&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;target&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;downloadWallpaper&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;img_thread&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;start&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;st&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\r&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;Downloading Image'&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;current&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;while&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;img_thread&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;is_alive&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;():&lt;/span&gt;
-        &lt;span class=&quot;n&quot;&gt;sys&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;stdout&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;write&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;st&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'.'&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;((&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;current&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;
-        &lt;span class=&quot;n&quot;&gt;current&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;current&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;
-        &lt;span class=&quot;n&quot;&gt;time&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;sleep&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mf&quot;&gt;0.3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;img_thread&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;join&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\n&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;Image of the day downloaded.'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-</description>
-        <pubDate>Sat, 11 Jul 2015 21:55:00 -0400</pubDate>
-        <link>http://localhost:4000/2015/07/11/demo-post.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/07/11/demo-post.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Color Choices</title>
-        <description>&lt;h3 id=&quot;any-of-the-following-color-values-can-be-used-as-the-value-of-color-in-the-front-matter-of-the-blog-post&quot;&gt;Any of the following color values can be used as the value of &lt;code class=&quot;highlighter-rouge&quot;&gt;color&lt;/code&gt; in the front matter of the blog post.&lt;/h3&gt;
-&lt;div class=&quot;bg-grey&quot;&gt;
-    &lt;h2&gt;&lt;a href=&quot;#&quot;&gt;grey&lt;/a&gt;&lt;/h2&gt;
-&lt;/div&gt;
-&lt;div class=&quot;bg-orange&quot;&gt;
-    &lt;h2&gt;&lt;a href=&quot;#&quot;&gt;orange&lt;/a&gt;&lt;/h2&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;bg-yellow&quot;&gt;
-    &lt;h2&gt;&lt;a href=&quot;#&quot;&gt;yellow&lt;/a&gt;&lt;/h2&gt;
-&lt;/div&gt;
-&lt;div class=&quot;bg-amber&quot;&gt;
-    &lt;h2&gt;&lt;a href=&quot;#&quot;&gt;amber&lt;/a&gt;&lt;/h2&gt;
-&lt;/div&gt;
-&lt;div class=&quot;bg-light-blue&quot;&gt;
-    &lt;h2&gt;&lt;a href=&quot;#&quot;&gt;light-blue&lt;/a&gt;&lt;/h2&gt;
-&lt;/div&gt;
-&lt;div class=&quot;bg-lime&quot;&gt;
-    &lt;h2&gt;&lt;a href=&quot;#&quot;&gt;lime&lt;/a&gt;&lt;/h2&gt;
-&lt;/div&gt;
-&lt;div class=&quot;bg-teal&quot;&gt;
-    &lt;h2&gt;&lt;a href=&quot;#&quot;&gt;teal&lt;/a&gt;&lt;/h2&gt;
-&lt;/div&gt;
-&lt;div class=&quot;bg-black-87&quot;&gt;
-    &lt;h2&gt;&lt;a href=&quot;#&quot;&gt;black-87&lt;/a&gt;&lt;/h2&gt;
-&lt;/div&gt;
-&lt;div class=&quot;bg-blue-grey&quot;&gt;
-    &lt;h2&gt;&lt;a href=&quot;#&quot;&gt;blue-grey&lt;/a&gt;&lt;/h2&gt;
-&lt;/div&gt;
-&lt;div class=&quot;bg-brown&quot;&gt;
-    &lt;h2&gt;&lt;a href=&quot;#&quot;&gt;brown&lt;/a&gt;&lt;/h2&gt;
-&lt;/div&gt;
-&lt;div class=&quot;bg-indigo&quot;&gt;
-    &lt;h2&gt;&lt;a href=&quot;#&quot;&gt;indigo&lt;/a&gt;&lt;/h2&gt;
-&lt;/div&gt;
-&lt;div class=&quot;bg-purple&quot;&gt;
-    &lt;h2&gt;&lt;a href=&quot;#&quot;&gt;purple&lt;/a&gt;&lt;/h2&gt;
-&lt;/div&gt;
-&lt;div class=&quot;bg-deep-purple&quot;&gt;
-    &lt;h2&gt;&lt;a href=&quot;#&quot;&gt;deep-purple&lt;/a&gt;&lt;/h2&gt;
-&lt;/div&gt;
-&lt;div class=&quot;bg-red&quot;&gt;
-    &lt;h2&gt;&lt;a href=&quot;#&quot;&gt;red&lt;/a&gt;&lt;/h2&gt;
-&lt;/div&gt;
-&lt;div class=&quot;bg-pink&quot;&gt;
-    &lt;h2&gt;&lt;a href=&quot;#&quot;&gt;pink&lt;/a&gt;&lt;/h2&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Sat, 11 Jul 2015 21:54:00 -0400</pubDate>
-        <link>http://localhost:4000/2015/07/11/color-choices.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/07/11/color-choices.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 11 Jul 2015 09:50:39 -0400</pubDate>
-        <link>http://localhost:4000/jekyll/update/2015/07/11/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2015/07/11/welcome-to-jekyll.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
         
       </item>
     

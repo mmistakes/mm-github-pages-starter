@@ -6,24 +6,24 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>DICOM Bone Volume Render - socd06</title>
+  <title>DICOM Bone Volume Renderer - socd06</title>
   <meta name="description" content="Written in C++, uses the Visualization Toolkit (VTK) to read a Computed Tomography DICOM (*.dcm) image file and render its bone data. Only intensities above ...">
   
   <link href="//fonts.googleapis.com/css?family=Roboto:300,400,400italic,500,700" rel="stylesheet" type="text/css" />
   <link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
 
-  <link rel="stylesheet" href="http://localhost:4000/css/main.css">
-  <link rel="canonical" href="http://localhost:4000/projects/2019/07/03/volume-renderer.html">
-  <link rel="alternate" type="application/rss+xml" title="socd06" href="http://localhost:4000/feed.xml" />
-  <script src="http://localhost:4000/js/mui.min.js"></script>
+  <link rel="stylesheet" href="https://socd06.github.io//css/main.css">
+  <link rel="canonical" href="https://socd06.github.io//projects/2019/07/03/volume-renderer.html">
+  <link rel="alternate" type="application/rss+xml" title="socd06" href="https://socd06.github.io//feed.xml" />
+  <script src="https://socd06.github.io//js/mui.min.js"></script>
   <style>
       body {
         font-family: "Roboto", "Helvetica Neue", Helvetica, Arial;
       }
   </style>
 
-  <meta property="og:title" content="DICOM Bone Volume Render - socd06" />
-  <meta name="twitter:title" content="DICOM Bone Volume Render - socd06" />
+  <meta property="og:title" content="DICOM Bone Volume Renderer - socd06" />
+  <meta name="twitter:title" content="DICOM Bone Volume Renderer - socd06" />
   
   <meta name="keywords" content="mechatronics, image processing, engineering" />
   
@@ -45,12 +45,12 @@
 
   <article class="post-full">
     <header class="bg-holder post-page bg-deep-purple" style="background:url(https://user-images.githubusercontent.com/51087091/60770080-36be4d00-a0a5-11e9-833b-d831dbd88b33.png) no-repeat center center; background-size: cover">
-      <a href="http://localhost:4000/" class="overlay"><i class="fa fa-home fa-2x"></i></a>
+      <a href="https://socd06.github.io//" class="overlay"><i class="fa fa-home fa-2x"></i></a>
       <div class="img-overlay"></div>
     </header>
     <div class="mui-container mui-panel post-content">
-      <h1 class="article-title"><a href="/projects/2019/07/03/volume-renderer.html">DICOM Bone Volume Render</a></h1>
-      <p class="post-meta">by <a href="http://localhost:4000">Carlos Salgado</a> on <time datetime="2019-07-03T20:00"><i class="fa fa-calendar"></i>July 3, 2019</time>
+      <h1 class="article-title"><a href="/projects/2019/07/03/volume-renderer.html">DICOM Bone Volume Renderer</a></h1>
+      <p class="post-meta">by <a href="https://socd06.github.io/">Carlos Salgado</a> on <time datetime="2019-07-03T20:00"><i class="fa fa-calendar"></i>July 3, 2019</time>
       <span class="sharer">
         Share on: 
         <a class="sh-fb" href="#" target="_blank" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+window.location.href,'_blank','height=300,width=600');return false;"><i class="fa fa-facebook fa-lg"></i></a>
@@ -63,19 +63,23 @@
       <div class="post-html">
           <p>Written in C++, uses the Visualization Toolkit (VTK) to read a Computed Tomography DICOM (*.dcm) image file and render its bone data. Only intensities above 350 Hounfield Units (HU) are rendered to allow the viewing of air cells in the temporal bones.</p>
 
-<p><strong>Right Ear Test</strong>
-<img src="https://user-images.githubusercontent.com/51087091/60770080-36be4d00-a0a5-11e9-833b-d831dbd88b33.png" alt="R90(05)100(1)" /></p>
+<h3 id="right-ear-test">Right Ear Test</h3>
+<p><img src="https://user-images.githubusercontent.com/51087091/60770080-36be4d00-a0a5-11e9-833b-d831dbd88b33.png" alt="R90(05)100(1)" /></p>
 
-<p><strong>Left Ear Test</strong>
-<img src="https://user-images.githubusercontent.com/51087091/60770156-fca17b00-a0a5-11e9-89e0-3d612381d283.png" alt="L90(05)100(1)" /></p>
+<h3 id="left-ear-test">Left Ear Test</h3>
+<p><img src="https://user-images.githubusercontent.com/51087091/60770156-fca17b00-a0a5-11e9-89e0-3d612381d283.png" alt="L90(05)100(1)" /></p>
 
 <p>In this dataset, the program allowed to determine that the left temporal bone had a larger amount of air cells than the right temporal bone.</p>
 
-<h3 id="link-to-code-repository---view-in-github">Link to Code Repository -&gt; <a href="https://github.com/socd06/DCMBoneVolRender"><u>VIEW IN GITHUB</u></a></h3>
+<h3 id="technology-used">Technology used:</h3>
+<blockquote>
+  <p>C++, CMake, The Visualization Toolkit (VTK), OpenGL, Visual Studio 2019, Github, Git Bash</p>
+</blockquote>
 
-<p><strong>Technology used</strong></p>
+<p><span style="background-color: #CAC8C0; color: #fff; display: inline-block; padding: 3px 10px; font-weight: bold; border-radius: 5px;"> 
+<a href="https://github.com/socd06/DCMBoneVolRender" target="_blank" class="mui-btn">
+<i class="fa fa-github"></i> GitHub Repository </a> </span></p>
 
-<p><code class="highlighter-rouge">C++, CMake, The Visualization Toolkit (VTK), OpenGL, Visual Studio 2019, Github, Git Bash</code></p>
 
       </div>
     
