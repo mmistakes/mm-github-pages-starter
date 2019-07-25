@@ -2,6 +2,7 @@
 layout: page
 title: About
 color: blue-grey
+cover: "/img/sharer.png"
 permalink: /about/
 ---
 
@@ -11,5 +12,6 @@ I have broad interests ranging from robotics, mechatronics, medical devices, emb
 
 Feel free to use the menu to contact me about work opportunities, volunteering or tech events as well as other subjects such as feedback about the site.
 
-![Logo](/img/sharer.png "Logo")
+
+
 
