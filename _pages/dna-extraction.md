@@ -29,7 +29,7 @@ feature_row:
 <https://openwetware.org/wiki/Phenol/chloroform_extraction>
 
 #### Good explanation on how to prepare the chemicals and how they work
-<http://geneticeducation.co.in/phenol-chloroform-dna-extraction-basics-preparation-of-chemicals-and-protocol/>
+<https://bitesizebio.com/3651/practical-application-of-phenolchloroform-extraction/>
 
 ### Ethanol precipitation of DNA
 <https://openwetware.org/wiki/Ethanol_precipitation_of_nucleic_acids>
