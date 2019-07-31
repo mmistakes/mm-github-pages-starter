@@ -35,6 +35,10 @@ and
 <http://geneticeducation.co.in/phenol-chloroform-dna-extraction-basics-preparation-of-chemicals-and-protocol/>
 
 ### Ethanol precipitation of DNA
+Really good background information on ethanol precipitation of dna
+<https://bitesizebio.com/253/the-basics-how-ethanol-precipitation-of-dna-and-rna-works/>
+
+and
 <https://openwetware.org/wiki/Ethanol_precipitation_of_nucleic_acids>
 
 ### Methods for DNA extraction and purification for Nanopore sequencing
