@@ -1,0 +1,556 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN">
+<html>
+<head>
+
+<META NAME="Version" CONTENT="2016.02.19"> 
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<link rel="stylesheet" type="text/css" href="src/css/base_new.css">
+<link rel="StyleSheet" href="src/js/tree/tree.css" type="text/css">
+<link rel="stylesheet" type="text/css" href="src/js/fancybox/jquery.fancybox-1.3.4.css" media="screen" />
+<link rel="stylesheet" href="src/css/style.css" />
+<script src="src/js/jquery-1.4.2.min.js"></script>
+<script src="src/js/scrollTop.js"></script>
+<script src="src/js/common.js"></script>
+<script src="src/js/jquery.albumSlider.min.js"></script>
+<script src="src/js/tree/tree.js"></script>
+<script src="src/js/fancybox/jquery.mousewheel-3.0.4.pack.js"></script>
+<script src="src/js/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+
+
+<style>
+.longtext{
+	line-height:16px !important;
+	padding-top:6px;
+	padding-bottom:7px;
+}
+.sublongtext{
+	line-height:16px !important;
+	padding-top:6px;
+	padding-bottom:7px;
+}
+#menu_list li{
+	height:45px; line-height:45px;
+}
+</style>
+
+<script>
+	$(document).ready(function() {
+		/*
+		*   Examples - images
+		*/
+
+		$("a#example1").fancybox();
+
+		$("a#example2").fancybox({
+			'overlayShow'	: false,
+			'transitionIn'	: 'elastic',
+			'transitionOut'	: 'elastic'
+		});
+		$("a#example3").fancybox({
+			'transitionIn'	: 'none',
+			'transitionOut'	: 'none'	
+		});
+
+		$("a#example4").fancybox({
+			'opacity'		: true,
+			'overlayShow'	: false,
+			'transitionIn'	: 'elastic',
+			'transitionOut'	: 'none'
+		});
+
+		$("a#example5").fancybox();
+
+		$("a#example6").fancybox({
+			'titlePosition'		: 'outside',
+			'overlayColor'		: '#000',
+			'overlayOpacity'	: 0.9
+		});
+
+		$("a#example7").fancybox({
+			'titlePosition'	: 'inside'
+		});
+
+		$("a#example8").fancybox({
+			'titlePosition'	: 'over'
+		});
+
+		$("a[rel=example_group]").fancybox({
+			'transitionIn'		: 'none',
+			'transitionOut'		: 'none',
+			'titlePosition' 	: 'over',
+			'titleFormat'		: function(title, currentArray, currentIndex, currentOpts) {
+				return '<span id="fancybox-title-over">Image ' + (currentIndex + 1) + ' / ' + currentArray.length + (title.length ? ' &nbsp; ' + title : '') + '</span>';
+			}
+		});
+
+		/*
+		*   Examples - various
+		*/
+
+		$("#various1").fancybox({
+			'titlePosition'		: 'inside',
+			'transitionIn'		: 'none',
+			'transitionOut'		: 'none'
+		});
+
+		$("#various2").fancybox();
+
+		$("#various3").fancybox({
+			'width'				: '75%',
+			'height'			: '75%',
+			'autoScale'			: false,
+			'transitionIn'		: 'none',
+			'transitionOut'		: 'none',
+			'type'				: 'iframe'
+		});
+
+		$("#various4").fancybox({
+			'padding'			: 0,
+			'autoScale'			: false,
+			'transitionIn'		: 'none',
+			'transitionOut'		: 'none'
+		});
+	});
+</script>
+
+<style media="print">
+.noprint {DISPLAY: none;}
+</style>
+
+<div class="noprint">
+<div style="display: block;" id="goTopBtn">
+<a class="backtotop" title="回顶部"><img src="src/images/goTop.jpg" width="30" height="30" class="back-tip"/></a>
+</div>
+</div>
+
+<script> 
+function displaySubMenu(li) { 
+var subMenu = li.getElementsByTagName("ul")[0]; 
+subMenu.style.display = "block"; 
+} 
+function hideSubMenu(li) { 
+var subMenu = li.getElementsByTagName("ul")[0]; 
+subMenu.style.display = "none"; 
+} 
+</script> 
+
+<script>
+	var Tree = new Array;
+	// nodeId | parentNodeId | nodeName | nodeUrl
+<{jtree}>
+</script>
+
+<script>
+$(function(){
+	//纵向,默认,移动间隔2
+    $('div.albumSlider').albumSlider();
+    //横向设置
+    $('div.albumSlider-h').albumSlider({direction:'h',step:3});
+});
+</script>	
+
+</head>
+<body  id="body">
+
+<!---------------------------------------- Menu bar ---------------------------------------->
+<div class="noprint">
+<div class="menu">
+<ul class="main_menu">
+<li onmouseover="displaySubMenu(this)" onmouseout="hideSubMenu(this)"><a href="#Library Preparation and Sequencing">Library Preparation</a>
+<ul id="menu_list">
+
+	<li><a href="#Sample Quality Control">Sample Quality Control</a></li>
+	<li><a href="#Library Construction and Quality Control">Library Construction</a></li>
+
+<li><a href="#Sequencing">Sequencing</a></li>
+</ul>
+</li>
+<li onmouseover="displaySubMenu(this)" onmouseout="hideSubMenu(this)"><a href="#Data Quality Control">Results</a>
+<ul id="menu_list">
+
+<li><a href="#Data Quality Control">Sequencing Quality</a></li>
+<li><a href="#Summary of Sequencing Data Information">Summary of Sequencing</a></li>
+
+
+
+</ul>
+</li>
+
+<li onmouseover="displaySubMenu(this)" onmouseout="hideSubMenu(this)"><a href="#Appendix">Appendix</a>
+<ul id="menu_list">
+<li><a href="#Introduction of Sequenced Data Format"><font face="Times New Roman">Introduction of Data Format</font></a></li>
+<li><a href="#Explanation of Sequencing Data Related"><font face="Times New Roman">Explanation of Sequencing</font></a></li>
+<li><a href="#References"><font face="Times New Roman">References</font></a></li>
+</ul>
+
+</div>
+</div>
+<!--menu over-->
+
+<!---------------------------------------- 目录 ---------------------------------------------><div id="page">
+<p><a name="home"><img class="logo" src="src/images/logo_English.png" /></a></p>
+<p>
+<h1>C202SC19070246 QC Analysis Report</h1>
+</br><div align="center"><font color="#000000" size="5">25-July-2019</font></div>
+<br /><br /></p>
+<p class="paragraph">
+<ul>
+    <li><a href="#Library Preparation and Sequencing"><font size="4" face="Times New Roman">Library Preparation and Sequencing</font></a></li>
+    <ul class="alt">
+    <font size="3" >
+	
+		<li><a href="#Sample Quality Control"><font face="Times New Roman">Sample Quality Control</font></a></li>
+    	<li><a href="#Library Construction and Quality Control"><font face="Times New Roman">Library Construction and Quality Control</font></a></li>
+		
+		
+    	<li><a href="#Sequencing"><font face="Times New Roman">Sequencing</font></a></li>
+    </font>
+    </ul>
+    <li><a href="#Data Quality Control"><font size="4" face="Times New Roman">Results and Instructions</font></a></li>
+    <ul class="alt">
+    	
+    <font size="3" face="Times New Roman">
+    	<li><a href="#Data Quality Control"><font face="Times New Roman">Data Quality Control</font></a></li>
+    	<ul class="alt">
+    	<li><a href="#Distribution of Sequencing Quality"><font face="Times New Roman">Distribution of Sequencing Quality</font></a></li>
+    	<li><a href="#Distribution of Sequencing Error Rate"><font face="Times New Roman">Distribution of Sequencing Error Rate</font></a></li>
+    	<li><a href="#Distribution of A/T/G/C Base"><font face="Times New Roman">Distribution of A/T/G/C Base</font></a></li>
+    	<li><a href="#Results of Raw Data Filtering"><font face="Times New Roman">Results of Raw Data Filtering</font></a></li>
+    </ul>
+    <li><a href="#Summary of Sequencing Data Information"><font face="Times New Roman">Summary of Sequencing Data Information</font></a></li>
+    
+    </font>
+    </ul>
+
+    <li><a href="#Appendix"><font size="4" face="Times New Roman">Appendix</font></a></li>
+    <ul class="alt">
+	<font size="3">
+        <li><a href="#Introduction of Sequenced Data Format"><font face="Times New Roman">Introduction of Sequenced Data Format</font></a></li>
+        <li><a href="#Explanation of Sequencing Data Related"><font face="Times New Roman">Explanation of Sequencing Data Related</font></a></li>
+        <li><a href="#References"><font face="Times New Roman">References</font></a></li>
+    </ul>
+</font></ul>
+
+</p>
+</div>
+
+
+
+
+
+
+
+<!----------------------------------------WGS Library Preparation and Sequencing----------------------------------------->
+<div id="page">
+<p class="head"><a href="#home" title = "返回首页"><img class="logo" align="left" src="src/images/logo_English.png" /></a>
+<a name="Library Preparation and Sequencing">Novogene Co., Ltd</a>
+<hr />
+</p><br />
+<h2><font face="Times New Roman">A. Library Preparation and Sequencing</font></h2>
+<p class="paragraph">From the DNA samples to the final data, each step, including sample test, library preparation, and sequencing, influences the quality of the data, and data quality directly impacts the analysis results. To guarantee the reliability of the data, quality control (QC) is performed at each step of the procedure. The workflow is as follows: </p>
+<p class="center">
+<img class="normal0" src="src/images/human_pipeline_en.png" width="230" height="380" />
+</p>
+
+<a name="Sample Quality Control"></a>
+<h3><font face="Times New Roman">1 Sample Quality Control</font></h3>
+<p class="paragraph">There are two main methods of QC for DNA samples: </p>
+<p class="paragraph">(1) Agarose Gel Electrophoresis: tests DNA degradation and potential contamination.</p>
+<p class="paragraph">(2) Qubit 2.0: quantifies the DNA concentration precisely.</p>
+</p>
+</div>
+<div id="page">
+<p class="head"><a href="#home" title = "返回首页"><img class="logo" align="left" src="src/images/logo_English.png" /></a>
+<a name="Library Preparation and Sequencing">Novogene Co., Ltd</a>
+<hr />
+</p><br />
+<a name="Library Construction and Quality Control"></a>
+<h3><font face="Times New Roman">2 Library Construction and Quality Control</font></h3>
+<p class="paragraph">A total amount of 1.0μg DNA per sample was used as input material for the DNA sample preparations. Sequencing libraries were generated using NEBNext® DNA Library Prep Kit following manufacturer's recommendations and indices were added to each sample. The genomic DNA is randomly fragmented to a size of 350bp by shearing, then DNA fragments were end polished, A-tailed, and ligated with the NEBNext adapter for Illumina sequencing, and further PCR enriched by P5 and indexed P7 oligos. The PCR products were purified (AMPure XP system) and resulted libraries were analyzed for size distribution by Agilent 2100 Bioanalyzer and quantified using real-time PCR.</p>
+<p class="center">
+<!--<img class="small" src="src/images/agilent experiment pipeline.png" />-->
+<img src="src/images/wgs_experiment_pipeline.png"></img>
+</p>
+
+<a name="Sequencing"></a>
+<h3><font face="Times New Roman">3 Sequencing</font></h3>
+<p class="paragraph">The qualified libraries are fed into Illumina sequencers after pooling according to its effective concentration and expected data volume.</p>
+</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+<!----------------------------------------------------------------------------------------->
+<div id="page">
+<p class="head"><a href="#home" title = "返回首页"><img class="logo" align="left" src="src/images/logo_English.png" /></a>
+<a name="项目结果说明">Novogene Co., Ltd</a>
+<hr />
+</p><br />
+<h2><font face="Times New Roman">B. Results and Instructions</font></h2>
+<a name="Data Quality Control"></a>
+<h3><font face="Times New Roman">1 Data Quality Control</font></h3>
+<a name="Distribution of Sequencing Quality"></a>
+<h4><font face="Times New Roman">1.1 Distribution of Sequencing Quality</font></h4>
+<p class="paragraph">The “e” represents the sequence error rate and Q<sub>phred</sub> represents the base quality value,Q<sub>phred</sub>=-10log<sub>10</sub>(e). 
+The relationship between sequencing error rate (e) and sequencing base quality value (Q<sub>phred</sub>) is as below:</p>
+<table class="tf1">
+<tr><th>Phred score</th><th>error base</th><th>right base</th><th>Q-score</th></tr>
+<tr><td>10</td><td>1/10</td><td>90%</td><td>Q10</td></tr>
+<tr><td>20</td><td>1/100</td><td>99%</td><td>Q20</td></tr>
+<tr><td>30</td><td>1/1000</td><td>99.9%</td><td>Q30</td></tr>
+<tr><td>40</td><td>1/10000</td><td>99.99%</td><td>Q40</td></tr>
+</table>
+</p>
+</p>
+<p class="paragraph">The distribution of quality score is shown in <strong>Fig.1</strong>: </p>
+<p class="center">
+<div class="albumSlider">
+<div class="fullview"><img src='src/pictures/QM/P_cali_g_USD16092980L_HKG7CDSXX_L1.QM.png'/></div>
+<div class="slider">
+<div class="button movebackward" title="向上滚动"></div>
+<div class="imglistwrap"><ul class="imglist">
+
+	<li><a id="example2" href='src/pictures/QM/P_cali_g_USD16092980L_HKG7CDSXX_L1.QM.png' ><img src='src/pictures/QM/P_cali_g_USD16092980L_HKG7CDSXX_L1.QM.JPEG'/></a></li>
+
+</ul></div>
+<div class="button moveforward" title="向下滚动"></div>
+</div>
+</div>
+</p>
+<p class="name_fig"><strong>Fig.1 Distribution of Sequencing Quality</strong></p>
+<p class="premark">The base position is on the horizontal axis and the sequencing quality is on the vertical axis<br />
+The first half part of the distribution is for reads1 and the latter half part is for reads2 </p>
+</div>
+
+<!------------------------------------------------------------------------------------------------------------>
+<div id="page">
+<p class="head"><a href="#home" title = "返回首页"><img class="logo" align="left" src="src/images/logo_English.png" /></a>
+<a name="Distribution of Sequencing Error Rate">Novogene Co., Ltd</a>
+<hr />
+</p><br />
+<a name="Distribution of Sequencing Error Rate"></a>
+<h4><font face="Times New Roman">1.2 Distribution of Sequencing Error Rate</font></h4>
+<p class="paragraph">For Illumina SBS technology, the distribution of sequencing error rate has two features: </p>
+<p class="paragraph">(1) Error rate grows with sequenced reads extension because of the consumption of sequencing reagent. The phenomenon is common in the Illumina high-throughput sequencing platform (Erlich Y. et al. 2008; Jiang et al. 2011). </p>
+<p class="paragraph">(2) The first several bases have higher sequencing error rate than others. At the beginning of  sequencing, the focusing of the sequencer's fluorescence image sensor sensing element is not sensitive enough, thus, the quality of acquired fluorescence image is low.</p>
+<p class="paragraph"> Generally, single base error rate should be lower than 1%. The error rate of this project is shown in <strong>Fig.2</strong>: </p>
+<br />
+<p class="center">
+<div class="albumSlider">
+<div class="fullview"><img src='src/pictures/Error/P_cali_g_USD16092980L_HKG7CDSXX_L1.Error.png'/></div>
+<div class="slider">
+<div class="button movebackward" title="向上滚动"></div>
+<div class="imglistwrap"><ul class="imglist">
+
+	<li><a id="example2" href='src/pictures/Error/P_cali_g_USD16092980L_HKG7CDSXX_L1.Error.png' ><img src='src/pictures/Error/P_cali_g_USD16092980L_HKG7CDSXX_L1.Error.JPEG'/></a></li>
+
+</ul></div>
+<div class="button moveforward" title="向下滚动"></div>
+</div>
+</div>
+</p>
+<p class="name_fig"><strong>Fig.2 Error Rate Distribution</strong></p>
+<p class="premark">The base position is on the horizontal axis and the single base error rate is on the vertical axis</p>
+<p class="premark">The first half part of the distribution is for reads1 and the latter half part is for reads2</p>
+</div>
+
+<!------------------------------------------------------------------------------------------------------------>
+<div id="page">
+<p class="head"><a href="#home" title = "返回首页"><img class="logo" align="left" src="src/images/logo_English.png" /></a>
+<a name="A/T/G/C碱基含量分布检查">Novogene Co., Ltd</a>
+<hr />
+</p><br />
+<a name="Distribution of A/T/G/C Base"></a>
+<h4><font face="Times New Roman">1.3 <font face="Times New Roman">Distribution of A/T/G/C Base</font></h4>
+<p class="paragraph">It is used to identify the separation situation of AT and GC by checking the distribution of GC content.  According to the principle of complementary bases, the content of AT and GC should be equal at each sequencing cycle and be constant and stable in the whole sequencing procedure. 
+But in practical measurement, due to the primer amplification bias and some other reasons, the first 6 to 7 nucleotides will fluctuate which is normal and reasonable.
+</p>
+
+<p class="paragraph">The distribution of GC content is shown in <strong>Fig.3</strong>:</p>
+<p class="center">
+<div class="albumSlider">
+<div class="fullview"><img src='src/pictures/GC/P_cali_g_USD16092980L_HKG7CDSXX_L1.GC.png'/></div>
+<div class="slider">
+<div class="button movebackward" title="向上滚动"></div>
+<div class="imglistwrap"><ul class="imglist">
+
+	<li><a id="example2" href='src/pictures/GC/P_cali_g_USD16092980L_HKG7CDSXX_L1.GC.png' ><img src='src/pictures/GC/P_cali_g_USD16092980L_HKG7CDSXX_L1.GC.JPEG'/></a></li>
+
+</ul></div>
+<div class="button moveforward" title="向下滚动"></div>
+</div>
+</div>
+</p>
+<p class="name_fig"><strong>Fig.3 A/T/G/C Distribution</strong></p>
+<p class="premark">The base position is on the horizontal axis and the single base percentage is on the vertical axis</p>
+<p class="premark">The first half part of the distribution is for reads1 and the latter half part is for reads2</p>
+</div>
+
+<!------------------------------------------------------------------------------------------------------------>
+<div id="page">
+<p class="head"><a href="#home" title = "返回首页"><img class="logo" align="left" src="src/images/logo_English.png" /></a>
+<a name="Results of Raw Data Filtering">Novogene Co., Ltd</a>
+<hr />
+</p><br />
+<h4><font face="Times New Roman">1.4 Results of Raw Data Filtering</font></h4>
+<p class="paragraph">The sequenced reads (raw reads) often contain low quality reads and adapters, which will affect the analysis quality. So it's necessary to filter the raw reads and get the clean reads. The filtering process is as follows:</p>
+<p class="paragraph">(1) Remove reads containing adapters.</p>
+<p class="paragraph">(2) Remove reads containing N > 10% (N represents the base cannot be determined).</p>
+<p class="paragraph">(3) Remove reads containing low quality (Qscore<= 5) base which is over 50% of the total base.</p>
+
+<p class="paragraph">Adapter sequences :
+<p class="paragraph">&nbsp 5' Adapter ：</p>
+<p class="paragraph">&nbsp 5'-AATGATACGGCGACCACCGAGATCTACACTCTTTCCCTACACGACGCTCTTCCGATCT-3'</p>
+<p class="paragraph">&nbsp 3' Adapter(The underlined 6bp bases is Index)：</p>
+<p class="paragraph">&nbsp 5'-GATCGGAAGAGCACACGTCTGAACTCCAGTCAC<U>ATCACG</U>ATCTCGTATGCCGTCTTCTGCTTG-3'</p>
+
+<p class="paragraph">The Sequencing data filtration of this project can be seen in <strong>Fig.4</strong> :</p>
+<p class="center">
+<div class="albumSlider">
+<div class="fullview"><img src='src/pictures/Pie/P_cali_g_USD16092980L_HKG7CDSXX_L1.pie3d.png'/></div>
+<div class="slider">
+<div class="button movebackward" title="向上滚动"></div>
+<div class="imglistwrap"><ul class="imglist">
+
+	<li><a id="example2" href='src/pictures/Pie/P_cali_g_USD16092980L_HKG7CDSXX_L1.pie3d.png' ><img src='src/pictures/Pie/P_cali_g_USD16092980L_HKG7CDSXX_L1.pie3d.JPEG'/></a></li>
+
+</ul></div>
+<div class="button moveforward" title="向下滚动"></div>
+</div>
+</div>
+</p>
+<p class="name_fig"><strong>Fig.4 Composition of Raw Data</strong></p>
+</p>
+</div>
+
+<!------------------------------------------------------------------------------------------------------------>
+<div id="page">
+<p class="head"><a href="#home" title = "返回首页"><img class="logo" align="left" src="src/images/logo_English.png" /></a>
+<a name="测序数据信息汇总">Novogene Co., Ltd</a>
+<hr />
+</p><br />
+<a name="Summary of Sequencing Data Information"></a>
+<h3><font face="Times New Roman">2 Summary of Sequencing Data Information</font></h3>
+<p class="paragraph">The total output of data on the sequencer: Raw data 92.6 G.
+
+<p class="paragraph">The detail statistics for the quality of sequencing data are shown in <strong>Table 1</strong>.</p>
+<p class="paragraph"><p class="center"><strong>Table 1 Data Quality Summary</strong></p>
+<p class="center">
+<table class="tf1">
+ <tr><th>Sample</th><th>Library</th><th>Flowcell/Lane</th><th>Raw reads</th><th>Raw data(G)</th><th>Effective(%)</th><th>Error(%)</th><th>Q20(%)</th><th>Q30(%)</th><th>GC(%)</th></tr>
+
+     
+	    
+			<tr><td style="text-align:left">P_cali_g</td><td>USD16092980L</td><td>HKG7CDSXX_L1</td><td>308674338</td><td rowspan=1>92.6</td><td>99.81</td><td>0.03</td><td>95.87</td><td>90.70</td><td>38.04</td></tr>
+		
+	
+
+</table>
+</p>
+<p class="tremark">Sample: sample name<br />
+Raw reads: four rows are taken as a unit to calculate the total amount of read1 and read2 in raw data files<br />
+Raw bases: (total raw reads) * (sequence length), calculating in G<br />
+Error rate: base error rate<br />
+Q20, Q30: (Base count of Phred value > 20 or 30) / (Total base count)<br />
+GC content: (G & C base count) / (Total base count)<br />
+</p>
+</div>
+
+
+
+</div><!-------------------------------------------- 附录 --------------------------------------------->
+</p>
+</p>
+<p class="head"><a href="#home" title = "返回首页"><img class="logo" align="left" src="src/images/logo_English.png" /></a>
+<a name="Appendix">Novogene Co., Ltd</a>
+<hr />
+</p><br />
+<a name="Appendix"></a>
+<h2><font face="Times New Roman">C. Appendix</font></h2>
+<div id="page">
+<a name="Introduction of Sequenced Data Format"></a>
+<h3>1. Introduction of Sequencing Data Format</h3>
+<p class="paragraph">The original data obtained from the high throughput sequencing platforms are transformed to sequenced reads by base calling. Raw data are recorded in a FASTQ file which contains sequenced reads and corresponding sequencing quality information. Every read in FASTQ format is stored in four lines as follows (Cock P.J.A. et al. 2010):</p>
+
+<p class="seq">
+@HWI-ST1276:71:C1162ACXX:1:1101:1208:2458 1:N:0:CGATGT&nbsp;&nbsp;&nbsp;<br />
+NAAGAACACGTTCGGTCACCTCAGCACACTTGTGAATGTCATGGGATCCAT<br />
++<br />
+#55???BBBBB?BA@DEEFFCFFHHFFCFFHHHHHHHFAE0ECFFD/AEHH<br />
+</p>
+<p class="paragraph">Line 1 begins with a '@' character and is followed by a sequence identifier and an optional description (such as a FASTA title line). </P>
+<p class="paragraph">Line 2 is the sequence of the read. </p>
+<p class="paragraph">Line 3 begins with a '+' character and is optionally followed by the same sequence identifier (and any description) again. </p>
+<p class="paragraph">Line 4 encodes the quality values for the bases in Line 2.</p>
+<p class="paragraph">The details of Illumina sequence identifier are as follows:</p>
+<table class="tf1">
+<tr><th>Identifier</th><th>Meaning</th></tr>
+<tr><td>HWI-ST1276</td><td>Instrument – unique identifier of the sequencer </td></tr>
+<tr><td>71</td><td>run number – Run number on instrument</td></tr>
+<tr><td>C1162ACXX</td><td>FlowCell ID – ID of flowcell</td></tr>
+<tr><td>1</td><td>LaneNumber – positive integer</td></tr>
+<tr><td>1101</td><td>TileNumber – positive integer</td></tr>
+<tr><td>1208</td><td>X – x coordinate of the spot. Integer which can be negative</td></tr>
+<tr><td>2458</td><td>Y – y coordinate of the spot. Integer which can be negative</td></tr>
+<tr><td>1</td><td>ReadNumber - 1 for single reads; 1 or 2 for paired ends</td></tr>
+<tr><td>N</td><td>whether it is filtered - NB: Y if the read is filtered out, not in the delivered fastq file, N otherwise</td></tr>
+<tr><td>0</td><td>control number - 0 when none of the control bits are on, otherwise it is an even number</td></tr>
+<tr><td>CGATGT</td><td>Illumina index sequences</td></tr>
+</table>
+</div>
+
+<div id="page">
+</p><br />
+<p class="head"><a href="#home" title = "返回首页"><img class="logo" align="left" src="src/images/logo_English.png" /></a>
+<a name="Explanation of Sequencing Data Related">Novogene Co., Ltd</a>
+<hr />
+</p><br />
+<a name="Explanation of Sequencing Data Related"></a>
+<h3>2. Explanation of Sequencing Data Related</h3>
+<p class="paragraph">(1) The data deliverd is a compressed file in format of '.fq.gz'. Before data delivery, we will calculate the md5 value of each compressed file and
+please check it when you get the data. There are two ways to check the md5 value. In Linux environment, you can use 'md5sum -c <*md5.txt>' command under the data directory. In Windows environment, you can use 
+a calibration tool e.g. hashmyfiles. If the md5 value of compressed file doesn't match with the one we provide in md5 file in data directory, the file may have been damaged during the transmitting procedure.<br />
+
+<p class="paragraph">(2) For paired-end (PE) sequencing, every sample should have 2 data flies (read1 file and read2 file). These 2 files have the same line number, you could use 'wc -l' command to check the line number in Linux environment.
+ The line number divide by 4 is the number of reads.<br />
+
+<p class="paragraph">(3) The date size is the space occupied by the data in the hard disk. It's related to the format of disk and compression ratio. And it has no influence on the quantity of sequenced bases. 
+So the size of read1 file may be unequal to the size of read2 file.<br />
+
+<p class="paragraph">(4) When customer’s samples need large amount of data e.g. whole genome sequencing data, we would use separate-lane sequencing strategy to make sure the quality of data. So it's possible that one sample has several parts sequencing data. 
+For example, if sample 1 has two read1 files, sample1_L1_1.fq.gz and sample1_L2_1.fq.gz, that means this sample was sequenced on different lanes.<br />
+
+<p class="paragraph">(5) About the sequenced reads. The Index is normally in the middle of the adapter during the process of experimenting and sequencing except the special library. We can get the Read1 sequence and Read2 sequence by Index read. 
+They are all the sequence of samples so that it's no necessary to dispose the beginning and end of reads in the downstream analysis(e.g. mapping). <br />
+
+<p class="paragraph">(6) Ninety days after the data delivery, we will delete outdated data. So please keep your data properly. If you have any question or doubt, please contact us as soon as possible. Have a nice day!<br />
+
+
+</div>
+
+<p class="head"><a href="#home" title = "返回首页"><img class="logo" align="left" src="src/images/logo_English.png" /></a>
+<a name="References">Novogene Co., Ltd</a>
+<hr />
+</p><br />
+
+<a name="References"><h3><font face="Times New Roman">3 References</font></h3></a>
+<p class=ref>
+Cock P.J.A. et al (2010). The Sanger FASTQ file format for sequences with quality scores, and the Solexa/Illumina FASTQ variants. Nucleic acids research 38, 1767-1771. <br /><br />
+Hansen K.D. et al (2010). Biases in Illumina transcriptome sequencing caused by random hexamer priming. Nucleic acids research 38, e131-e131. <br /><br />
+Erlich Y.et al (2008). Alta-Cyclic: a self-optimizing base caller for next-generation sequencing.Nature Methods,5,679-682.  <br /><br />
+Jiang L.C. et al (2011). Synthetic spike-in standards for RNA-seq experiments. Genome research 21, 1543-1551. <br /><br />
+Yan L.Y. et al (2013). Single-cell RNA-Seq profiling of human preimplantation embryos and embryonic stem cells. Nat Struct Mol Biol. <br /><br />
+</p>
+</body>
+</html>
+
+
