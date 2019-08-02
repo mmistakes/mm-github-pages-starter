@@ -1,10 +1,37 @@
 ---
 title: "Welcome"
 permalink: /
+layout: splash
 header:
   overlay_image: /assets/images/cuke1.jpg
+
+excerpt: "This is a website about my studies of the Sea Cucumber *Parastichopus californicus*. In it you will find my lab notebooks for wet and dry lab work in addition to protocols and resources I have found useful. --Jon Eilers
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/><br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>"
+
+
+feature_row:
+  - image_path: /assets/images/home/wetlab.jpeg
+    title: "Wet Lab Notebook"
+    url: "/posts/"
+  - image_path: /assets/images/home/drylab.png
+    title: "Dry Lab Notebook"
+    url: "/drylab/"
+  - image_path: /assets/images/home/Parastichopus_californicus.jpg
+    title: "Sea Cucumbers"
+    url: "/seacuke/"
 ---
 
-This is a website dedicated to my studies of the Sea Cucumber *Parastichopus californicus*. In it you will find my lab notebook entries, research photos, dicussions about papers and research, the protocols used, code, computational biology tools, and other bits and pieces. I hope you find something here that sparks your curiousity and gives you that "huh" moment in the same way these strange creatures have for me. 
+{% include feature_row %}
+
  
-Jon Eilers
+
