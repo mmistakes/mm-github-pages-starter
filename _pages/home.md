@@ -5,7 +5,19 @@ layout: splash
 header:
   overlay_image: /assets/images/cuke1.jpg
 
-excerpt: This is a website about my studies of the Sea Cucumber *Parastichopus californicus*. In it you will find my lab notebooks for wet and dry lab work in addition to protocols and resources I have found useful. 
+excerpt: "This is a website about my studies of the Sea Cucumber *Parastichopus californicus*. In it you will find my lab notebooks for wet and dry lab work in addition to protocols and resources I have found useful. --Jon Eilers
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/><br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>"
+
 
 feature_row:
   - image_path: /assets/images/home/wetlab.jpeg
