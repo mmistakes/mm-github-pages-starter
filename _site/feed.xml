@@ -5,8 +5,8 @@
     <description>Project portfolio of engineer. Subjects: Image Processing, Programming, Signal Processing, Research, Software Development</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 03 Aug 2019 15:20:25 -0400</pubDate>
-    <lastBuildDate>Sat, 03 Aug 2019 15:20:25 -0400</lastBuildDate>
+    <pubDate>Sat, 03 Aug 2019 15:34:35 -0400</pubDate>
+    <lastBuildDate>Sat, 03 Aug 2019 15:34:35 -0400</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
@@ -36,7 +36,7 @@
       </item>
     
       <item>
-        <title>Development of image-based surgical planning software for bone-conduction implants</title>
+        <title>Image-based surgical planning software</title>
         <description>
 </description>
         <pubDate>Fri, 15 Mar 2019 00:00:00 -0400</pubDate>
