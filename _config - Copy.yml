@@ -1,0 +1,35 @@
+url: https://socd06.github.io
+baseurl: /socd06agency
+
+# Site settings
+title: socd06
+email: csalgado@domain.com
+description: "Project portfolio of engineer. Subjects: Image Processing, Programming, Signal Processing, Research, Software Development"
+
+
+# Team names, titles and social links
+people:
+- name: Carlos Salgado
+  pic: 1
+  position: 
+  social:
+    - title: github
+      url: http://github.com/socd06
+    - title: linkedin
+      url: https://www.linkedin.com/in/eng-socd/
+    
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+   - title: github
+     url: http://github.com/socd06
+   - title: linkedin
+     url: https://www.linkedin.com/in/eng-socd/
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: London, ON
+  - line: Canada
+
+# Build settings
+markdown: kramdown
+permalink: pretty

@@ -1,32 +1,50 @@
-# Site settings
-## Change the values as needed.
-title: socd06
-email: socd06@gmail.com
-description: "Projects Portfolio"
-keywords: "mechatronics, image processing, engineering"
-url: "https://socd06.github.io/" # the base hostname & protocol for your site
-baseurl: "" # the subpath of your site, e.g. /blog/
-paginate: 10
-paginate_path: "page:num"
+title: Carlos Salgado
+email: csalgado@uwo.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Project portfolio of engineer. Subjects: Image Processing, Programming, Signal Processing, Research, Software Development
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://socd06.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Team names, titles and social links
+people:
+- name: Carlos Salgado
+  pic: 1
+  position: 
+  social:
+    - title: github
+      url: http://github.com/socd06
+    - title: linkedin
+      url: https://www.linkedin.com/in/eng-socd/
+    - title: envelope
+      url: mailto:csalgado@uwo.ca
+    
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+   - title: github
+     url: http://github.com/socd06
+   - title: linkedin
+     url: https://www.linkedin.com/in/eng-socd/
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: London, ON
+  - line: Canada
+
 # Build settings
 markdown: kramdown
-highlighter: rouge #pygments not supported anymore
-sass:
-  sass_dir: _sass
-  style: :compressed
-links:
-  github: socd06
-  linkedin: eng-socd06
-  email: socd06@gmail.com  
-  
-exclude:
-  - bower_components
-  - README.md
-full_name: Carlos Salgado
+permalink: pretty
+theme: minima
+plugins:
+  - jekyll-feed
 
-##set this to enable disqus commenting
-##disqus: bitwiser
-
-##set this to enable google analytics
-#ga_id: analyticsID
-#ga_domain: bitwiser.in
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

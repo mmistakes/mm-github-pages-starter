@@ -1,131 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>socd06</title>
-    <description>Projects Portfolio</description>
-    <link>https://socd06.github.io//</link>
-    <atom:link href="https://socd06.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 24 Jul 2019 21:41:26 -0400</pubDate>
-    <lastBuildDate>Wed, 24 Jul 2019 21:41:26 -0400</lastBuildDate>
+    <title>Carlos Salgado</title>
+    <description>Project portfolio of engineer. Subjects: Image Processing, Programming, Signal Processing, Research, Software Development</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 02 Aug 2019 23:56:46 -0400</pubDate>
+    <lastBuildDate>Fri, 02 Aug 2019 23:56:46 -0400</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
         <title>DICOM Bone Volume Renderer</title>
-        <description>&lt;p&gt;Written in C++, uses the Visualization Toolkit (VTK) to read a Computed Tomography DICOM (*.dcm) image file and render its bone data. Only intensities above 350 Hounfield Units (HU) are rendered to allow the viewing of air cells in the temporal bones.&lt;/p&gt;
-
-&lt;h3 id=&quot;right-ear-test&quot;&gt;Right Ear Test&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/51087091/60770080-36be4d00-a0a5-11e9-833b-d831dbd88b33.png&quot; alt=&quot;R90(05)100(1)&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;left-ear-test&quot;&gt;Left Ear Test&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/51087091/60770156-fca17b00-a0a5-11e9-89e0-3d612381d283.png&quot; alt=&quot;L90(05)100(1)&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;In this dataset, the program allowed to determine that the left temporal bone had a larger amount of air cells than the right temporal bone.&lt;/p&gt;
-
-&lt;h3 id=&quot;technology-used&quot;&gt;Technology used:&lt;/h3&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;C++, CMake, The Visualization Toolkit (VTK), OpenGL, Visual Studio 2019, Github, Git Bash&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;span style=&quot;background-color: #CAC8C0; color: #fff; display: inline-block; padding: 3px 10px; font-weight: bold; border-radius: 5px;&quot;&gt; 
-&lt;a href=&quot;https://github.com/socd06/DCMBoneVolRender&quot; target=&quot;_blank&quot; class=&quot;mui-btn&quot;&gt;
-&lt;i class=&quot;fa fa-github&quot;&gt;&lt;/i&gt; GitHub Repository &lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
-
+        <description>
 </description>
-        <pubDate>Wed, 03 Jul 2019 20:00:00 -0400</pubDate>
-        <link>https://socd06.github.io//projects/2019/07/03/volume-renderer.html</link>
-        <guid isPermaLink="true">https://socd06.github.io//projects/2019/07/03/volume-renderer.html</guid>
+        <pubDate>Thu, 04 Jul 2019 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/software%20development/2019/07/04/volume-renderer/</link>
+        <guid isPermaLink="true">http://localhost:4000/software%20development/2019/07/04/volume-renderer/</guid>
         
         
-        <category>projects</category>
+        <category>Software Development</category>
         
       </item>
     
       <item>
-        <title>Ryzen 7 Custom PC</title>
-        <description>&lt;p&gt;Built during the beginning of March 2019. Upgrading from Dell 7559 laptop looking into faster tinkering with image processing, CAD and gaming.&lt;/p&gt;
-
-&lt;h1 id=&quot;specs&quot;&gt;Specs&lt;/h1&gt;
-&lt;ul&gt;
-  &lt;li&gt;CPU: AMD - Ryzen 7 2700 3.2 GHz 8-Core&lt;/li&gt;
-  &lt;li&gt;GPU: Asus - Radeon RX VEGA 56 8 GB ROG STRIX Video Card&lt;/li&gt;
-  &lt;li&gt;HDD: 500 GB nVME M.2 SSD / 2 TB 3.5” 7200RPM&lt;/li&gt;
-  &lt;li&gt;RAM: 2x8 GB DDR3&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;span style=&quot;background-color: #CAC8C0; color: #fff; display: inline-block; padding: 3px 10px; font-weight: bold; border-radius: 5px;&quot;&gt; 
-&lt;a href=&quot;https://ca.pcpartpicker.com/user/socd06/builds/#view=2PWD4D&quot; target=&quot;_blank&quot; class=&quot;mui-btn&quot;&gt;
-&lt;i class=&quot;fa fa-shopping-cart&quot;&gt;&lt;/i&gt; See Full Part List &lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;Overclocked CPU to 4.0 Ghz using Gigabyte AORUS Easy Tune to increase VCore to 1.28 V.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/mwD0TMG.png&quot; alt=&quot;OC Parameters&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;boxes&quot;&gt;Boxes&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;https://cdn.pcpartpicker.com/static/forever/images/userbuild/249312.897731f33c473039672e74a49603593e.1600.jpg&quot; alt=&quot;Boxes&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;built-eatx-tower-inside&quot;&gt;Built eATX Tower (Inside)&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;https://cdn.pcpartpicker.com/static/forever/images/userbuild/249312.48d5b966074be4973191e1e4d245d52d.1600.jpg&quot; alt=&quot;Inside tower&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;built-eatx-tower-up-and-running-outside&quot;&gt;Built eATX Tower Up and Running (Outside)&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;https://cdn.pcpartpicker.com/static/forever/images/userbuild/249312.a9385bdfc15dbaa4a960a15f57baeaad.1600.jpg&quot; alt=&quot;Outside Tower&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;technology-used&quot;&gt;Technology used:&lt;/h3&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Screwdriver and lots of patience&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;span style=&quot;background-color: #CAC8C0; color: #fff; display: inline-block; padding: 3px 10px;  font-weight: bold; border-radius: 5px;&quot;&gt; 
-&lt;a href=&quot;https://www.userbenchmark.com/UserRun/15665205&quot; target=&quot;_blank&quot; class=&quot;mui-btn&quot;&gt;
-&lt;i class=&quot;fa fa-tachometer&quot;&gt;&lt;/i&gt; See Benchmarks &lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
+        <title>Customized PC Workstation</title>
+        <description>
 </description>
-        <pubDate>Fri, 15 Mar 2019 14:15:06 -0400</pubDate>
-        <link>https://socd06.github.io//projects/2019/03/15/ryzen-7-custom-pc.html</link>
-        <guid isPermaLink="true">https://socd06.github.io//projects/2019/03/15/ryzen-7-custom-pc.html</guid>
+        <pubDate>Fri, 15 Mar 2019 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/hardware/2019/03/15/custom-pc/</link>
+        <guid isPermaLink="true">http://localhost:4000/hardware/2019/03/15/custom-pc/</guid>
         
         
-        <category>projects</category>
+        <category>Hardware</category>
         
       </item>
     
       <item>
         <title>Development of image-based surgical planning software for bone-conduction implants</title>
-        <description>&lt;h1 id=&quot;electrical-and-computer-engineering-master-of-engineering-science-thesis&quot;&gt;Electrical and Computer Engineering Master of Engineering Science Thesis&lt;/h1&gt;
-
-&lt;h2 id=&quot;abstract&quot;&gt;Abstract&lt;/h2&gt;
-
-&lt;p&gt;The BONEBRIDGE bone-conduction device is used to treat conductive and mixed hearing losses. The size of its floating mass transducer (FMT) can preclude implantation in certain anatomies, necessitating comprehensive surgical planning. Current techniques are time consuming and difficult to transfer to the operating room. The objective of this thesis was to develop software for calculating skull thickness to the dura mater to find locations for the FMT and to the first air cells which guarantee sufficient bone for the implant screws to grasp. Temporal bone computed tomography (CT) images were segmented and processed and custom Matlab code was written to generate and test thickness colormaps. For validation, measurements performed by a trained otologist were compared to the algorithm estimations achieving sub-millimeter accuracy. Results suggest this software can be used in the surgical workflow to automate thickness estimation and aid in finding an ideal location for the BONEBRIDGE device and screws.&lt;/p&gt;
-
-&lt;h3 id=&quot;keywords&quot;&gt;Keywords&lt;/h3&gt;
-&lt;p&gt;Image Processing, BONEBRIDGE, Temporal Bone, Surgical Planning, Computed
-Tomography, Bone Conduction Devices&lt;/p&gt;
-
-&lt;h3 id=&quot;recommended-citation&quot;&gt;Recommended Citation&lt;/h3&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Salgado, Carlos D., “Development of image-based surgical planning software for bone-conduction implants” (2018). Electronic Thesis
-and Dissertation Repository. 5535. &lt;a href=&quot;https://ir.lib.uwo.ca/etd/5535&quot;&gt;https://ir.lib.uwo.ca/etd/5535&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&quot;bone-thickness-maps&quot;&gt;Bone Thickness Maps&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/Figure5.png&quot; alt=&quot;Bone Thickness Maps&quot; title=&quot;Bone to aircells (left) and bone to dura mater (right)&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Bone to air cells (left) and bone to dura mater, the layer covering the brain (right). Measurements in millimeters (mm).&lt;/p&gt;
-
-&lt;h3 id=&quot;technology-used&quot;&gt;Technology used:&lt;/h3&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;MATLAB, 3D Slicer, 3D Systems Geomagic, IBM SPSS, GraphPad Prism&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;span style=&quot;background-color: #CAC8C0; color: #fff; display: inline-block; padding: 3px 10px; font-weight: bold; border-radius: 5px;&quot;&gt; 
-&lt;a href=&quot;https://ir.lib.uwo.ca/cgi/viewcontent.cgi?article=7690&amp;amp;context=etd&quot; target=&quot;_blank&quot; class=&quot;mui-btn&quot;&gt;
-&lt;i class=&quot;fa fa-file-pdf-o&quot;&gt;&lt;/i&gt; Electronic Thesis and Dissertation Repository &lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
+        <description>
 </description>
-        <pubDate>Fri, 24 Aug 2018 20:00:00 -0400</pubDate>
-        <link>https://socd06.github.io//projects/2018/08/24/thesis.html</link>
-        <guid isPermaLink="true">https://socd06.github.io//projects/2018/08/24/thesis.html</guid>
+        <pubDate>Fri, 15 Mar 2019 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/research/2019/03/15/thesis/</link>
+        <guid isPermaLink="true">http://localhost:4000/research/2019/03/15/thesis/</guid>
         
         
-        <category>projects</category>
+        <category>Research</category>
         
       </item>
     

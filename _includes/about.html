@@ -1,0 +1,37 @@
+<!-- About Section -->
+    <section id="about" class="bg-light-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">About</h2>
+                </div>
+            </div>
+            <div class="row">
+                {% for member in site.people %}
+                <div class="col-lg-12">
+                    <div class="team-member">
+                        <img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
+                        <h4>{{ member.name }}</h4>
+                        <p class="text-muted">{{ member.position }}</p>
+                        <ul class="list-inline social-buttons">
+                            {% for network in member.social %}
+                            <li>
+                                <a href="{{ network.url }}">
+                                    <i class="fa fa-{{ network.title }}"></i>
+                                </a>
+                            </li>
+                            {% endfor %}
+                        </ul>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <p class="large text-muted">Electrical and computer engineer <a>(M.E.Sc. ‘2018)</a> and mechatronics engineer <a>(B.Eng. ‘2011)</a> with over 6 years of professional experience in manufacturing and repair environments. I have broad interests ranging from robotics, mechatronics, medical devices, embedded systems, software and signal processing (audio, imaging and video).</p>
+					<p class="large text-muted"></p>
+					<p class="large text-muted">London, ON, Canada</p>
+                </div>
+            </div>
+        </div>
+    </section>
