@@ -1,7 +1,8 @@
 ---
 permalink: /seacuke/
 title: "The Californian Giant Sea Cucumber"
-classes: wide
+author_profile: false
+
 ---
 {% include figure image_path="/assets/images/cukeimages/Parastichopus_californicus.jpg" alt="this is a placeholder image" caption="Life-saving drug or instagram-able cuisine?" %}
 
