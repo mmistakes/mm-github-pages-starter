@@ -116,3 +116,19 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+repository: "chatie/mm-github-pages-starter" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+comments:
+  provider               : "utterances" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2", "utterances", "custom"
+  utterances:
+    theme                 : "github-light" # "github-dark"
+    issue_term            : "title"
+  disqus:
+    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+  discourse:
+    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+  facebook:
+    # https://developers.facebook.com/docs/plugins/comments
+    appid                :
+    num_posts            : # 5 (default)
+    colorscheme          : # "light" (default), "dark"
