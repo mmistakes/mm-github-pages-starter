@@ -36,6 +36,9 @@ The scripts used in the paper
 Some info on visualizing output from Mummer4 alignmets
 <https://taylorreiter.github.io/2019-05-11-Visualizing-NUCmer-Output/>
 
+[This](https://bioinformaticsworkbook.org/) is an excellent website containing information about genome QC, assembly, and annotation
+
+----
 
 {% include feature_row %}
 
