@@ -22,6 +22,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
+breadcrumbs: true # true, false (default)
+words_per_minute: 200
 teaser: /assets/images/bio-photo.jpg
 search: true
 
