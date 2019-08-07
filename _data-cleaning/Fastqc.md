@@ -1,7 +1,3 @@
----
-title: "Fastqc Reference Information and To-do"
-layout: single
----
 
 Notes: I need to rerun fastqc with kmer content and per sequence GC content
 
