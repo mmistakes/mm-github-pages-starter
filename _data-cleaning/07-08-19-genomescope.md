@@ -4,6 +4,7 @@ layout: single
 toc: true
 toc_sticky: true
 
+
 gallery:
   - url: /assets/images/genomescope/plot.png
     image_path: /assets/images/genomescope/plot.png
@@ -16,7 +17,8 @@ gallery:
 
 ---
 
-## Purpose: Estimate genome characteristics using Jellyfish and Genome Scope
+## Purpose: 
+Estimate genome characteristics using Jellyfish and Genome Scope
 
 
 ### Jellyfish Commands
