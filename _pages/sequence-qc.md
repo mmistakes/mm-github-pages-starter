@@ -21,7 +21,7 @@ feature_row:
 
 Below are a list of tools for performing quality control of sequence data
 
-* [FastQC]()
+* [FastQC](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/)
 * [Kat](https://www.earlham.ac.uk/kat-tools)
 * [Jellyfish](https://www.cbcb.umd.edu/software/jellyfish/)
 * [GenomeScope](http://qb.cshl.edu/genomescope/)
