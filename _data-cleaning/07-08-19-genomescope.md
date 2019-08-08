@@ -1,9 +1,10 @@
 ---
 title: "07-08-19 Estimation of Genome Characteristics using Jellyfish and Genomescope"
-layout: single
 toc: true
 toc_sticky: true
-
+author_profile: false
+classes: wide
+layout: single
 
 gallery:
   - url: /assets/images/genomescope/plot.png

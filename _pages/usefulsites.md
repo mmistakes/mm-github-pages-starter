@@ -15,6 +15,10 @@ feature_row:
     title: "Genome Assembly"
     excerpt: "Links to information on Genome Assembly"
     url: "/genomeassembly/"
+  - image_path: /assets/images/sequence-qc.png
+    title: "Raw Data QC"
+    excerpt: "Links to tools for sequence QC"
+    url: "/sequenceQC/"
 
 ---
 
