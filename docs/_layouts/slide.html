@@ -1,0 +1,99 @@
+---
+---
+<!doctype html>
+<!-- https://github.com/ahxxm/ahxxm.github.io/blob/master/_posts/2016-09-06-slide-en.md -->
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{% if page.title %} {{ page.title }} | {{ site.title }} {% else %} {{ site.title }} {% endif %}</title>
+    <meta name="author" content="{{ page.author | default: site.author.name }}" />
+
+    <!-- Description -->
+    {% if page.description %}
+      <meta name="description" content="{{ page.description }}" />
+    {% else %}
+      <meta name="description" content="{{ site.description }}">
+    {% endif %}
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+
+    <link rel="stylesheet" href="{{ "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.3.0/css/reveal.css" | prepend: site.baseurl }}"/>
+    {%if page.theme %}
+      <link rel="stylesheet" href="{{ "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.3.0/css/theme/" | prepend: site.baseurl | append: page.theme | append: '.css' }}" id="theme"/>
+    {% else %}
+      <link rel="stylesheet" href="{{ "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.3.0//css/theme/black.css" | prepend: site.baseurl }}" id="theme"/>
+    {% endif %}
+
+    <!-- Code syntax highlighting -->
+    <link rel="stylesheet" href="{{ "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.3.0/lib/css/zenburn.css" | prepend: site.baseurl }}"/>
+
+    <!-- Printing and PDF exports -->
+    <script>
+      var link = document.createElement( 'link' );
+      link.rel = 'stylesheet';
+      link.type = 'text/css';
+      link.href = window.location.search.match( /print-pdf/gi ) ? '{{ "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.3.0/css/print/pdf.css" | prepend: site.baseurl }}' : '{{ "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.3.0/css/print/paper.css" | prepend: site.baseurl }}';
+      document.getElementsByTagName( 'head' )[0].appendChild( link );
+    </script>
+
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+
+    <!--[if lt IE 9]>
+    <script src="lib/js/html5shiv.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+
+    <style>
+      .reveal h1 h2 h3{
+      text-align: center;
+      }
+      .reveal p{
+      text-align: left;
+      }
+      .reveal .leftol{
+      display: block;
+      }
+    </style>
+
+
+    <div class="reveal">
+      <div class="slides">
+        {{ content }}
+      </div>
+    </div>
+
+    <script src="{{ "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.3.0/lib/js/head.min.js" | prepend: site.baseurl }}"></script>
+    <script src="{{ "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.3.0/js/reveal.js" | prepend: site.baseurl }}"></script>
+    <script>
+      // Full list of configuration options available at:
+      // https://github.com/hakimel/reveal.js#configuration
+      Reveal.initialize({
+        controls: true,
+        progress: true,
+        history: true,
+        center: true,
+        keyboard: true,
+        overview: true,
+        {%if page.transition %}
+          transition: '{{page.transition}}',
+        {% else %}
+          transition: 'slide', // none/fade/slide/convex/concave/zoom
+        {% endif %}
+        // Optional reveal.js plugins
+        dependencies: [
+          { src: '{{ "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.3.0/lib/js/classList.js" | prepend: site.baseurl }}', condition: function() { return !document.body.classList; } },
+          { src: '{{ "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.3.0/plugin/markdown/marked.js" | prepend: site.baseurl }}', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+          { src: '{{ "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.3.0/plugin/markdown/markdown.js" | prepend: site.baseurl }}', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+          { src: '{{ "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.3.0/plugin/highlight/highlight.js" | prepend: site.baseurl }}', async: true, condition: function() { return !!document.querySelector( 'pre code' ); }, callback: function() { hljs.initHighlightingOnLoad(); } },
+          { src: '{{ "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.3.0/plugin/zoom-js/zoom.js" | prepend: site.baseurl }}', async: true },
+          { src: '{{ "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.3.0/plugin/notes/notes.js" | prepend: site.baseurl }}', async: true },
+          { src: '{{ "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.3.0/plugin/math/math.js" | prepend: site.baseurl }}', async: true }
+        ]
+      });
+    </script>
+
+  </body>
+</html>

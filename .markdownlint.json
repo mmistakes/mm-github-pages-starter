@@ -12,6 +12,7 @@
       "dl",
       "dt",
       "dd",
+      "section",
       "script",
       "var"
     ]

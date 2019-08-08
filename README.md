@@ -38,9 +38,9 @@ npm install
 npm test
 ```
 
-## Viewers
+## Enhancements
 
-### Slide Viewer
+### PDF Viewer
 
 [Viewer.js](https://viewerjs.org/) is the best easy to use.
 
@@ -51,6 +51,13 @@ Others:
 1. [Online PowerPoint to HTML5 Converter](https://www.digitalofficepro.com/powerpoint/powerpoint-to-html5-converter.html)
 1. [React MDX-based presentation decks](https://github.com/jxnblk/mdx-deck)
 1. [WikiPedia:Web-based slideshow](https://en.wikipedia.org/wiki/Web-based_slideshow)
+
+### Slide (reveal.js)
+
+1. [Example from ahxxm.github.io](https://github.com/ahxxm/ahxxm.github.io/blob/master/_posts/2016-09-06-slide-en.md)
+1. [Jekyll: Create Slides with reveal.js](http://luugiathuy.com/2015/04/jekyll-create-slides-with-revealjs/)
+1. [markdown → slides (reveal.js) → gh-pages (jekyll)](https://github.com/ungoldman/jekyll-reveal)
+1. [A Jekyll-based framework for creating presentations based on Reveal.js and markdown.](https://github.com/dploeger/jekyll-revealjs)
 
 ## Resources
 
