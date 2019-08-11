@@ -1,6 +1,10 @@
 ---
 title: "Dry Lab"
 permalink: /drylab/
+author_profile: true
+sidebar:
+  nav: sidebar-main
+classes: wide
 
 feature_row:
   - image_path: /assets/images/datacleaning.jpg

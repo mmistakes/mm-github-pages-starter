@@ -105,10 +105,10 @@ defaults:
         nav: sidebar-main
       classes: wide
             
-  # _foo
+  # _data-cleaning
   - scope:
       path: ""
-      type: foo
+      type: data-cleaning
     values:
       layout: single
       author_profile: true
@@ -116,16 +116,28 @@ defaults:
         nav: sidebar-main
       classes: wide
 
-  # _data_cleaning
+  # _assembly
   - scope:
       path: ""
-      type: data_cleaning
+      type: assembly
     values:
       layout: single
       author_profile: true
       sidebar:
         nav: sidebar-main
       classes: wide
+
+  # _annotation
+  - scope:
+      path: ""
+      type: annotation
+    values:
+      layout: single
+      author_profile: true
+      sidebar:
+        nav: sidebar-main
+      classes: wide
+
 
 category_archive:
   type: liquid
