@@ -38,7 +38,7 @@ feature_row:
     url: "/usefulsites/"
   - image_path: /assets/images/58382205_575954296244618_3014640770582839296_n.jpg
     title: "About"
-    url: "/About/"
+    url: "/about/"
 ---
 
 {% include feature_row %}
