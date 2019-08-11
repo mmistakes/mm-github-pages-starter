@@ -16,7 +16,7 @@ The **Advanced Encryption Standard (AES)**, also known by its original name **Ri
 AES is a symmetric key algorithm, meaning the same key is used for both encryption and decryption of data.
 
 ## AES In .NET Core
-[Aes(https://docs.microsoft.com/en-us/dotnet/api/system.security.cryptography.aes?view=netcore-2.2)] represents the abstract base class from which all implementations of AES mush inherit. .NET also provides following implementations of AES at the time of writing.  
+[Aes](https://docs.microsoft.com/en-us/dotnet/api/system.security.cryptography.aes?view=netcore-2.2) represents the abstract base class from which all implementations of AES mush inherit. .NET also provides following implementations of AES at the time of writing.  
 * AesCng  
 * AesCryptoServiceProvider  
 * AesManaged  
@@ -181,7 +181,7 @@ private string Decrypt(byte[] data, ICryptoTransform cryptoTransform)
 }
 ```
 
-Complete code for the wrapper class that implements encryption and decryption using Aes can be found at [AesCrypto.cs(https://github.com/kashifsoofi/crypto-sandbox/blob/master/dotnet/src/Sandbox.Crypto/AesCrypto.cs)]. Unit tests for the wrapper class can be found at [AesCryptoTests.cs(https://github.com/kashifsoofi/crypto-sandbox/blob/master/dotnet/test/Sandbox.Crypto.Tests/AesCryptoTests.cs)]. Complete project as class library along with tests is at [CryptoSandbox(https://github.com/kashifsoofi/crypto-sandbox/tree/master/dotnet)].
+Complete code for the wrapper class that implements encryption and decryption using Aes can be found at [AesCrypto.cs](https://github.com/kashifsoofi/crypto-sandbox/blob/master/dotnet/src/Sandbox.Crypto/AesCrypto.cs). Unit tests for the wrapper class can be found at [AesCryptoTests.cs](https://github.com/kashifsoofi/crypto-sandbox/blob/master/dotnet/test/Sandbox.Crypto.Tests/AesCryptoTests.cs). Complete project as class library along with tests is at [CryptoSandbox](https://github.com/kashifsoofi/crypto-sandbox/tree/master/dotnet).
 
 ## References
 https://en.wikipedia.org/wiki/Advanced_Encryption_Standard
