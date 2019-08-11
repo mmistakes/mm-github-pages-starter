@@ -1,21 +1,9 @@
 ---
 title: "Genome Assembly"
 permalink: /genomeassembly/
-
-feature_row:
-  - image_path: /assets/images/extraction.jpg
-    title: "DNA Extraction"
-    excerpt: "Links to information on DNA Extraction Protocols, techniques, etc"
-    url: "/dnaextraction/"
-  - image_path: /assets/images/sequencing.jpg
-    title: "DNA Sequencing"
-    excerpt: "Links to information on DNA Sequencing, techniques, etc"
-    url: "/dnasequencing/"
-  - image_path: /assets/images/assembly.jpg
-    title: "Genome Assembly"
-    excerpt: "Links to information on Genome Assembly"
-    url: "/genomeassembly/"
-
+toc: true
+toc_label: "Genome Assembly"
+toc_sticky: true
 ---
 
 Sequencing a genome using sophisticated technology is only half of "Genome Sequencing". Current sequencing technology is capable of sequencing tiny fragments of the genome and assemblying those fragments into useable sequences is one of the primary challenges of genome sequencing. 

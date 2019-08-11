@@ -85,11 +85,14 @@ defaults:
     values:
       layout: single
       toc: true
-      author_profile: true
       read_time: true
       comments: true
       share: true
+      author_profile: true
       related: true
+      toc_sticky: true
+      sidebar:
+        nav: sidebar-main
       
   # _pages
   - scope:
@@ -98,15 +101,31 @@ defaults:
     values:
       layout: single
       author_profile: true
-
-      
-  # _protocol
+      sidebar:
+        nav: sidebar-main
+      classes: wide
+            
+  # _foo
   - scope:
-      path: "_protocol"
-      type: pages
+      path: ""
+      type: foo
     values:
       layout: single
       author_profile: true
+      sidebar:
+        nav: sidebar-main
+      classes: wide
+
+  # _data_cleaning
+  - scope:
+      path: ""
+      type: data_cleaning
+    values:
+      layout: single
+      author_profile: true
+      sidebar:
+        nav: sidebar-main
+      classes: wide
 
 category_archive:
   type: liquid

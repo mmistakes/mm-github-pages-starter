@@ -1,6 +1,4 @@
 main:
-  - title: "About"
-    url: /about/
   - title: "Parastichopus californicus"
     url: /seacuke/
   - title: "Wet Lab Notebook"
@@ -9,5 +7,38 @@ main:
     url: /drylab/
   - title: "Protocols"
     url: /protocols/
-  - title: "Useful and Interesting Websites"
+  - title: "Resources"
     url: /usefulsites/
+  - title: "About"
+    url: /about/
+
+sidebar-main:
+  - title: "Parastichopus californicus"
+    url: /seacuke/
+  - title: "Wet Lab Notebook"
+    url: /posts/
+  - title: "Dry Lab Notebook"
+    url: /drylab/
+    children:
+    - title: "Sequence Data Cleaning"
+      url: /data-cleaning/
+    - title: "Genome Assembly"
+      url: /assembly/
+    - title: "Genome Annotation"
+      url: /annotation/
+  - title: "Protocols"
+    url: /protocols/
+  - title: "Resources"
+    url: /usefulsites/
+    children:
+    - title: "DNA Extraction"
+      url: /dnaextraction/
+    - title: "Genome Sequencing"
+      url: /dnasequencing/
+    - title: "Sequence Data QC"
+      url: /sequenceQC/
+    - title: "Genome Assembly"
+      url: /genomeassembly/ 
+  - title: "About"
+    url: /about/
+ 
