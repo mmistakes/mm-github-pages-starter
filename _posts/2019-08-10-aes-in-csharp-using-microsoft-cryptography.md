@@ -7,7 +7,6 @@ tags:
   - aes
   - crytpography
 ---
-# AES In C# using Microsoft Cryptography Library
 Sample class library implementing AES using Microsoft's Cryptography Library  
 
 ## Introduction
