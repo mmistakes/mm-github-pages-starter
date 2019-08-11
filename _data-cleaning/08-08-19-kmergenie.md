@@ -1,7 +1,5 @@
 ---
 title: "08-08-19 Determination of Best k-mer for assembly"
-toc: true
-toc_sticky: true
 author_profile: false
 layout: single
 
