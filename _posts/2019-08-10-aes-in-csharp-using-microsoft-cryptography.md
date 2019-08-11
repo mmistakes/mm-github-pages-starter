@@ -2,7 +2,7 @@
 title:  "AES In C# using Microsoft Cryptography Library"
 date:   2019-08-08
 categories:
-  - blog, aes, cryptography, encryption, decryption
+  - cryptography
 tags:
   - aes
   - crytpography
