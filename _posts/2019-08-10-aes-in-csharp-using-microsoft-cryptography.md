@@ -7,20 +7,20 @@ tags:
   - aes
   - crytpography
 ---
-Sample class library implementing AES using Microsoft's Cryptography Library  
+Sample class library implementing AES using Microsoft's Cryptography Library
 
 ## Introduction
-The **Advanced Encryption Standard (AES)**, also known by its original name **Rijndael** is a specification for the encryption of electronic data. AES is a subset of the Rijndael block cipher developed by two Belgian cryptographers, Vincent Rijmen and Joan Daemen.  
-  
+The **Advanced Encryption Standard (AES)**, also known by its original name **Rijndael** is a specification for the encryption of electronic data. AES is a subset of the Rijndael block cipher developed by two Belgian cryptographers, Vincent Rijmen and Joan Daemen.
+
 AES is a symmetric key algorithm, meaning the same key is used for both encryption and decryption of data.
 
 ## AES In .NET Core
-[Aes](https://docs.microsoft.com/en-us/dotnet/api/system.security.cryptography.aes?view=netcore-2.2) represents the abstract base class from which all implementations of AES mush inherit. .NET also provides following implementations of AES at the time of writing.  
-* AesCng  
-* AesCryptoServiceProvider  
-* AesManaged  
-  
-Aes abstract base class also provides static methods to create an instance of an implementation  
+[Aes](https://docs.microsoft.com/en-us/dotnet/api/system.security.cryptography.aes?view=netcore-2.2) represents the abstract base class from which all implementations of AES mush inherit. .NET also provides following implementations of AES at the time of writing.
+* AesCng
+* AesCryptoServiceProvider
+* AesManaged
+
+Aes abstract base class also provides static methods to create an instance of an implementation
 * Create() - creates an instance AesCryptoServiceProvider by default
 
 ## Implementation
@@ -31,7 +31,7 @@ using System.Security.Cryptography;
 ```
 
 ### Encryption
-Encrypt method accepts a string and key, encrypts string with key and random IV and returns a base64 encoded string packing IV and encrypted string.  
+Encrypt method accepts a string and key, encrypts string with key and random IV and returns a base64 encoded string packing IV and encrypted string.
 We will start by creating an instance of Aes and setting key, following will create the default implementation.
 ```csharp
 var aes = Aes.Create();
@@ -106,9 +106,8 @@ private byte[] Encrypt(string data, ICryptoTransform cryptoTransform)
 ```
 
 ### Decryption
-Decrypt method works in conjunction with Encrypt method above, it accepts base64 encoded string and key. It unpacks base64 encoded string to get iv and encrypted data and performs decryption and returns plain text.  
-We will start by unpacking cipher text to get IV used to encrypt data and encrypted data.  
-We will follow that by creating an instance of Aes and setting key and IV
+Decrypt method works in conjunction with Encrypt method above, it accepts base64 encoded string and key. It unpacks base64 encoded string to get iv and encrypted data and performs decryption and returns plain text.
+We will start by unpacking cipher text to get IV used to encrypt data and encrypted data and follow that by creating an instance of Aes and setting key and IV
 ```csharp
 var aes = Aes.Create();
 aes.Key = key;
@@ -183,5 +182,5 @@ private string Decrypt(byte[] data, ICryptoTransform cryptoTransform)
 Complete code for the wrapper class that implements encryption and decryption using Aes can be found at [AesCrypto.cs](https://github.com/kashifsoofi/crypto-sandbox/blob/master/dotnet/src/Sandbox.Crypto/AesCrypto.cs). Unit tests for the wrapper class can be found at [AesCryptoTests.cs](https://github.com/kashifsoofi/crypto-sandbox/blob/master/dotnet/test/Sandbox.Crypto.Tests/AesCryptoTests.cs). Complete project as class library along with tests is at [CryptoSandbox](https://github.com/kashifsoofi/crypto-sandbox/tree/master/dotnet).
 
 ## References
-https://en.wikipedia.org/wiki/Advanced_Encryption_Standard
-https://docs.microsoft.com/en-us/dotnet/api/system.security.cryptography.aes?view=netcore-2.2
+[https://en.wikipedia.org/wiki/Advanced_Encryption_Standard](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard)
+[https://docs.microsoft.com/en-us/dotnet/api/system.security.cryptography.aes?view=netcore-2.2](https://docs.microsoft.com/en-us/dotnet/api/system.security.cryptography.aes?view=netcore-2.2)
