@@ -35,6 +35,8 @@ Really good background information on ethanol precipitation of dna
 and
 <https://openwetware.org/wiki/Ethanol_precipitation_of_nucleic_acids>
 
+[Here](http://geneticeducation.co.in/a-quick-guide-on-dna-precipitation-and-dna-precipitation-protocol/) is a thorough explanation on how ethanol precipation works and why
+
 ### Methods for DNA extraction and purification for Nanopore sequencing
 <http://lab.loman.net/#__RefHeading___Toc505877564>
 
