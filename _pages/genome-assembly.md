@@ -34,7 +34,5 @@ Some info on visualizing output from Mummer4 alignmets
 
 [Squat](https://github.com/luke831215/SQUAT) is a Sequencing Quality Assessment Tool for Data Assessments before and after Genome Assemblies
 
-----
-
-{% include feature_row %}
+[GAAP](https://bigd.big.ac.cn/tools/gaap) is a cGOF (core-gene-defined Genome-organization-framework) Assisted Assembly Pipeline. It is aimed at scaffolding and extending scaffolds and contigs based on de novo assembly of one paired-end library and core gene cluster from multiple related references.
 
