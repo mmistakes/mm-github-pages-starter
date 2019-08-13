@@ -1,0 +1,24 @@
+Assembly	P_cali_8
+# contigs (>= 0 bp)	1851769
+# contigs (>= 1000 bp)	131899
+# contigs (>= 5000 bp)	39026
+# contigs (>= 10000 bp)	8852
+# contigs (>= 25000 bp)	328
+# contigs (>= 50000 bp)	11
+Total length (>= 0 bp)	1007051673
+Total length (>= 1000 bp)	584516010
+Total length (>= 5000 bp)	332013941
+Total length (>= 10000 bp)	125745248
+Total length (>= 25000 bp)	10357409
+Total length (>= 50000 bp)	656503
+# contigs	74045
+Largest contig	103765
+Total length	468431423
+GC (%)	36.89
+N50	6822
+N75	4694
+L50	22207
+L75	43012
+# N's per 100 kbp	208.89
+Complete BUSCO (%)	40.92
+Partial BUSCO (%)	29.37

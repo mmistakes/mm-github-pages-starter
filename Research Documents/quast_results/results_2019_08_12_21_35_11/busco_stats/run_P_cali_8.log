@@ -1,0 +1,66 @@
+[hmmsearch]	Error: Failed to open sequence file /home/jeilers/quast_results/results_2019_08_12_21_35_11/busco_stats/run_P_cali_8/augustus_output/extracted_proteins/EOG09370F3T.faa.3 for reading
+[hmmsearch]	Error: Failed to open sequence file /home/jeilers/quast_results/results_2019_08_12_21_35_11/busco_stats/run_P_cali_8/augustus_output/extracted_proteins/EOG09370CRF.faa.1 for reading
+[hmmsearch]	Error: Failed to open sequence file /home/jeilers/quast_results/results_2019_08_12_21_35_11/busco_stats/run_P_cali_8/augustus_output/extracted_proteins/EOG09370B1L.faa.1 for reading
+[hmmsearch]	Error: Failed to open sequence file /home/jeilers/quast_results/results_2019_08_12_21_35_11/busco_stats/run_P_cali_8/augustus_output/extracted_proteins/EOG09370DYK.faa.2 for reading
+[hmmsearch]	Error: Failed to open sequence file /home/jeilers/quast_results/results_2019_08_12_21_35_11/busco_stats/run_P_cali_8/augustus_output/extracted_proteins/EOG09370XO6.faa.2 for reading
+[hmmsearch]	Error: Failed to open sequence file /home/jeilers/quast_results/results_2019_08_12_21_35_11/busco_stats/run_P_cali_8/augustus_output/extracted_proteins/EOG09370KWF.faa.1 for reading
+[hmmsearch]	Error: Failed to open sequence file /home/jeilers/quast_results/results_2019_08_12_21_35_11/busco_stats/run_P_cali_8/augustus_output/extracted_proteins/EOG09370A22.faa.1 for reading
+[hmmsearch]	Error: Failed to open sequence file /home/jeilers/quast_results/results_2019_08_12_21_35_11/busco_stats/run_P_cali_8/augustus_output/extracted_proteins/EOG09370MHI.faa.2 for reading
+[hmmsearch]	Error: Failed to open sequence file /home/jeilers/quast_results/results_2019_08_12_21_35_11/busco_stats/run_P_cali_8/augustus_output/extracted_proteins/EOG09370I3J.faa.2 for reading
+[hmmsearch]	Error: Failed to open sequence file /home/jeilers/quast_results/results_2019_08_12_21_35_11/busco_stats/run_P_cali_8/augustus_output/extracted_proteins/EOG09370P5Q.faa.2 for reading
+[hmmsearch]	Error: Failed to open sequence file /home/jeilers/quast_results/results_2019_08_12_21_35_11/busco_stats/run_P_cali_8/augustus_output/extracted_proteins/EOG09370HVI.faa.1 for reading
+[hmmsearch]	Error: Failed to open sequence file /home/jeilers/quast_results/results_2019_08_12_21_35_11/busco_stats/run_P_cali_8/augustus_output/extracted_proteins/EOG09370QVI.faa.2 for reading
+[hmmsearch]	Error: Failed to open sequence file /home/jeilers/quast_results/results_2019_08_12_21_35_11/busco_stats/run_P_cali_8/augustus_output/extracted_proteins/EOG093709JG.faa.2 for reading
+[hmmsearch]	Error: Failed to open sequence file /home/jeilers/quast_results/results_2019_08_12_21_35_11/busco_stats/run_P_cali_8/augustus_output/extracted_proteins/EOG093716T7.faa.1 for reading
+[hmmsearch]	Error: Failed to open sequence file /home/jeilers/quast_results/results_2019_08_12_21_35_11/busco_stats/run_P_cali_8/augustus_output/extracted_proteins/EOG09370GK0.faa.2 for reading
+[hmmsearch]	Error: Failed to open sequence file /home/jeilers/quast_results/results_2019_08_12_21_35_11/busco_stats/run_P_cali_8/augustus_output/extracted_proteins/EOG093714Q2.faa.1 for reading
+[hmmsearch]	Error: Failed to open sequence file /home/jeilers/quast_results/results_2019_08_12_21_35_11/busco_stats/run_P_cali_8/augustus_output/extracted_proteins/EOG093703N5.faa.3 for reading
+[hmmsearch]	Error: Failed to open sequence file /home/jeilers/quast_results/results_2019_08_12_21_35_11/busco_stats/run_P_cali_8/augustus_output/extracted_proteins/EOG09370CKL.faa.2 for reading
+ BUSCOs (S)
+24 Complete and duplicated BUSCOs (D)
+63 Fragmented BUSCOs (F)
+147 Missing BUSCOs (M)
+303 Total BUSCO groups searched
+****** Phase 2 of 2, predictions using species specific training ******
+****** Step 1/3, current time: 08/12/2019 21:44:08 ******
+Extracting missing and fragmented buscos from the ancestral_variants file...
+Running tblastn, writing output to /home/jeilers/quast_results/results_2019_08_12_21_35_11/busco_stats/run_P_cali_8/blast_output/tblastn_P_cali_8_missing_and_frag_rerun.tsv...
+[tblastn]	1 of 1 task(s) completed at 08/12/2019 22:21:53
+Maximum number of candidate contig per BUSCO limited to: 3
+Getting coordinates for candidate regions...
+****** Step 2/3, current time: 08/12/2019 22:21:53 ******
+Training Augustus using Single-Copy Complete BUSCOs:
+Converting predicted genes to short genbank files at 08/12/2019 22:21:53...
+All files converted to short genbank files, now running the training scripts at 08/12/2019 22:22:05...
+Pre-Augustus scaffold extraction...
+Re-running Augustus with the new metaparameters, number of target BUSCOs: 210
+[augustus]	30 of 291 task(s) completed at 08/12/2019 22:22:12
+[augustus]	59 of 291 task(s) completed at 08/12/2019 22:22:15
+[augustus]	88 of 291 task(s) completed at 08/12/2019 22:22:18
+[augustus]	117 of 291 task(s) completed at 08/12/2019 22:22:22
+[augustus]	146 of 291 task(s) completed at 08/12/2019 22:22:26
+[augustus]	175 of 291 task(s) completed at 08/12/2019 22:22:29
+[augustus]	204 of 291 task(s) completed at 08/12/2019 22:22:36
+[augustus]	233 of 291 task(s) completed at 08/12/2019 22:22:43
+[augustus]	262 of 291 task(s) completed at 08/12/2019 22:22:49
+[augustus]	291 of 291 task(s) completed at 08/12/2019 22:22:55
+Extracting predicted proteins...
+****** Step 3/3, current time: 08/12/2019 22:23:00 ******
+Running HMMER to confirm orthology of predicted proteins:
+[hmmsearch]	25 of 246 task(s) completed at 08/12/2019 22:23:00
+[hmmsearch]	74 of 246 task(s) completed at 08/12/2019 22:23:00
+[hmmsearch]	99 of 246 task(s) completed at 08/12/2019 22:23:00
+[hmmsearch]	197 of 246 task(s) completed at 08/12/2019 22:23:01
+[hmmsearch]	222 of 246 task(s) completed at 08/12/2019 22:23:01
+[hmmsearch]	246 of 246 task(s) completed at 08/12/2019 22:23:01
+Results:
+C:41.0%[S:29.4%,D:11.6%],F:29.4%,M:29.6%,n:303
+124 Complete BUSCOs (C)
+89 Complete and single-copy BUSCOs (S)
+35 Complete and duplicated BUSCOs (D)
+89 Fragmented BUSCOs (F)
+90 Missing BUSCOs (M)
+303 Total BUSCO groups searched
+BUSCO analysis done. Total running time: 2797.91340899 seconds
+Results written in /home/jeilers/quast_results/results_2019_08_12_21_35_11/busco_stats/run_P_cali_8/
+

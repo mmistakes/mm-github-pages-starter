@@ -1,0 +1,77 @@
+/home/jeilers/anaconda2/bin/quast --large --eukaryote --k-mer-stats --circos --gene-finding --threads 10 --conserved-genes-finding /media/jeilers/Elements/P_cali_genome/Working Files/P_cali-8.fa
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-4.15.0-52-generic-x86_64-with-debian-buster-sid (linux_64)
+  Python version: 2.7.16
+  CPUs number: 20
+
+Started: 2019-08-12 21:35:11
+
+Logging to /home/jeilers/quast_results/results_2019_08_12_21_35_11/quast.log
+
+CWD: /home/jeilers
+Main parameters: 
+  MODE: large, threads: 10, eukaryotic: true, minimum contig length: 3000, minimum alignment length: 500, \
+  ambiguity: one, threshold for extensive misassembly size: 7000
+
+Contigs:
+  Pre-processing...
+  /media/jeilers/Elements/P_cali_genome/Working Files/P_cali-8.fa ==> P_cali_8
+
+2019-08-12 21:35:39
+Running Basic statistics processor...
+  Contig files: 
+    P_cali_8
+  Calculating N50 and L50...
+    P_cali_8, N50 = 6822, L50 = 22207, Total length = 468431423, GC % = 36.89, # N's per 100 kbp =  208.89
+  Drawing Nx plot...
+    saved to /home/jeilers/quast_results/results_2019_08_12_21_35_11/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/jeilers/quast_results/results_2019_08_12_21_35_11/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/jeilers/quast_results/results_2019_08_12_21_35_11/basic_stats/GC_content_plot.pdf
+  Drawing P_cali_8 GC content plot...
+    saved to /home/jeilers/quast_results/results_2019_08_12_21_35_11/basic_stats/P_cali_8_GC_content_plot.pdf
+Done.
+
+2019-08-12 21:36:00
+WARNING: GeneMark tool can't be started because of license limitations!
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2019-08-12 21:36:00
+Running BUSCO...
+  Downloading third-party tools...
+Downloading augustus (file: augustus.tar.gz)...
+augustus successfully downloaded!
+  Done
+  Downloading BUSCO database...
+Downloading eukaryota database (file: eukaryota.tar.gz)...
+eukaryota database successfully downloaded!
+  Done
+Logs and results will be saved under /home/jeilers/quast_results/results_2019_08_12_21_35_11/busco_stats...
+Done.
+
+2019-08-12 22:23:02
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2019-08-12 22:23:07
+RESULTS:
+  Text versions of total report are saved to /home/jeilers/quast_results/results_2019_08_12_21_35_11/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/jeilers/quast_results/results_2019_08_12_21_35_11/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /home/jeilers/quast_results/results_2019_08_12_21_35_11/report.html
+  PDF version (tables and plots) is saved to /home/jeilers/quast_results/results_2019_08_12_21_35_11/report.pdf
+  Icarus (contig browser) is saved to /home/jeilers/quast_results/results_2019_08_12_21_35_11/icarus.html
+  Log is saved to /home/jeilers/quast_results/results_2019_08_12_21_35_11/quast.log
+
+Finished: 2019-08-12 22:23:07
+Elapsed time: 0:47:56.375945
+NOTICEs: 1; WARNINGs: 1; non-fatal ERRORs: 0
+
+Thank you for using QUAST!
