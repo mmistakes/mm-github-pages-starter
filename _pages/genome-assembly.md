@@ -26,6 +26,8 @@ Some info on visualizing output from Mummer4 alignmets
 
 [This](https://bioinformaticsworkbook.org/) is an excellent website containing information about genome QC, assembly, and annotation
 
+[Referee](https://gwct.github.io/referee/) is a program to calculate a quality score for every position in a genome assembly. This allows for easy filtering of low quality sites for any downstream analysis.
+
 ----
 
 {% include feature_row %}
