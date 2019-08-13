@@ -32,7 +32,7 @@ Some info on visualizing output from Mummer4 alignmets
 
 [Bandage](https://rrwick.github.io/Bandage/) is a program for visualising de novo assembly graphs. By displaying connections which are not present in the contigs file, Bandage opens up new possibilities for analysing de novo assemblies.
 
-
+[Squat](https://github.com/luke831215/SQUAT) is a Sequencing Quality Assessment Tool for Data Assessments before and after Genome Assemblies
 
 ----
 
