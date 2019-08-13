@@ -28,6 +28,12 @@ Some info on visualizing output from Mummer4 alignmets
 
 [Referee](https://gwct.github.io/referee/) is a program to calculate a quality score for every position in a genome assembly. This allows for easy filtering of low quality sites for any downstream analysis.
 
+[Quast](http://quast.sourceforge.net/quast-lg.html) is a tool for evaluating genome assembly quality.
+
+[Bandage](https://rrwick.github.io/Bandage/) is a program for visualising de novo assembly graphs. By displaying connections which are not present in the contigs file, Bandage opens up new possibilities for analysing de novo assemblies.
+
+
+
 ----
 
 {% include feature_row %}
