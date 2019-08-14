@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Lusica"
-  avatar : "/assets/images/profile.jpg"
+  avatar : "/assets/images/bio_photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
