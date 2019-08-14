@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "刘 思婷"
-  avatar : "/assets/images/profile.JPG"
+  avatar : "/assets/images/profile.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
