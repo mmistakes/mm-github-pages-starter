@@ -10,39 +10,22 @@ toc_sticky: true
 ![](/assets/images/ethanol.jpeg){: .align-right width="300px" height="300px"}  DNA extraction is essential for any study investigating genetics. The fundamentals of DNA extraction are relatively simple and can actually be performed using basic household chemicals. However, researchers often require highly purified DNA for their studies and this necessitates special techniques, chemicals, and equipment. In recent years there has been an explosion in the number of commercially available DNA extraction kits which claim to reduce the time and contamination while also increasing the amount of DNA purified from each sample. If you are a poor scientist though, the tried and true old school techniques are simple and the chemicals relatively inexpensive. Below are links to some of the DNA extraction and purification methods I have looked into. 
 
 ### DIY Spin Columns
-<https://www.sciencedirect.com/sdfe/pdf/download/eid/1-s2.0-S0003269703004032/first-page-pdf>
+Spin columns can be a quick and efficient way to extract and purify DNA in one step. [Here](https://www.sciencedirect.com/sdfe/pdf/download/eid/1-s2.0-S0003269703004032/first-page-pdf) is a link to how to make your own. [Here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6286138/) is another DIY approach using filter paper to bind DNA.
 
-and <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6286138/>
 
 ### Eluting DNA from agarose gels
-<http://www.methodbook.net/dna/gelextrc.html>
+Sometimes there are specific sizes of DNA that are desired. One approach to acquiring that size is by gel electrophoresis and then cut the desired band out. The DNA then has to be extracted from the agarose. [Here](http://www.methodbook.net/dna/gelextrc.html) is how to do this. 
 
 ### Phenol/Chloroform DNA extraction 
+Phenol/Chloroform DNA extraction is a classic technique. Below is information about it. 
 
-#### Protocol for performing the extraction
-<https://openwetware.org/wiki/Phenol/chloroform_extraction>
+[Here](https://openwetware.org/wiki/Phenol/chloroform_extraction) is an outline and some background information on how to perform the technique
 
-#### Good explanation on how to prepare the chemicals and how they work
-<https://bitesizebio.com/3651/practical-application-of-phenolchloroform-extraction/>
-
-and
-<http://geneticeducation.co.in/phenol-chloroform-dna-extraction-basics-preparation-of-chemicals-and-protocol/>
+Doing it right requires knowledge of what matters and what doesn't. You can find that information [here](https://bitesizebio.com/3651/practical-application-of-phenolchloroform-extraction/). In case you want to know, check [this](http://geneticeducation.co.in/phenol-chloroform-dna-extraction-basics-preparation-of-chemicals-and-protocol/) website out. 
 
 ### Ethanol precipitation of DNA
-Really good background information on ethanol precipitation of dna
-<https://bitesizebio.com/253/the-basics-how-ethanol-precipitation-of-dna-and-rna-works/>
+Once the DNA has been extracted from the cells, it needs to be purified. This is accomplished via ethanol precipatation of DNA. As usual, [bitesizebio](https://bitesizebio.com/253/the-basics-how-ethanol-precipitation-of-dna-and-rna-works/) has an article about how it works. [Openwetware](https://openwetware.org/wiki/Ethanol_precipitation_of_nucleic_acids) has a protocol outlined. But you might be wondering about the chemistry behind it, so check [this](http://geneticeducation.co.in/a-quick-guide-on-dna-precipitation-and-dna-precipitation-protocol/) website out.
 
-and
-<https://openwetware.org/wiki/Ethanol_precipitation_of_nucleic_acids>
-
-[Here](http://geneticeducation.co.in/a-quick-guide-on-dna-precipitation-and-dna-precipitation-protocol/) is a thorough explanation on how ethanol precipation works and why
-
-### Methods for DNA extraction and purification for Nanopore sequencing
-<http://lab.loman.net/#__RefHeading___Toc505877564>
-
-### A website containing DIY wet lab tools and tricks including DIY phase gels for DNA extraction
-<https://pipettejockey.com/2018/11/13/dense-phase-separating-gel-homemade-trizol-combo/>
-
-
-{% include feature_row %}
+### Other 
+[This](https://pipettejockey.com/2018/11/13/dense-phase-separating-gel-homemade-trizol-combo/) website contains a lot of nifty DIY tricks for wetlab work
 
