@@ -5,8 +5,8 @@
     <description>Project portfolio of engineer. Subjects: Image Processing, Programming, Signal Processing, Research, Software Development</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 10 Aug 2019 18:04:38 -0400</pubDate>
-    <lastBuildDate>Sat, 10 Aug 2019 18:04:38 -0400</lastBuildDate>
+    <pubDate>Sun, 18 Aug 2019 21:18:37 -0400</pubDate>
+    <lastBuildDate>Sun, 18 Aug 2019 21:18:37 -0400</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
@@ -58,6 +58,19 @@
         
         
         <category>Mechatronics</category>
+        
+      </item>
+    
+      <item>
+        <title>Robotic Kinematics</title>
+        <description>
+</description>
+        <pubDate>Wed, 22 Sep 2010 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/robotics/2010/09/22/Robotics/</link>
+        <guid isPermaLink="true">http://localhost:4000/robotics/2010/09/22/Robotics/</guid>
+        
+        
+        <category>Robotics</category>
         
       </item>
     
