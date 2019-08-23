@@ -26,6 +26,9 @@ Doing it right requires knowledge of what matters and what doesn't. You can find
 ### Ethanol precipitation of DNA
 Once the DNA has been extracted from the cells, it needs to be purified. This is accomplished via ethanol precipatation of DNA. As usual, [bitesizebio](https://bitesizebio.com/253/the-basics-how-ethanol-precipitation-of-dna-and-rna-works/) has an article about how it works. [Openwetware](https://openwetware.org/wiki/Ethanol_precipitation_of_nucleic_acids) has a protocol outlined. But you might be wondering about the chemistry behind it, so check [this](http://geneticeducation.co.in/a-quick-guide-on-dna-precipitation-and-dna-precipitation-protocol/) website out.
 
+### DNA extractions for Sperm
+Recent attempts at extracting DNA from sperm using the traditional Phenol/Chloroform technique has reminded me that DNA in gametes is packaged differently then in somatic cells. That is to say, it is tightly wound around proteins called protamines. These protamines also make it extremely difficult to extract DNA from spermatozoa and require additional chaotropic chemicals to disrupt the proteins. [AgScientific](https://agscientific.com/blog/2018/02/proteinase-k-sperm/) has a good webpage on various methods for extracting DNA from sperm. 
+
 ### Other 
 [This](https://pipettejockey.com/2018/11/13/dense-phase-separating-gel-homemade-trizol-combo/) website contains a lot of nifty DIY tricks for wetlab work
 
