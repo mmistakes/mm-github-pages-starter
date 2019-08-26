@@ -1,0 +1,47 @@
+Assembly	P_cali_8
+# contigs (>= 0 bp)	1851769
+# contigs (>= 1000 bp)	131899
+# contigs (>= 5000 bp)	39026
+# contigs (>= 10000 bp)	8852
+# contigs (>= 25000 bp)	328
+# contigs (>= 50000 bp)	11
+Total length (>= 0 bp)	1007051673
+Total length (>= 1000 bp)	584516010
+Total length (>= 5000 bp)	332013941
+Total length (>= 10000 bp)	125745248
+Total length (>= 25000 bp)	10357409
+Total length (>= 50000 bp)	656503
+# contigs	74045
+Largest contig	103765
+Total length	468431423
+Reference length	804620767
+GC (%)	36.89
+Reference GC (%)	37.01
+N50	6822
+NG50	3937
+N75	4694
+L50	22207
+LG50	54864
+L75	43012
+# misassemblies	41
+# misassembled contigs	39
+Misassembled contigs length	266331
+# local misassemblies	191
+# scaffold gap ext. mis.	0
+# scaffold gap loc. mis.	17
+# possible TEs	4
+# unaligned mis. contigs	2173
+# unaligned contigs	61729 + 12262 part
+Unaligned length	451104938
+Genome fraction (%)	1.638
+Duplication ratio	1.324
+# N's per 100 kbp	208.89
+# mismatches per 100 kbp	3762.96
+# indels per 100 kbp	506.62
+# genomic features	0 + 0 part
+Complete BUSCO (%)	40.92
+Partial BUSCO (%)	29.37
+Largest alignment	14876
+Total aligned length	16328463
+NGA50	-
+K-mer-based compl. (%)	0.29

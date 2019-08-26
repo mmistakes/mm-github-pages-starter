@@ -1,0 +1,4 @@
+All statistics are based on contigs of size >= 3000 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                P_cali_8
+K-mer-based compl. (%)  0.29    

@@ -1,0 +1,15 @@
+# BUSCO version is: 3.0.2 
+# The lineage dataset is: eukaryota_odb9 (Creation date: 2016-11-02, number of species: 100, number of BUSCOs: 303)
+# To reproduce this run: python /home/jeilers/anaconda2/bin/quast -i /media/jeilers/Elements/P_cali_genome/quast_corrected_input/P_cali_8.fa -o P_cali_8 -l /home/jeilers/anaconda2/lib/python2.7/site-packages/quast_libs/busco/eukaryota/ -m genome -c 10 -t /media/jeilers/Elements/P_cali_genome/busco_stats/tmp/ -sp fly --augustus_parameters ''''
+#
+# Summarized benchmarking in BUSCO notation for file /media/jeilers/Elements/P_cali_genome/quast_corrected_input/P_cali_8.fa
+# BUSCO was run in mode: genome
+
+	C:41.0%[S:29.4%,D:11.6%],F:29.4%,M:29.6%,n:303
+
+	124	Complete BUSCOs (C)
+	89	Complete and single-copy BUSCOs (S)
+	35	Complete and duplicated BUSCOs (D)
+	89	Fragmented BUSCOs (F)
+	90	Missing BUSCOs (M)
+	303	Total BUSCO groups searched

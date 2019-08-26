@@ -1,0 +1,7 @@
+1) The outer circle represents reference sequence with GC (%) heatmap [from 0% (white) to 55% (black)].
+
+2) Assembly tracks:
+	assembly1 - P_cali_8
+Assembly tracks are combined with mismatches visualization: higher columns indicate larger mismatch rate.
+
+3) User-provided genes. A darker color indicates higher density of genes.

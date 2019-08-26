@@ -1,0 +1,8 @@
+All statistics are based on contigs of size >= 3000 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                       P_cali_8 
+# fully unaligned contigs      61729    
+Fully unaligned length         369514091
+# partially unaligned contigs  12262    
+Partially unaligned length     81590847 
+# N's                          978495   

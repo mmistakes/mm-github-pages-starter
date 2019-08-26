@@ -1,0 +1,10 @@
+[M::mm_idx_gen::14.869*1.41] collected minimizers
+[M::mm_idx_gen::15.682*1.84] sorted minimizers
+[M::main::15.682*1.84] loaded/built the index for 3278 target sequence(s)
+[M::mm_mapopt_update::16.487*1.80] mid_occ = 200
+[M::mm_idx_stat] kmer size: 19; skip: 19; is_hpc: 0; #seq: 3278
+[M::mm_idx_stat::16.946*1.78] distinct minimizers: 51027523 (77.67% are singletons); average occurrences: 1.584; average spacing: 9.954
+[M::worker_pipeline::185.657*9.16] mapped 74045 sequences
+[M::main] Version: 2.11-r797
+[M::main] CMD: /home/jeilers/anaconda2/lib/python2.7/site-packages/quast_libs/minimap2/minimap2 -c -x asm5 --mask-level 0.9 --min-occ 200 -g 2500 --score-N 2 --cs -t 10 /media/jeilers/Elements/P_cali_genome/quast_corrected_input/A_jap_genome.fasta /media/jeilers/Elements/P_cali_genome/quast_corrected_input/P_cali_8.fa
+[M::main] Real time: 185.746 sec; CPU: 1701.045 sec
