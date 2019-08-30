@@ -1,0 +1,34 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+/* type scale */
+// $type-size-1 : 2.441em;  // ~39.056px
+// $type-size-2 : 1.953em;  // ~31.248px
+// $type-size-3 : 1.563em;  // ~25.008px
+// $type-size-4 : 1.25em;   // ~20px
+// $type-size-5 : 1em;      // ~16px
+// $type-size-6 : 0.75em;   // ~12px
+// $type-size-7 : 0.6875em; // ~11px
+// $type-size-8 : 0.625em;  // ~10px
+
+@charset "utf-8";
+$link-color: #207c7e !default;
+$primary-color: #89c348 !default;
+$border-color: #89c348 !default;
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+html {
+    font-size: 12px; // originally 16px
+    @include breakpoint($medium) {
+        font-size: 14px; // originally 18px
+    }
+
+    @include breakpoint($large) {
+        font-size: 16px; // originally 20px
+    }
+
+    @include breakpoint($x-large) {
+        font-size: 18px; // originally 22px
+    }
+}
