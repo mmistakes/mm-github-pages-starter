@@ -3,7 +3,7 @@ title: The Coop @ Fred Hutch
 layout: single
 permalink: /
 header:
-  overlay_image: http://www.sciencemag.org/sites/default/files/styles/inline__450w__no_aspect/public/images/13%20June%202014.jpg?itok=Eo7hIVqO
+  overlay_color: "#123054"
 excerpt: "The Fred Hutch Coop...."
 feature_row:
   - title: "Posts"
