@@ -87,7 +87,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: true
+      share: true # this is if you want to allow people to share the post on their own social media
       related: true
   # _pages
   - scope:
