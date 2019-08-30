@@ -16,14 +16,8 @@ The **Advanced Encryption Standard (AES)**, also known by its original name **Ri
 
 AES is a symmetric key algorithm, meaning the same key is used for both encryption and decryption of data.
 
-## AES In .NET Core
-[Aes](https://docs.microsoft.com/en-us/dotnet/api/system.security.cryptography.aes?view=netcore-2.2) represents the abstract base class from which all implementations of AES mush inherit. .NET also provides following implementations of AES at the time of writing.
-* AesCng
-* AesCryptoServiceProvider
-* AesManaged
-
-Aes abstract base class also provides static methods to create an instance of an implementation
-* Create() - creates an instance AesCryptoServiceProvider by default
+## Bouncy Castle
+[Bouncy Castle Crypto APIs](http://www.bouncycastle.org/index.html) are lightweight crypto APIs for Java and C#. In this article we will look at using C# implementation of AES.
 
 ## Implementation
 Lets start using AES in our code. We would need to include following namespaces.
