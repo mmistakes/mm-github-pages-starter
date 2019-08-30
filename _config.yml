@@ -29,7 +29,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Los_Angeles # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
@@ -56,9 +56,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "The coop"
+  name   : "The Fred Hutch Bioinformatics & Data Science Cooperative"
   avatar : "/assets/images/tinyH.png"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : #"My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"

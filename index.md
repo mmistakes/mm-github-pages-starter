@@ -1,6 +1,8 @@
 ---
 title: The Coop
 layout: single
+classes: wide
+author_profile: true
 permalink: /
 header:
   overlay_color: "#123054"
@@ -9,11 +11,6 @@ feature_row:
   - title: "Posts"
     excerpt: "See posts from the Coop."
     url: /posts/
-    btn_class: "btn--primary"
-    btn_label: "Read more"
-  - title: "Categories"
-    excerpt: "See posts by category."
-    url: /categories/
     btn_class: "btn--primary"
     btn_label: "Read more"
   - title: "Calendar"
@@ -26,5 +23,6 @@ feature_row:
     url: /about/
     btn_class: "btn--primary"
     btn_label: "About Us"
+share: true
 ---
 {% include feature_row %}
