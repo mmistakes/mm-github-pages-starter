@@ -19,6 +19,10 @@ feature_row:
     title: "Raw Data QC"
     excerpt: "Links to tools for sequence QC"
     url: "/sequenceQC/"
+  - image_path: /assets/images/genome-annotation.gif
+    title: "Gene Annotation"
+    excerpt: "Links to tools for Genome Annotation"
+    url: "/genomeannotation/"
 
 ---
 
