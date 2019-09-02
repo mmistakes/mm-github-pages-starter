@@ -14,6 +14,9 @@ Genome Annotation is a complex and difficult task. Below are some tools for anno
 ### Gene Annotation 
 
 [Augustus](http://bioinf.uni-greifswald.de/augustus/) is a program that predicts genes in eukaryotic genomic sequences.  
+
 [Braker](http://exon.gatech.edu/braker1.html) is a pipeline for fully automated prediction of protein coding genes with GeneMark-ES/ET and AUGUSTUS in novel eukaryotic genomes   
+
 [Genemark](http://exon.gatech.edu/GeneMark/) is a family of gene prediction programs.  
+
 [Maker2](http://www.yandell-lab.org/software/maker.html) is a portable and easily configurable genome annotation pipeline.  

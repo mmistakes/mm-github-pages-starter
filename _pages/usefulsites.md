@@ -20,7 +20,7 @@ feature_row:
     excerpt: "Links to tools for sequence QC"
     url: "/sequenceQC/"
   - image_path: /assets/images/genome-annotation.gif
-    title: "Gene Annotation"
+    title: "Genome Annotation"
     excerpt: "Links to tools for Genome Annotation"
     url: "/genomeannotation/"
 

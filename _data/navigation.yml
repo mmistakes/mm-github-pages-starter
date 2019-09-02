@@ -39,6 +39,8 @@ sidebar-main:
       url: /sequenceQC/
     - title: "Genome Assembly"
       url: /genomeassembly/ 
+    - title: "Genome Annotation"
+      url: /genomeannotation/
   - title: "About"
     url: /about/
  
