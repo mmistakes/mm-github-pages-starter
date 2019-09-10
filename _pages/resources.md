@@ -2,6 +2,7 @@
 title: "Edge Case: Nested and Mixed Lists"
 layout: single
 sitemap: true
+collection: resources
 permalink: /resources/
 author_profile: true
 ---
