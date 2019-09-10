@@ -20,11 +20,11 @@ description: Welcome to my website # this means to ignore newlines until "baseur
   # Google search results) and in your feed.xml site description.
 twitter_username: Anamika255
 github_username: Anamika255
-minimal_mistakes_skin: air
+minimal_mistakes_skin: dark
 search: true
 
-logo: "/assets/images/LOGO.png"
-masthead_title: "Is this the real life?"
+# logo: "/assets/images/LOGO.png"
+masthead_title: "Welcome to Mik-City"
 
 # Build settings
 markdown: kramdown
