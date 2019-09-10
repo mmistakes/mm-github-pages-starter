@@ -94,6 +94,12 @@ footer:
       icon: "google-scholar"
       icon_pack: "ai"
       url: "https://scholar.google.com/citations?user=lRnptscAAAAJ&hl=en"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/anamika-shreevastava-504528110/"
+    - label: "CV"
+      icon: "far fa-file-pdf"
+      url: "https://github.com/Anamika.github.io/CV_2019_Anamika.pdf
       
 
 defaults:
