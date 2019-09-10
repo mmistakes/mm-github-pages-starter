@@ -74,9 +74,19 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Anamika255"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/Anamika255_"
+  #  - label: "Instagram"
+  #    icon: "fab fa-fw fa-instagram"
+  #    url: "https://instagram.com/Anamika255_"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/anamika-shreevastava-504528110/"
+    - label: "CV"
+      icon: "far fa-fw fa-file-pdf"
+      url: "https://github.com/Anamika.github.io/CV_2019_Anamika.pdf"
+    - label: "Google Scholar"
+      icon: "google-scholar"
+      icon_pack: "ai"
+      url: "https://scholar.google.com/citations?user=lRnptscAAAAJ&hl=en"
       
 
 footer:
@@ -87,19 +97,6 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
-    - label: "Google Scholar"
-      icon: "google-scholar"
-      icon_pack: "ai"
-      url: "https://scholar.google.com/citations?user=lRnptscAAAAJ&hl=en"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/anamika-shreevastava-504528110/"
-    - label: "CV"
-      icon: "far fa-file-pdf"
-      url: "https://github.com/Anamika.github.io/CV_2019_Anamika.pdf
       
 
 defaults:
