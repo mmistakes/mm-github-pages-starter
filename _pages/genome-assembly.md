@@ -21,10 +21,10 @@ Below are links to papers, tutorials, and software used for these various approa
 
 [Velvet](http://sepsis-omics.github.io/tutorials/modules/velvet/) is an algorithm package that has been designed to deal with de novo genome assembly and short read sequencing alignments. This is achieved through the manipulation of de Bruijn graphs for genomic sequence assembly via the removal of errors and the simplification of repeated regions.  
 
-### Reference Assisted Genome Assembly Tools
-[H. Lischer](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5681816/) has published an excellent tool for reference assisted genome assembly. [Here](https://bitbucket.org/HeidiLischer/refguideddenovoassembly_pipelines/src/master/) is the bitbucket webpage containing her code. I have yet to get it to work, but someday I hope to.
+[Platanus-allee](http://platanus.bio.titech.ac.jp/) is an assembler derived from Platanus assembler, however, it was developed with another concept. Platanus-allee tries to construct each haplotype sequence from the beginning and pair them as homologous chromosomes, while Platanus constructs consensus sequence of homologous chromosomes at first and tries to split into each haplotype sequence.   
 
-[Platanus-allee](http://platanus.bio.titech.ac.jp/) is an assembler derived from Platanus assembler, however, it was developed with another concept. Platanus-allee tries to construct each haplotype sequence from the beginning and pair them as homologous chromosomes, while Platanus constructs consensus sequence of homologous chromosomes at first and tries to split into each haplotype sequence.    
+### Reference Assisted Genome Assembly Tools
+[H. Lischer](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5681816/) has published an excellent tool for reference assisted genome assembly. [Here](https://bitbucket.org/HeidiLischer/refguideddenovoassembly_pipelines/src/master/) is the bitbucket webpage containing her code. I have yet to get it to work, but someday I hope to.  
 
 [RECORD](https://sourceforge.net/projects/record-genome-assembler/files/) is a Reference-Assisted Genome Assembler for Closely Related Genomes  
 
