@@ -13,16 +13,18 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
+title: Anamika Shreevastava
+email: anamika255@gmail.com
+description: Welcome to my website # this means to ignore newlines until "baseurl:"
+  # Write an awesome description for your new site here. It will appear in your document head meta (for
+  # Google search results) and in your feed.xml site description.
+twitter_username: Anamika255
+github_username: Anamika255
+minimal_mistakes_skin: neon
 search: true
+
+logo: "/assets/images/bio-photo.jpg"
+masthead_title: "Is this Masthead?"
 
 # Build settings
 markdown: kramdown
@@ -58,22 +60,24 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Anamika Shreevastava"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "NASA Earth and Space Science Fellow. PhD candidate at Purdue University."
+  location: "Palo Alto, CA" 
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://Anamika255.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/Anamika255"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/Anamika255"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/Anamika255_"
+      
 
 footer:
   links:
@@ -93,7 +97,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: splash
       author_profile: true
       read_time: true
       comments: true
