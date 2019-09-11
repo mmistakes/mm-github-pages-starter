@@ -1,5 +1,5 @@
 ---
-title: "Polished products of my labour"
+title: "Quick look into my research"
 layout: single
 sitemap: true
 collection: research
