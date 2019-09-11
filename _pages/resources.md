@@ -1,5 +1,4 @@
 ---
-title: "Dive in"
 layout: single
 sitemap: true
 collection: resources
