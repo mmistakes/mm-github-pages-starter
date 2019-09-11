@@ -10,16 +10,16 @@ header:
     - label: "Learn More"
       url: "https://Anamika255.github.io/about/"
 excerpt: >
-  //
+  <br>
   NASA Earth Science Fellow studying Urban Climate Complexity.
-  //
-  //
+  <br>
+  <br>
   PhD candidate at Purdue University
-  //
-  //
+  <br>
+  <br>
   and a digital nomad.
-  //
-  //
+  <br>
+  <br>
 ---
 
 <!--
