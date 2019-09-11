@@ -5,9 +5,10 @@ sitemap: true
 collection: resources
 permalink: /resources/
 author_profile: true
+toc: true
+toc_label: "Unique Title"
+toc_icon: "grin-stars"  # corresponding Font Awesome icon name (without fa prefix)
 ---
-
-![](/assets/images/Stat_Wars.png)
 
 Some useful tools I have build for my research. Any suggestions for improvement will be highly appreciated.
 
@@ -27,25 +28,7 @@ Some useful tools I have build for my research. Any suggestions for improvement 
 
 ### Ordered -- Unordered -- Unordered
 
-1. ordered item
-2. ordered item
-   * **unordered**
-   * **unordered**
-     * unordered item
-     * unordered item
-3. ordered item
-4. ordered item
-
-### Unordered -- Ordered -- Unordered
-
-* unordered item
-* unordered item
-  1. ordered
-  2. ordered
-     * unordered item
-     * unordered item
-* unordered item
-* unordered item
+![](/assets/images/Stat_Wars.png)
 
 ### Unordered -- Unordered -- Ordered
 
