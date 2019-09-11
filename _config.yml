@@ -82,7 +82,7 @@ author:
       url: "https://www.linkedin.com/in/anamika-shreevastava-504528110/"
     - label: "CV"
       icon: "far fa-fw fa-file-pdf"
-      url: "https://github.com/Anamika.github.io/CV_2019_Anamika.pdf"
+      url: "/assets/files/CV_2019_JSMF.pdf"
     - label: "Google Scholar"
       icon: "google-scholar"
       icon_pack: "ai"
