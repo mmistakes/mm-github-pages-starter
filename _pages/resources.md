@@ -1,5 +1,5 @@
 ---
-title: "Edge Case: Nested and Mixed Lists"
+title: "Here are some rewards for visiting my website"
 layout: single
 sitemap: true
 collection: resources
@@ -8,12 +8,12 @@ author_profile: true
 ---
 
 
-Nested and mixed lists are an interesting beast. It's a corner case to make sure that
+Some useful tools I have build for my research. Any suggestions for improvement will be highly appreciated.
 
-* Lists within lists do not break the ordered list numbering order
-* Your list styles go deep enough.
+* [WRF domain visualer in Google Earth Engine](https://code.earthengine.google.com/b49019fd1f97e7313b143992a717726c). 
+* [Land Surface Temperature from Landsat images](https://code.earthengine.google.com/36460b55b5c8688d50e27cbb073a0ef9)
 
-### Ordered -- Unordered -- Ordered
+### Other links I find useful
 
 1. ordered item
 2. ordered item 
