@@ -1,23 +1,25 @@
 ---
-title: "Here you reap the reward for visiting my website"
+title: "Dive in"
 layout: single
 sitemap: true
 collection: resources
 permalink: /resources/
 author_profile: true
 toc: true
-toc_label: "Unique Title"
+toc_label: "Quick Links"
 toc_icon: "grin-stars"  # corresponding Font Awesome icon name (without fa prefix)
 ---
 
-Some useful tools I have build for my research. Any suggestions for improvement will be highly appreciated.
+Some useful tools I have built for my research. Any suggestions for improvement will be highly appreciated.
 
-* [WRF domain visualer in Google Earth Engine](https://code.earthengine.google.com/b49019fd1f97e7313b143992a717726c).
+* [WRF domain visualizer in Google Earth Engine](https://code.earthengine.google.com/b49019fd1f97e7313b143992a717726c)
 * [Land Surface Temperature from Landsat images](https://code.earthengine.google.com/36460b55b5c8688d50e27cbb073a0ef9)
 
-### Other links I find useful
+### Interactive Science Communication
 
-1. ordered item
+I am extremely passionate about data visualization. I think, understand, learn and teach visually. Here are some compelling narratives that inspire me.
+
+1. Vi Hart's segregation model.
 2. ordered item
    * **unordered**
    * **unordered**
