@@ -12,8 +12,6 @@ header:
 author_profile: true
 ---
 
-![](/assets/images/Networks.jpg)
-
 # Hello there!
 
 My name is Anamika Shreevastava.
