@@ -14,6 +14,11 @@ excerpt: >
   NASA Earth Science Fellow studying Urban Climate Complexity.
   >
   >
+  PhD candidate at Purdue University
+  >
+  >
+  and a digital nomad.
+  >
   >
 ---
 
