@@ -4,7 +4,7 @@ permalink: /
 title: "Anamika Shreevastava"
 header:
   overlay_image: /assets/images/City_NYC.jpg
-  overlay_filter: 0.5
+  overlay_filter: 0.2
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
     - label: "Learn More"
