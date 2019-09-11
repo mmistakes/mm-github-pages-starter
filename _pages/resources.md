@@ -1,5 +1,5 @@
 ---
-title: "Here are some rewards for visiting my website"
+title: "Here you reap the reward for visiting my website"
 layout: single
 sitemap: true
 collection: resources
