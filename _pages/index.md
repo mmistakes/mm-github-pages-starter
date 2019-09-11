@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 title: "Anamika Shreevastava"
 header:
-  overlay_image: /assets/images/City_JCGellidon.jpg
+  overlay_image: /assets/images/City_NYC.jpg
   overlay_filter: 0.5
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
