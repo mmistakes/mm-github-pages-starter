@@ -6,8 +6,9 @@ collection: resources
 permalink: /resources/
 author_profile: true
 toc: true
+toc_sticky: true
 toc_label: "Quick Links"
-toc_icon: "grin-stars"  # corresponding Font Awesome icon name (without fa prefix)
+toc_icon: "list-ul"  # corresponding Font Awesome icon name (without fa prefix)
 ---
 
 Some useful tools I have built for my research. Any suggestions for improvement will be highly appreciated.
