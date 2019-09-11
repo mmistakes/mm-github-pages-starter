@@ -4,7 +4,6 @@ permalink: /
 title: "Testing Overlay Image with OpenGraph Override"
 header:
   overlay_image: /assets/images/Sun-City.jpeg
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
     - label: "Learn More"
