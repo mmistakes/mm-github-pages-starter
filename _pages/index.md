@@ -4,13 +4,13 @@ permalink: /
 title: "Anamika Shreevastava"
 header:
   overlay_image: /assets/images/City_JCGellidon.jpg
+  overlay_filter: 0.5
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
     - label: "Learn More"
       url: "https://Anamika255.github.io/about/"
 excerpt: >
-  NASA Earth Science Fellow studying the complexity of intra-urban heat islets
-author_profile: true
+  NASA Earth Science Fellow studying the complexity of urban climate
 feature_row:
   - image_path: /assets/images/World_Map.png
     alt: "Research"
