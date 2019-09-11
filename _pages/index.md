@@ -1,6 +1,7 @@
 ---
 layout: splash
 permalink: /
+classes: wide
 title: "Anamika Shreevastava"
 header:
   overlay_image: /assets/images/City-night.jpg
@@ -11,13 +12,10 @@ header:
       url: "https://Anamika255.github.io/about/"
 excerpt: >
   <br>
-  NASA Earth Science Fellow studying Urban Climate Complexity.
+  [**NASA Earth Science Fellow**](https://lcluc.umd.edu/meetings/2019-nasa-lcluc-spring-science-team-meeting) studying Urban Climate Complexity.
   <br>
   <br>
-  PhD candidate at Purdue University
-  <br>
-  <br>
-  and a digital nomad.
+  PhD candidate at [**Purdue University**](https://www.purdue.edu) and a digital nomad.
   <br>
   <br>
 ---
