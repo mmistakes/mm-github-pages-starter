@@ -10,7 +10,11 @@ header:
     - label: "Learn More"
       url: "https://Anamika255.github.io/about/"
 excerpt: >
-  NASA Earth Science Fellow studying the complexity of urban climate
+  NASA Earth Science Fellow studying the complexity of urban climate   
+---
+
+<!--
+
 feature_row:
   - image_path: /assets/images/World_Map.png
     alt: "Research"
@@ -32,10 +36,8 @@ feature_row:
     excerpt: "Dive in for links to useful tools and online documents that I have curated over the years"
     url: "/resources/"
     btn_class: "btn--primary"
-    btn_label: "Resources"      
----
+    btn_label: "Resources"
 
-<!--
 # Hello there! I am a PhD student at [Purdue University](https://www.purdue.edu/). This is my website under construction. Should be up and running by October 1st.
 
 ---
