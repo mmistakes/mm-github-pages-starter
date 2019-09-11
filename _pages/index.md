@@ -1,9 +1,9 @@
 ---
-layout: home
+layout: splash
 permalink: /
 title: "Testing Overlay Image with OpenGraph Override"
 header:
-  overlay_image: /assets/images/Sun-City.jpeg
+  overlay_image: /assets/images/Networks.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
     - label: "Learn More"
