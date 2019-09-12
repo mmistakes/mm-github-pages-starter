@@ -19,13 +19,18 @@ excerpt: >
 feature_row:
   - image_path: /assets/images/World_Map.png
     alt: "Research"
-    title: [Research](/research/){: .btn .btn--primary .btn--x-large}
+    title: "Research"
     excerpt: "Insert 3-line summary about my research. Also see Publications and Presentations for more details"
-
+    url: "/research/"
+    btn_class: "btn--primary"
+    btn_label: "Research"
   - image_path: /assets/images/Networks.jpg
-    title: ["Other Projects"](/research/){: .btn .btn--primary .btn--x-large}
+    alt: "Projects"
+    title: "Other Projects"
     excerpt: "Here is everything else."
-
+    url: "/projects/"
+    btn_class: "btn--primary"
+    btn_label: "Projects"
   - image_path: /assets/images/Stat_Wars.png
     alt: "Resources"
     title: "Resources"
