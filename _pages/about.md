@@ -11,7 +11,6 @@ author_profile: true
 
 <figure style="width: 500px" class="align-right">
   <img src="/assets/images/London_me.jpg" alt="">
-  <figcaption>London, one of the most architecturally amazing cities that I have roamed in.</figcaption>
 </figure>
 
 Hello!! I am Anamika. I am currently a doctoral student at [Purdue University](https://www.purdue.edu) pursuing an interdisciplinary Ph.D. I have a [background](/assets/files/CV_2019_JSMF.pdf) in Civil and Architectural Engineering, and I am now studying Statistical Physics, Complex Networks, Urban Meteorology, and Remote Sensing for understanding the [intra-urban complexity of the Urban Heat Island](/research/).
