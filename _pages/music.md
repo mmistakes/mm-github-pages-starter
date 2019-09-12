@@ -23,8 +23,11 @@ gallery:
 
 Apart from science, I like to perform live music. I am the guitarist and vocalist of an indo-western fusion band at Purdue called [Tatvam](https://www.facebook.com/TatvamPurdue/).
 
-{% include gallery caption="Bandmates and me" %}
-![](/assets/music/Tatvam_old.jpg)
+{% include gallery class="full" caption="Bandmates and me" %}
+
+<figure style="width: 1000px" class="align-center">
+  <img src="/assets/music/Tatvam_old.jpg" alt="">
+</figure>
 
 Peek into how most of our Purdue evenings and weekends look like.
 
