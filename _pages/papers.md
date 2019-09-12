@@ -1,7 +1,9 @@
 ---
 permalink: /papers/
-title: "Publications"
-classes: wide
+toc: true
+toc_sticky: true
+toc_label: "Quick Links"
+toc_icon: "list-ul"
 author_profile: true
 ---
 
