@@ -20,14 +20,14 @@ feature_row:
   - image_path: /assets/images/World_Map.png
     alt: "Research"
     title: "Research"
-    excerpt: "Insert 3-line summary about my [research](https://Anamika255.github.io/research/). Also see Publications and Presentations for more details."
+    excerpt: "My doctoral research is focussed on the spatial complexity of intra-urban heat island"
     url: "/research/"
     btn_class: "btn--primary"
     btn_label: "Research"
   - image_path: /assets/images/Networks.jpg
     alt: "Projects"
     title: "Other Projects"
-    excerpt: "Here is everything else. Here is everything else. Here is everything else."
+    excerpt: "A brief summary of some interesting projects I have done"
     url: "/projects/"
     btn_class: "btn--primary"
     btn_label: "Projects"
