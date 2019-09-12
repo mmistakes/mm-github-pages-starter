@@ -5,11 +5,13 @@ classes: wide
 author_profile: true
 ---
 
+<!--
 Most of my publications should be indexed in my Google Scholar profile. However, I will try to keep the most recent version of my publications here as well. Additionally, many of my preprints can be found in [EarthArXiv](https://eartharxiv.org/).
+-->
 
-# Journal publications
+## Journal publications
 
-1. Shreevastava, A., Rao, P. S. C., & McGrath, G. S. (2019) Emergent self-similarity and scaling properties of fractal intra-urban heat islets for diverse global cities. Physical Reviews E (in press) [preprint](https://eartharxiv.org/t9s3g) [pdf](https://github.com/Anamika255/Anamika255.github.io/assets/files/PRE_preprint_pdf.pdf)
+1. | **Shreevastava, A.**, Rao, P. S. C., & McGrath, G. S. (2019) Emergent self-similarity and scaling properties of fractal intra-urban heat islets for diverse global cities. Physical Reviews E (in press) | [preprint](https://eartharxiv.org/t9s3g) | [pdf](https://github.com/Anamika255/Anamika255.github.io/assets/files/PRE_preprint_pdf.pdf)
 
 2. Shreevastava, A., Bhalachandran, S., McGrath, G.S., Huber, M., & Rao, P.S.C. (2019). Spatial
 organization of intra-urban extreme heat in global cities (in review with Nature Scientific Reports).
