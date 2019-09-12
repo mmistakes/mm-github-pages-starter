@@ -22,10 +22,9 @@ classes: wide
 </figure>
 -->
 
-Apart from science, I like to perform live music. I am the guitarist and vocalist of an indo-western fusion band at Purdue called [Tatvam](https://www.facebook.com/TatvamPurdue/).
+I love to perform live music, and I am the guitarist and vocalist of an indo-western fusion band at Purdue called [Tatvam](https://www.facebook.com/TatvamPurdue/). We have performed at several live sets at Purdue, Lafayette, Urbana-Champaign, and Chicago.
 
 <!--{% include gallery class="full" caption="Bandmates and me" %}-->
-
 
 <figure style="width: 500px" class="align-left">
   <img src="/assets/music/Tatvam_new.jpg" alt="">
