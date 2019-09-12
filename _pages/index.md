@@ -4,7 +4,7 @@ permalink: /
 classes: wide
 title: "Anamika Shreevastava"
 header:
-  overlay_image: /assets/city-pics/City_JCGellidon.jpg
+  overlay_image: assets/city-pics/zach-miles-Y84-eo8drzk-unsplash.jpg
   overlay_filter: 0.5
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
