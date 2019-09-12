@@ -4,14 +4,13 @@ layout: collection
 collection: music
 title: "Music"
 author_profile: true
-classes: wide
 ---
 
-<figure style="width: 450px" class="align-right">
+<figure style="width: 400px" class="align-right">
   <img src="/assets/music/Me-Prash.jpg" alt="">
 </figure>
 
-Apart from science, I am also very interested in music. I am the guitarist and vocalist of an indo-western fusion band at Purdue called [Tatvam](https://www.facebook.com/TatvamPurdue/).
+Apart from science, I like to perform live music. I am the guitarist and vocalist of an indo-western fusion band at Purdue called [Tatvam](https://www.facebook.com/TatvamPurdue/). 
 
 ![](/assets/music/Tatvam_old.jpg)
 
