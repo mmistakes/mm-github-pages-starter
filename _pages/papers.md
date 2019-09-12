@@ -27,3 +27,9 @@ Urban Heat Island. Land Surface and Cryosphere Remote Sensing IV (Vol. 10777, p.
 
 5. Ching, J., et al (2018). WUDAPT: An urban weather, climate, and environmental modeling
 infrastructure for the Anthropocene. Bulletin of the American Meteorological Society, 99(9).
+
+## Invited talks
+
+
+
+## Conference presentations
