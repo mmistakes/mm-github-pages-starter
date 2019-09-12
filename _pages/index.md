@@ -12,9 +12,12 @@ header:
       url: "https://Anamika255.github.io/about/"
 excerpt: >
   <br>
-  **NASA Earth Science Fellow** studying Urban Climate Complexity.
+  <br>
+  **NASA Earth Science Fellow** studying Urban Complexity.
+  <br>
   <br>
   PhD candidate at **Purdue University** and a digital nomad.
+  <br>  
   <br>
 feature_row:
   - image_path: /assets/images/World_Map.png
