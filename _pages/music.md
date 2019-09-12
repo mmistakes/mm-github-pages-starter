@@ -26,7 +26,7 @@ Apart from science, I like to perform live music. I am the guitarist and vocalis
 
 <!--{% include gallery class="full" caption="Bandmates and me" %}-->
 
-<figure style="width: 220px" class="align-left">
+<figure style="width: 250px" class="align-left">
   <img src="/assets/music/Me-Prash.jpg" alt="">
 </figure>
 
