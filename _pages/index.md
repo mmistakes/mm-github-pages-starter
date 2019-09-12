@@ -42,15 +42,7 @@ feature_row:
     btn_label: "Resources"
 ---
 
-{% include feature_row id="intro" type="center" %}
-
 {% include feature_row %}
-
-{% include feature_row id="feature_row2" type="left" %}
-
-{% include feature_row id="feature_row3" type="right" %}
-
-{% include feature_row id="feature_row4" type="center" %}
 
 <!--
 # Hello there! I am a PhD student at [Purdue University](https://www.purdue.edu/). This is my website under construction. Should be up and running by October 1st.
