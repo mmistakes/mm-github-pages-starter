@@ -7,16 +7,18 @@ author_profile: true
 entries_layout: grid
 ---
 
-
 Apart from science, I am also very interested in music. I am the guitarist and vocalist of an indo-western fusion band at Purdue called [Tatvam](https://www.facebook.com/TatvamPurdue/).
 
 Peek into how most of our Purdue evenings and weekends look like.
+https://www.youtube.com/watch?v=eCTJRunFqe0
 
-<iframe width="450" height="300" src="https://www.youtube.com/watch?v=eCTJRunFqe0&list=PL8YKDyHtEeDIzmWbaFpf4LKCXRN8MKqMX&index=1" frameborde    r="0" allowfullscreen></iframe>
+**What is Tatvam?**
+{% include video id="eCTJRunFqe0" provider="youtube" %}
 
 <br/>
 
-<iframe width="450" height="300" src="https://www.youtube.com/watch?v=69kG1THiEnY" frameborde    r="0" allowfullscreen></iframe>
+**What do we do at Tatvam?**
+{% include video id="69kG1THiEnY" provider="youtube" %}
 
 <br/>
 
