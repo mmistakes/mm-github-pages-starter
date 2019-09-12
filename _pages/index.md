@@ -5,7 +5,7 @@ classes: wide
 title: "Anamika Shreevastava"
 header:
   overlay_image: assets/city-pics/zach-miles-Y84-eo8drzk-unsplash.jpg
-  overlay_filter: 0.5
+  overlay_filter: 0.6
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
     - label: "Explore"
