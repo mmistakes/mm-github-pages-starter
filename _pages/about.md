@@ -26,5 +26,5 @@ When I am procrastinating, I love to just look at the Earth using satellite imag
 
 
 <figure class="align-center">
-  <img src="/assets/city-pics/aditya-chinchure-p0D5zWMaEa0-unsplash.jpg" alt="">
+  <img src="/assets/city-pics/London.jpg" alt="">
 </figure>
