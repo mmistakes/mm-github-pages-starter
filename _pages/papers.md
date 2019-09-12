@@ -39,6 +39,8 @@ Ching, J., et al, including **Shreevastava, A.** (2018). WUDAPT: An urban weathe
 
 **Shreevastava, A.**, Bhalachandran, S., Krueger, E., Rao, P.S.C., Modak, P., and Niyogi, D. (2017) A Resilience Analysis of 100 Climate Proofing Strategies of the C-40 Cities. <i>97th AMS Annual Meeting, Seattle, WA.</i> (Poster) [link](https://ams.confex.com/ams/97Annual/webprogram/Paper313617.html){: .btn .btn--light-outline} [pdf](/assets/files/C40_AMS-Poster.pdf){: .btn .btn--light-outline} |
 
+Niyogi, D., Bhalachandran, S., Brousse, O., Jain, M., **Shreevastava, A.**, Jain, A.P. (2017) Investigation of the Impact of Urbanization Under the 2015 Delhi Heat Wave Scenario <i>97th AMS Annual Meeting, Seattle, WA.</i> 13th Symposium of the Urban Environment. [link](https://ams.confex.com/ams/97Annual/webprogram/Paper313616.html){: .btn .btn--light-outline} |
+
 ## Seminars and invited talks
 
 NASA Land Cover Land Use Change (LCLUC) Science Team meeting, Rockville, MD (2019) [link](https://lcluc.umd.edu/meetings/2019-nasa-lcluc-spring-science-team-meeting){: .btn .btn--light-outline}. |
