@@ -13,6 +13,7 @@ gallery:
     image_path: /assets/music/Tatvam_new.jpg
     alt: "placeholder image 2"
     title: "Image 2 title caption"
+classes: wide
 ---
 
 <!--
@@ -33,7 +34,7 @@ Apart from science, I like to perform live music. I am the guitarist and vocalis
   <img src="/assets/music/Tatvam_new.jpg" alt="">
 </figure>
 
-<figure class="align-center">
+<figure style="width: 950px" class="align-center">
   <img src="/assets/music/Tatvam_old.jpg" alt="">
 </figure>
 
