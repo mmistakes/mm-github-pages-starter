@@ -19,8 +19,8 @@ excerpt: >
 feature_row:
   - image_path: /assets/images/World_Map.png
     alt: "Research"
-    title: "[**Research**](https://Anamika255.github.io/research/)"
-    excerpt: "Insert 3-line summary about my research. Also see Publications and Presentations for more details. Testing if it synced."
+    title: "Research"
+    excerpt: "Insert 3-line summary about my [research](https://Anamika255.github.io/research/). Also see Publications and Presentations for more details. Testing if it synced."
     url: "/research/"
     btn_class: "btn--primary"
     btn_label: "Research"
