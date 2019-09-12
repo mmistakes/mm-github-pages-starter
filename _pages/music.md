@@ -25,11 +25,11 @@ Apart from science, I like to perform live music. I am the guitarist and vocalis
 
 <!--{% include gallery class="full" caption="Bandmates and me" %}-->
 
-<figure style="width: 200px" class="align-left">
+<figure style="width: 220px" class="align-left">
   <img src="/assets/music/Me-Prash.jpg" alt="">
 </figure>
 
-<figure style="width: 200px" class="align-right">
+<figure style="width: 300px" class="align-right">
   <img src="/assets/music/Tatvam_new.jpg" alt="">
 </figure>
 
