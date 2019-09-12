@@ -4,10 +4,10 @@ layout: collection
 collection: music
 title: "Music"
 author_profile: true
-entries_layout: grid
+classes: wide
 ---
 
-<figure style="width: 350px" class="align-right">
+<figure style="width: 450px" class="align-right">
   <img src="/assets/music/Me-Prash.jpg" alt="">
 </figure>
 
