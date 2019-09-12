@@ -1,17 +1,19 @@
 ---
 permalink: /projects/
+collection: projects
 title: "Projects"
 author_profile: true
-toc: true
-toc_sticky: true
-toc_label: "Quick Links"
-toc_icon: "list-ul"
+
 entries_layout: grid
 ---
 
-{% include base_path %}
+<!--
+title: Portfolio
+layout: collection
+permalink: /portfolio/
+collection: portfolio
+entries_layout: grid
+classes: wide
+-->
 
-
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
+Sample document listing for the collection `_projects`.
