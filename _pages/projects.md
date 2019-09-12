@@ -9,5 +9,9 @@ toc_icon: "list-ul"
 entries_layout: grid
 ---
 
+{% include base_path %}
 
-Coming soon!
+
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}

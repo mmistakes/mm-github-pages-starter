@@ -19,7 +19,7 @@ excerpt: >
 feature_row:
   - image_path: /assets/images/World_Map.png
     alt: "Research"
-    title: "Research"
+    title: "[**Research**](/Research/)"
     excerpt: "Insert 3-line summary about my research. Also see Publications and Presentations for more details"
     url: "/research/"
     btn_class: "btn--primary"
