@@ -8,27 +8,24 @@ header:
   overlay_filter: 0.5
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
-    - label: "Learn More"
+    - label: "Explore"
       url: "https://Anamika255.github.io/about/"
 excerpt: >
   <br>
   **NASA Earth Science Fellow** studying Urban Climate Complexity.
   <br>
-  <br>
   PhD candidate at **Purdue University** and a digital nomad.
-  <br>
   <br>
 feature_row:
   - image_path: /assets/images/World_Map.png
-    alt: "Research"
-    title: "Research"
-    excerpt: "Insert 3-line summary about my research. Also see Publications and Presentations for more details"
     url: "/research/"
     btn_class: "btn--primary"
     btn_label: "Research"
+    excerpt: "Insert 3-line summary about my research. Also see Publications and Presentations for more details"
+
   - image_path: /assets/images/Networks.jpg
     alt: "Projects"
-    title: "Other unpublished work"
+    title: "Other Projects"
     excerpt: "Here is everything else."
     url: "/projects/"
     btn_class: "btn--primary"
