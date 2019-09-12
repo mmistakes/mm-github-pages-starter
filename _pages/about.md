@@ -9,7 +9,7 @@ author_profile: true
 ---
 
 
-<figure style="width: 450px" class="align-right">
+<figure style="width: 500px" class="align-right">
   <img src="/assets/images/London_me.jpg" alt="">
   <figcaption>London, one of the most architecturally amazing cities that I have roamed in.</figcaption>
 </figure>
