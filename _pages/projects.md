@@ -16,4 +16,10 @@ entries_layout: grid
 classes: wide
 -->
 
-Sample document listing for the collection `_projects`. I added collection. 
+Sample document listing for the collection `_projects`. I added collection and the site-projects.
+
+{% include base_path %}
+
+{% for post in site.projects %}
+  {% include archive-single.html %}
+{% endfor %}
