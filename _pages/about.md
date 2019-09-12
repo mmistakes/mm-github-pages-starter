@@ -24,4 +24,7 @@ Apart from science, I am into music. I am a singer/guitarist with a [band](/musi
 
 When I am procrastinating, I love to just look at the Earth using satellite imagery. I have spent countless hours on Google Earth and in flights admiring the beauty of our planet. Luckily for me, my work was responsible for half of that. These days, I can be found staring at the [Live Aerial screen savers](https://support.apple.com/en-us/HT208992) hosted by Apple TV.
 
-![](assets/city-pics/aditya-chinchure-p0D5zWMaEa0-unsplash.jpg)
+
+<figure class="align-center">
+  <img src="/assets/city-pics/aditya-chinchure-p0D5zWMaEa0-unsplash.jpg" alt="">
+</figure>
