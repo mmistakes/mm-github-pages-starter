@@ -1,6 +1,7 @@
 ---
 title: "Quick look into my research"
 layout: single
+classes: wide
 sitemap: true
 collection: research
 permalink: /research/
