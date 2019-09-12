@@ -41,6 +41,6 @@ author_profile: true
 
 ## Seminars and invited talks
 
-1. NASA Land Cover Land Use Change (LCLUC) Science Team meeting, Rockville, MD (2019) [link](https://lcluc.umd.edu/meetings/2019-nasa-lcluc-spring-science-team-meeting){: .btn .btn--light-outline}.
+1. NASA Land Cover Land Use Change (LCLUC) Science Team meeting, Rockville, MD (2019) [link](https://lcluc.umd.edu/meetings/2019-nasa-lcluc-spring-science-team-meeting){: .btn .btn--light-outline}. |
 
-2. NASA Ames, Mountainview, CA. (June 2019).
+2. NASA Ames, Mountainview, CA. (June 2019). |
