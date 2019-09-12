@@ -12,7 +12,7 @@ author_profile: true
 
 ## Intra-urban heat islets
 
-![](/assets/images/World_Map.png)
+<!-- ![](/assets/images/World_Map.png) -->
 
 Text Holder. Here I'll write a summary of each research project. Coming soon!
 
