@@ -19,6 +19,6 @@ classes: wide
 Sample document listing for the collection `_projects`. I added collection and the site-projects.
 
 {% include base_path %}
-
+  {% include archive-single.html %}
 {% for post in site.projects %}
 {% endfor %}
