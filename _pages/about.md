@@ -10,7 +10,8 @@ author_profile: true
 
 
 <figure style="width: 450px" class="align-right">
-  <img src="/assets/images/Research-Venn.png" alt="">
+  <img src="/assets/images/London_me.jpg" alt="">
+  <figcaption>London, one of the most architecturally amazing cities that I have roamed in.</figcaption>
 </figure>
 
 Hello!! I am Anamika. I am currently a doctoral student at [Purdue University](https://www.purdue.edu) pursuing an interdisciplinary Ph.D. I have a [background](assets/files/CV_2019_JSMF.pdf) in Civil and Architectural Engineering, and I am now studying Statistical Physics, Complex Networks, Urban Meteorology, and Remote Sensing for understanding the [intra-urban complexity of the Urban Heat Island](/research/).
@@ -22,3 +23,5 @@ I come from India, where I have mostly lived in Ranchi - my hometown (now known 
 Apart from science, I am into music. I am a singer/guitarist with a [band](/music/) of fellow Ph.D. students at Purdue. I do mostly covers, and have only ever written **one original song**, that was for my best friend, bandmate, fellow scientist, and now husband - [Sai Prasanth](https://sites.google.com/view/saiprasanth).
 
 When I am procrastinating, I love to just look at the Earth using satellite imagery. I have spent countless hours on Google Earth and in flights admiring the beauty of our planet. Luckily for me, my work was responsible for half of that. These days, I can be found staring at the [Live Aerial screen savers](https://support.apple.com/en-us/HT208992) hosted by Apple TV.
+
+![](assets/city-pics/aditya-chinchure-p0D5zWMaEa0-unsplash.jpg)
