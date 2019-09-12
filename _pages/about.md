@@ -26,5 +26,5 @@ When I am procrastinating, I love to just look at the Earth using satellite imag
 
 <figure class="align-center">
   <img src="/assets/city-pics/London.jpg" alt="">
-  <figcaption>To London, one of the most architecturally stunning cities I have ever walked in. I think it was the mix of old and new that most enchanted me! Photo credit: [**Unsplash**](https://unsplash.com)</figcaption>
+  <figcaption>To London, one of the most architecturally stunning cities I have ever walked in. I think it was the mix of old and new that most enchanted me! Photo credit: <a href="https://unsplash.com">Unsplash</a></figcaption>
 </figure>
