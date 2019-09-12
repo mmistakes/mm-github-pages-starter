@@ -16,4 +16,6 @@ author_profile: true
 
 Text Holder. Here I'll write a summary of each research project. Coming soon!
 
-![image-right](/assets/images/Research-Venn.png){: .align-right}
+<figure style="width: 300px" class="align-right">
+  <img src="/assets/images/Research-Venn.png" alt="">
+</figure>
