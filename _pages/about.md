@@ -6,9 +6,8 @@ author_profile: true
 ---
 
 <figure style="width: 250px" class="align-right">
-  <img src="assets/city-pics/Night.jpg" alt="">
+  <img src="assets/city-pics/Night2.jpg" alt="">
 </figure>
-caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 
 Hello! I am Anamika Shreevastava. I am a PhD candidate at Purdue University. My research interests lie at the intersection of urban meteorology and complex system science. I use remote sensing and geospatial analysis for my research.
 
