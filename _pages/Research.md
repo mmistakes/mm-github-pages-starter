@@ -8,11 +8,13 @@ permalink: /research/
 author_profile: true
 ---
 
-<figure style="width: 400px" class="align-right">
+<figure style="width: 450px" class="align-right">
   <img src="/assets/images/Research-Venn.png" alt="">
 </figure>
 
-Text Holder. Here I'll write a summary of each research project. Coming soon! Text Holder. Here I'll write a summary of each research project. Coming soon! Text Holder. Here I'll write a summary of each research project. Coming soon! Text Holder. Here I'll write a summary of each research project. Coming soon! Text Holder. Here I'll write a summary of each research project. Coming soon! Text Holder. Here I'll write a summary of each research project. Coming soon! Text Holder. Here I'll write a summary of each research project. Coming soon! Text Holder. Here I'll write a summary of each research project. Coming soon! Text Holder. Here I'll write a summary of each research project. Coming soon! Text Holder. Here I'll write a summary of each research project. Coming soon!
+Text Holder. Here I'll write a summary of each research project. Coming soon! Text Holder. Here I'll write a summary of each research project. Coming soon! Text Holder. Here I'll write a summary of each research project. Coming soon! Text Holder. Here I'll write a summary of each research project. Coming soon! Text Holder. Here I'll write a summary of each research project. Coming soon! Text Holder. Here I'll write a summary of each research project. Coming soon! Text Holder. Here I'll write a summary of each research project. Coming soon! Text Holder.
+
+Here I'll write a summary of each research project. Coming soon! Text Holder. Here I'll write a summary of each research project. Coming soon! Text Holder. Here I'll write a summary of each research project. Coming soon!
 
 
 ## Intra-urban heat islets
