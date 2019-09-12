@@ -21,5 +21,4 @@ Sample document listing for the collection `_projects`. I added collection and t
 {% include base_path %}
 
 {% for post in site.projects %}
-  {% include archive-single.html %}
 {% endfor %}
