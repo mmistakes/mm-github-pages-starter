@@ -13,7 +13,6 @@ Apart from science, I am also very interested in music. I am the guitarist and v
 ![](/assets/music/Tatvam_old.png)
 
 Peek into how most of our Purdue evenings and weekends look like.
-https://www.youtube.com/watch?v=eCTJRunFqe0
 
 **What is Tatvam?**
 {% include video id="eCTJRunFqe0" provider="youtube" %}
@@ -25,6 +24,6 @@ https://www.youtube.com/watch?v=eCTJRunFqe0
 
 <br/>
 
-For more, check out my band's <a href="https://www.youtube.com/channel/UCBlDeRAwAAP_SeVPqmVi_HQ">YouTube channel</a>.
+For more, check out my band's [YouTube Channel](https://www.youtube.com/channel/UCBlDeRAwAAP_SeVPqmVi_HQ)
 
 During my undergrad in IIT Roorkee, India, I led the [IITR Music team](https://www.youtube.com/channel/UCUAm7WhqNFUytNPs6VaUK-Q).
