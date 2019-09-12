@@ -19,19 +19,13 @@ Some useful tools I have built for my research. Any suggestions for improvement 
 
 I am extremely passionate about data visualization. I think, understand, learn and teach visually. Here are some compelling narratives that inspire me.
 
-1. Vi Hart's segregation model.
-2. ordered item
-   * **unordered**
-   * **unordered**
-     1. ordered item
-     2. ordered item
-3. ordered item
-4. ordered item
+* [Parable of the Polygons](https://ncase.me/polygons/)
+* [Complexity Explorables](http://www.complexity-explorables.org/)
 
-### Ordered -- Unordered -- Unordered
 
 ![](/assets/images/Stat_Wars.png)
 
+<!--
 ### Unordered -- Unordered -- Ordered
 
 * unordered item
@@ -47,3 +41,4 @@ I am extremely passionate about data visualization. I think, understand, learn a
 
 - [x] Finish my changes
 - [ ] Push my commits to Gi
+-->
