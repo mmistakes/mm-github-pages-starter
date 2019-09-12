@@ -19,4 +19,6 @@ Here I'll write a summary of each research project. Coming soon! Text Holder. He
 
 ## Intra-urban heat islets
 
-<!-- ![](/assets/images/World_Map.png) -->
+<figure style="width: 850px" class="align-center">
+  <img src="/assets/images/World_Map.png" alt="">
+</figure>
