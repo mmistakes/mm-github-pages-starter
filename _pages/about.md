@@ -14,7 +14,7 @@ author_profile: true
   <figcaption>London, one of the most architecturally amazing cities that I have roamed in.</figcaption>
 </figure>
 
-Hello!! I am Anamika. I am currently a doctoral student at [Purdue University](https://www.purdue.edu) pursuing an interdisciplinary Ph.D. I have a [background](assets/files/CV_2019_JSMF.pdf) in Civil and Architectural Engineering, and I am now studying Statistical Physics, Complex Networks, Urban Meteorology, and Remote Sensing for understanding the [intra-urban complexity of the Urban Heat Island](/research/).
+Hello!! I am Anamika. I am currently a doctoral student at [Purdue University](https://www.purdue.edu) pursuing an interdisciplinary Ph.D. I have a [background](/assets/files/CV_2019_JSMF.pdf) in Civil and Architectural Engineering, and I am now studying Statistical Physics, Complex Networks, Urban Meteorology, and Remote Sensing for understanding the [intra-urban complexity of the Urban Heat Island](/research/).
 
 My Ph.D. has been a truly trans-disciplinary and nomadic experience, thanks to the amazing NASA Earth and Space Science Fellowship, the benevolence and wisdom of my Ph.D. Guru - [Prof. Suresh Rao](https://engineering.purdue.edu/CE/People/view_person?resource_id=2131), and of course, **Cloud Computing**! I have had the privilege to travel extensively for collaborations, workshops, and conferences. I believe that this freedom and global exposure has molded my research philosophy greatly. I am currently based in Stanford working towards the final stages of my doctoral research and actively looking for post-doctoral opportunities.
 
