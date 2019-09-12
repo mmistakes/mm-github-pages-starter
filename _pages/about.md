@@ -14,3 +14,4 @@ Hello! I am Anamika Shreevastava. I am a PhD candidate at Purdue University. My 
 When I am procrastinating, I love to just look at the Earth using satellite imagery. I have spent countless hours on Google Earth and in flights admiring the beauty of our planet. Truly blessed that my work was actually responsible for half of that. These days, I can be found staring at the [Aerial screen savers](https://support.apple.com/en-us/HT208992) on my Apple TV.
 
 ![](assets/city-pics/Night2.jpg)
+ pfft
