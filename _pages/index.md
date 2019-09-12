@@ -20,14 +20,14 @@ feature_row:
   - image_path: /assets/images/World_Map.png
     alt: "Research"
     title: "Research"
-    excerpt: "Insert 3-line summary about my [research](https://Anamika255.github.io/research/). Also see Publications and Presentations for more details. Testing if it synced."
+    excerpt: "Insert 3-line summary about my [research](https://Anamika255.github.io/research/). Also see Publications and Presentations for more details."
     url: "/research/"
     btn_class: "btn--primary"
     btn_label: "Research"
   - image_path: /assets/images/Networks.jpg
     alt: "Projects"
     title: "Other Projects"
-    excerpt: "Here is everything else."
+    excerpt: "Here is everything else. Here is everything else. Here is everything else."
     url: "/projects/"
     btn_class: "btn--primary"
     btn_label: "Projects"
@@ -40,7 +40,7 @@ feature_row:
     btn_label: "Resources"
 ---
 
-<!--{% include feature_row %}
+{% include feature_row %}
 
 <!--
 # Hello there! I am a PhD student at [Purdue University](https://www.purdue.edu/). This is my website under construction. Should be up and running by October 1st.
