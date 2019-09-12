@@ -40,7 +40,7 @@ feature_row:
     btn_label: "Resources"
 ---
 
-{% include feature_row %}
+<!--{% include feature_row %}
 
 <!--
 # Hello there! I am a PhD student at [Purdue University](https://www.purdue.edu/). This is my website under construction. Should be up and running by October 1st.
