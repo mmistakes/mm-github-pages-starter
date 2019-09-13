@@ -18,20 +18,20 @@ author_profile: true
 
 ## Journal publications
 
-**Shreevastava, A.**, Rao, P. S. C., & McGrath, G. S. (2019). Emergent self-similarity and scaling properties of fractal intra-urban heat islets for diverse global cities. *Physical Reviews E* (in press). [preprint](https://eartharxiv.org/t9s3g){: .btn .btn--inverse} [pdf](/assets/files/PRE_EarthArXiv.pdf){: .btn .btn--inverse} [dataset](https://osf.io/53t2g/){: .btn .btn--inverse} |
+**Shreevastava, A.**, Rao, P.S.C., & McGrath, G.S. (2019). Emergent self-similarity and scaling properties of fractal intra-urban heat islets for diverse global cities. *Physical Reviews E* (in press). [preprint](https://eartharxiv.org/t9s3g){: .btn .btn--inverse} [pdf](/assets/files/PRE_EarthArXiv.pdf){: .btn .btn--inverse} [dataset](https://osf.io/53t2g/){: .btn .btn--inverse} |
 
-**Shreevastava, A.**, Bhalachandran, S., McGrath, G. S., Huber, M., & Rao, P. S. C. (2019). Paradoxical impact of sprawling intra-Urban Heat Islets: Reducing mean surface temperatures while enhancing local extremes. *Scientific Reports* (in review). [preprint](https://eartharxiv.org/gxj9m/){: .btn .btn--inverse} [pdf](/assets/files/NSR_EarthArXiv.pdf){: .btn .btn--inverse} [dataset](https://osf.io/9srdp/){: .btn .btn--inverse} |
+**Shreevastava, A.**, Bhalachandran, S., McGrath, G.S., Huber, M., & Rao, P.S.C. (2019). Paradoxical impact of sprawling intra-Urban Heat Islets: Reducing mean surface temperatures while enhancing local extremes. *Scientific Reports* (in review). [preprint](https://eartharxiv.org/gxj9m/){: .btn .btn--inverse} [pdf](/assets/files/NSR_EarthArXiv.pdf){: .btn .btn--inverse} [dataset](https://osf.io/9srdp/){: .btn .btn--inverse} |
 
-**Shreevastava, A.**, Rao, P. S. C., & McGrath, G. S. (2018, October). Spatial analysis of the Surface Urban Heat Island. *Land Surface and Cryosphere Remote Sensing* (Vol. 10777, p. 107770C). International Society for Optics and Photonics. [doi](https://doi.org/10.1117/12.2501441){: .btn .btn--inverse} [pdf](/assets/files/SPIE_2018.pdf){: .btn .btn--inverse} |
+**Shreevastava, A.**, Rao, P.S.C., & McGrath, G.S. (2018, October). Spatial analysis of the Surface Urban Heat Island. *Land Surface and Cryosphere Remote Sensing* (Vol. 10777, p. 107770C). International Society for Optics and Photonics. [doi](https://doi.org/10.1117/12.2501441){: .btn .btn--inverse} [pdf](/assets/files/SPIE_2018.pdf){: .btn .btn--inverse} |
 
-Bhalachandran, S., Chavas, D. R., Marks, F. D., Dubey, S., **Shreevastava, A.**, & Krishnamurti, T. N. (2019). Characterizing the energetics of multiscale asymmetries during tropical cyclone rapid intensity changes. *Journal of Atmospheric Sciences* (in review). [preprint](https://arxiv.org/abs/1908.03618#){: .btn .btn--inverse} [pdf](/assets/files/JAS_arxiv_compressed.pdf){: .btn .btn--inverse} |
+Bhalachandran, S., Chavas, D.R., Marks, F.D., Dubey, S., **Shreevastava, A.**, & Krishnamurti, T.N. (2019). Characterizing the energetics of multiscale asymmetries during tropical cyclone rapid intensity changes. *Journal of Atmospheric Sciences* (in review). [preprint](https://arxiv.org/abs/1908.03618#){: .btn .btn--inverse} [pdf](/assets/files/JAS_arxiv_compressed.pdf){: .btn .btn--inverse} |
 
 Ching, J., et al, including **Shreevastava, A.** (2018). WUDAPT: An urban weather, climate, and environmental modeling infrastructure for the Anthropocene. *Bulletin of the American Meteorological Society*, 99(9), 1907-1924. [doi](https://doi.org/10.1175/BAMS-D-16-0236.1){: .btn .btn--inverse} [pdf](/assets/files/WUDAPT_BAMS_2018.pdf){: .btn .btn--inverse} |
 
 
 ## Conference presentations
 
-**Shreevastava, A.**, Rao, P. S. C., & McGrath, G. S. (2018, December). Fractal topography of the intra-urban thermal landscape. *Nonlinear Geophysics. AGU Fall Meetings, Washington, DC.* (Oral) [link](http://adsabs.harvard.edu/abs/2018AGUFMNG41A..04S){: .btn .btn--inverse} |
+**Shreevastava, A.**, Rao, P.S.C., & McGrath, G.S. (2018, December). Fractal topography of the intra-urban thermal landscape. *Nonlinear Geophysics. AGU Fall Meetings, Washington, DC.* (Oral) [link](http://adsabs.harvard.edu/abs/2018AGUFMNG41A..04S){: .btn .btn--inverse} |
 
 **Shreevastava, A.**, McGrath, G., Rao, P.S.C. (2018, September) Spatial analysis of the Surface Urban Heat Island. *SPIE Asia-Pacific Remote Sensing Conference, Honolulu, HI.* (Oral) [link](https://spie.org/AE/conferencedetails/land-surface-and-cryosphere-remote-sensing#session-3){: .btn .btn--inverse} |
 
