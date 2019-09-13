@@ -35,7 +35,7 @@ I love to perform live music, and I am the guitarist and vocalist of an indo-wes
 </figure>
 
 <figure class="align-center">
-  <img src="/assets/music/Mosey.jpg" alt="">
+  <img src="/assets/music/Mosey.png" alt="">
 </figure>
 
 Peek into how most of our Purdue evenings and weekends look like.
