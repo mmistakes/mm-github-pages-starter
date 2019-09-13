@@ -17,11 +17,23 @@ Some useful tools I have built for my research. Any suggestions for improvement 
 
 ### Interactive Science Communication
 
-I am extremely passionate about data visualization. I think, understand, learn and teach visually. Here are some compelling narratives that inspire me.
+I am extremely passionate about data visualization and visual story-telling. Here are some compelling narratives that inspire me.
 
-* [Parable of the Polygons](https://ncase.me/polygons/)
-* [Complexity Explorables](http://www.complexity-explorables.org/)
+* This is a story of how harmless choices can make a harmful world. Based on Schelling's model of segregation, this playable website neatly explains why today's society seems demographically segregated: [Parable of the Polygons](https://ncase.me/polygons/)
+* Interacting with complex systems is the best way to understand the simple rules that gives rise to chaotic outcomes. I encourage you to play around and find analogies to any system of your interest: [Complexity Explorables](http://www.complexity-explorables.org/)
+* Agent-based modeling visualized: [NetLogo](https://ccl.northwestern.edu/netlogo/)
+* A tool for thinking in systems: [Loopy](https://ncase.me/loopy/)
+* [Hottest year on record](https://www.bloomberg.com/graphics/hottest-year-on-record/)
 
+### Computational resources
+
+* If you deal with geospatial analysis and haven't used [Google Earth Engine](https://earthengine.google.com/) yet, please do!
+
+### Managing Grad-Life
+
+* [The art of spaced repetition](https://ncase.me/remember/)
+* When it comes to time management, I am not a calendar-based planner. But if you are, check this out this amazing blog post: [Calendar. Not to-do lists.](https://blog.usejournal.com/calendar-in-stead-of-to-do-lists-9ada86a512dd).
+* Instead, I like to make lists! Check out [WorkFlowy](https://workflowy.com/)
 
 ![](/assets/images/Stat_Wars.png)
 
