@@ -20,7 +20,7 @@ description: Welcome to my website # this means to ignore newlines until "baseur
   # Google search results) and in your feed.xml site description.
 twitter_username: Anamika255
 github_username: Anamika255
-minimal_mistakes_skin: neon
+minimal_mistakes_skin: mint
 search: true
 
 # logo: "/assets/images/LOGO.png"
