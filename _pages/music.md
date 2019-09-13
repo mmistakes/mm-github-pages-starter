@@ -52,7 +52,7 @@ Peek into how most of our Purdue evenings and weekends look like.
 
 <figure style="width: 300px" class="align-left">
   <img src="/assets/music/IITR.png" alt="">
-  <figcaption>Photo from IIT Roorkee show - Dhun. Photo Credits: <a href="https://www.instagram.com/fawkesphotostream/">Unsplash</a></figcaption>
+  <figcaption>Photo from IIT Roorkee show - Dhun. Photo Credits: <a href="https://www.instagram.com/fawkesphotostream/">Divya Agrawal</a></figcaption>
 </figure>
 
 For more, check out my band's [YouTube Channel](https://www.youtube.com/channel/UCBlDeRAwAAP_SeVPqmVi_HQ)
