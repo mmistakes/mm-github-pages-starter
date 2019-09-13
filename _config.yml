@@ -68,24 +68,29 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://Anamika255.github.io"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/Anamika255"
+
+    - label: "Email"
+      icon: "far fa-fw fa-paper-plane"
+      url: "ashreeva@purdue.edu"
+
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Anamika255"
-  #  - label: "Instagram"
-  #    icon: "fab fa-fw fa-instagram"
-  #    url: "https://instagram.com/Anamika255_"
+
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/anamika-shreevastava-504528110/"
+
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/Anamika255"
+
     - label: "CV"
       icon: "far fa-fw fa-file-pdf"
-      url: "/assets/files/CV_2019_JSMF.pdf"
+      url: "/assets/files/CV.pdf"
+
     - label: "Google Scholar"
-      icon: "google-scholar"
-      icon_pack: "ai"
+      icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=lRnptscAAAAJ&hl=en"
 
 
