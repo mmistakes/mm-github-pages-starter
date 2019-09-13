@@ -33,7 +33,7 @@ Ching, J., et al, including **Shreevastava, A.** (2018). WUDAPT: An urban weathe
 
 **Shreevastava, A.**, Rao, P. S. C., & McGrath, G. S. (2018, December). Fractal topography of the intra-urban thermal landscape. *Nonlinear Geophysics. AGU Fall Meetings, Washington, DC.* (Oral) [link](http://adsabs.harvard.edu/abs/2018AGUFMNG41A..04S){: .btn .btn--inverse} |
 
-**Shreevastava, A.**, McGrath, G., Rao, P.S.C. (2018, September) Spatial analysis of the Surface Urban Heat Island. *SPIE Asia-Pacific Remote Sensing Conference, Honolulu, HI.* (Oral) [link](https://spie.org/AE/conferencedetails/land-surface-and-cryosphere-remote-sensing#session-3){: .btn .btn--inverse}
+**Shreevastava, A.**, McGrath, G., Rao, P.S.C. (2018, September) Spatial analysis of the Surface Urban Heat Island. *SPIE Asia-Pacific Remote Sensing Conference, Honolulu, HI.* (Oral) [link](https://spie.org/AE/conferencedetails/land-surface-and-cryosphere-remote-sensing#session-3){: .btn .btn--inverse} |
 
 **Shreevastava, A.**, McGrath, G., Rao, P.S.C. (2017, December) Characterizing the intra-urban spatial structure of High Heat Stress Zones. *Global Environment Change. AGU Fall meetings, New Orleans, LA.* (Oral) [link](http://adsabs.harvard.edu/abs/2017AGUFMGC11E..03S){: .btn .btn--inverse} |
 
@@ -45,8 +45,8 @@ Niyogi, D., Bhalachandran, S., Brousse, O., Jain, M., **Shreevastava, A.**, Jain
 
 ## Seminars and invited talks
 
-April 2019 | Characterizing the spatial complexity of the intra-urban heat islets. *NASA Land Cover Land Use Change (LCLUC) Science Team meeting, Rockville, MD.* [link](https://lcluc.umd.edu/meetings/2019-nasa-lcluc-spring-science-team-meeting){: .btn .btn--inverse}. |
+2019/04 | Characterizing the spatial complexity of the intra-urban heat islets. *NASA Land Cover Land Use Change (LCLUC) Science Team meeting, Rockville, MD.* [link](https://lcluc.umd.edu/meetings/2019-nasa-lcluc-spring-science-team-meeting){: .btn .btn--inverse}. |
 
-June 2018 | Fractal topography of the intra-urban thermal landscape. *NASA Ames, Mountainview, CA.* |
+2018/06 | Fractal topography of the intra-urban thermal landscape. *NASA Ames, Mountainview, CA.* |
 
-August 2016 | Optimizing Thermal Comfort in Fractal Cities. *Helmholtz Centre for Environmental Research (UFZ), Magdeburg, Germany.* [link](https://www.ufz.de/cawr/index.php?en=43129){: .btn .btn--inverse} |
+2016/08 | Optimizing Thermal Comfort in Fractal Cities. *Helmholtz Centre for Environmental Research (UFZ), Magdeburg, Germany.* [link](https://www.ufz.de/cawr/index.php?en=43129){: .btn .btn--inverse} |
