@@ -12,17 +12,15 @@ author_profile: true
   <img src="/assets/images/Research-Venn.png" alt="">
 </figure>
 
-Text Holder. Here I'll write a summary of each research project. Coming soon! Text Holder. Here I'll write a summary of each research project. Coming soon! Text Holder. Here I'll write a summary of each research project. Coming soon! Text Holder. Here I'll write a summary of each research project. Coming soon! Text Holder. Here I'll write a summary of each research project. Coming soon! Text Holder. Here I'll write a summary of each research project. Coming soon! Text Holder. Here I'll write a summary of each research project. Coming soon! Text Holder.
-
-Here I'll write a summary of each research project. Coming soon! Text Holder. Here I'll write a summary of each research project. Coming soon! Text Holder. Here I'll write a summary of each research project. Coming soon!
 
 
+<!--
+This page is under construction
 ## Intra-urban heat islets
 
 <figure style="width: 850px" class="align-center">
   <img src="/assets/images/World_Map.png" alt="">
 </figure>
 
-
-
-<!--[Synthesis Group](https://www.ufz.de/cawr/index.php?en=43133)-->
+[Synthesis Group](https://www.ufz.de/cawr/index.php?en=43133)
+-->
