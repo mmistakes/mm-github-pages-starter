@@ -13,15 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: Jorge's blog! 🌍🚀
+email: ingenierodeaviones@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A personal blog hosting interesting stuff on aerospace engineering,
+  astrodynamics and many other things.
 twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
+github_username: jorgepiloto
+minimal_mistakes_skin: dark 
 search: true
 
 # Build settings
@@ -39,14 +38,14 @@ include:
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
 
 # Plugins (previously gems:)
 plugins:
@@ -58,34 +57,34 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Jorge Martínez"
+  avatar : "/assets/images/bio-photo.png"
+  bio    : "Aerospace engineering student and software developer."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+#    - label: "Website"
+#      icon: "fas fa-fw fa-link"
+#      url: "https://"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/jorgepiloto"
+    - label: "Gitlab"
+      icon: "fab fa-fw fa-gitlab"
+      url: "https://gitlab.com/jorgepiloto"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/jorge-mart%C3%ADnez-83106115b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJiLQmHfRQheM5NH3mFXftw%3D%3D"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/jorgepiloto"
+    - label: "Gitlab"
+      icon: "fab fa-fw fa-gitlab"
+      url: "https://gitlab.com/jorgepiloto"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/jorge-mart%C3%ADnez-83106115b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJiLQmHfRQheM5NH3mFXftw%3D%3D"
 
 defaults:
   # _posts
