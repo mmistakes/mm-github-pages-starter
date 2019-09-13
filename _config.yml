@@ -71,7 +71,7 @@ author:
 
     - label: "Email"
       icon: "far fa-fw fa-paper-plane"
-      url: "ashreeva@purdue.edu"
+      url: "mailto:ashreeva@purdue.edu"
 
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
