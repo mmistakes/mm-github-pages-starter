@@ -22,3 +22,7 @@ Here I'll write a summary of each research project. Coming soon! Text Holder. He
 <figure style="width: 850px" class="align-center">
   <img src="/assets/images/World_Map.png" alt="">
 </figure>
+
+
+
+<!--[Synthesis Group](https://www.ufz.de/cawr/index.php?en=43133)-->
