@@ -19,7 +19,7 @@ My Ph.D. has been a truly trans-disciplinary and nomadic experience, thanks to t
 
 I come from India, where I have mostly lived in Ranchi - my hometown (now known as [Dhoni](https://en.wikipedia.org/wiki/MS_Dhoni)'s hometown), and in Roorkee - during my undergraduate degree at [IIT Roorkee](https://www.iitr.ac.in/). However, thanks to my parents' avid interest in traveling, I have been all around this incredibly diverse country. I highly recommend it to fellow travelers who love colors, noise, crowds, food, and affordability!
 
-Apart from science, I am into music. I am a singer/guitarist with a [band](/music/) of fellow Ph.D. students at Purdue. I do mostly covers, and have only ever written **one original song**, that was for my best friend, bandmate, fellow scientist, and now husband - [Sai Prasanth](https://sites.google.com/view/saiprasanth).
+Apart from science, I am into [music](/music/). I am a singer/guitarist with a band of fellow Ph.D. students at Purdue. I do mostly covers, and have only ever written **one original song**, that was for my best friend, bandmate, fellow scientist, and now husband - [Sai Prasanth](https://sites.google.com/view/saiprasanth).
 
 When I am procrastinating, I love to just look at the Earth using satellite imagery. I have spent countless hours on Google Earth and in flights admiring the natural and the engineered beauty (cities) of our planet. Luckily for me, my work was responsible for half of that. These days, I can be found staring at the [Live Aerial screen savers](https://support.apple.com/en-us/HT208992) hosted by Apple TV.
 
