@@ -35,7 +35,7 @@ I love to perform live music, and I am the guitarist and vocalist of an indo-wes
 </figure>
 
 <figure class="align-center">
-  <img src="/assets/music/Tatvam_old.jpg" alt="">
+  <img src="/assets/music/Mosey.jpg" alt="">
 </figure>
 
 Peek into how most of our Purdue evenings and weekends look like.
@@ -49,6 +49,10 @@ Peek into how most of our Purdue evenings and weekends look like.
 {% include video id="69kG1THiEnY" provider="youtube" %}
 
 <br/>
+
+<figure style="width: 200px" class="align-right">
+  <img src="/assets/music/Me-Prash.jpg" alt="">
+</figure>
 
 For more, check out my band's [YouTube Channel](https://www.youtube.com/channel/UCBlDeRAwAAP_SeVPqmVi_HQ)
 
