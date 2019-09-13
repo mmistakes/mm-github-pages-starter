@@ -50,11 +50,12 @@ Peek into how most of our Purdue evenings and weekends look like.
 
 <br/>
 
-<figure style="width: 300px" class="align-left">
-  <img src="/assets/music/IITR.png" alt="">
-  <figcaption>Photo from IIT Roorkee show - Dhun. Photo Credits: <a href="https://www.instagram.com/fawkesphotostream/">Divya Agrawal</a></figcaption>
-</figure>
-
 For more, check out my band's [YouTube Channel](https://www.youtube.com/channel/UCBlDeRAwAAP_SeVPqmVi_HQ)
 
 During my undergrad in India, I led the [IIT Roorkee Music team](https://www.youtube.com/channel/UCUAm7WhqNFUytNPs6VaUK-Q).
+
+
+<figure>
+  <img src="/assets/music/IITR.png" alt="">
+  <figcaption>Photo from IIT Roorkee show - Dhun. Photo Credits: <a href="https://www.instagram.com/fawkesphotostream/">Divya Agrawal</a></figcaption>
+</figure>
