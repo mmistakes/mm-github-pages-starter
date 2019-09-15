@@ -1,5 +1,5 @@
 ---
-title: "Recompile kmergenie and kmergenie run with higher max kmer value"
+title: "22-08-19 Recompile kmergenie and kmergenie run with higher max kmer value"
 layout: single
 ---
 
