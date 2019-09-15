@@ -1,0 +1,6 @@
+--output-dir doc/reference/en
+--markup markdown
+--markup-provider kramdown
+lib/**/*.rb
+-
+doc/text/**/*

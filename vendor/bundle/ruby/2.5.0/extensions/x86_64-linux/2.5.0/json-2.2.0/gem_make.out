@@ -1,0 +1,13 @@
+current directory: /home/genomicslaptop/joneilers.github.io/vendor/bundle/ruby/2.5.0/gems/json-2.2.0/ext/json
+/usr/bin/ruby2.5 -r ./siteconf20190910-12382-xeajn7.rb extconf.rb
+creating Makefile
+
+current directory: /home/genomicslaptop/joneilers.github.io/vendor/bundle/ruby/2.5.0/gems/json-2.2.0/ext/json
+make "DESTDIR=" clean
+
+current directory: /home/genomicslaptop/joneilers.github.io/vendor/bundle/ruby/2.5.0/gems/json-2.2.0/ext/json
+make "DESTDIR="
+make: Nothing to be done for 'all'.
+
+current directory: /home/genomicslaptop/joneilers.github.io/vendor/bundle/ruby/2.5.0/gems/json-2.2.0/ext/json
+make "DESTDIR=" install
