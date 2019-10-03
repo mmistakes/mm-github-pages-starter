@@ -5,9 +5,9 @@ admin_path: admin
 webhook_url: 
 sections:
 - type: directory
-  path: ''
-  label: Root
-  create: all
+  path: _data
+  label: Data
+  create: documents
   match: "**/*"
 - type: directory
   path: _pages
@@ -17,6 +17,13 @@ sections:
 - type: jekyll-posts
   label: Posts
   create: all
+- type: heading
+  label: Advanced
+- type: directory
+  path: ''
+  label: Root
+  create: all
+  match: "**/*"
 upload_dir: assets
 public_path: "/assets"
 front_matter_path: ''
