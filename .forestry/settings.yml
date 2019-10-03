@@ -7,8 +7,9 @@ sections:
 - type: directory
   path: _data
   label: Data
-  create: documents
+  create: all
   match: "**/*"
+  new_doc_ext: ".yml"
 - type: directory
   path: _pages
   label: Pages
