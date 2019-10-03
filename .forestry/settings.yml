@@ -5,12 +5,6 @@ admin_path: admin
 webhook_url: 
 sections:
 - type: directory
-  path: _data
-  label: Data
-  create: all
-  match: "**/*"
-  new_doc_ext: ".yml"
-- type: directory
   path: _pages
   label: Pages
   create: all
@@ -18,6 +12,12 @@ sections:
 - type: jekyll-posts
   label: Posts
   create: all
+- type: directory
+  path: _data
+  label: Data
+  create: all
+  match: "**/*"
+  new_doc_ext: ".yml"
 - type: heading
   label: Advanced
 - type: directory
