@@ -39,10 +39,20 @@ fields:
       color_format: RGB
     description: Color/opacity to overlay on top of the header image
   - name: show_overlay_excerpt
-    type: boolean
+    type: select
+    default: []
+    config:
+      required: false
+      options:
+      - 'true'
+      - 'false'
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
     label: Show Overlay Excerpt
     description: Display excerpt in the overlay text
-    default: true
   - name: excerpt
     type: textarea
     default: ''
@@ -55,8 +65,8 @@ fields:
     description: Auto-generated page excerpt is added to the overlay text or can be
       overridden.
     showOnly:
-      field: show_overlay_excerpt
-      value: true
+      field: overlay_excerpt_new
+      value: 'true'
   - name: actions
     type: field_group_list
     fields:
