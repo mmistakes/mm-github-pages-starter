@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 locale: "en-US"
 title: &me "Ankush Gupta"
-subtitle: Software Engineer
+subtitle: Senior Software Engineer
 name: *me
 url: &weburl "https://ankushg.com"
 repository: "ankushg/ankushg.github.io"
@@ -87,7 +87,7 @@ plugins:
 author:
   name   : *me
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I'm a Software Engineer at [Quizlet](https://quizlet.com).<br/><br/>Nowadays, I primarily focus on delivering awesome Android experiences -- both for our users and my fellow engineers."
+  bio    : "I'm a Senior Software Engineer at [Quizlet](https://quizlet.com).<br/><br/>Nowadays, I primarily focus on delivering awesome Android experiences -- both for our users and my fellow engineers."
   location: "San Francisco, CA"
   links:
     - label: "Website"
@@ -128,7 +128,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: true
       share: true
       related: true
