@@ -25,6 +25,7 @@ sections:
   label: Root
   create: all
   match: "**/*"
+  new_doc_ext: ".yml"
 upload_dir: assets
 public_path: "/assets"
 front_matter_path: ''
