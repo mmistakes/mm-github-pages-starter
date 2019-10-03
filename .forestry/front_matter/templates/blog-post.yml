@@ -28,6 +28,10 @@ fields:
   name: last_modified_at
   label: Last Modified At
 - name: comments
+  type: boolean
+  label: Comments
+  default: true
+- name: comments_new
   type: select
   default: ''
   config:
@@ -40,77 +44,23 @@ fields:
       section: 
       file: 
       path: 
-  label: Comments
-- name: comments
-  type: select
-  default: ''
-  config:
-    required: false
-    options:
-    - 'true'
-    - 'false'
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
-  label: Comments
+  label: Comments (New)
 - name: share
-  type: select
-  default: ''
-  config:
-    required: false
-    options:
-    - 'true'
-    - 'false'
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
+  type: boolean
   label: Share
+  default: true
 - name: read_time
-  type: select
-  default: ''
-  config:
-    required: false
-    options:
-    - 'true'
-    - 'false'
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
+  type: boolean
   label: Read Time
+  default: true
 - name: related
-  type: select
-  default: ''
-  config:
-    required: false
-    options:
-    - 'true'
-    - 'false'
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
+  type: boolean
   label: Related
+  default: true
 - name: author_profile
-  type: select
-  default: ''
-  config:
-    required: false
-    options:
-    - 'true'
-    - 'false'
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
+  type: boolean
   label: Author Profile
+  default: true
 - name: table_of_contents
   type: include
   config: {}
