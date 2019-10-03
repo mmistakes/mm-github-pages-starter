@@ -39,18 +39,8 @@ fields:
       color_format: RGB
     description: Color/opacity to overlay on top of the header image
   - name: show_overlay_excerpt
-    type: select
-    default: ''
-    config:
-      required: false
-      options:
-      - 'true'
-      - 'false'
-      source:
-        type: simple
-        section: 
-        file: 
-        path: 
+    type: boolean
+    default: true
     label: Show Overlay Excerpt
     description: Display excerpt in the overlay text
   - name: excerpt
