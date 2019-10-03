@@ -32,7 +32,7 @@ twitter:
   username: ankushg
 facebook:
   username: ankushmgupta
-og_image: /assets/images/site-logo.png # Open Graph/Twitter default site image
+og_image: /assets/images/og_image.jpg # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
