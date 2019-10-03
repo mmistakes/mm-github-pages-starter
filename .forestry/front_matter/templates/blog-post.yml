@@ -1,0 +1,16 @@
+---
+label: Blog Post
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: last_modified_at
+  label: last_modified_at
+- type: list
+  name: categories
+  label: categories
+- type: list
+  name: tags
+  label: tags
