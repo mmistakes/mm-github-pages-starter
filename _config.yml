@@ -110,7 +110,7 @@ footer:
       url: *twitterurl
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: *twitterurl
+      url: *githuburl
 
 # HTML Compression
 # - https://jch.penibelst.de/
