@@ -13,25 +13,52 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+locale: "en-US"
+title: &me "Ankush Gupta"
+subtitle: Software Engineer
+name: *me
+url: &weburl "https://ankushg.com"
+repository: "ankushg/ankushg.github.io"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+  Trials and tribulations of Ankush, the Software Engineer.
+twitter_username: &username "ankushg"
+github_username: *username
 minimal_mistakes_skin: default
 search: true
 
+# Social Sharing
+twitter:
+  username: ankushg
+facebook:
+  username: ankushmgupta
+og_image: /assets/images/site-logo.png # Open Graph/Twitter default site image
+# For specifying social profiles
+# - https://developers.google.com/structured-data/customize/social-profiles
+social:
+  type: Person # Person or Organization (defaults to Person)
+  name: *me # If the user or organization name differs from the site's name
+  links: # An array of links to social media profiles
+    - *weburl
+    - &feedurl "https://ankushg.com/feed.xml"
+    - &twitterurl "https://twitter.com/ankushg"
+    - &githuburl "https://github.com/ankushg"
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-1190814-10"
+    anonymize_ip: false # default
+    
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
+
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Los_Angeles # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
@@ -39,14 +66,14 @@ include:
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
 
 # Plugins (previously gems:)
 plugins:
@@ -58,34 +85,39 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : *me
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "I'm a Software Engineer at Quizlet. I primarily focus on delivering awesome Android experiences for both users and fellow engineers."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: *weburl
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: *twitterurl
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: *githuburl
+    - label: "Feed"
+      icon: "fas fa-fw fa-rss"
+      url: *feedurl
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: *twitterurl
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: *twitterurl
+
+# HTML Compression
+# - https://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
+
 
 defaults:
   # _posts
