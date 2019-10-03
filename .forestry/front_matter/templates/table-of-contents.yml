@@ -3,7 +3,18 @@ label: Table of Contents
 hide_body: false
 fields:
 - name: toc
-  type: boolean
+  type: select
+  default: ''
+  config:
+    required: false
+    options:
+    - 'true'
+    - 'false'
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
   label: Table of Contents
   description: Show table of contents
 - name: toc_label
@@ -11,7 +22,7 @@ fields:
   config:
     required: false
   showOnly:
-    field: toc
-    value: true
+    field: toc_new
+    value: 'true'
   label: Table of Contents Label
   description: Table of contents title
