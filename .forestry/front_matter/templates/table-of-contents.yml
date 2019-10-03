@@ -8,8 +8,8 @@ fields:
   config:
     required: false
     options:
-    - 'true'
-    - 'false'
+    - true
+    - false
     source:
       type: simple
       section: 
@@ -23,6 +23,6 @@ fields:
     required: false
   showOnly:
     field: toc_new
-    value: 'true'
+    value: true
   label: Table of Contents Label
   description: Table of contents title
