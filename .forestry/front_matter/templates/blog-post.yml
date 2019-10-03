@@ -8,11 +8,6 @@ fields:
   template: jekyll-standard
   label: Jekyll Standard
   description: Standard Front Matter values for all Jekyll posts
-- name: permalink
-  type: text
-  config:
-    required: false
-  label: Permalink
 - name: excerpt
   type: textarea
   default: ''
@@ -52,16 +47,9 @@ fields:
   type: boolean
   label: Author Profile
   default: true
-- name: toc
-  type: boolean
+- name: table_of_contents
+  type: include
+  config: {}
+  template: table-of-contents
   label: Table of Contents
-  description: Show table of contents
-- name: toc_label
-  type: text
-  config:
-    required: false
-  showOnly:
-    field: toc
-    value: true
-  label: Table of Contents Label
-  description: Table of contents title
+  description: Setup for a Table of Contents

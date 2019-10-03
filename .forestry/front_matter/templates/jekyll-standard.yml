@@ -30,6 +30,11 @@ fields:
   label: Title
   config:
     required: true
+- name: permalink
+  type: text
+  config:
+    required: false
+  label: Permalink
 - type: datetime
   name: date
   label: Date
