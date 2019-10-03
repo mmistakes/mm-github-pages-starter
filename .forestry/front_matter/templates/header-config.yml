@@ -40,7 +40,7 @@ fields:
     description: Color/opacity to overlay on top of the header image
   - name: show_overlay_excerpt
     type: select
-    default: []
+    default: ''
     config:
       required: false
       options:

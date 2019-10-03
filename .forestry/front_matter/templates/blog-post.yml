@@ -29,7 +29,7 @@ fields:
   label: Last Modified At
 - name: comments
   type: select
-    default: []
+    default: ''
     config:
       required: false
       options:
@@ -43,7 +43,7 @@ fields:
   label: Comments
 - name: share
    type: select
-    default: []
+    default: ''
     config:
       required: false
       options:
@@ -57,7 +57,7 @@ fields:
   label: Share
 - name: read_time
   type: select
-    default: []
+    default: ''
     config:
       required: false
       options:
@@ -71,7 +71,7 @@ fields:
   label: Read Time
 - name: related
    type: select
-    default: []
+    default: ''
     config:
       required: false
       options:
@@ -85,7 +85,7 @@ fields:
   label: Related
 - name: author_profile
    type: select
-    default: []
+    default: ''
     config:
       required: false
       options:
