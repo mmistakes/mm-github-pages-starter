@@ -28,39 +28,75 @@ fields:
   name: last_modified_at
   label: Last Modified At
 - name: comments
-  type: boolean
-  label: Comments
-  default: true
-- name: comments_new
   type: select
-  default: ''
-  config:
-    required: false
-    options:
-    - 'true'
-    - 'false'
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
-  label: Comments (New)
+    default: ''
+    config:
+      required: false
+      options:
+      - 'true'
+      - 'false'
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+  label: Comments
 - name: share
-  type: boolean
+   type: select
+    default: ''
+    config:
+      required: false
+      options:
+      - 'true'
+      - 'false'
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
   label: Share
-  default: true
 - name: read_time
-  type: boolean
+  type: select
+    default: ''
+    config:
+      required: false
+      options:
+      - 'true'
+      - 'false'
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
   label: Read Time
-  default: true
 - name: related
-  type: boolean
+   type: select
+    default: ''
+    config:
+      required: false
+      options:
+      - 'true'
+      - 'false'
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
   label: Related
-  default: true
 - name: author_profile
-  type: boolean
+   type: select
+    default: ''
+    config:
+      required: false
+      options:
+      - 'true'
+      - 'false'
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
   label: Author Profile
-  default: true
 - name: table_of_contents
   type: include
   config: {}
