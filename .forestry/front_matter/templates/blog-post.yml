@@ -41,6 +41,20 @@ fields:
       file: 
       path: 
   label: Comments
+- name: comments
+  type: select
+  default: ''
+  config:
+    required: false
+    options:
+    - 'true'
+    - 'false'
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Comments
 - name: share
   type: select
   default: ''
