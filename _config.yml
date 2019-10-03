@@ -87,7 +87,8 @@ plugins:
 author:
   name   : *me
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I'm a Software Engineer at Quizlet. I primarily focus on delivering awesome Android experiences for both users and fellow engineers."
+  bio    : "I'm a Software Engineer at [Quizlet](https://quizlet.com).<br/><br/>I primarily focus on delivering awesome Android experiences for both users and fellow engineers."
+  location: "San Francisco, CA"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -99,7 +100,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: *githuburl
     - label: "Feed"
-      icon: "fas fa-fw fa-rss"
+      icon: "fas fa-fw fa-rss-square"
       url: *feedurl
 
 footer:
