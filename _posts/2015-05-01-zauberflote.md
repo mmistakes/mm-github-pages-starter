@@ -1,6 +1,14 @@
 ---
 title: "Zauberflöte: A Transparent Peer-to-Peer CDN"
 categories: academia
+header:
+  overlay_color: "#333"
+  show_overlay_excerpt: false
+  actions:
+    - label: "Read the paper"
+      url: "/assets/docs/zauberflote-2015.pdf"
+    - label: "Github"
+      url: "https://github.com/anishathalye/zauberflote"
 ---
 
 Zauberflöte is a peer-to-peer content delivery network. The system uses WebRTC to cache and distribute content between peers.
