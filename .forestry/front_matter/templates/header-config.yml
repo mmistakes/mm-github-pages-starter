@@ -43,6 +43,20 @@ fields:
     label: Show Overlay Excerpt
     description: Display excerpt in the overlay text
     default: true
+  - name: excerpt
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Excerpt
+    description: Auto-generated page excerpt is added to the overlay text or can be
+      overridden.
+    showOnly:
+      field: show_overlay_excerpt
+      value: true
   - name: actions
     type: field_group_list
     fields:

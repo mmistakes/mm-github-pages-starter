@@ -37,7 +37,7 @@ fields:
     field: toc
     value: true
   label: Table of Contents Label
-  description: 'Table of contents title'
+  description: Table of contents title
 - name: excerpt
   type: textarea
   default: ''
@@ -47,7 +47,7 @@ fields:
     schema:
       format: markdown
   label: Excerpt
-  description: 'Post and page excerpts defaults to the first paragraph of text.'
+  description: Post and page excerpts defaults to the first paragraph of text.
 - name: permalink
   type: text
   config:

@@ -36,7 +36,8 @@ fields:
 - name: published
   type: boolean
   label: Published
-  description: Set to false if you don’t want a specific post to show up when the site is generated.
+  description: Set to false if you don’t want a specific post to show up when the
+    site is generated.
 - name: tags
   type: tag_list
   default: []
