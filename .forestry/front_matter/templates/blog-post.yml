@@ -4,9 +4,9 @@ hide_body: false
 fields:
 - name: layout
   type: select
-  default: single
+  default: ''
   config:
-    required: true
+    required: false
     options:
     - archive
     - search
@@ -60,6 +60,7 @@ fields:
 - name: author_profile
   type: boolean
   label: Author Profile
+  default: true
 - name: toc
   type: boolean
   label: Table of Contents
