@@ -49,7 +49,7 @@ analytics:
   google:
     tracking_id: "UA-1190814-10"
     anonymize_ip: false # default
-    
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -87,7 +87,7 @@ plugins:
 author:
   name   : *me
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I'm a Software Engineer at [Quizlet](https://quizlet.com).<br/><br/>I primarily focus on delivering awesome Android experiences for both users and fellow engineers."
+  bio    : "I'm a Software Engineer at [Quizlet](https://quizlet.com).<br/><br/>Nowadays, I primarily focus on delivering awesome Android experiences -- both for our users and my fellow engineers."
   location: "San Francisco, CA"
   links:
     - label: "Website"
