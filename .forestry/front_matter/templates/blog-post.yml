@@ -2,15 +2,164 @@
 label: Blog Post
 hide_body: false
 fields:
+- name: layout
+  type: select
+  default: single
+  config:
+    required: true
+    options:
+    - archive
+    - search
+    - single
+    - splash
+    - home
+    - posts
+    - categories
+    - category
+    - tags
+    - tag
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Layout
+  description: If set, this specifies the layout file to use.
 - type: text
   name: title
-  label: title
+  label: Title
+  config:
+    required: true
 - type: datetime
   name: last_modified_at
-  label: last_modified_at
-- type: list
-  name: categories
-  label: categories
-- type: list
-  name: tags
-  label: tags
+  label: Last Modified At
+- name: comments
+  type: boolean
+  label: Comments
+  default: true
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
+- name: categories
+  type: tag_list
+  default: []
+  label: Categories
+- name: share
+  type: boolean
+  label: Share
+  default: true
+- name: read_time
+  type: boolean
+  label: Read Time
+  default: true
+- name: related
+  type: boolean
+  label: Related
+  default: true
+- name: author_profile
+  type: boolean
+  label: Author Profile
+- name: toc
+  type: boolean
+  label: Table of Contents
+  description: Show table of contents
+- name: toc_label
+  type: text
+  config:
+    required: false
+  showOnly:
+    field: toc
+    value: true
+  label: Table of Contents Label
+  description: 'Table of contents title. '
+- name: excerpt
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Excerpt
+  description: 'Post and page excerpts defaults to the first paragraph of text. '
+- name: header
+  type: field_group
+  config: {}
+  fields:
+  - name: image
+    type: file
+    config:
+      maxSize: 250
+    label: Image
+    description: This option (if used) is shown before any text.
+  - name: image_description
+    type: text
+    config:
+      required: false
+    label: Image Description
+    description: Custom alt tag for screen readers
+  - name: caption
+    type: text
+    config:
+      required: false
+    label: Caption
+    description: Caption or attribution for the image. Supports Markdown if wrapped
+      in quotes.
+  - name: overlay_image
+    type: file
+    config:
+      maxSize: 250
+    label: Overlay Image
+    description: Header image you’d like to overlay with text.
+  - name: overlay_filter
+    type: color
+    label: Overlay Filter
+    config:
+      required: false
+      color_format: RGB
+    description: Color/opacity to overlay on top of the header image
+  - name: excerpt
+    type: boolean
+    label: Show Overlay Excerpt
+    description: Display excerpt in the overlay text
+    default: true
+  - name: actions
+    type: field_group_list
+    fields:
+    - name: label
+      type: text
+      config:
+        required: false
+      label: Label
+    - name: url
+      type: text
+      config:
+        required: false
+      label: URL
+    config:
+      min: '0'
+      max: 
+      labelField: 
+    label: Actions
+    description: "Call to action button links. More than one button link can be assigned.\t"
+  - name: og_image
+    type: file
+    config:
+      maxSize: 250
+    label: Open Graph Image
+    description: If present, the large page header or overlay images are used for
+      sharing previews by default.
+  label: Header
+  description: To add some visual punch to a post or page, a large full-width header
+    image can be included.
+- name: permalink
+  type: text
+  config:
+    required: false
+  label: Permalink
+- name: published
+  type: boolean
+  label: Published
+  description: Set to false if you don’t want a specific post to show up when the
+    site is generated.
