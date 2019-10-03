@@ -1,0 +1,74 @@
+---
+label: Header Config
+hide_body: true
+fields:
+- name: header
+  type: field_group
+  config: {}
+  fields:
+  - name: image
+    type: file
+    config:
+      maxSize: 250
+    label: Image
+    description: This option (if used) is shown before any text.
+  - name: image_description
+    type: text
+    config:
+      required: false
+    label: Image Description
+    description: Custom alt tag for screen readers
+  - name: caption
+    type: text
+    config:
+      required: false
+    label: Caption
+    description: Caption or attribution for the image. Supports Markdown if wrapped
+      in quotes.
+  - name: overlay_image
+    type: file
+    config:
+      maxSize: 250
+    label: Overlay Image
+    description: Header image you’d like to overlay with text.
+  - name: overlay_filter
+    type: color
+    label: Overlay Filter
+    config:
+      required: false
+      color_format: RGB
+    description: Color/opacity to overlay on top of the header image
+  - name: show_overlay_excerpt
+    type: boolean
+    label: Show Overlay Excerpt
+    description: Display excerpt in the overlay text
+    default: true
+  - name: actions
+    type: field_group_list
+    fields:
+    - name: label
+      type: text
+      config:
+        required: false
+      label: Label
+    - name: url
+      type: text
+      config:
+        required: false
+      label: URL
+    config:
+      min: '0'
+      max: 
+      labelField: 
+    label: Actions
+    description: "Call to action button links. More than one button link can be assigned.\t"
+  - name: og_image
+    type: file
+    config:
+      maxSize: 250
+    label: Open Graph Image
+    description: If present, the large page header or overlay images are used for
+      sharing previews by default.
+  label: Header
+  description: To add some visual punch to a post or page, a large full-width header
+    image can be included.
