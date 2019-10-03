@@ -2,6 +2,33 @@
 label: Blog Post
 hide_body: false
 fields:
+- name: jekyll_standard
+  type: include
+  config: {}
+  template: jekyll-standard
+  label: Jekyll Standard
+  description: Standard Front Matter values for all Jekyll posts
+- name: permalink
+  type: text
+  config:
+    required: false
+  label: Permalink
+- name: excerpt
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Excerpt
+  description: Post and page excerpts defaults to the first paragraph of text.
+- name: header_configuration
+  type: include
+  config: {}
+  template: header-config
+  label: Header Configuration
+  description: Advanced configuration for optional header images
 - type: datetime
   name: last_modified_at
   label: Last Modified At
@@ -38,18 +65,3 @@ fields:
     value: true
   label: Table of Contents Label
   description: Table of contents title
-- name: excerpt
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: Excerpt
-  description: Post and page excerpts defaults to the first paragraph of text.
-- name: permalink
-  type: text
-  config:
-    required: false
-  label: Permalink
