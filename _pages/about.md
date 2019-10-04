@@ -10,4 +10,4 @@ Nowadays, I primarily focus on delivering awesome Android experiences -- both fo
 I went to MIT, where I earned my:
 
 - **Bachelor of Science in Computer Science**, and my
-- **Master of Engineering in Computer Science and Engineering** with a concentration in Computer Systems
+- **Master of Engineering** in **Computer Science and Engineering** with a concentration in **Computer Systems**

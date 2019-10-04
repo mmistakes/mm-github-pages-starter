@@ -1,6 +1,7 @@
 ---
 title: "Zauberflöte: A Transparent Peer-to-Peer CDN"
 categories: academia
+excerpt: Zauberflöte is a peer-to-peer content delivery network. The system uses WebRTC to cache and distribute content between peers.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false
@@ -13,7 +14,7 @@ header:
 
 Zauberflöte is a peer-to-peer content delivery network. The system uses WebRTC to cache and distribute content between peers.
 
-Zauberflöte provides an easily accessible way for developers to alleviate content delivery bandwidth concerns by marking DOM elements such that Zauberflöte will fetch these resources from peers with that resource.
+Zauberflöte provides an easily accessible way for developers to alleviate content delivery bandwidth concerns. Developers can denote DOM elements for Zauberflöte to fetch from peers.
 
 The Zauberflöte system has server-side tracker and WebRTC signaling channel components, as well as client-side scripting that requests and delivers content between peers.
 
