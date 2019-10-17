@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Trying-out Mou"
 date: 2013-03-03 21:09
 comments: false

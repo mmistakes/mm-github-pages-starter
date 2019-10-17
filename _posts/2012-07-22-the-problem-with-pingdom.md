@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "The problem with Pingdom"
 date: 2012-07-22 19:13
 comments: true

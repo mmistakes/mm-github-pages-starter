@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Great Scott!!!"
 date: 2013-08-05 06:07
 comments: false

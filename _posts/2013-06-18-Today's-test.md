@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Today's test"
 date: 2013-06-18 09:49
 comments: false

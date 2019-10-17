@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Coding Test"
 date: 2013-09-06 02:17
 comments: false
