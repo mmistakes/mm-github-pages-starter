@@ -6,9 +6,11 @@ comments: true
 external-url: http://google.com
 categories: uptime
 ---
-{% codeblock Time to be Awesome - awesome.rb %}
+#Time to be Awesome...
+
+```ruby
 puts "Awesome!" unless lame
-{% endcodeblock %}
+```
 
 [The problem with pingdom.](http://www.pingdom.com Pingdom)
 
