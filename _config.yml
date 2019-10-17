@@ -14,7 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: kencrandall.github.io
-subtitle: Cobwebs from the Windmills of my Mind
+subtitle: "Cobwebs from the Windmills of my Mind"
+logo: "/assets/images/site-logo.png"
 email: ken@crandallnet.com
 description: >- # this means to ignore newlines until "baseurl:"
   Personal website for Ken Crandall
