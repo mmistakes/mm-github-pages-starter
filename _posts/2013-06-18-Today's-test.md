@@ -2,6 +2,8 @@
 title: "Today's test"
 date: 2013-06-18 09:49
 categories:
+  - test
+  - workflow
 ---
 
 ##Cool!

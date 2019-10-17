@@ -1,7 +1,8 @@
 ---
 title: "Testing Markdown"
 date: 2012-10-26 14:11
-categories: 
+categories:
+  - markdown
 ---
 
 Lightweight Markup Languages

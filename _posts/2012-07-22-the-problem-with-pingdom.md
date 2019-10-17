@@ -6,8 +6,11 @@ categories: uptime
 ---
 # Time to be Awesome
 
-```ruby
+```ruby awesome.rb
+#!/usr/bin/ruby
+#
 # awesome.rb
+#
 puts "Awesome!" unless lame
 ```
 

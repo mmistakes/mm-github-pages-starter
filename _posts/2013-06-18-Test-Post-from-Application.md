@@ -2,6 +2,8 @@
 title: "Test Post from Application"
 date: 2013-06-18 10:04
 categories:
+  - test
+  - workflow
 ---
 
 ### Success!

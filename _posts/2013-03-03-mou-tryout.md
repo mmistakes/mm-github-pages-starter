@@ -1,7 +1,10 @@
 ---
 title: "Trying-out Mou"
 date: 2013-03-03 21:09
-categories: 
+categories:
+  - test
+  - markdown
+  - mou
 ---
 # Mou
 
@@ -51,7 +54,7 @@ A ![Resize icon][2] reference style image.
 Inline code are surround by `backtick` key. To create a block code:
 
 	Indent each line by at least 1 tab, or 4 spaces.
-    var Mou = exactlyTheAppIwant; 
+	var Mou = exactlyTheAppIwant; 
 
 ####  Ordered Lists
 

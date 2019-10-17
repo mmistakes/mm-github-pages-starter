@@ -1,7 +1,9 @@
 ---
 title: "Testing Markdown: Part 2"
 date: 2012-10-29 11:31
-categories: 
+categories:
+  - test
+  - markdown
 ---
 
 To indicate a heading, you prepend a hash symbol.

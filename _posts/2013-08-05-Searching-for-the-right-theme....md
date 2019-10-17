@@ -2,7 +2,8 @@
 title: "Searching for the right theme..."
 date: 2013-08-05 11:56
 categories:
-
+  - blog
+  - theme
 ---
 Still haven't found it, and that's annoying.
 

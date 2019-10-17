@@ -1,13 +1,14 @@
 ---
 title: "Coding Test"
 date: 2013-09-06 02:17
-categories: code
-
+categories: 
+  - test
+  - code
 ---
 
 Here is a script:
 
-```
+```bash test.sh
 #!/bin/sh
 
 echo "Cleaning up the manager"
@@ -31,3 +32,4 @@ echo "Done! the manager will be up and ready in two minutes"
 ```
 
 Neat-o!
+
