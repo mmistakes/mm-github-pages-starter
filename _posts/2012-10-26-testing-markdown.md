@@ -1,7 +1,6 @@
 ---
 title: "Testing Markdown"
 date: 2012-10-26 14:11
-comments: true
 categories: 
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: "Searching for the right theme..."
 date: 2013-08-05 11:56
-comments: false
 categories:
 
 ---

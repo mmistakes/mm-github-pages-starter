@@ -1,7 +1,6 @@
 ---
 title: "Performing another test for humantiy"
 date: 2013-06-17 03:15
-comments: false
 categories:
 ---
 ## Awesome!

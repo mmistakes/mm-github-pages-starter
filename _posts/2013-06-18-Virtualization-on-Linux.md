@@ -1,7 +1,6 @@
 ---
 title: "Virtualization on Linux"
 date: 2013-06-18 12:12
-comments: false
 categories: virtualization linux
 
 ---

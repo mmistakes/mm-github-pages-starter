@@ -1,7 +1,6 @@
 ---
 title: "New Networking World Order"
 date: 2013-06-19 12:43
-comments: false
 categories:
 
 ---
