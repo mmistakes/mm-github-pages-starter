@@ -8,7 +8,7 @@ categories:
 
 Here is a script:
 
-```bash test.sh
+```bash
 #!/bin/sh
 
 echo "Cleaning up the manager"
