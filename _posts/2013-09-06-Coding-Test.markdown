@@ -9,7 +9,7 @@ categories: code
 
 Here is a script:
 
-```
+```bash
 #!/bin/sh
 
 echo "Cleaning up the manager"
