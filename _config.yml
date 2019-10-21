@@ -43,6 +43,7 @@ social:
     - &feedurl "https://ankushg.com/feed.xml"
     - &twitterurl "https://twitter.com/ankushg"
     - &githuburl "https://github.com/ankushg"
+    - &linkedinurl "https://www.linkedin.com/in/ankushmg/"
 
 analytics:
   provider: "google-gtag"
@@ -99,6 +100,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: *githuburl
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: *linkedinurl
     - label: "Feed"
       icon: "fas fa-fw fa-rss-square"
       url: *feedurl
@@ -111,6 +115,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: *githuburl
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: *linkedinurl
 
 # HTML Compression
 # - https://jch.penibelst.de/
