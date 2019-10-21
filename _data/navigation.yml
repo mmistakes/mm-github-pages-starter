@@ -1,14 +1,14 @@
 main:
   - title: "About Me"
     url: /about/
-  - title: "All Posts"
+  - title: "Posts"
     url: /posts/
-  - title: "Industry"
-    url: /industry/
-  - title: "Fun"
-    url: /fun/
-  - title: "Academia"
-    url: /academia/
+  # - title: "Industry"
+  #   url: /industry/
+  # - title: "Fun"
+  #   url: /fun/
+  # - title: "Academia"
+  #   url: /academia/
   # - title: "Categories"
   #   url: /categories/
   # - title: "Tags"
