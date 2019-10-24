@@ -257,6 +257,7 @@ This is great, because it allows us to point our `expect`ed interface and annota
 ```kotlin
 package com.example.parcel
 
+// Android Code
 actual typealias Parcelable = android.os.Parcelable
 actual typealias Parcelize = kotlinx.android.parcel.Parcelize
 ```
@@ -270,6 +271,7 @@ Unfortunately,  `@OptionalExpectation` only supports `annotation class`es. As a 
 ```kotlin
 package com.example.parcel
 
+// Non-Android Code
 actual interface Parcelable
 ```
 
@@ -282,6 +284,7 @@ We can now use our custom `Parcelable` and `@Parcelize` definitions in Common Co
 ```kotlin
 import com.example.parcel.*
 
+// Common Code
 @Parcelize
 data class User(
   val userId: long,
@@ -292,7 +295,9 @@ data class User(
 In Android, we can take advantage of the class we defined in common code, and store it in a `Bundle`!
 
 ```kotlin
+// Android Code
 val user = User(1, "Android User")
+
 val bundle = Bundle().apply {
   putParcelable(
     USER_BUNDLE_KEY,
