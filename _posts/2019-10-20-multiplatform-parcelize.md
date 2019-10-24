@@ -11,7 +11,7 @@ excerpt: Using Platform-Specific Declarations to unlock `@Parcelize` in Kotlin M
 header:
   overlay_color: "#333"
   actions:
-    - label: "See the source"
+    - label: "GitHub"
       url: "https://github.com/ankushg/MultiplatformParcelize"
 ---
 
@@ -68,7 +68,9 @@ data class User(
 }
 ```
 
-If you are working with an unsupported type that you can't personally modify the code for, you can supply an external `Parceler` implementation for it. For example, if we used the `java.util.UUID` class instead of a `Long` to create a unique identifier for our `User`…
+If you are working with an unsupported type that you can't personally modify the code for, you can supply an external `Parceler` implementation for it. 
+
+For example, if we used the `java.util.UUID` class instead of a `Long` to create a unique identifier for our `User`, we could write an external `Parceler` for `UUID` as follows:
 
 ```kotlin
 import java.util.UUID
@@ -89,7 +91,7 @@ object UUIDParceler : Parceler<UUID> {
 }
 ```
 
-External `Parceler`s can be applied using either the `@TypeParceler` or `@WriteWith` annotation:
+We can then apply our external `Parceler` using either the `@TypeParceler` or `@WriteWith` annotation:
 
 ```kotlin
 import java.util.UUID
@@ -129,13 +131,13 @@ If you take a step back however, this makes sense. The concept of `Parcelable` o
 
 But what do we do if we use a Kotlin Multiplatform library, and want to store some of those classes in an Android `Bundle`?
 
-We _could_ use the concepts from the Advanced Parceling Logic section to declare external `Parceler`s and sprinkle  `@TypeParceler` or `@WriteWith` all over our Android codebase as I described earlier. 
+We _could_ manyally declare external `Parceler`s for every class. We'd write them by hand, and then sprinkle  `@TypeParceler` or `@WriteWith` all over our Android codebase.
 
 Or, we can take advantage of Kotlin Multiplatform's[ powerful platform-specific declarations](https://kotlinlang.org/docs/reference/platform-specific-declarations.html) to make things work for us!
 
 ## Declaring `expect` Definitions
 
-In order to use these annotations and the `Parcelable` interface in common code, we must make the common code aware that they exist.
+In order to use these annotations and the `Parcelable` interface in common code, we must declare common-code versions of them.
 
 First, let's start with the `Parcelable` interface:
 
@@ -184,9 +186,9 @@ Adding the `com.android.library` and `kotlin-android-extensions` plugins:
 
 ```gradle
 plugins {
-    id 'com.android.library'
-    id 'org.jetbrains.kotlin.multiplatform'
-    id 'kotlin-android-extensions'
+  id 'com.android.library'
+  id 'org.jetbrains.kotlin.multiplatform'
+  id 'kotlin-android-extensions'
 }
 ```
 
@@ -194,14 +196,14 @@ Adding an explicit `android()` target platform:
 
 ```gradle
 kotlin {
-    jvm()
-    android()
-    js {
-        nodejs {
-        }
+  jvm()
+  android()
+  js {
+    nodejs {
     }
+  }
 
-    // Configuration...
+  // Configuration...
 }
 ```
 
@@ -209,40 +211,40 @@ Adding an `android { }` block where we point to our sourceSets to the code for t
 
 ```gradle
 android {
-    compileSdkVersion 28
+  compileSdkVersion 28
 
-    androidExtensions {
-        experimental = true
+  androidExtensions {
+    experimental = true
+  }
+
+  defaultConfig {
+    minSdkVersion 21
+    testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+  }
+
+  // Android Gradle Plugin expects sources to be in main, test, and androidTest
+  // In order to keep our code structure consistent across platforms, we redefine
+  // the sourceset directories here.
+  sourceSets {
+    // Main code is in androidMain
+    main {
+      manifest.srcFile 'src/androidMain/AndroidManifest.xml'
+      java.srcDirs = ['src/androidMain/kotlin']
+      res.srcDirs = ['src/androidMain/res']
     }
 
-    defaultConfig {
-        minSdkVersion 21
-        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    // Unit test code is in androidTest (to parallel jvmTest, jsTest)
+    test {
+      java.srcDirs = ['src/androidTest/kotlin']
+      res.srcDirs = ['src/androidTest/res']
     }
 
-    // Android Gradle Plugin expects sources to be in main, test, and androidTest
-    // In order to keep our code structure consistent across platforms, we redefine
-    // the sourceset directories here.
-    sourceSets {
-        // Main code is in androidMain
-        main {
-            manifest.srcFile 'src/androidMain/AndroidManifest.xml'
-            java.srcDirs = ['src/androidMain/kotlin']
-            res.srcDirs = ['src/androidMain/res']
-        }
-
-        // Unit test code is in androidTest (to parallel jvmTest, jsTest)
-        test {
-            java.srcDirs = ['src/androidTest/kotlin']
-            res.srcDirs = ['src/androidTest/res']
-        }
-
-        // Android instrumentation test code is in androidInstrumentationTests
-        androidTest {
-            java.srcDirs = ['src/androidInstrumentationTest/kotlin']
-            res.srcDirs = ['src/androidInstrumentationTest/res']
-        }
+    // Android instrumentation test code is in androidInstrumentationTests
+    androidTest {
+      java.srcDirs = ['src/androidInstrumentationTest/kotlin']
+      res.srcDirs = ['src/androidInstrumentationTest/res']
     }
+  }
 }
 ```
 
@@ -292,10 +294,10 @@ In Android, we can take advantage of the class we defined in common code, and st
 ```kotlin
 val user = User(1, "Android User")
 val bundle = Bundle().apply {
-    putParcelable(
-        USER_BUNDLE_KEY,
-        user
-    )
+  putParcelable(
+    USER_BUNDLE_KEY,
+    user
+  )
 }
 
 val unparceled: User? = bundle.getParcelable(USER_BUNDLE_KEY)
