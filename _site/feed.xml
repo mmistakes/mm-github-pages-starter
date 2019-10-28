@@ -5,9 +5,35 @@
     <description>Project portfolio of engineer. Subjects: Image Processing, Programming, Signal Processing, Research, Software Development</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 18 Aug 2019 21:18:37 -0400</pubDate>
-    <lastBuildDate>Sun, 18 Aug 2019 21:18:37 -0400</lastBuildDate>
+    <pubDate>Sun, 27 Oct 2019 22:07:45 -0400</pubDate>
+    <lastBuildDate>Sun, 27 Oct 2019 22:07:45 -0400</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>Online Shop-Deployed Bot</title>
+        <description>
+</description>
+        <pubDate>Mon, 07 Oct 2019 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/machine%20learning/2019/10/07/NLP-WP/</link>
+        <guid isPermaLink="true">http://localhost:4000/machine%20learning/2019/10/07/NLP-WP/</guid>
+        
+        
+        <category>Machine Learning</category>
+        
+      </item>
+    
+      <item>
+        <title>Student Advisor Bot</title>
+        <description>
+</description>
+        <pubDate>Sun, 06 Oct 2019 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/machine%20learning/2019/10/06/NLP-advisor/</link>
+        <guid isPermaLink="true">http://localhost:4000/machine%20learning/2019/10/06/NLP-advisor/</guid>
+        
+        
+        <category>Machine Learning</category>
+        
+      </item>
     
       <item>
         <title>DICOM Bone Volume Renderer</title>
