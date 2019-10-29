@@ -5,8 +5,8 @@
     <description>Project portfolio of engineer. Subjects: Image Processing, Programming, Signal Processing, Research, Software Development</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 27 Oct 2019 22:07:45 -0400</pubDate>
-    <lastBuildDate>Sun, 27 Oct 2019 22:07:45 -0400</lastBuildDate>
+    <pubDate>Sun, 27 Oct 2019 22:28:18 -0400</pubDate>
+    <lastBuildDate>Sun, 27 Oct 2019 22:28:18 -0400</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
@@ -75,7 +75,7 @@
       </item>
     
       <item>
-        <title>Real-time HVAC Power Switching using RT-Linux</title>
+        <title>C POSIX and RTLinux HVAC simulation</title>
         <description>
 </description>
         <pubDate>Sat, 06 Aug 2011 00:00:00 -0400</pubDate>
