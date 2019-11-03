@@ -5,9 +5,22 @@
     <description>Project portfolio of mechatronics engineer Carlos Salgado. Subjects: Image Processing, Programming, Signal Processing, Research, Software Development</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 02 Nov 2019 19:18:17 -0400</pubDate>
-    <lastBuildDate>Sat, 02 Nov 2019 19:18:17 -0400</lastBuildDate>
+    <pubDate>Sat, 02 Nov 2019 21:22:28 -0400</pubDate>
+    <lastBuildDate>Sat, 02 Nov 2019 21:22:28 -0400</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>Text Mining with Python</title>
+        <description>
+</description>
+        <pubDate>Thu, 31 Oct 2019 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/data%20science/2019/10/31/NLP-python/</link>
+        <guid isPermaLink="true">http://localhost:4000/data%20science/2019/10/31/NLP-python/</guid>
+        
+        
+        <category>Data Science</category>
+        
+      </item>
     
       <item>
         <title>Online Shop-Deployed Bot</title>
