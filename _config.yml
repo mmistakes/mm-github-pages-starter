@@ -78,21 +78,14 @@ footer:
       url: "https://fhbig.slack.com/"
 
 defaults:
-  # _home
-  - scope:
-    path: "_home"
-    type: home
-  values:
-    layout: single
-    classes: wide
-    header:
-      image: /assets/images/header.jpg
-      overlay_image: /assets/images/header.jpg
   # _posts
   - scope:
       path: ""
       type: posts
     values:
+      header:
+        image: /assets/images/header.jpg
+        overlay_image: /assets/images/header.jpg
       layout: single
       classes: wide
       author_profile: true
