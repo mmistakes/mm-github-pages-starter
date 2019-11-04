@@ -67,6 +67,8 @@ author:
       icon: "fab fa-fw fa-slack"
       url: "https://fhbig.slack.com/"
 
+header:
+  image: /assets/images/header/jpg
 footer:
   links:
     - label: "GitHub"
