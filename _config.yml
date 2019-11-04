@@ -66,10 +66,6 @@ author:
     - label: "Coop Slack"
       icon: "fab fa-fw fa-slack"
       url: "https://fhbig.slack.com/"
-
-header:
-  image: /assets/images/header.jpg
-  overlay_image: /assets/images/header.jpg
   
 footer:
   links:
@@ -81,12 +77,22 @@ footer:
       url: "https://fhbig.slack.com/"
 
 defaults:
+  # _home
+  - scope:
+    path: ""
+    type: home
+  values:
+    layout: single
+    classes: wide
+    header:
+      image: /assets/images/header.jpg
+      overlay_image: /assets/images/header.jpg
   # _posts
   - scope:
       path: ""
       type: posts
     values:
-      layout: splash
+      layout: single
       classes: wide
       author_profile: true
       read_time: true
@@ -110,7 +116,6 @@ category_archive:
 #  path: /tags/
 # --- ADDITIONAL SETTINGS ---
 google_site_verification: "yourVerificationCode"
-
 analytics:
   provider: "google-gtag"
   google:
