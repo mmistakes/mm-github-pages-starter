@@ -33,6 +33,7 @@ timezone: America/Los_Angeles # https://en.wikipedia.org/wiki/List_of_tz_databas
 
 include:
   - _pages
+  - _home
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -79,7 +80,7 @@ footer:
 defaults:
   # _home
   - scope:
-    path: ""
+    path: "_home"
     type: home
   values:
     layout: single
