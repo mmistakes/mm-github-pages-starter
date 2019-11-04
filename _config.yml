@@ -33,7 +33,6 @@ timezone: America/Los_Angeles # https://en.wikipedia.org/wiki/List_of_tz_databas
 
 include:
   - _pages
-  - _home
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -67,7 +66,11 @@ author:
     - label: "Coop Slack"
       icon: "fab fa-fw fa-slack"
       url: "https://fhbig.slack.com/"
-  
+      
+header:
+  image: /assets/images/header.jpg
+  overlay_image: /assets/images/header.jpg
+        
 footer:
   links:
     - label: "GitHub"
@@ -83,9 +86,6 @@ defaults:
       path: ""
       type: posts
     values:
-      header:
-        image: /assets/images/header.jpg
-        overlay_image: /assets/images/header.jpg
       layout: single
       classes: wide
       author_profile: true
