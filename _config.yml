@@ -69,6 +69,7 @@ author:
 
 header:
   image: /assets/images/header/jpg
+  
 footer:
   links:
     - label: "GitHub"
@@ -106,3 +107,10 @@ category_archive:
 #tag_archive:
 #  type: liquid
 #  path: /tags/
+# --- ADDITIONAL SETTINGS ---
+google_site_verification: "yourVerificationCode"
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-########-#"
+    anonymize_ip: false # default
