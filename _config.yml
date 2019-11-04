@@ -66,14 +66,7 @@ author:
     - label: "Coop Slack"
       icon: "fab fa-fw fa-slack"
       url: "https://fhbig.slack.com/"
-      
-layout: splash
-permalink: /
-header:
-  overlay_color: "#5e616c"
-  overlay_image: /assets/images/header.jpg
-
-      
+  
 footer:
   links:
     - label: "GitHub"
