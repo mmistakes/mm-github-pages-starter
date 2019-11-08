@@ -1,3 +1,18 @@
+---
+title: "Slack"
+last_modified_at: 2019-08-11T16:20:02-05:00
+categories:
+  - Blog
+tags:
+  - communication
+  - slack
+  - channel
+  - slack channel
+  - python
+  - R
+  - nextflow
+---
+
 #### Slack is a communication tool
 
 At the Coop, or the Hutch's [Bioinformatics & Data Science Cooperative](https://research.fhcrc.org/coop/en.html), Slack is used to create and support a community of researchers, scientists, post-docs and all groups and individuals within the community interested in bioinformatics and data science. It’s a great place to get support for a particular tool, ask a question, or get guidance from others within the community like yourself. [Slack](https://slack.com) is also used by many more teams and departments here and abroad to communicate. If you already have Slack installed or know how to do so go ahead and continue on else if you are _**brand new to Slack**_ heading to the _Getting Started_ on the company’s page may benefit you https://slack.com/help/articles/218080037-getting-started-for-new-members, then come back : )

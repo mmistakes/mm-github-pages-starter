@@ -1,12 +1,15 @@
 ---
 title: "Hello World"
-last_modified_at: 2016-03-09T16:20:02-05:00
+last_modified_at: 2019-08-11T16:20:02-05:00
 categories:
   - How to
 tags:
   - welcome
-  - readability
-  - standard
+  - sciwiki
+  - SciWiki 
+  - coop
+  - the coop
+  - blog
 ---
 #### Why there is a blog
 
