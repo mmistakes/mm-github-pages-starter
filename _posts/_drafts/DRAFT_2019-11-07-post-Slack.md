@@ -33,7 +33,7 @@ Here are some ideas to keep supportive communication flowing
 - `@here` - only alerts people who are both in the channel and currently using Slack (ex. time sensitive stuff use this one)
 - `@all` - alerts everyone in the group
 - `@everyone` - is only to be used in a team’s _#general_ channel
-- you can also change your notifications levels as well
+- You can also [change your notifications levels](https://slack.com/help/articles/201355156-guide-to-desktop-notifications) as well
 - Use threads when appropriate. When responding to an old message, respond in a or to the thread so that it is easier to follow the conversation and doesn’t disrupt other conversations that may be happening in the larger channel
 - Tag someone if you are speaking to them using `@` then type in their name
 - Format your code properly. When sharing code, use single backticks (`) for short code snippets, and triple backticks (```) for multi-line code snippets
