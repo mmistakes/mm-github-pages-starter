@@ -11,3 +11,5 @@ fields:
 - type: list
   name: categories
   label: categories
+pages:
+- _posts/test-from-forrestry-io.md
