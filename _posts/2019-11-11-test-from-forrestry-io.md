@@ -2,8 +2,8 @@
 title: Test From Forrestry.io
 date: 2019-11-11 15:00:00 -0800
 categories:
-- Blog
-- Test
+- blog
+- test
 
 ---
 So...
