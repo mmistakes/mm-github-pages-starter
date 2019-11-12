@@ -1,5 +1,6 @@
 ---
 title: "SkipChat: A Secure, Distributed Peer-to-Peer Messaging Service"
+date: 2015-01-18
 categories: projects
 tags: 
   - hackathon

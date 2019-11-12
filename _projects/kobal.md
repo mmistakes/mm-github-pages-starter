@@ -1,5 +1,6 @@
 ---
 title: "Kobal: a Google Chrome extension that allows paragraph-specific comments with Bitcoin 'tipping' on any website."
+date: 2014-06-22
 categories: projects
 tags:
   - hackathon
