@@ -10,11 +10,13 @@ excerpt: "droidcon Berlin: July 3, 2019. My first time speaking at a conference!
 header:
   overlay_color: "#333"
   actions:
-    - label: "Watch the Video"
+    - label: "Video"
       url: "https://www.droidcon.com/media-detail?video=353567025"
     - label: "See the Slides"
       url: "https://speakerdeck.com/ankushg/a-journey-in-shared-code-with-kotlin-multiplatform-droidcon-berlin-2019"
 ---
+
+{% include video id="353567025" provider="vimeo" %}
 
 Hear the story of how we shipped Kotlin Multiplatform across Android, iOS, and the Web to power Quizlet’s learning experience for over 50 million users per month. 
 
