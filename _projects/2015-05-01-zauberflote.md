@@ -1,6 +1,6 @@
 ---
 title: "Zauberflöte: A Transparent Peer-to-Peer CDN"
-categories: academia
+categories: projects
 tags:
   - distributed systems
   - web
