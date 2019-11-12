@@ -15,7 +15,7 @@ header:
       url: "https://github.com/ankushg/MultiplatformParcelize"
 ---
 
-Corresponding code for this blog post [is available on GitHub](https://github.com/ankushg/MultiplatformParcelize)
+Corresponding code for this blog post [is available on GitHub.](https://github.com/ankushg/MultiplatformParcelize)
 {: .notice--info}
 
 # Background on `Parcel`s
