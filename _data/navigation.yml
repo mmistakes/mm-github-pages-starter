@@ -3,6 +3,8 @@ main:
     url: /about/
   - title: "Posts"
     url: /posts/
+  - title: "Speaking"
+    url: /speaking/
   - title: "Projects"
     url: /projects/
   # - title: "Industry"

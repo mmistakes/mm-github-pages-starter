@@ -153,6 +153,13 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _speaking
+  - scope:
+      path: "_speaking"
+      type: speaking
+    values:
+      layout: single
+      author_profile: true
 
 category_archive:
   type: liquid
@@ -163,5 +170,8 @@ tag_archive:
 
 collections:
   projects:
+    output: true
+    permalink: /:collection/:path/
+  speaking:
     output: true
     permalink: /:collection/:path/
