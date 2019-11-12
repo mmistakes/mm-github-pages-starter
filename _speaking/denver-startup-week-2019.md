@@ -6,7 +6,7 @@ tags:
   - android
   - kotlin
   - kotlin multiplatform
-excerpt: "Denver Startup Week 2019: Sept. 17, 2019. Free event!"
+excerpt: "Denver Startup Week 2019: Sept. 17, 2019. <br>Free event!"
 header:
   overlay_color: "#333"
   actions:
