@@ -21,8 +21,11 @@ description: >- # this means to ignore newlines until "baseurl:"
 #github_username: username
 minimal_mistakes_skin: contrast
 search: true
-teaser: "/assets/images/header.jpg"
-
+teaser: # "/assets/images/header.jpg"
+header:
+  overlay_image: /assets/images/header.jpg
+  overlay_image: "/assets/images/header.jpg"
+  
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
