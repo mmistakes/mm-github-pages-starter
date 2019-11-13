@@ -21,6 +21,12 @@ description: >- # this means to ignore newlines until "baseurl:"
 #github_username: username
 minimal_mistakes_skin: contrast
 search: true
+layout: splash
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/header.jpg
+excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
 
 # Build settings
 markdown: kramdown
@@ -77,8 +83,6 @@ footer:
       url: "https://fhbig.slack.com/"
 
 defaults:
-  header:
-    image: /assets/images/header.jpg
   # _posts
   - scope:
       path: ""
