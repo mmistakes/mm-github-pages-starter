@@ -66,9 +66,6 @@ author:
     - label: "Coop Slack"
       icon: "fab fa-fw fa-slack"
       url: "https://fhbig.slack.com/"
-
-header:
-  image: /assets/images/header.jpg
   
 footer:
   links:
@@ -80,6 +77,8 @@ footer:
       url: "https://fhbig.slack.com/"
 
 defaults:
+  header:
+    image: /assets/images/header.jpg
   # _posts
   - scope:
       path: ""
