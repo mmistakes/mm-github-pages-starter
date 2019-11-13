@@ -77,6 +77,8 @@ footer:
       url: "https://fhbig.slack.com/"
 
 defaults:
+  header:
+    image: /assets/images/header.jpg
   # _posts
   - scope:
       path: ""
@@ -89,8 +91,6 @@ defaults:
       comments: true
       share: true # this is if you want to allow people to share the post on their own social media
       related: true
-      header:
-        image: /assets/images/header.jpg
   # _pages
   - scope:
       path: "_pages"
