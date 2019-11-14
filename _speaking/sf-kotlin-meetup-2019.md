@@ -6,16 +6,17 @@ tags:
   - android
   - kotlin
   - kotlin multiplatform
-excerpt: "San Francisco Kotlin Meetup: Nov. 7, 2019. <br>Free event!"
+excerpt: "San Francisco Kotlin Meetup: Nov. 7, 2019. <br>Free [Kotlin/Everywhere](https://events.withgoogle.com/kotlin-everywhere/) community event!"
 header:
   overlay_color: "#333"
   actions:
-    - label: "Video (coming soon)"
+    - label: "Watch the Video"
+      url: https://www.youtube.com/watch?v=3NxnnyD0EZU
     - label: "Meetup Link"
       url: "https://www.meetup.com/San-Francisco-Kotlin-Meetup/events/265602166/"
 ---
 
-# Video coming soon!
+{% include video id="3NxnnyD0EZU" provider="youtube" %}
 
 Learn how Quizlet uses Kotlin Multiplatform to build iOS, Android, and web learning experiences for over 50 million users per month. 
 
