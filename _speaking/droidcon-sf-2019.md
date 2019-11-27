@@ -6,7 +6,7 @@ tags:
   - android
   - kotlin
   - kotlin multiplatform
-excerpt: "My upcoming talk at droidcon SF 2019: Nov. 26, 2019."
+excerpt: "My talk at droidcon SF 2019: Nov. 26, 2019."
 header:
   overlay_color: "#333"
   actions:
@@ -14,8 +14,6 @@ header:
     - label: "Event Description"
       url: "https://www.sf.droidcon.com/speaker/Ankush-Gupta"
 ---
-
-# Coming up!
 
 Learn how Quizlet uses Kotlin Multiplatform to build iOS, Android, and web learning experiences for over 50 million users per month.
 
