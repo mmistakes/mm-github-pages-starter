@@ -1,7 +1,7 @@
 ---
 title: "Shared Code at Quizlet: Deciding on Kotlin Multiplatform"
 categories: industry
-tags: 
+tags:
   - kotlin
   - mobile
   - multiplatform
@@ -13,6 +13,7 @@ header:
   image: /assets/images/quizlet-shared-kotlin/q+k.png
   og_image: /assets/images/quizlet-shared-kotlin/q+k.png
   teaser: /assets/images/quizlet-shared-kotlin/q+k.png
+  image_description: "Quizlet + Kotlin = ❤️"
 ---
 
 For readers who don’t know about us already, [Quizlet](https://quizlet.com/careers)’s mission is to help our users practice and master whatever they’re trying to learn. We primarily do this by building tools for learners to create, study, and share content, with more than 50 million students and teachers using our product each month.
