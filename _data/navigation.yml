@@ -2,7 +2,7 @@ main:
   - title: "About Me"
     url: /about/
   - title: "Posts"
-    url: /posts/
+    url: /
   - title: "Speaking"
     url: /speaking/
   - title: "Projects"
