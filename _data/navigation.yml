@@ -9,6 +9,12 @@ main:
     url: /contact/
 
 about:
+  - title: People
+    children:
+      - title: Research team
+        url: /about/research-team/
+      - title: Vacancies
+        url: /about/vacancies/
   - title: COHUBICOL's aims
     children:
       - title: Legal protection
