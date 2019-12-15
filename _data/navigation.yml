@@ -1,9 +1,37 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
+  - title: "About the project"
     url: /about/
+  - title: "News"
+    url: /news/
+  - title: "Research blog"
+    url: /blog/
+  - title: "Contact"
+    url: /contact/
+
+about:
+  - title: COHUBICOL's aims
+    children:
+      - title: Legal protection
+        url: /about/legal-protection/
+      - title: Vocabularies
+        url: /about/vocabularies/
+      - title: Grammars
+        url: /about/grammars/
+      - title: A new legal hermeneutics
+        url: /about/new-legal-hermeneutics/
+      - title: Key intermediate goals
+        url: /about/key-intermediate-goals/
+
+  - title: Computational law
+    children:
+      - title: Data-driven law
+        url: /about/data-driven-law/
+      - title: Code-driven law
+        url: /about/code-driven-law/
+      - title: Three types of normativity
+        url: /about/three-types-of-normativity/
+
+  - title:
+    children:
+      - title: Bibliography
+        url: /about/bibliography/

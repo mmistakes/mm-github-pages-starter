@@ -1,0 +1,58 @@
+# /_data/authors.yml
+
+Irina Baraliuc:
+  name        : "Irina Baraliuc"
+  bio         : "Project co-ordinator"
+  avatar      : "/assets/images/bio-irina.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:irina.baraliuc@vub.be"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "/about/research-team"
+
+Laurence Diver:
+  name        : "Laurence Diver"
+  bio         : "Legal postdoc"
+  avatar      : "/assets/images/bio-laurence.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:laurence.diver@vub.be"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "/about/research-team"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/laurence_diver"
+
+Mireille Hildebrandt:
+  name        : "Mireille Hildebrandt"
+  bio         : "Principal Investigator"
+  avatar      : "/assets/images/bio-mireille.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:mireille.hildebrandt@vub.be"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "/about/research-team"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/mireillemoret"
+
+Emilie van den Hoven:
+  name        : "Emilie van den Hoven"
+  bio         : "Legal PhD candidate"
+  avatar      : "/assets/images/bio-emilie.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:emilie.van.den.hoven@vub.be"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "/about/research-team"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/eb_vdhoven"

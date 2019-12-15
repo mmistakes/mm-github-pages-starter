@@ -14,15 +14,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: COHUBICOL
+subtitle: "ERC Advanced Grant 2019-2024"
+logo: "/assets/images/logo-header.png"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+twitter_username: cohubicol1
 minimal_mistakes_skin: default
 search: true
+title_separator: "&#x25AA;"
+breadcrumbs: true
 
 # Build settings
 markdown: kramdown
@@ -56,36 +59,25 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-archives
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "COHUBICOL"
+  avatar : "/assets/images/hero-cube.jpg"
+  bio    : "Counting as a Human Being in the Era of Computational Law"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://cohubicol.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://twitter.com/cohubicol1"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://twitter.com/cohubicol1"
 
 defaults:
   # _posts
@@ -95,7 +87,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: true
       share: true
       related: true
@@ -105,11 +97,37 @@ defaults:
       type: pages
     values:
       layout: single
+      classes: wide
+      author_profile: false
+      header:
+        overlay_color: "#000"
+        overlay_filter: "0.33"
+  - scope:
+      path: "_pages/about"
+      type: pages
+    values:
+      sidebar:
+        nav: "about"
+  # _blog
+  - scope:
+      path: ""
+      type: blog
+    values:
+      layout: single
       author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+
+collections:
+  blog:
+    output: true
+    permalink: /:collection/:path/
 
 category_archive:
   type: liquid
-  path: /categories/
+  path: /news/
 tag_archive:
   type: liquid
   path: /tags/

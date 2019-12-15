@@ -1,16 +1,6 @@
 ---
-permalink: /about/
-title: "About COHUBICOL"
-layout: "single"
-classes: "wide"
-header:
-  overlay_image: assets/images/hero-cube.jpg
-  overlay_color: "#000"
-  overlay_filter: "0.33"
-  caption: "this is a caption"
-author_profile: false
-sidebar:
-  nav: "about"
+permalink: /about/research-team/
+title: "Research team"
 ---
 
 This is the website of the CoHuBiCoL research project, for which [Mireille Hildebrandt](/about/research-team/) received an Advanced Grant of the European Research Council to set up a team of both lawyers and computer scientists to conduct foundational research into computational law.
