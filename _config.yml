@@ -63,7 +63,7 @@ plugins:
 
 author:
   name   : "COHUBICOL"
-  avatar : "/assets/images/hero-cube.jpg"
+  avatar : "/assets/images/cube-avatar.png"
   bio    : "Counting as a Human Being in the Era of Computational Law"
   links:
     - label: "Website"
