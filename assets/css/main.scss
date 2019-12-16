@@ -16,5 +16,9 @@
   margin-top: 0;
 }
 
+h1.page__title {
+  margin-bottom: 0;
+}
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
