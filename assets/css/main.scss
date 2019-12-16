@@ -20,5 +20,9 @@ h1.page__title {
   margin-bottom: 0;
 }
 
+.page__hero--overlay p:last-child {
+  margin-bottom: 0;
+}
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
