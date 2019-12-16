@@ -733,6 +733,14 @@ footer span.copyright {
     line-height: 40px;
 }
 
+footer span.donate {
+    text-transform: uppercase;
+    text-transform: none;
+    font-family: {{ site.data.template.font.primary }};
+    line-height: 20px;
+}
+
+
 footer ul.quicklinks {
     margin-bottom: 0;
     text-transform: uppercase;
@@ -864,4 +872,21 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
+}
+
+.tip-button {
+  width: 304px;
+  height: 89px;
+  background-size: 100%;
+  background-image: url('img/1_pay_mm_off.png');
+  cursor: pointer;
+  text-align: right;
+}
+
+.tip-button:hover {
+  background-image: url('img/1_pay_mm_over.png');
+}
+
+.tip-button:active {
+  background-image: url('img/1_pay_mm_off.png');
 }
