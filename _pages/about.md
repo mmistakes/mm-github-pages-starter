@@ -9,12 +9,18 @@ Afterward, I moved to Purwokerto to study at SMK Telkom Purwokerto. Here I take 
 Afterword.. My life is a bit nomadic but I greatly enjoyed it :) It gave me a lot of experience and things that I never had before. 
 
 * Skills and Knowledge 
-  Basics : Networking, Programming 
-  Additional Skills : Designing detailed diagram with Microsoft Visio, Adobe Photoshop
-  Experience : Intern at PT iForte Global Internet
+ 
+ Basics : Networking, Programming 
+ 
+ Additional Skills : Designing detailed diagram with Microsoft Visio, Adobe Photoshop
+ 
+ Experience : Intern at PT iForte Global Internet
 
 * Contact 
-Email : [zaidanriz@gmail.com](mailto:zaidanriz@gmail.com)
-Facebook : [fb.com/zrzzrzy](https://fb.com/zrzzrzy) 
-Github : [github.com/zaidanr](https://github.com/zaidanr)
+
+ Email : [zaidanriz@gmail.com](mailto:zaidanriz@gmail.com)
+
+ Facebook : [fb.com/zrzzrzy](https://fb.com/zrzzrzy) 
+
+ Github : [github.com/zaidanr](https://github.com/zaidanr)
 
