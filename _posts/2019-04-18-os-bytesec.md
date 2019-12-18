@@ -1,13 +1,12 @@
-
 ---
 title: "[VulnHub] Os-Bytesec WriteUp"
-date: 2019-04-19T21:16:19-19:00
+date: 2019-04-18T21:24:30-04:00
 categories:
   - blog
 tags:
   - vulnhub
   - writeup
-  - easy
+  - intermediate
 ---
 
 ## Information Gathering
