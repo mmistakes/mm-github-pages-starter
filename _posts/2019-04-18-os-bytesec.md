@@ -1,6 +1,10 @@
 ---
 title: "[VulnHub] Os-Bytesec WriteUp"
+<<<<<<< HEAD
+date: 2019-04-19T23:11:19-19:00
+=======
 date: 2019-04-18T21:24:30-04:00
+>>>>>>> f40de57371e084377c216437b4569ef95bc3e2de
 categories:
   - blog
 tags:
@@ -69,14 +73,11 @@ Karena file `save.zip` ternyata berpassword,  kita bisa bruteforce passwordnya d
 `fcrackzip -D -p /usr/share/wordlists/rockyou.txt -u safe.zip`
 
 ```
-PASSWORD FOUND!!!!: pw == hacker1smb: \> ls
-  .                                   D        0  Mon Nov  4 18:50:37 2019
-  ..                                  D        0  Mon Nov  4 18:37:28 2019
-  main.txt                            N       10  Mon Nov  4 18:45:38 2019
-  safe.zip                            N  3424907  Mon Nov  4 18:50:37 2019
+PASSWORD FOUND!!!!: pw == hacker1smb:
 
 ```
-Isi dari `safe.zip` adalah satu gambar dengan nama `secret.jpg` yang gak ada "secret-secret"--nya dan file `user.cap`. 
+Isi dari `safe.zip` adalah satu gambar dengan nama `secret.jpg` yang gak ada "secret-secret"--nya dan file `user.cap`.  
+![deauth](/Os-Bytesec/deauth.jpg){: img_content }
 Setelah lihat-lihat isi `user.cap` ternyata banyak sekali paket deauth yang tercapture, maka dapat disimpulkan ini adalah file _capture_-an dari bocah yang mau ngehek wifi pake `aireplay-ng`. Karena asumsinya itu adalah file _three-way handshake_ dari `airodump`/`aireplay`, maka kita bisa crack password yang tercapture dengan menggunakan `aircrack`.
 `aircrack-ng -w /usr/share/wordlists/rockyou.txt user.cap`
 ```
@@ -174,8 +175,7 @@ Ok jadi kunci keberhasilan privescnya adalah perubahan environtment variable / `
 
 Sederhananya, kita merekayasa "arah" pemanggilan file `netstat` pada program `netscan` yang seharusnya memanggil `/usr/bin/netstat` menjadi memanggil `/tmp/netstat` yang berisi perintah untuk memanggil shell. Ditambah dengan flag/attribute `SUID` yang ada di program `netscan`, maka yang terpanggil adalah shell root.
 
-Sekian write up kali ini, see ya next time :love: 
+Sekian write up kali ini, see ya next time :heart: 
  
-
 
 
