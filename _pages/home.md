@@ -9,7 +9,7 @@ header:
     - label: "Learn more"
       url: "/about/"
   caption: 'this is a caption'
-excerpt: 'Counting as a Human Being in the Era of Computational Law<br/><small>ERC Advanced Grant 2019-2024</small>'
+excerpt: "Counting as a Human Being in the Era of Computational Law<br/><small>Say [cubicle](https://www.wired.com/2014/04/how-offices-accidentally-became-hellish-cubicle-farms/) &#9642; Think [Wittgenstein's cube](http://perscrutor.com/?p=446)</small>"
 feature_row:
   - image_path: "https://picsum.photos/id/321/500/300"
     alt: "About the project"
