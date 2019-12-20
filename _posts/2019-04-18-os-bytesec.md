@@ -73,7 +73,7 @@ PASSWORD FOUND!!!!: pw == hacker1smb:
 
 ```
 Isi dari `safe.zip` adalah satu gambar dengan nama `secret.jpg` yang gak ada "secret-secret"--nya dan file `user.cap`.  
-![deauth](/Os-Bytesec/deauth.jpg){: img_content }
+![deauth](/assets/images/Os-Bytesec/deauth.jpg){: img_content }
 Setelah lihat-lihat isi `user.cap` ternyata banyak sekali paket deauth yang tercapture, maka dapat disimpulkan ini adalah file _capture_-an dari bocah yang mau ngehek wifi pake `aireplay-ng`. Karena asumsinya itu adalah file _three-way handshake_ dari `airodump`/`aireplay`, maka kita bisa crack password yang tercapture dengan menggunakan `aircrack`.
 `aircrack-ng -w /usr/share/wordlists/rockyou.txt user.cap`
 ```
