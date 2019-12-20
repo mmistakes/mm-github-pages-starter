@@ -16,12 +16,38 @@
   margin-top: 0;
 }
 
+#site-nav a.site-title {
+  line-height: 1.25;
+}
+
 h1.page__title {
   margin-bottom: 0;
 }
 
 .page__hero--overlay p:last-child {
   margin-bottom: 0;
+}
+
+.bio {
+  display: block;
+  clear: both;
+
+  h2 small {
+    font-weight: normal;
+  }
+
+  .author__avatar {
+    float: right;
+
+    img {
+      max-width: 175px;
+      border-radius: 0;
+    }
+
+    @media (min-width: 48em) {
+      margin: 0 0 15px 15px;
+    }
+  }
 }
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
