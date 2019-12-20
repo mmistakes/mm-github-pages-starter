@@ -23,4 +23,3 @@ Afterword.. My life is a bit nomadic but I greatly enjoyed it :) It gave me a lo
  Facebook : [fb.com/zrzzrzy](https://fb.com/zrzzrzy) 
 
  Github : [github.com/zaidanr](https://github.com/zaidanr)
-
