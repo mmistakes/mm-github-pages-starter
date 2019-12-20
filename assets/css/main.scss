@@ -50,5 +50,10 @@ h1.page__title {
   }
 }
 
+a[href*="//"]:not([href*="localhost"]):after {
+  content: url(/assets/images/external-link.png);
+  margin: 0 0 0 5px;
+}
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
