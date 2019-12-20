@@ -1,32 +1,5 @@
 # /_data/authors.yml
 
-Irina Baraliuc:
-  name        : "Irina Baraliuc"
-  bio         : "Project co-ordinator"
-  avatar      : "/assets/images/bio-irina.jpg"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:irina.baraliuc@vub.be"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "/about/research-team"
-
-Laurence Diver:
-  name        : "Laurence Diver"
-  bio         : "Legal postdoc"
-  avatar      : "/assets/images/bio-laurence.jpg"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:laurence.diver@vub.be"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "/about/research-team"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/laurence_diver"
-
 Mireille Hildebrandt:
   name        : "Mireille Hildebrandt"
   bio         : "Principal Investigator"
@@ -37,10 +10,37 @@ Mireille Hildebrandt:
       url: "mailto:mireille.hildebrandt@vub.be"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "/about/research-team"
+      url: "/about/research-team/#mireille-hildebrandt"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/mireillemoret"
+
+Laurence Diver:
+  name        : "Laurence Diver"
+  bio         : "Legal postdoctoral researcher"
+  avatar      : "/assets/images/bio-laurence.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:laurence.diver@vub.be"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "/about/research-team/#laurence-diver"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/laurence_diver"
+
+Frederike Zufall:
+  name        : "Frederike Zufall"
+  bio         : "Legal postdoctoral researcher"
+  avatar      : ""
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:frederike.zufall@vub.be"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "/about/research-team/#frederike-zufall"
 
 Emilie van den Hoven:
   name        : "Emilie van den Hoven"
@@ -52,7 +52,35 @@ Emilie van den Hoven:
       url: "mailto:emilie.van.den.hoven@vub.be"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "/about/research-team"
+      url: "/about/research-team/#emilie-van-den-hoven"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/eb_vdhoven"
+
+Paulus Meessen:
+  name        : "Paulus Meessen"
+  bio         : "Researcher"
+  avatar      : ""
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:emilie.van.den.hoven@vub.be"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "/about/research-team/#paulus-meessen"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/paulus0"
+
+
+Irina Baraliuc:
+  name        : "Irina Baraliuc"
+  bio         : "Project co-ordinator"
+  avatar      : "/assets/images/bio-irina.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:irina.baraliuc@vub.be"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "/about/research-team/#irina-baraliuc"
