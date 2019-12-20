@@ -166,7 +166,7 @@ WebSite : jameshacker.me
 
 ```
 
-Bingung kenapa logika tsb bisa jalan? _sama saya juga_
+Bingung kenapa logika tsb bisa jalan? _sama saya juga_  
 Ok jadi kunci keberhasilan privescnya adalah perubahan environtment variable / `$PATH`. Kita merubah **`netstat` asli** yang berisi tools untuk menampilkan koneksi aktif menjadi **"`netstat`" palsu** yang berisi command untuk memanggil shell. Umumnya dengan hanya merubah `netstat` asli menjadi `netstat` palsu kita juga tidak akan mendapat user root. Namun, karena kita menjalankan program **`netscan`** yang memiliki flag `SUID`, kita berhasil mendapat akses shell root.
 
 Sederhananya, kita merekayasa "arah" pemanggilan file `netstat` pada program `netscan` yang seharusnya memanggil `/usr/bin/netstat` menjadi memanggil `/tmp/netstat` yang berisi perintah untuk memanggil shell. Ditambah dengan flag/attribute `SUID` yang ada di program `netscan`, maka yang terpanggil adalah shell root.
