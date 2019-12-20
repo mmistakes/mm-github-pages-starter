@@ -33,11 +33,11 @@ Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 ```
 
 Server menjalankan web server di port 80, dan SMB di 139 dan 445.
-![index.html](/Os-Bytesec/index.jpg){: .img-content }
+![index.html](/assets/images/Os-Bytesec/index.jpg){: .img-content }
 
 ### dirb 
 Saya sempat mencoba dirscanning dan menemukan file `news.png` di `/img`.
-![news.png](/Os-Bytesec/news.png){: .img-content }
+![news.png](/assets/images/Os-Bytesec/news.png){: .img-content }
 Hmm pakah mesin ini vuln BlueKeep ? :thinking:
 >**BlueKeep** is a remote code execution vulnerability exists in Remote Desktop Services – formerly known as Terminal Services – when an unauthenticated attacker connects to the target system using RDP and sends specially crafted requests. This vulnerability is pre-authentication and requires no user interaction. An attacker who successfully exploited this vulnerability could execute arbitrary code on the target system. An attacker could then install programs; view, change, or delete data; or create new accounts with full user rights. ([_microsoft_](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0708))
 
