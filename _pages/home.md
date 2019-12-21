@@ -27,7 +27,7 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: "/assets/images/empain.jpg"
     alt: "100% free"
-    title: "Computational law?"
+    title: "Innovation of legal method"
     excerpt: "The basis of COHUBICOL is the transition from textual law to computational law, both data-driven and code-driven."
     url: "/about/"
     btn_label: "Learn more"

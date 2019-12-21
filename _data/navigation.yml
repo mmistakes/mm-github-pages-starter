@@ -17,16 +17,18 @@ about:
         url: /about/vacancies/
   - title: COHUBICOL's aims
     children:
+      - title: Conceptual approach
+        url: /about/conceptual-approach/
       - title: Legal protection
         url: /about/legal-protection/
       - title: Vocabularies
         url: /about/vocabularies/
       - title: Grammars
         url: /about/grammars/
-      - title: A new legal hermeneutics
-        url: /about/new-legal-hermeneutics/
       - title: Key intermediate goals
         url: /about/key-intermediate-goals/
+      - title: "Outcome: a new legal hermeneutics"
+        url: /about/new-legal-hermeneutics/
 
   - title: Computational law
     children:

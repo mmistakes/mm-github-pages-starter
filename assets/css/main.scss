@@ -12,6 +12,13 @@
   @media (min-width: 48em) { .grid__item .archive__item-teaser { max-height: 175px; } }
 }
 
+nav.nav__list {
+  > ul > li > ul li {
+    margin-bottom: 8px;
+    line-height: 1.1;
+  }
+}
+
 .archive div.entries-list div.list__item:first-child h2.archive__item-title {
   margin-top: 0;
 }
