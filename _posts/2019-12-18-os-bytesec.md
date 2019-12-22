@@ -1,6 +1,6 @@
 ---
 title: "[VulnHub] Os-Bytesec WriteUp"
-date: 2019-04-19T23:11:19+07:00
+date: 2019-12-19T23:11:19+07:00
 categories:
   - blog
 tags:
