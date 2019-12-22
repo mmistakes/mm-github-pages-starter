@@ -62,18 +62,18 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "I love to learn as to break stuff"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+#    - label: "Website"
+#      icon: "fas fa-fw fa-link"
+#      url: "https://"
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
 #      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "lemosleandro"
+      url: "https://github.com/ceso"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/"
+      url: "https://linkedin.com/in/lemosleandro"
 
 #footer:
 #  links:
