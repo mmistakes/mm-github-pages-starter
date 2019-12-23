@@ -3,13 +3,28 @@
 
 <div itemscope itemtype="https://schema.org/Person">
 
-  <div class="author__avatar">
-    {% if author.avatar contains "://" %}
-    	<img src="{{ author.avatar }}" alt="{{ author.name }}">
-    {% else %}
-    	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
-    {% endif %}
-  </div>
+  {% if author.avatar %}
+    <div class="author__avatar">
+      {% if author.avatar contains "://" %}
+        {% assign author_src = author.avatar %}
+      {% else %}
+        {% assign author_src = author.avatar | relative_url %}
+      {% endif %}
+
+      {% if author.home %}
+        {% if author.home contains "://" %}
+          {% assign author_link = author.home %}
+        {% else %}
+          {% assign author_link = author.home | relative_url %}
+        {% endif %}
+        <a href="{{ author_link }}">
+          <img src="{{ author_src }}" alt="{{ author.name }}" itemprop="image">
+        </a>
+      {% else %}
+        <img src="{{ author_src }}" alt="{{ author.name }}" itemprop="image">
+      {% endif %}
+    </div>
+  {% endif %}
 
   <div class="author__content">
     {% if author.home %}

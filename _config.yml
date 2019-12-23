@@ -19,6 +19,9 @@ description: "Security CTFs, Tutorials and Blogs"
 github_username: ceso
 minimal_mistakes_skin: "dark"
 search: true
+url: "https://ceso.github.io"
+baseurl: # the subpath of your site, e.g. "/blog"
+repository: "ceso/ceso.github.io"
 
 # Build settings
 markdown: kramdown
@@ -54,10 +57,10 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Leandro Lemos"
-  avatar : "av01.jpg"
-  bio    : "CyberSec enthusiast and climber. I love to learn and climb rocks/privileges"
-  location: "ceso land"
+  name: "Leandro Lemos"
+  avatar: "av01.jpg"
+  bio: "I like to climb things; rocks and privileges"
+  location: "Amersfoort, Netherlands"
   links:
 #    - label: "Website"
 #      icon: "fas fa-fw fa-link"
