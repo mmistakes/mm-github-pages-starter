@@ -1,0 +1,44 @@
+backend:
+  name: git-gateway
+  branch: master
+  identity_url: "https://localhost:4000/.netlify/identity"
+  gateway_url: "https://localhost:4000/.netlify/git"
+  squash_merges: true
+
+# publish_mode: editorial_workflow
+media_folder: "assets/images/uploads"
+
+site_url: http://localhost:4000
+logo_url: http://localhost:4000/assets/images/logo-header.png
+
+collections:
+  - name: "news" # Used in routes, e.g., /admin/collections/blog
+    label: "News" # Used in the UI
+    folder: "_posts" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Featured Image", name: "thumbnail", widget: "image"}
+      - {label: "Rating (scale of 1-5)", name: "rating", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "blog" # Used in routes, e.g., /admin/collections/blog
+    label: "Blog" # Used in the UI
+    folder: "_blog" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Author", name: "author", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Header", name: "header", widget: "hidden"}
+      - {label: "Header image", name: "header.overlay_image", widget: "image"}
+      - {label: "Header overlay colour", name: "header.overlay_color", widget: "hidden", default: "#000"}
+      - {label: "Header overlay transparency", name: "header.overlay_filter", widget: "hidden", default: "0.33"}
+      - {label: "Header image caption", name: "header.caption", widget: "string"}
+      #- {label: "Teaser image", name: "header.teaser", widget: "image"}
+      - {label: "Excerpt", name: "excerpt", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
