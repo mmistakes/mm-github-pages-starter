@@ -77,6 +77,14 @@ Isi dari `safe.zip` adalah satu gambar dengan nama `secret.jpg` yang gak ada "se
 Setelah lihat-lihat isi `user.cap` ternyata banyak sekali paket deauth yang tercapture, maka dapat disimpulkan ini adalah file _capture_-an dari bocah yang mau ngehek wifi pake `aireplay-ng`. Karena asumsinya itu adalah file _three-way handshake_ dari `airodump`/`aireplay`, maka kita bisa crack password yang tercapture dengan menggunakan `aircrack`.
 `aircrack-ng -w /usr/share/wordlists/rockyou.txt user.cap`
 ```
+   #  BSSID              ESSID                     Encryption
+
+   1  56:DC:1D:19:52:BC  blackjax                  WPA (1 handshake)
+
+.
+
+.
+
 Aircrack-ng 1.5.2 
 
       [00:00:14] 83800/7120712 keys tested (5232.31 k/s) 
@@ -117,7 +125,12 @@ MD5-HASH : f589a6959f3e04037eb2b3eb0ff726ac
 ```
 ### Root Flag
 Hal wajib yang perlu dilakukan untuk melakukan privesc di sistem Linux adalah melakukan enumerasi dengan [**linenum.sh**](https://github.com/rebootuser/LinEnum/blob/master/LinEnum.sh). Cari direktori writeable dan jalankan file linenum disitu.  
-
+```
+[-] SUID files:
+.
+.
+-rwsr-xr-x 1 root root 7432 Nov  4 20:00 /usr/bin/netscan
+```
 Salah satu poin yang cukup interesting yaitu adanya file/program `netscan` di `/usr/bin/` yang mempunyai flag `SUID/SETUID`, flag tersebut berarti kita dapat menjalankan program tsb dengan mendapat privilege/permission sebagai root. File `netscan` menarik karena file/program tersebut tidak ada pada mesin pada umumnya.
 
 #### Netscan
