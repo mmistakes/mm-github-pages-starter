@@ -9,6 +9,8 @@ tags:
   - intermediate
 ---
 
+For English version of this write-up, [click here](https://medium.com/@zaidanrizaki/vulnhub-os-bytesec-f6fd98b136f9).
+
 ## Information Gathering
 ### nmap  
 `nmap -sV -sC -p- bytesec.vh -oN initial.nmap -v`
