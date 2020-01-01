@@ -9,7 +9,7 @@ tags:
   - awk
 ---
 
-For English version of this write-up, [click here](https://medium.com/@zaidanrizaki/vulnhub-os-hax-a32d8d592962).
+For English version of this write-up, [click here](.
 
 ## Setup 
 Edit file `/etc/hosts` menjadi seperti dibawah agar static web mesin bisa berjalan.
