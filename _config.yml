@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "ceso cave"
+title: "Ceso adventures"
 email:
 description: "Security CTFs, Tutorials and Blogs"
 github_username: ceso
@@ -58,23 +58,19 @@ plugins:
 
 author:
   name: "Leandro Lemos"
-  avatar: "av01.jpg"
+  avatar: "/assets/images/site/av01.jpg"
   bio: "I like to climb things; rocks and privileges"
   location: "Amersfoort, Netherlands"
   links:
-#    - label: "Website"
-#      icon: "fas fa-fw fa-link"
-#      url: "https://"
-#    - label: "Twitter"
-#      icon: "fab fa-fw fa-twitter-square"
-#      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ceso"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/lemosleandro"
-
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter"
+      url: "https://twitter.com/0xc350"
 defaults:
   # _posts
   - scope:

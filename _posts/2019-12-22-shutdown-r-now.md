@@ -1,7 +1,7 @@
 ---
 title: "shutdown -r now"
 categories:
-  - Blog
+  - blog
 tags:
   - 
 ---
