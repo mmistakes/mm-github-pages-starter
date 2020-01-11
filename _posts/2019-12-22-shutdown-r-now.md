@@ -1,14 +1,17 @@
 ---
+layout: single
+teaser: "/assets/images/site/cuervos-cerro.jpg"
 title: "shutdown -r now"
+excerpt: ""
+header:
+  overlay_image: "/assets/images/site/cuervos-cerro.jpg"
 categories:
   - blog
-tags:
-  - 
 ---
 
-Note: First than everything, sorry the english, is not my native language and always learning new stuff of it.
+Note: First than everything, sorry the english, is not my native language and always learning new stuff about it.
 
-I have always been thinking about writing a blog, but my mindset has always been the same "me? a blog? what I am supposed to post! I can't even think anything I could share with people, I don't know nothing compared to the people
+I have always been thinking about writing a blog, but my mindset has always been the same "me? a blog? what am I supposed to post! I can't even think anything I could share with people, I don't know nothing compared to the people
 who blogs!", currently that mindset has been changing. In the same way, maybe I read a really entry-level article and at some moment and it was (or is) helpful for me, it also could be helpful for another person as well things faced, the issues I ran into, etc..., and being some sort of way of escape for me itself, I think this change of mindset is the result of my last 9 months living abroad.
 
 I consider I started into IT being really old; with 18 I got my first Linux Sysadmin Job while with 9-12 years some children were playing with code, trying to break stuff, etc.

@@ -71,6 +71,7 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter"
       url: "https://twitter.com/0xc350"
+
 defaults:
   # _posts
   - scope:
@@ -90,6 +91,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+      header:
+        overlay_image: "/assets/images/site/banner-site.jpg"      
 
 category_archive:
   type: liquid
@@ -97,3 +100,8 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "ceso"
