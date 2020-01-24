@@ -10,13 +10,12 @@ tags:
   - tutorial
 ---
 
-# KUBERNETES
+# Kubernetes
 **Kubernetes** atau biasa disingkat **k8s** adalah sistem container orchestration open-source untuk mengautomasi proses deployment, scaling, dan manajemen suatu aplikasi. Kubernetes dapat berjalan dengan container system seperti Docker, Vagrant atau rkt.  
 
 Container orchestration adalah sebuah proses mengelola lifecycle suatu sistem container, terutama dalam sistem yang kompleks dan dinamis. Tim developer menggunakan container 
 
 # Komponen Kubernetes
-
 ## Controllers
 Analogikan sistem sebuah AC, didalam AC terdapat thermostat yang mengatur suhu AC yang sudah ditentukan lewat remote. Saat kita mengatur suhu AC yang diinginkan lewat remote, thermostat di AC akan memonitor dan mengatur suhu dengan cara mempercepat putaran kipas atau memperkuat aliran freon.  
 
@@ -41,7 +40,7 @@ suatu _instance_ terkecil dalam Kubernetes Cluster, yang dapat berisi satu atau 
 
 ## Deployments
 
-!(2.svg)[kubernetes-deployment)![Kubernetes Cluster](/assets/images/Kubernetes-Intro-1/deployment.svg)  
+![Kubernetes Cluster](/assets/images/Kubernetes-Intro-1/deployment.svg)  
 
 Deployment digunakan untuk mendeploy containerized application ke dalam Kubernetes Cluster. Deployment menginstruksikan Kubernetes cara membuat atau memperbarui sebuah aplikasi. Setelah Deployment dibuat, Kubernetes master mendaftarkan aplikasi yang sudah ditentukan dalam konfigurasi Deployment ke Node-Node di dalam Cluster.  
 
@@ -67,9 +66,10 @@ spec:
       app: nginx
 ```
 
-# Konsep Kerja Kubernetes
-User membuat Deployment dengan konfigurasi dan image yang diinginkan
-Deployment membuat Pods berisi layanan dan containerized application sesuai konfigurasi Deployment sebelumnya,
-Deployment Controller (DC) melakukan provisioning terhadap Deployment yang sudah dibuat, apabila terjadi error, DC dapat melakukan mekanisme self-healing sesuai dengan banyaknya replica yang dibuat.
+# Konsep Kerja Dasar Kubernetes
+1. User membuat Deployment dengan konfigurasi dan image yang diinginkan,
+2. Deployment membuat Pods berisi layanan dan containerized application sesuai konfigurasi Deployment sebelumnya,
+3. Deployment Controller (DC) melakukan provisioning terhadap Deployment yang sudah dibuat, apabila terjadi error, DC dapat melakukan mekanisme self-healing sesuai dengan banyaknya replica yang dibuat.
+
 ![Self Healing](/assets/images/Kubernetes-Intro-1/replicaset1.jpeg)
 ![Self Healing](/assets/images/Kubernetes-Intro-1/replicaset2.jpeg)
