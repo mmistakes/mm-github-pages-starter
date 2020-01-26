@@ -1,8 +1,12 @@
 ---
 permalink: /about/
-title: "About"
+title: "About Me"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+## Who I am
+I'm a geologist that enjoys solving problems using code, mostly with Python. I have bachelors and masters degrees in geology and geological engineering from Colorado School of Mines. In my current job, I'm an oil and gas development geologist in the Permian Basin of New Mexico. I work every day with engineers, petrophysicists, geophysicists, landmen, and data scientists to figure out how to optimally develop oil and gas fields. Oil and gas is a high-tech, data intensive industry, and I have found learning to work with code to solve problems in this field to be very rewarding.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I created this site to demonstrate some of what I've learned and to share with other geologists some useful applications of Python. If you are interested in learning some of these skills, be sure to checkout my [Resources Page](/resources/).
+
+## Contact
+If you want to get in touch with me, you can find me on [the software underground](https://softwareunderground.org/) or through the social links in the sidebar.
