@@ -9,6 +9,7 @@ tags:
   - kotlin multiplatform
 excerpt: "Denver Startup Week 2019: Sept. 17, 2019. <br>Free event!"
 header:
+  teaser: /assets/images/dsw_2019.png
   overlay_color: "#333"
   actions:
     - label: "See more"
