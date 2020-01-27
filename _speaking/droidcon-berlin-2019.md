@@ -9,6 +9,7 @@ tags:
 excerpt: "droidcon Berlin: July 3, 2019. <br>My first time speaking at a conference!"
 header:
   overlay_color: "#333"
+  teaser: /assets/images/droidcon_berlin_2019.jpg
   actions:
     - label: "Video"
       url: "https://www.droidcon.com/media-detail?video=353567025"
@@ -18,7 +19,7 @@ header:
 
 {% include video id="353567025" provider="vimeo" %}
 
-Hear the story of how we shipped Kotlin Multiplatform across Android, iOS, and the Web to power Quizlet’s learning experience for over 50 million users per month. 
+Hear the story of how we shipped Kotlin Multiplatform across Android, iOS, and the Web to power Quizlet’s learning experience for over 50 million users per month.
 
 By pinpointing the best areas of our already mature codebase to share (and intentionally skipping over many others), Quizlet was able to use Kotlin Multiplatform to share the “secret sauce” of our product without shackling our Android, iOS, and Web clients to a predetermined architecture.
 

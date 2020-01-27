@@ -9,6 +9,7 @@ tags:
 excerpt: "My talk at droidcon SF 2019: Nov. 26, 2019."
 header:
   overlay_color: "#333"
+  teaser: /assets/images/droidcon_sf_2019.png
   actions:
     - label: "Video"
       url: "https://www.droidcon.com/media-detail?video=380848881"

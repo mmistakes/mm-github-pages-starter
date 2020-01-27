@@ -10,7 +10,8 @@ toc_sticky: true
 excerpt: Using Platform-Specific Declarations to unlock `@Parcelize` in Kotlin Multiplatform Projects
 header:
   overlay_color: "#333"
-  teaser: https://generative-placeholders.glitch.me/image?style=triangles&img=parcelize_multiplatform
+  teaser: /assets/images/parcels.jpg
+  teaser_caption: Photo by [Joanna Kosinska](https://unsplash.com/photos/B6yDtYs2IgY)
   actions:
     - label: "GitHub"
       url: "https://github.com/ankushg/MultiplatformParcelize"
@@ -26,6 +27,8 @@ The Android OS uses [`Parcel`s ](https://developer.android.com/reference/androi
 They're most frequently used with `Bundle` objects to communicate across activities and intents, and to store state across configuration changes.
 
 As a result, most Android developers should be familiar with the concept of `Parcelable` classes.
+
+{% include figure image_path="/assets/images/parcels.jpg" caption="Photo by [Joanna Kosinska](https://unsplash.com/photos/B6yDtYs2IgY)" %}
 
 # Using the `@Parcelize` Android Extensions Plugin
 Hand-writing `Parcelable` implementations can be quite a pain. Thankfully, several tools exist to automagically generate the requisite code for you.
