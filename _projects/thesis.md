@@ -2,10 +2,11 @@
 title: Cross-Engine Query Execution in Federated Database Systems
 date: 2016-05-01
 categories: projects
+feature: true
 tags:
   - database systems
   - distributed systems
-excerpt: 👨🏻‍🎓 In my Master's Thesis, I implemented and evaluated a cross-system Query Executor. I focused on cross-engine shuffle joins, taking into account the skew of the data distribution.
+excerpt: 👨🏻‍🎓 In my Master's Thesis, I implemented and evaluated a Query Executor that can evaluate queries joining across relational, column-store, document, and time-series databases.<br/> <br/> I focused on cross-engine shuffle joins, taking into account the skew of the data distribution to minimize data transfer.
 header:
   overlay_color: "#333"
   excerpt: "My Master's thesis :)"

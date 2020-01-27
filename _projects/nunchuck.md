@@ -2,7 +2,7 @@
 title: "nunchuck.js: Multi-Device In-Browser Hardware Data Synchronization"
 date: 2014-08-01
 categories: projects
-tags: 
+tags:
   - hackathon
   - web
   - mobile

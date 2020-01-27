@@ -2,6 +2,7 @@
 title: "Hydra: A Trustless Decentralized Digital Identity System"
 date: 2015-05-01
 categories: projects
+feature: true
 tags:
   - cryptography
   - distributed systems

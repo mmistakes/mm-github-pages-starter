@@ -2,6 +2,7 @@
 title: Powering Worldwide Learning with Kotlin Multiplatform
 date: 2019-11-26
 categories: speaking
+feature: true
 tags:
   - android
   - kotlin

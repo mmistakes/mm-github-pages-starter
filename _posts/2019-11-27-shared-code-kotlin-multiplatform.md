@@ -1,6 +1,7 @@
 ---
 title: "Shared Code at Quizlet: Deciding on Kotlin Multiplatform"
 categories: industry
+feature: true
 tags:
   - kotlin
   - mobile
@@ -8,7 +9,7 @@ tags:
   - software
 toc: true
 toc_sticky: true
-excerpt: Learn how Quizlet decided to invest in shared code, how different industry approaches compare, lessons learned along the way, and why we decided on Kotlin Multiplatform.
+excerpt: Learn how Quizlet decided to invest in shared code, how different industry approaches compare, lessons learned along the way, and why we decided on [Kotlin Multiplatform](https://www.jetbrains.com/lp/mobilecrossplatform/).
 header:
   image: /assets/images/quizlet-shared-kotlin/q+k.png
   og_image: /assets/images/quizlet-shared-kotlin/q+k.png
