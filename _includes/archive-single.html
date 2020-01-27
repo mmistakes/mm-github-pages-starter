@@ -12,10 +12,11 @@
 
 {% if post.header.teaser_caption %}
   {% capture teaser_caption %}{{ post.header.teaser_caption }}{% endcapture %}
+{% else %}
+  {% assign teaser_caption = nil %}
 {% endif %}
 
 {% assign show_teaser = (include.type == "grid" or include.type == "feature") and teaser %}
-
 
 {% if post.id %}
   {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
