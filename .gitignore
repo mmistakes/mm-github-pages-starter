@@ -1,6 +1,21 @@
-_site
+# Jekyll generated files
 .sass-cache
 .jekyll-metadata
 .jekyll-cache/
+_asset_bundler_cache
+_site
 
+# Node.js and NPM
 node_modules
+npm-debug.log*
+package-lock.json
+codekit-config.json
+
+# macOS
+.DS_Store
+
+# Ruby Gem
+*.gem
+.bundle
+Gemfile.lock
+vendor/bundle
