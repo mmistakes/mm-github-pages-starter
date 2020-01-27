@@ -57,8 +57,8 @@ remote_theme: mmistakes/minimal-mistakes
 
 # Outputting
 permalink: /posts/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+# paginate: 3 # amount of posts to show
+# paginate_path: /page:num/
 timezone: America/Los_Angeles # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
