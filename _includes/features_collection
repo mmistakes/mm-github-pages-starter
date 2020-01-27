@@ -1,0 +1,28 @@
+{% assign entries = site[include.collection] %}
+{% assign permalink = site.data.collections[include.collection].permalink %}
+
+<div class="feature__wrapper">
+  {% assign items = entries | where: "feature", true | sort: 'date' | reverse %}
+
+  {% for post in items limit: 3 %}
+    {% if include.alignment %}
+
+      {% if include.alignment == "alternate" %}
+        {% capture local_alignment %} {%- cycle 'left', 'right' -%} {% endcapture %}
+      {% else %}
+        {% capture local_alignment %}{{ include.alignment }}{% endcapture %}
+      {% endif %}
+
+      {% include archive-single.html type="feature" alignment=local_alignment %}
+    {% else %}
+      {% include archive-single.html type="feature"%}
+    {% endif %}
+  {% endfor %}
+
+  <div class="feature__item--center">
+    {% if permalink %}
+      <a href="{{ permalink }}" rel="permalink">More</a>
+    {% endif %}
+  </div>
+</div>
+
