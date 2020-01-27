@@ -88,7 +88,7 @@ plugins:
 author:
   name   : *me
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I'm a Senior Software Engineer at [Quizlet](https://quizlet.com).<br/><br/>>I currently focus delivering awesome experiences with Android and Kotlin Multiplatform -- both for our users and my fellow engineers."
+  bio    : "I'm a Senior Software Engineer at [Quizlet](https://quizlet.com).<br/><br/>I currently focus delivering awesome experiences with Android and Kotlin Multiplatform -- both for our users and my fellow engineers."
   location: "San Francisco, CA"
   links:
     - label: "Website"
