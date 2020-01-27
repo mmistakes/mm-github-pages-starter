@@ -19,10 +19,10 @@
     {% endif %}
   {% endfor %}
 
-  <div class="feature__item--center">
-    {% if permalink %}
-      <a href="{{ permalink }}" rel="permalink">More</a>
-    {% endif %}
+  <div class="feature__item--center pagination">
+      <ul>
+        <li><a href="{{ permalink | relative_url }}">See more</a></li>
+      </ul>
   </div>
 </div>
 
