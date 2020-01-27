@@ -12,12 +12,12 @@ header:
   teaser: /assets/images/droidcon_berlin_2019.jpg
   actions:
     - label: "Video"
-      url: "https://www.droidcon.com/media-detail?video=353567025"
+      url: "https://www.droidcon.com/media-detail?video=374874028"
     - label: "See the Slides"
       url: "https://speakerdeck.com/ankushg/a-journey-in-shared-code-with-kotlin-multiplatform-droidcon-berlin-2019"
 ---
 
-{% include video id="353567025" provider="vimeo" %}
+{% include video id="374874028" provider="vimeo" %}
 
 Hear the story of how we shipped Kotlin Multiplatform across Android, iOS, and the Web to power Quizlet’s learning experience for over 50 million users per month.
 
