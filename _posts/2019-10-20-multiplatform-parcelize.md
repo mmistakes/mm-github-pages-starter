@@ -1,7 +1,7 @@
 ---
-title: Using `@Parcelize` in Kotlin Multiplatform 
+title: Using `@Parcelize` in Kotlin Multiplatform
 categories: industry
-tags: 
+tags:
   - kotlin
   - android
   - multiplatform
@@ -22,12 +22,12 @@ Corresponding code for this blog post [is available on GitHub.](https://github.c
 
 The Android OS uses [`Parcel`s ](https://developer.android.com/reference/android/os/Parcel)as a high-performance method to communicate data. The Android-only `Parcelable` interface is used to denote classes that can easily be serialized to/from a `Parcel`.
 
-They're most frequently used with `Bundle` objects to communicate across activities and intents, and to store state across configuration changes. 
+They're most frequently used with `Bundle` objects to communicate across activities and intents, and to store state across configuration changes.
 
 As a result, most Android developers should be familiar with the concept of `Parcelable` classes.
 
 # Using the `@Parcelize` Android Extensions Plugin
-Hand-writing `Parcelable` implementations can be quite a pain. Thankfully, several tools exist to automagically generate the requisite code for you. 
+Hand-writing `Parcelable` implementations can be quite a pain. Thankfully, several tools exist to automagically generate the requisite code for you.
 
 One such tool is the `@Parcelize` Kotlin compiler plugin. `@Parcelize` is included with Kotlin and can automatically [generate Parcelable implementations](https://kotlinlang.org/docs/tutorials/android-plugin.html#parcelable-implementations-generator) for you! The following section is adapted from their documentation.
 
@@ -68,7 +68,7 @@ data class User(
 }
 ```
 
-If you are working with an unsupported type that you can't personally modify the code for, you can supply an external `Parceler` implementation for it. 
+If you are working with an unsupported type that you can't personally modify the code for, you can supply an external `Parceler` implementation for it.
 
 For example, if we used the `java.util.UUID` class instead of a `Long` to create a unique identifier for our `User`, we could write an external `Parceler` for `UUID` as follows:
 
@@ -119,7 +119,7 @@ class User(
 )
 ```
 
-If you take a peek at the [source code for the Parcelize Android Extension](https://github.com/JetBrains/kotlin/tree/master/plugins/android-extensions/android-extensions-runtime/src/kotlinx/android/parcel), you will find a few other annotations such as `@IgnoredOnParcel` and `@RawValue`, however their usage isn't officially documented so I won't get into them here 😉  
+If you take a peek at the [source code for the Parcelize Android Extension](https://github.com/JetBrains/kotlin/tree/master/plugins/android-extensions/android-extensions-runtime/src/kotlinx/android/parcel), you will find a few other annotations such as `@IgnoredOnParcel` and `@RawValue`, however their usage isn't officially documented so I won't get into them here 😉
 
 # Enter Kotlin Multiplatform
 
@@ -127,7 +127,7 @@ Generating `Parcelable` implementations using `@Parcelize` works great when you'
 
 If you try to paste those earlier code samples into the common sourceset in a [Kotlin Multiplatform Project](https://kotlinlang.org/docs/reference/multiplatform.html), you'll quickly find that you can't import `Parcelable` or `@Parcelize`, `@TypeParceler` or `@WriteWith`!
 
-If you take a step back however, this makes sense. The concept of `Parcelable` objects is Android-specific. `Parcel`-related classes simply don't exist in non-Android environments. 
+If you take a step back however, this makes sense. The concept of `Parcelable` objects is Android-specific. `Parcel`-related classes simply don't exist in non-Android environments.
 
 But what do we do if we use a Kotlin Multiplatform library, and want to store some of those classes in an Android `Bundle`?
 
@@ -169,7 +169,7 @@ If you're extra-observant, you might have noticed something different here. We'r
 
 > If an optional annotation has no corresponding actual class on a platform, the annotation entries where it's used are simply erased when compiling code on that platform.
 
-This is the same mechanism that Kotlin Multiplatform uses to allow us to use built-in annotations like `@JvmName` and `@JsName` in Common code. 
+This is the same mechanism that Kotlin Multiplatform uses to allow us to use built-in annotations like `@JvmName` and `@JsName` in Common code.
 
 Now that we've declared our `expect`ed classes, we have to `actual`ly define them on our platforms.
 
@@ -310,11 +310,11 @@ val unparceled: User? = bundle.getParcelable(USER_BUNDLE_KEY)
 assertEquals(user, unparceled) // Nice!
 ```
 
-You might notice that we didn't go into the details needed for `@TypeParceler` or `@WriteWith`. 
+You might notice that we didn't go into the details needed for `@TypeParceler` or `@WriteWith`.
 
-While these classes certainly _can_ be added to a Kotlin Multiplatform project in this manner, doing so requires creating `expect`/`actual` declarations for many more classes (for example, `Parcel`, `kotlinx.android.parcel.Parceler`), and their methods. 
+While these classes certainly _can_ be added to a Kotlin Multiplatform project in this manner, doing so requires creating `expect`/`actual` declarations for many more classes (for example, `Parcel`, `kotlinx.android.parcel.Parceler`), and their methods.
 
-For this reason, these extra steps (if you need them) are left as an exercise for the reader 😉  
+For this reason, these extra steps (if you need them) are left as an exercise for the reader 😉
 
 # Wrapping Up
 
