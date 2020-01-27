@@ -10,6 +10,7 @@ toc_sticky: true
 excerpt: Using Platform-Specific Declarations to unlock `@Parcelize` in Kotlin Multiplatform Projects
 header:
   overlay_color: "#333"
+  teaser: https://generative-placeholders.glitch.me/image?style=triangles&img=parcelize_multiplatform
   actions:
     - label: "GitHub"
       url: "https://github.com/ankushg/MultiplatformParcelize"
