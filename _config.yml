@@ -15,10 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: zaidanr
 email: "exz3c@exz3c.dev"
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: "Personalweb site that works as personal notes"
 twitter_username: "@ZRizaki27"
 github_username: "zaidanr"
 minimal_mistakes_skin: dark
@@ -56,6 +53,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-seo-tag
 
 author:
   name   : "Zaidan Rizaki"
