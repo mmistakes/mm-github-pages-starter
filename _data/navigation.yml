@@ -1,9 +1,15 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
+  - title: "MRS Software Collection"
+    url: /software/
+    description: "A curated collection of MRS analysis software"
+  - title: "How-Tos and Tutorials"
+    url: /tutorials/
+    description: "A collection of notebooks and examples"
+  - title: "Education"
+    url: /education/
+    description: "Getting started with MRS"
+  - title: "News"
+    url: /news/
+    description: "The MRSHub News Blog"
+  - title: "About MRSHub"
     url: /about/
