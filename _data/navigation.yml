@@ -1,9 +1,13 @@
 main:
-  - title: "Posts"
+  - title: "Home"
+    url: /
+  - title: "FAQ"
+    url: /faq/
+  - title: "Docs"
+    url: https://rakugo.readthedocs.io/en/latest/
+  - title: "Devlog"
     url: /posts/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "About"
-    url: /about/
