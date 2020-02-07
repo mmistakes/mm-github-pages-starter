@@ -4,6 +4,14 @@ title:  "Blomkålscurry (den fra femina bare bedre)"
 date:   2019-11-05 13:39:33 +0100
 categories: jekyll update
 permalink: /BlomkaalscurryFixed-blog/
+excerpt: "Blomkålscurry med kikærter"
+header:
+  overlay_image: /assets/images/broed.PNG
+  overlay_filter: 0.2 # same as adding an opacity of 0.5 to a black background
+  #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  #actions:
+  #  - label: "More Info"
+  #    url: "https://unsplash.com"
 ---
 [Klik her for at springe at få en version uden alt det der snak][Cleaned]
 Jeg har det svært med feminas opskrifter! Forstå mig ret, deres rette er virkeligt gode, men deres måde at skrive dem på og layout er fuldstændigt forfærdeligt. Derudover er der også nogle få [principper][principper] der altid gør en ret lidt bedre, som opskrifterne fejler på.
