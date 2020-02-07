@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Dejlig mad fra Breddams Køkken
 twitter_username: Hbreddam
 github_username: Hbreddam
-minimal_mistakes_skin: dirt
+minimal_mistakes_skin: default
 
 search: true
 
@@ -76,12 +76,12 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+   # - label: "Twitter"
+  #    icon: "fab fa-fw fa-twitter-square"
+   #   url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/HBreddam"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
