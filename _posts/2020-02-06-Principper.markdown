@@ -2,8 +2,18 @@
 layout: single
 title:  "Principper"
 date:   2019-11-05 13:39:33 +0100
-categories: jekyll update
+categories: Smage Principper
 permalink: /Principper/
+gallery2:
+  - url: https://flic.kr/p/8a6Ven
+    image_path: https://farm2.staticflickr.com/1272/4697500467_8294dac099_q.jpg
+    alt: "Black and grays with a hint of green"
+  - url: https://flic.kr/p/8a738X
+    image_path: https://farm5.staticflickr.com/4029/4697523701_249e93ba23_q.jpg
+    alt: "Made for open text placement"
+  - url: https://flic.kr/p/8a6VXP
+    image_path: https://farm5.staticflickr.com/4046/4697502929_72c612c636_q.jpg
+    alt: "Fog in the trees"
 ---
 Hvorfor er det nogle bare laver bedre mad end andre? Det er selvfølgeligt fordi de har øvet sig! Meeen der er nogle smutveje som jeg mener man bør kende.
 
@@ -18,7 +28,7 @@ Dåsetomater - Det behøver ikke at være mutti-tomater, men prøv at smage dig 
 Smag på maden hele vejen igennem.
 Der er virkeligt forskel på råvarer og dem der har skrevet de opskrifter du følge brugte højst sandsynligt nogle andre råvarer end dem man selv står med. Den samme opskrift kan derfor give en masse forskellige slutprodukter og man er derfor nød til at smage om de smager som de skal. Når man ikke er så van til det kan det være svært at vide hvordan man kan rette op på det, så indtil man har fået fingerspidsfornemmelsen for det er det mest bare at prøve sig frem med trioen sødt, salt, surt og evt lidt peber eller umami.  
 
-
+{% include gallery id="gallery2" caption="Eksempel på et testgalleri" %}
 
 
 [sandhedomsukker]: https://www.mortenelsoe.com/blog/sandheden-om-sukker
