@@ -14,7 +14,9 @@ source "https://rubygems.org"
 # To upgrade, run `bundle update`.
 
 gem "jekyll"
+#gem "jekyll-remote-theme"
 gem "minimal-mistakes-jekyll"
+gem "jemoji"
 
 # The following plugins are automatically loaded by the theme-gem:
 #   gem "jekyll-paginate"
@@ -25,4 +27,5 @@ gem "minimal-mistakes-jekyll"
 #
 # If you have any other plugins, put them here!
 group :jekyll_plugins do
+    gem "jekyll-remote-theme"
 end
