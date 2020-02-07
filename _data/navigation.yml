@@ -1,13 +1,19 @@
 main:
   - title: "Home"
     url: /
+  - title: "Features"
+    url: /features/
   - title: "FAQ"
     url: /faq/
+  - title: "News"
+    url: /news/
+  - title: "Devlog"
+    url: /news/devlog/
   - title: "Docs"
     url: https://rakugo.readthedocs.io/en/latest/
-  - title: "Devlog"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+  - title: "Download"
+    url: /download/
+  - title: "Raport a Issue"
+    url: https://github.com/rakugoteam/Rakugo/issues
+  - title: "Sponsor"
+    url:

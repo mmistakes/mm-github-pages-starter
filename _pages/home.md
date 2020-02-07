@@ -1,9 +1,12 @@
 ---
 permalink: /
-title: "Home"
+title: " "
+layout: home
 ---
 
-Rakugo Framework is inspired by [Ren'Py](https://www.renpy.org) game template and framework for story driven games in [Godot](https://godotengine.org).
+![](/assets/images/the_question2.png)
+
+Rakugo Framework is inspired by [Ren'Py](https://www.renpy.org) game template with addon for story driven games in [Godot](https://godotengine.org).
 
 It has dialogue system, some extra tools, nodes, gui and features that most games have auto of the box see all features [here]().
 
