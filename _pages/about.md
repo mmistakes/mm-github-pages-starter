@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-title: Categories
+title: About
 permalink: /about.html
 ---
 
@@ -10,4 +10,4 @@ permalink: /about.html
 * Uruguayan rock climber nerd in love with learning new stuff all the time
 * DevOps/Linux Sysadmin
 * CyberSec enthusiast, wanting to make a jump into it in the future
-* Currently preapring OSCP
+* Future OSCP

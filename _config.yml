@@ -60,7 +60,7 @@ author:
   name: "Leandro Lemos"
   avatar: "/assets/images/site/av01.jpg"
   bio: "I like to climb things; rocks and privileges"
-  location: "Netherlands"
+  location: "My mind"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -84,6 +84,8 @@ defaults:
       comments: true
       share: true
       related: true
+      toc: true
+      toc_icon: "map-marked-alt"
   # _pages
   - scope:
       path: "_pages"
