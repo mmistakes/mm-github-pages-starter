@@ -13,7 +13,8 @@ header:
   #  - label: "More Info"
   #    url: "https://unsplash.com"
 ---
-[Klik her for at springe at få en version uden alt det der snak][Cleaned]
+[Til opskriften](#opskrift){: .btn .btn--primary}
+
 Jeg har det svært med feminas opskrifter! Forstå mig ret, deres rette er virkeligt gode, men deres måde at skrive dem på og layout er fuldstændigt forfærdeligt. Derudover er der også nogle få [principper][principper] der altid gør en ret lidt bedre, som opskrifterne fejler på.
 
 Først det med layoutet... 
@@ -22,14 +23,15 @@ Hvordan læser du en opskrift? Jeg sætter mig gerne ned dagen før, læser opsk
 Min pointe er at det er forfatteren til opskriften der skal gøre alt det forarbejde og tage brugeren(siger man det?) i hånden hele vejen igennem. Det er præcis det modsatte Feminas forfatter gør i blomkålcurry [opskriften][opskrift]. Prøv bare at se hvordan selve curryen er beskrevet i en lang paragraf med masser af trin der bare går ud i et... suk! 
 Det går måske meget fint, lige indtil man er begyndt at stege krydderierne og man så ser at man skal plukke bladene af korianderplanten og så hakke stilkene. Mast ind mellem "tilsæt salt og peber" og "hæld kokosmælk" står lige rettens allermest tidskrævende trin - Så knækker filmen for mig! 
 
+# Opskrift
 
-Ingredienser: 
+## Ingredienser: 
 
 | Mængde | Ingrediens | Tilberedning |
 |-----|-------|------------|
 |2 | gulerødder | skyllet->hakket fint->steges | 
 
-Opskrift:
+## Fremgangsmåde
 
 
 
