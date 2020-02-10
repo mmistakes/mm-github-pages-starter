@@ -2,7 +2,6 @@
 layout: single
 title:  "Title på retten eller blogpost"
 date:   2019-11-05 13:39:33 +0100
-author: Henrik
 categories: Opskrift Kage Brød tips-og-tricks EllerAndet
 permalink: /Standard-blog/
 excerpt: "Længere underoverskrift"

@@ -1,0 +1,32 @@
+# /_data/authors.yml
+
+
+Henrik:
+  name        : "Henrik Bøgedal Breddam"
+  bio         : "Brød, børnemad og teknik"
+  avatar      : "/assets/images/layout/henrik.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:henrik@breddam.dk"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://breddam.dk"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/Hbreddam"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/dejogmig/"  
+
+Cornelius Fiddlebone:
+  name        : "Cornelius Fiddlebone"
+  bio         : "I ordered what?"
+  avatar      : "/assets/images/bio-photo.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:cornelius@thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/rhymeswithsackit"

@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
+  - title: "Blog"
+    url: /blog/
+  - title: "Kategorier"
     url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "About"
+  - title: "Om os"
     url: /about/
