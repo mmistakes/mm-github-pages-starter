@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Kristian, Helene og Henrik Breddam"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/layout/bio-photo.jpg"
   bio    : "Dejlig mad"
   links:
     - label: "Website"
