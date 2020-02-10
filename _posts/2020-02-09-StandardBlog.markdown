@@ -8,7 +8,7 @@ permalink: /Standard-blog/
 excerpt: "Længere underoverskrift"
 #Her kan man indsætte header billedet
 header:
-  overlay_image: /assets/images/broed.png
+  overlay_image: /assets/images/layout/broed.png
   overlay_filter: 0.35 # same as adding an opacity of 0.5 to a black background
 #Her kan man indsætte de billeder der skal være i galleriet. Man kan lave flere gallerier hvis man bare kalder dem noget andet
 gallery1:
