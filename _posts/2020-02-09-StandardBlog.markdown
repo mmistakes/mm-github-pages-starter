@@ -4,12 +4,15 @@ title:  "Titel på retten eller blogpost"
 date:   2019-11-05 13:39:33 +0100
 author: Henrik
 categories: Opskrift Kage Brød tips-og-tricks EllerAndet
-permalink: /Standard-blog/
+permalink: /Standard-blog-template/
 excerpt: "Længere underoverskrift"
 #Her kan man indsætte header billedet
 header:
-  overlay_image: /assets/images/layout/broed.png
+  overlay_image: /assets/images/posts/henrik/broed.png
   overlay_filter: 0.35 # same as adding an opacity of 0.5 to a black background
+  actions:
+    - label: "Direkte til opskriften"
+      url: "/Standard-blog-template/#opskrift"
 #Her kan man indsætte de billeder der skal være i galleriet. Man kan lave flere gallerier hvis man bare kalder dem noget andet
 gallery1:
   - url: /assets/images/posts/henrik/merebroed.jpg
@@ -25,7 +28,6 @@ gallery1:
     image_path: /assets/images/posts/henrik/snurre.jpg
     alt: "Snurre i massevis"  
 ---
-[Hop til opskriften](#opskrift){: .btn .btn--primary}
 
 Bla bla
 
@@ -36,7 +38,9 @@ Bla bla
 Bla bla
 
 Bla bla
+
 [//]: # (Her kommer galleriet)
+
 {% include gallery id="gallery1"  caption="Eksempel på et testgalleri" %}
 
 
