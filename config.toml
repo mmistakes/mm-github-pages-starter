@@ -1,0 +1,130 @@
+baseURL = "https://ceso.github.io"
+title   = "I'm Going on an Adventure!"
+
+DefaultContentLanguage = "en"
+
+theme = "hello-friend-ng"
+
+PygmentsCodeFences = true
+PygmentsUseClasses = true
+PygmentsStyle = "monokai"
+rssLimit  = 10  # Maximum number of items in the RSS feed.
+
+archetypeDir = "archetypes"
+contentDir   = "content"
+dataDir      = "data"
+layoutDir    = "layouts"
+publishDir   = "public"
+
+buildDrafts  = false
+buildFuture  = true
+buildExpored = false
+canonifyURLs = true
+
+enableRobotsTXT = false
+enableGitInfo   = false
+enableEmoji     = true
+enableMissingTranslationPlaceholders = false
+disableRSS     = true
+disableSitemap = false
+disable404     = false
+disableHugoGeneratorInject = false
+
+[blackfriday]
+  hrefTargetBlank = true
+
+[permalinks]
+  posts = "/posts/:year/:month/:title/"
+
+[author]
+  name = "ceso"
+
+[taxonomies]
+  tag      = "tags"
+  category = "categories"
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+
+  # Metadata mostly used in document's head
+  description = "Security CTFs, Tutorials and Blogs"
+  keywords = "CTF, Security, HTB, blog, infosec"
+  images = ["https://ceso.github.io/images/site/av01.jpg"]
+
+  homeSubtitle = "Ceso Adventures"
+
+  # Prefix of link to the git commit detail page. GitInfo must be enabled.
+  gitUrl = "https://github.com/ceso/ceso.github.io/commit/"
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  #disableReadOtherPosts = false
+
+  # Integrate Javascript files or stylesheets by adding the url to the external assets or by
+  # linking local files with their path relative to the static folder, e.g. "css/styles.css"
+  customCSS = []
+  customJS  = []
+
+  # Toggle this option need to rebuild SCSS, requires extended version of Hugo
+  justifyContent = false  # Set "text-align: justify" to .content.
+
+  # Directory name of your blog content (default is `content/posts`)
+  contentTypeName = "posts"
+
+  # Default theme "light" or "dark"
+  defaultTheme = "dark"
+  themeColor = "#252627"
+
+  # Colors for favicons
+  [params.favicon.color]
+    mask = "#252627"
+    msapplication = "#252627"
+    theme = "#252627"
+
+  [params.logo]
+    logoText     = "ceso@hogsmeade$ "
+    logoHomeLink = "/"
+    # Set true to remove the logo cursor entirely.
+    # logoCursorDisabled = false
+    # Set to a valid CSS color to change the cursor in the logo.
+    # logoCursorColor    = "#67a2c9"
+    # Set to a valid CSS time value to change the animation duration, "0s" to disable.
+    # logoCursorAnimate  = "2s"
+
+  # Social icons
+  [[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/0xc350"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/ceso"
+
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/lemosleandro"
+
+#  [[params.social]]
+#    name = "stackoverflow"
+#    url  = "https://www.stackoverflow.com/"
+
+[languages]
+  [languages.en]
+    subtitle  = "ceso"
+    weight    = 1
+
+  [languages.es]
+    subtitle  = "ceso"
+    weight    = 2
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "about/"
+  [[menu.main]]
+    identifier = "posts"
+    name       = "Posts"
+    url        = "posts/"

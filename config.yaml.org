@@ -1,0 +1,4 @@
+baseURL: https://ceso.github.io
+disablePathToLower: true
+languageCode: en-us
+title: Ceso adventures

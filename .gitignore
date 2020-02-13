@@ -1,4 +1,6 @@
-_site
-.sass-cache
-.jekyll-metadata
-Gemfile.lock
+# Hugo default output directory
+/public
+
+jekyll
+.bundle
+
