@@ -1,20 +1,14 @@
 ---
-categories:
-- hack-the-box
 date: "2020-02-07T00:00:00Z"
-excerpt: Write-up box
-header:
-  overlay_image: /assets/images/htb/ai/ai-header.jpg
 tags:
 - htb-medium
 - linux
 - sqli
 - jwdp
-teaser: /assets/images/htb/ai/info-card.png
 title: Hack The Box - AI
 toc_label: Hack The Box - AI
 ---
-{% include figure image_path="/assets/images/htb/ai/info-card.png" %}
+{{< image src="/images/htb/ai/info-card.png" position="center" style="border-radius: 8px;" >}}
 
 ## Quick Summary
 
@@ -70,19 +64,19 @@ Which discovers SSH and HTTP (Apache 2.4.29 as the server) open.
 The home page just shows "Artificial Intelligence" and has some interactive menus, in one of them, is announced about an AI the company is developing, which can identify what's being told in it, so is possible to upload a file to server, this is already a way to go as is possible to upload a reverse shell.
 Some enumeration of it is carried.
 
-{% include figure image_path="/assets/images/htb/ai/1.1-web.png" %}
+{{< image src="/images/htb/ai/1.1-web.png" position="center" style="border-radius: 8px;" >}}
 
-{% include figure image_path="/assets/images/htb/ai/1.1-web-php-1.png" %}
+{{< image src="/images/htb/ai/1.1-web-php-1.png" position="center" style="border-radius: 8px;" >}}
 
-{% include figure image_path="/assets/images/htb/ai/1.1-web-php-2.png" %}
+{{< image src="/images/htb/ai/1.1-web-php-2.png" position="center" style="border-radius: 8px;" >}}
 
-{% include figure image_path="/assets/images/htb/ai/1.1-web-php-3.png" %}
+{{< image src="/images/htb/ai/1.1-web-php-3.png" position="center" style="border-radius: 8px;" >}}
 
 Is given a try to create a .wav file from text (text -> .mp3 -> .wav), upload it and see what happens, the result is an exception which gives a hint: there is access to a mysql database, which means will be possible to do an sql injection.
 
-{% include figure image_path="/assets/images/htb/ai/1.1-web-rce-1.png" %}
+{{< image src="/images/htb/ai/1.1-web-rce-1.png" position="center" style="border-radius: 8px;" >}}
 
-{% include figure image_path="/assets/images/htb/ai/1.1-web-rce-2.png" %}
+{{< image src="/images/htb/ai/1.1-web-rce-2.png" position="center" style="border-radius: 8px;" >}}
 
 ## Foothold
 
@@ -119,11 +113,11 @@ by OJ Reeves (@TheColonial) & Christian Mehlmauer (@_FireFart_)
 
 As is possible to see above, ```intelligence.php``` was discovered, once that page is accessed, is found a guide on how to write some queries to the AI:
 
-{% include figure image_path="/assets/images/htb/ai/2.1-rce-2.png" %}
+{{< image src="/images/htb/ai/2.1-rce-2.png" position="center" style="border-radius: 8px;" >}}
 
 After a LOT of try-error (literally, I was never able to go beyond this if it wasn't for the help of [Interep](https://www.hackthebox.eu/profile/10423) of both queries and different TTS (being I'm not a native english speaker and neither I have a microphone), was used in the end [Text 2 Speech](https://www.text2speech.org/):
 
-{% include figure image_path="/assets/images/htb/ai/t2s.png" %}
+{{< image src="/images/htb/ai/t2s.png" position="center" style="border-radius: 8px;" >}}
 
 getting as final SQL Injection the next:
 
@@ -136,9 +130,9 @@ Open single quote union select, password from users Comment Database
 
 Once it's respective .wav files generate by the TTS mentioned above were uploaded, the following were the results:
 
-{% include figure image_path="/assets/images/htb/ai/command-ok-1.png" %}
+{{< image src="/images/htb/ai/command-ok-1.png" position="center" style="border-radius: 8px;" >}}
 
-{% include figure image_path="/assets/images/htb/ai/command-ok-2.png" %}
+{{< image src="/images/htb/ai/command-ok-2.png" position="center" style="border-radius: 8px;" >}}
 
 
 Then, was tried to login via ssh with the credentials:
@@ -215,7 +209,7 @@ tcp                 TIME-WAIT                0                     0            
 
 then an ssh tunnel with ```ssh -L 8080:localhost:8080 alexa@10.10.10.163``` was run to know which service it was, resulting in tomcat:
 
-{% include figure image_path="/assets/images/htb/ai/tomcat-tunnel.png" %}
+{{< image src="/images/htb/ai/tomcat-tunnel.png" position="center" style="border-radius: 8px;" >}}
 
 Checked the process runing, is possible to see that tomcat is being executed with root user and [JDWP](https://docs.oracle.com/javase/1.5.0/docs/guide/jpda/jdwp-spec.html) enabled:
 

@@ -1,24 +1,18 @@
 ---
-layout: single
-excerpt: "Write-up box"
-teaser: "/assets/images/htb/bitlab/info-card.png"
-header:
-  overlay_image: "/assets/images/htb/bitlab/bitlab-header.png"
-title: "Hack The Box - Bitlab"
-toc_label: "Hack The Box - Bitlab"
-categories:
-  - hack-the-box
+date: "2020-01-11T00:00:00Z"
 tags:
-  - linux
-  - htb-medium
-  - php
-  - rce
-  - git
-  - web
-  - ssh
-  - sudo
+- linux
+- htb-medium
+- php
+- rce
+- git
+- web
+- ssh
+- sudo
+title: Hack The Box - Bitlab
+toc_label: Hack The Box - Bitlab
 ---
-{% include figure image_path="/assets/images/htb/bitlab/info-card.png" %}
+{{< image src="/images/htb/bitlab/info-card.png" position="center" style="border-radius: 8px;" >}}
 
 ## Quick Summary
 
@@ -67,13 +61,13 @@ and we get SSH (22) and HTTP (80) are open + that the web service which is runni
 
 The home page (```http://10.10.10.114/```), is just the standard login page which bitlab has:
 
-{% include figure image_path="/assets/images/htb/bitlab/1.1-web_enum.png" %}
+{{< image src="/images/htb/bitlab/1.1-web_enum.png" position="center" style="border-radius: 8px;" >}}
 
 We try the links in this page and check if they are working, with it we found ```Help``` it is, and we are redirected to a directory listing having a ```bookmarks.html``` and open it:
 
-{% include figure image_path="/assets/images/htb/bitlab/1.2-web_enum.png" %}
+{{< image src="/images/htb/bitlab/1.2-web_enum.png" position="center" style="border-radius: 8px;" >}}
 
-{% include figure image_path="/assets/images/htb/bitlab/1.3-web_enum.png" %}
+{{< image src="/images/htb/bitlab/1.3-web_enum.png" position="center" style="border-radius: 8px;" >}}
 
 We notice that ```Gitlab Login``` is an obfuscated js code, we jump into deobfuscate it (I used [de4js](https://lelinhtinh.github.io/de4js/) but any deobfuscation tool or even a python console will do it):
 
@@ -95,14 +89,14 @@ javascript: (function () {
 
 With that we get credentials we could try into the login, an user called ```clave``` and a password ```11des0081x```, after we try to login with those credentials we are loged and have access to some projects:
 
-{% include figure image_path="/assets/images/htb/bitlab/1.5-web_enum.png" %}
+{{< image src="/images/htb/bitlab/1.5-web_enum.png" position="center" style="border-radius: 8px;" >}}
 
 taking a deepest look into ```Profile``` we find that this project has [Auto DevOps](https://docs.gitlab.com/ee/topics/autodevops/) enabled.
 We continue enumerating a bit more, and see that the project called ```Deployer``` is in charge to manage to do that: deploy the applications, in the description is given a link pointing to the we take a look into the documentation of [webhooks](https://docs.gitlab.com/ee/user/project/integrations/webhooks.html) gitlab has, after it we take a look into ```index.php``` to see what it does:
 
-{% include figure image_path="/assets/images/htb/bitlab/1.6-web_enum.png" %}
+{{< image src="/images/htb/bitlab/1.6-web_enum.png" position="center" style="border-radius: 8px;" >}}
 
-{% include figure image_path="/assets/images/htb/bitlab/1.7-web_enum.png" %}
+{{< image src="/images/htb/bitlab/1.7-web_enum.png" position="center" style="border-radius: 8px;" >}}
 
 ```php
 <?php
@@ -130,7 +124,7 @@ We upload the next [php reverse shell by pentestmonkey](https://github.com/pente
 
 Now, the reverse shell is uploaded, but we still need to execute it, for that is needed to know which one is the path to execute it, if we remember the project ```Deployer``` has it's index.php which will print an "OK" we could try to access the path of deployer and see if it is printed, if it is, then we know that the path for our reverse shell will be ```http://10.0.0.14/profile/<name of our reverse shell>```:
 
-{% include figure image_path="/assets/images/htb/bitlab/1.rce.png" %}
+{{< image src="/images/htb/bitlab/1.rce.png" position="center" style="border-radius: 8px;" >}}
 
 now we know that indeed that the mentioned url above will be the one wee need to use.
 
@@ -259,7 +253,7 @@ I will go now into the 1, but I will only cover how to get user, and in the futu
 
 In the home page of the Profile project, there is a hint, is mentioned a connection postgresql and snippets, we go to the snippets page, and we found we have one
 
-{% include figure image_path="/assets/images/htb/bitlab/1-intended_user.png" %}
+{{< image src="/images/htb/bitlab/1-intended_user.png" position="center" style="border-radius: 8px;" >}}
 
 we open it and se it's a script to connect to the database and get a dump of profiles:
 

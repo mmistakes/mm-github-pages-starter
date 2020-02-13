@@ -1,11 +1,12 @@
----
-layout: single
-author_profile: true
-title: About
-permalink: /about.html
----
++++
+title = "Whoami"
+images = ["https://ceso.github.io/images/site/av01.jpg"]
+aliases = ["about-me", "contact"]
+[ author ]
+  name = "ceso"
++++
 
-## [ceso@hogsmeade ~]$ whoami
+{{< image src="/images/site/av01.jpg" position="center" style="border-radius: 8px;" >}}
 
 * Uruguayan rock climber nerd in love with learning new stuff all the time
 * DevOps/Linux Sysadmin

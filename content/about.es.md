@@ -1,13 +1,15 @@
----
-layout: single
-author_profile: true
-title: About
-permalink: /about.html
----
++++
+title = "Quién soy"
+images = ["https://ceso.github.io/images/site/av01.jpg"]
+aliases = ["about-me", "contact"]
+[ author ]
+  name = "ceso"
++++
 
-## [ceso@hogsmeade ~]$ whoami
+{{< image src="/images/site/av01.jpg" position="center" style="border-radius: 8px;" >}}
 
-* Uruguayan rock climber nerd in love with learning new stuff all the time
-* DevOps/Linux Sysadmin
-* CyberSec enthusiast, wanting to make a jump into it in the future
-* Future OSCP
+* Nerd escalador uruguayo enamorado de estar aprendiendo cosas nuevas todo el tiempo
+* DevOps/Administrador de Sistemas Linux
+* Entusiasta en Ciberseguridad, queriendo saltar a esta en el futuro
+* Futuro OSCP
+

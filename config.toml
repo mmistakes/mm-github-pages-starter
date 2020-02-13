@@ -1,5 +1,5 @@
 baseURL = "https://ceso.github.io"
-title   = "I'm Going on an Adventure!"
+title   = "Ceso Adventures"
 
 DefaultContentLanguage = "en"
 
@@ -22,8 +22,9 @@ buildExpored = false
 canonifyURLs = true
 
 enableRobotsTXT = false
-enableGitInfo   = false
+enableGitInfo   = true
 enableEmoji     = true
+disqusShortname = "ceso"
 enableMissingTranslationPlaceholders = false
 disableRSS     = true
 disableSitemap = false
@@ -52,9 +53,8 @@ disableHugoGeneratorInject = false
   # Metadata mostly used in document's head
   description = "Security CTFs, Tutorials and Blogs"
   keywords = "CTF, Security, HTB, blog, infosec"
-  images = ["https://ceso.github.io/images/site/av01.jpg"]
 
-  homeSubtitle = "Ceso Adventures"
+  homeSubtitle = "I'm Going on an Adventure!"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   gitUrl = "https://github.com/ceso/ceso.github.io/commit/"
@@ -89,7 +89,7 @@ disableHugoGeneratorInject = false
     # Set true to remove the logo cursor entirely.
     # logoCursorDisabled = false
     # Set to a valid CSS color to change the cursor in the logo.
-    # logoCursorColor    = "#67a2c9"
+    logoCursorColor    = "#808080"
     # Set to a valid CSS time value to change the animation duration, "0s" to disable.
     # logoCursorAnimate  = "2s"
 
@@ -128,3 +128,7 @@ disableHugoGeneratorInject = false
     identifier = "posts"
     name       = "Posts"
     url        = "posts/"
+  [[menu.main]]
+    identifier = "tags"
+    name       = "Tags"
+    url        = "tags/"

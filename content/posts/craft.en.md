@@ -1,10 +1,5 @@
 ---
-categories:
-- hack-the-box
 date: "2020-01-04T00:00:00Z"
-excerpt: Write-up box
-header:
-  overlay_image: /images/htb/craft/craft-header.jpg
 tags:
 - linux
 - htb-medium
@@ -13,9 +8,7 @@ tags:
 - code-analysis
 - web
 - ssh
-teaser: /images/htb/craft/info-card.png
 title: Hack The Box - Craft
-toc_label: Hack The Box - Craft
 ---
 {{< image src="/images/htb/craft/info-card.png" position="center" style="border-radius: 8px;" >}}
 
