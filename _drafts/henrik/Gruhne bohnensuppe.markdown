@@ -58,8 +58,8 @@ Jeg sværger personligt til denne [bouillon][bouillon] fra Herbamare, og jeg sø
 **Løg** skrælles, hakkes og steges med det pressede **hvidløg**
   - Gå derefter igang med at skrælle kartoflerne 
 2. Når løgene er blevet klare steges det **hakkede oksekød**
-3. Derefter tilsættes kartofler, bouillon og sar, og kartoflerne koges i ca 10. min.
-4. Når de 10 min er gået tilsættes grønne bønner og retten simre indtil kartofler og bønner er møre
+3. Derefter tilsættes **kartofler**, bouillon og sar**, og kartoflerne koges i ca 10. min.
+4. Når de 10 min er gået tilsættes **grønne bønner** og retten simre indtil kartofler og bønner er møre
 5. Så skal retten bare på bordet og øses op i store dampene portioner :) 
 
 
