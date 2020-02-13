@@ -1,11 +1,10 @@
 ---
 layout: single
-title:  "Titel på retten eller blogpost"
-date:   2019-11-05 13:39:33 +0100
+title:  "Hvidløgsolie"
 author: Henrik
-categories: Opskrift Kage Brød tips-og-tricks EllerAndet
-permalink: /Standard-blog-template/
-excerpt: "Længere underoverskrift"
+categories: Opskrift Low-FODMAP 
+permalink: /Hvidloegsolie/
+excerpt: "Obligatorisk i et Low-FODMAP køkken, men hvidløgsolie er også en smart måde at spare tid i mange langt de fleste opskrifter"
 #Her kan man indsætte header billedet
 header:
   teaser: /assets/images/posts/henrik/merebroed.jpg
@@ -13,7 +12,7 @@ header:
   overlay_filter: 0.35 # same as adding an opacity of 0.5 to a black background
   actions:
     - label: "Direkte til opskriften"
-      url: "/Standard-blog-template/#opskrift"
+      url: "/Hvidloegsolie/#opskrift"
 #Her kan man indsætte de billeder der skal være i galleriet. Man kan lave flere gallerier hvis man bare kalder dem noget andet
 gallery1:
   - url: /assets/images/posts/henrik/merebroed.jpg
@@ -30,15 +29,8 @@ gallery1:
     alt: "Snurre i massevis"  
 ---
 
-Bla bla
+Da
 
-Bla bla
-
-Bla bla
-
-Bla bla
-
-Bla bla
 
 [//]: # (Her kommer galleriet)
 
@@ -46,22 +38,22 @@ Bla bla
 
 
 [//]: # (Her starter opskriften hvis man har lavet en længere post ovenfor)
+
 # Opskrift:
 
 ## Ingredienser: 
 
-| **Pasta** | |
-|2  gulerødder | skyllet->hakket fint->steges | 
-|2  gulerødder | skyllet->hakket fint->steges | 
-
-| **Kødsovs** | |
-|2  gulerødder | skyllet->hakket fint->steges | 
-|2  gulerødder | skyllet->hakket fint->steges | 
+| **Hvidløgsolie** | |
+|500 ml Olivenolie | Vælg en flaske med heldetud som f.eks. änglamark vis på billedet | 
+|1 helt hvidløg | | 
 
 
 ## Fremgangsmåde:
-1. Klargør ingredienserne 
-2. Lav retten
+1. Hæld en halv deciliter olie ud af flaske (evt over i en flask med alm. olivenolie)
+2. Skræld hvidløg og mas hver enkelt hvidløg så de flækker. 
+3. Prop alle hvidløgsstykkerne ned i flaske med olie.
+
+Olien kan bruges allerede dagen efter, men vil blive lidt stærkere med tiden.
 
 
 

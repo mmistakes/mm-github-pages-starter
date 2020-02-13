@@ -37,12 +37,10 @@ Jeg laver selv retten uden løg og med [hvidløgs olie][garlicoil] for at gøre 
 |1 spsk hvidløgsolie | brug ekstra olivenolie hvis du ikke har hvidløgsolie | 
 |1½  tsk salt |  |
 |peber |  |
-
 |**Kikærter** |  |
 | 1 dåse Kikærter | skylles og tørres af |
 | 1 spsk garam masala | |
 | 1 spsk oliveolie | |
-
 | **Curry** | |
 |1 løg   | Skrælles og skæres i både   |
 |2 fed hvidløg  <br>
@@ -61,8 +59,6 @@ Low FODMAP alternativ brug hvidløgsolie| Hakkes fint  |
 |1-2 tsk sukker | Til tilsmagning|
 |1-2 tsk salt eller 1 spsk boulion| Til tilsmagning | 
 |peber | Til Tilsmagning |
-
-
 |**Tilbehør** |  |
 |4 dl ris (brune eller basmati efter smag, jeg bruger brune)| |
 |korianderbladene | plukket fra stilkene tidligere |
