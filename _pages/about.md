@@ -1,8 +1,50 @@
 ---
 permalink: /about/
-title: "About"
+title: "Om os"
+layout: splash
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/layout/broed.png
+  #actions:
+  # - label: "Download"
+  #    url: "https://github.com/mmistakes/minimal-mistakes/"
+  #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+excerpt: "Hvad skal der stå her?"
+intro: 
+  - excerpt: 'Her skal stå noget om bloggen generelt'
+
+Henrik:
+  - image_path: /assets/images/layout/henrik.jpg
+    alt: "placeholder image 2"
+    title: "Placeholder Image Left Aligned"
+    excerpt: 'Her skal der stå lidt om henrik'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+Helene:
+  - image_path: /assets/images/layout/broed.png
+    alt: "placeholder image 2"
+    title: "Placeholder Image Right Aligned"
+    excerpt: 'Her skal står lidt om Helene'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+Kristian:
+  - image_path: /assets/images/layout/broed.png
+    alt: "placeholder image 2"
+    title: "Placeholder Image Center Aligned"
+    excerpt: 'Her skal stå lidt om Kristian'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+{% include feature_row id="intro" type="center" %}
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+
+{% include feature_row id="Henrik" type="left" %}
+
+{% include feature_row id="Helene" type="right" %}
+
+{% include feature_row id="Kristian" type="left" %}

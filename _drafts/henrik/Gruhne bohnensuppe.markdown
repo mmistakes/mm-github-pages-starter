@@ -31,6 +31,8 @@ gallery1:
 Grønne bønnesuppe er en af de retter der ikke ser vildt godt ud, men som smager virkeligt godt. 
 Grønne bønnesuppe stammer fra tyskland og hedder Gruhne Bohnensuppe. Hvis 
 
+Skriv lidt om hvorfor vi kalder det grønnebønne suppe
+
 Jeg sværger personligt til denne [bouillon][bouillon] fra Herbamare, og jeg sørger altid for at købe et par stykker når den er spotvare i netto til ca 50,-
 
 [//]: # (Her kommer galleriet)
@@ -43,7 +45,7 @@ Jeg sværger personligt til denne [bouillon][bouillon] fra Herbamare, og jeg sø
 
 ## Ingredienser: 
 
-| **Pasta** | |
+| **Suppe** | |
 | 400 g hakket oksekød |  | 
 | 1 løg | Skrælles og hakkes| 
 | 1 fed hvidløg eller hvidløgsolie | Presset |
@@ -55,13 +57,11 @@ Jeg sværger personligt til denne [bouillon][bouillon] fra Herbamare, og jeg sø
 
 ## Fremgangsmåde:
 1. Start med at skrælle kartoflerne og skær dem i tern på 2x2x2 cm, så de er klar til senere.
-**Løg** skrælles, hakkes og steges med det pressede **hvidløg**
-  - Gå derefter igang med at skrælle kartoflerne 
-2. Når løgene er blevet klare steges det **hakkede oksekød**
-3. Derefter tilsættes **kartofler**, bouillon og sar**, og kartoflerne koges i ca 10. min.
-4. Når de 10 min er gået tilsættes **grønne bønner** og retten simre indtil kartofler og bønner er møre
-5. Så skal retten bare på bordet og øses op i store dampene portioner :) 
-
+2. **Løg** skrælles, hakkes og steges med det pressede **hvidløg**  
+3. Når løgene er blevet klare steges det **hakkede oksekød**
+4. Derefter tilsættes **kartofler**, bouillon og sar**, og kartoflerne koges i ca 10. min.
+5. Når de 10 min er gået tilsættes **grønne bønner** og retten simre indtil kartofler og bønner er møre
+6. Så skal retten bare på bordet og øses op i store dampene portioner :) 
 
 
 

@@ -8,7 +8,7 @@ permalink: /Standard-blog-template/
 excerpt: "Længere underoverskrift"
 #Her kan man indsætte header billedet
 header:
-teaser: /assets/images/posts/henrik/merebroed.jpg
+  teaser: /assets/images/posts/henrik/merebroed.jpg
   overlay_image: /assets/images/posts/henrik/broed.png
   overlay_filter: 0.35 # same as adding an opacity of 0.5 to a black background
   actions:
