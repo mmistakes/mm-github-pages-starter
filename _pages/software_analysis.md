@@ -14,7 +14,7 @@ This is a list of analysis and quantification software.
   <h2>
       {{ software_collection.name }}
   </h2>
-  <img src= "{{ site.url }} {{ site.baseurl }} {{ software_collection.image }}" alt="Image" align="right"/>
+  <img src= "{{ site.url }} {{ site.baseurl }} {{ software_collection.image }}" alt="" align="right"/>
   <p>{{ software_collection.abstract | markdownify }}</p>
   <p>Language: {{ software_collection.language }}</p>
   <p>License: {{ software_collection.license }}</p>
