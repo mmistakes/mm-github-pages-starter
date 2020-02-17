@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/unsplash-image-1.jpg
   actions:
     - label: "Get started"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
+      url: "https://github.com/mrshub/"
 excerpt: "A curated resource of magnetic resonance spectroscopy software, data analysis tutorials, and educational material."
 intro:
   - excerpt: ''

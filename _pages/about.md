@@ -3,7 +3,7 @@ permalink: /about/
 title: "About MRSHub"
 ---
 
-The MRSHub is a curated collection of resources for the analysis of magnetic resonance spectroscopy data. It is maintained by the *Data & Code Sharing Initiative* committee of the [MR Spectroscopy Study Group](https://www.ismrm.org/study-groups/mr-spectroscopy/) of the [International Society for Magnetic Resonance in Medicine (ISMRM)], and was called to life at the annual ISMRM meeting in Montréal, Canada, in 2019.
+The MRSHub is a curated collection of resources for the analysis of magnetic resonance spectroscopy data. It is maintained by the *Data & Code Sharing Initiative* committee of the [MR Spectroscopy Study Group](https://www.ismrm.org/study-groups/mr-spectroscopy/) of the [International Society for Magnetic Resonance in Medicine (ISMRM)](https://www.ismrm.org), and was called to life at the annual ISMRM meeting in Montréal, Canada, in 2019.
 
 This website wants to provide a comprehensive collection of software tools, code snippets, repositories, and other useful resources. Novice MRS users can use it as a launchpad to explore the many facets or MRS data analysis.  Experienced researchers and method developers can collaborate to build on each others efforts, and disseminate their software through a single, centralized hub.
 
