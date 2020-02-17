@@ -25,7 +25,7 @@ github_username: mrshub
 minimal_mistakes_skin: default
 search: true
 url: https://github.com/schorschinho
-baseurl: /mrshub-website/tree/master
+baseurl: /mrshub-website
 
 # Build settings
 markdown: kramdown
