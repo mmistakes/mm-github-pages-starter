@@ -6,33 +6,32 @@ date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/unsplash-image-1.jpg
   actions:
     - label: "Get started"
       url: "https://github.com/mrshub/"
-excerpt: "A curated resource of magnetic resonance spectroscopy software, data analysis tutorials, and educational material."
+excerpt: "A curated resource of magnetic resonance spectroscopy software."
 intro:
   - excerpt: ''
 feature_row:
-  - image_path: assets/images/lcmodel.png
+  - image_path: assets/images/software.png
     alt: "LCModel"
-    title: "Software"
-    excerpt: "A comprehensive survey of software to process and analyse MRS data - from brief code snippets to automated processing and modeling pipelines."
-    url: "#test-link"
+    title: "Software Packages"
+    excerpt: "Complete software packages for processing, analysing, and visualizing MRS data."
+    url: /software
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/tutorials.jpg
-    alt: "Tutorials"
-    title: "Tutorials"
-    excerpt: "Interactive tutorials, example code and best practices in modern MRS data analysis."
-    url: "#test-link"
+  - image_path: /assets/images/libraries.jpg
+    alt: "Function Libraries"
+    title: "Function Libraries"
+    excerpt: "Code libraries with modular functions to process, manipulate, analyse, and display raw MRS data."
+    url: /libraries
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/education.jpg
-    alt: "Education"
-    title: "Education"
-    excerpt: "Online resources, book recommendations, and other material to get introduced to MRS."     
-    url: /education
+  - image_path: /assets/images/snippets.jpg
+    alt: "Snippets"
+    title: "Snippets"
+    excerpt: "Small chunks of code for every possible purpose."     
+    url: /snippets
     btn_label: "Read More"
     btn_class: "btn--primary"
 

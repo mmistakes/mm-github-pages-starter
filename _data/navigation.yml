@@ -1,15 +1,41 @@
 main:
-  - title: "MRS Software Collection"
+  - title: "Software Packages"
     url: /software/
-    description: "A curated collection of MRS analysis software"
-  - title: "How-Tos and Tutorials"
-    url: /tutorials/
-    description: "A collection of notebooks and examples"
-  - title: "Education"
-    url: /education/
-    description: "Getting started with MRS"
+    description: "Full software solutions"
+  - title: "Code Libraries"
+    url: /libraries/
+    description: "Comprehensive modular code toolboxes"
+  - title: "Snippets"
+    url: /snippets/
+    description: "Helpful little code chunks"
   - title: "News"
     url: /news/
     description: "The MRSHub News Blog"
   - title: "About MRSHub"
     url: /about/
+
+# software sidebar links
+software:
+  - title: "Getting started"
+    children:
+        - title: "Overview"
+          url: /software/
+        - title: "Add your software"
+          url: /software_addyour/
+
+  - title: "Software Packages"
+    children:
+        - title: "Analysis & Quantification"
+          url: /software_analysis/
+        - title: "Data Simulation & Basis Set Generation"
+          url: /software_simulation/
+
+
+# about sidebar links
+about:
+  - title: "About"
+    children:
+      - title: "About MRSHub"
+        url: /about/
+      - title: "Contributors"
+        url: /about_contributors
