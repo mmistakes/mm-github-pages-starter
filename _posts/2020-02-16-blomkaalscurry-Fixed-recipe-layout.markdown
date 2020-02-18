@@ -15,9 +15,163 @@ header:
   actions:
     - label: "Direkte til opskriften"
       url: "/BlomkaalscurryFixed/#opskrift"
+recipe:
+  servings: 12 cupcakes
+  prep: 5 minutes
+  cook: 25 minutes
+  ingredient_comment: "Jeg laver selv retten uden løg og med [hvidløgs olie][/garlicoil/] for at gøre den lavere på FODMAPs. Den er dog ikke rigtig Low FODMAP da der er både er kikærter og blomkål i."
+  ingredients:
+    - partname: Cupcakes
+      items:  
+        - itemname: "2 cups flour"
+          prep: "hakket i smadder"
+        - itemname:  1/2 cup cocoa powder
+        - itemname:  1 tablespoon baking powder
+        - itemname:  1 tsp. salt
+        - itemname:  1/2 tsp. baking soda
+        - itemname:  4 tablespoons butter
+        - itemname:  4 oz. applesauce
+        - itemname:  1 cup sugar
+        - itemname:  2 eggs
+        - itemname:  4 oz. chocolate
+        - itemname:  1 tsp. vanilla
+        - itemname:  1/2 cup whole milk
+        - itemname:  1/2 cup boiling water
+    - partname: Icing
+      items:
+        - itemname:  8 oz. of cream cheese
+        - itemname:  1 cup of powdered sugar
+        - itemname:  1/4 cup milk
+        - itemname:  1 tablespoon butter
+    - partname: Icing2
+      items:
+        - itemname:  8 oz. of cream cheese
+        - itemname:  1 cup of powdered sugar
+        - itemname:  1/4 cup milk
+        - itemname:  1 tablespoon butter
+    - partname: Icing3
+      items:
+        - itemname:  8 oz. of cream cheese
+        - itemname:  1 cup of powdered sugar
+        - itemname:  1/4 cup milk
+        - itemname:  1 tablespoon butter
+    - partname: Icing4
+      items:
+        - itemname:  8 oz. of cream cheese
+        - itemname:  1 cup of powdered sugar
+        - itemname:  1/4 cup milk
+        - itemname:  1 tablespoon butter
+    - partname: Icing5
+      items:
+        - itemname:  8 oz. of cream cheese
+        - itemname:  1 cup of powdered sugar
+        - itemname:  1/4 cup milk
+        - itemname:  1 tablespoon butter
+  directions:
+    - partname: Cupcakes
+      directions_markdown: -|
+            1. Preheat Oven 350 degree
+            2. In a bowl combine flour, cocoa baking powder, baking soda and salt.
+            3. In a food processor combine butter and sugar and process until smooth. Add the eggs, 4 oz. of chocolate pieces and vanilla. Add half of the flour mixture and ½ of the milk. Process and add the other half of the flour and the remainder of the milk. Slowly, add the hot water.
+            4. Grease and fill muffin tins to top.
+            5. Bake 20 25 minutes or until toothpick test comes out clean.
+            6. Let cool.
+    - partname: Icing
+      directions_markdown: -|
+        Icing
+        1. Combine all of the above in a food processor and process until smooth. Refrigerate.
+        2. Frost cupcakes as you use them.
 ---
+{% comment %} create arrays {% endcomment %}
+{% assign left_array = "" |split: ',' %}
+{% assign right_array = "" |split: ',' %}
+
+{% for part in page.recipe.ingredients %}
+    {% assign sizevar = right_array.size | plus: part.items.size  %}
+    {% if sizevar > left_array.size  %}
+      {% assign left_array = left_array | push: part.partname %}
+      {% for item in part.items %}
+        {% assign left_array = left_array | push: item %}
+      {% endfor %}
+     
+    {% else %}
+        {% assign right_array = right_array | push: part.partname %}
+        {% for item in part.items %}
+          {% assign right_array = right_array | push: item %}
+        {% endfor %}
+    {% endif %}
+{% endfor %}
+<table>
+{% for x in left_array %}
+<tr>
+{% assign y = right_array[forloop.index0] %}
+<td style="white-space: nowrap;">{%if x.itemname %}{{x.itemname}}
+{%if x.prep %}<br><i>{{x.prep}}</i>{%endif%}
+{% else %}<b>{{x}}</b>
+{%endif%}</td>
+<td width="15%">
+
+</td>
+<td style="white-space: nowrap;">
+{%if y %}
+{%if y.itemname %}{{y.itemname}}
+{%if y.prep %}<br><i>{{y.prep}}</i>{%endif%}
+{% else %}<b>{{y}}</b>
+{%endif%}
+{%endif%}
+</td>
+</tr>
+{% endfor %}
+</table>
+<div style="display: inline-block;">
+<div width="49%" style="display: inline-block;">
+<ul>
+{% for x in left_array %}
+{%if x.itemname %}<li>{{x.itemname}}
+{%if x.prep %}<br><i>{{x.prep}}</i>{%endif%}</li>
+{% else %}<b>{{x}}</b>
+{%endif%}
+{% endfor %}
+</ul>
+</div>
+<div width="49%" style="display: inline-block;">
+<ul>
+{% for x in right_array %}
+{%if x.itemname %}<li>{{x.itemname}}
+{%if x.prep %}<br><i>{{x.prep}}</i>{%endif%}</li>
+{% else %}<b>{{x}}</b>
+{%endif%}
+{% endfor %}
+</ul>
+</div>
+</div>
 
 
+
+
+
+{{page.recipe.servings}}
+
+{{page.recipe.prep}}
+
+{{page.recipe.cook}}
+
+
+{% for part in page.recipe.ingredients %}
+<div width="49%" style="display: inline-block">
+<b>{{part.partname}}</b>
+<ul>
+{% for item in part.items %}
+<li> {{item.itemname}}</li>
+{% endfor %}
+</ul>
+</div>
+{% endfor %}
+
+
+
+
+lala
 Jeg har det svært med feminas opskrifter! Forstå mig ret, deres rette er virkeligt gode, men deres måde at skrive dem på og layout er fuldstændigt forfærdeligt. Derudover er der også nogle få [principper][principper] der altid gør en ret lidt bedre, som opskrifterne fejler på.
 
 Først det med layoutet... 
@@ -29,61 +183,7 @@ Det går måske meget fint, lige indtil man er begyndt at stege krydderierne og 
 # Opskrift
 
 ## Ingredienser: 
-Jeg laver selv retten uden løg og med [hvidløgs olie][garlicoil] for at gøre den lavere på FODMAPs. Den er dog ikke rigtig Low FODMAP da der er både er kikærter og blomkål i.
 
-| **Blomkål** | |
-|1-2 blomkålshoved alt efter størrelse | Skylles og plukkes i mindre bukketter   | 
-|1 spsk olivenolie |  | 
-|1 spsk hvidløgsolie | brug ekstra olivenolie hvis du ikke har hvidløgsolie | 
-|1½  tsk salt |  |
-|peber |  |
-|**Kikærter** |  |
-| 1 dåse Kikærter | skylles og tørres af |
-| 1 spsk garam masala | |
-| 1 spsk oliveolie | |
-| **Curry** | |
-|1 løg   | Skrælles og skæres i både   |
-|2 fed hvidløg  <br>
-Low FODMAP alternativ brug hvidløgsolie| Hakkes fint  |
-|3 cm frisk ingefær  |  Rives fint  |
-|1 bundt frisk koriander  | Skylles og bladene skilles fra stilkene, stilkene hakkes og bruges i curryen   |
-|2 gulerødder | Revet |
-|1 spsk. olivenolie til stegning  |    |
-|2 tsk. rød karrypasta  |    |
-|1 spsk. karry  |    |
-|1 spsk. garam masala  |    |
-|1 dåse kokosmælk  |    |
-|1 dåse flåede tomater (gerne Mutti) |    |
-|200 g græsk yoghurt 10 %  |    |
-|1 limefrugter  |  Til tilsmagning  |
-|1-2 tsk sukker | Til tilsmagning|
-|1-2 tsk salt eller 1 spsk boulion| Til tilsmagning | 
-|peber | Til Tilsmagning |
-|**Tilbehør** |  |
-|4 dl ris (brune eller basmati efter smag, jeg bruger brune)| |
-|korianderbladene | plukket fra stilkene tidligere |
-
-
-## Fremgangsmåde
-1. Start ovnen på 200 grader varmluft
-2. Kog ris som man koger ris (hvis der bruges hvide ris kan man vente til blomkål og kikærter er i ovnen)
-3. Klargør ingredienserne til curryen:
-    - Løg og hvidløg skrælles og snittes
-    - Gulerod og ingefær skrælles og rives
-    - Korianderen plukkes og stilkene hakkes fint, bladene sættes til siden
-4. Blomkål skylles og plukkes i mindre bukketter
-    - Fordel blomkålbukketerne på en bageplade og vend dem i olieolie og hvidløgsolie og drys med garam masala for at fordele jævnt og vend det hele rundt
-    - Sæt bagepladen i ovnen så der er plads til en plade neden under
-    - Bag i 25 min
-5.  Skyl kikærterne og lad dem dryppe af
-    - Fordel kikærterne på en bageplade og vend dem i olie drys med garam masala og tril ærterne med rundt til den er jævnt fordelt.
-    - Sæt pladen i ovnen og tjek til om de er klar når blomkålen tages ud, ellers gives de 5 min mere
-6. Gryden varmes op (gerne meget varm hvis du har to frie hænder og ingen børn til at forstyrre dig) og olie, løg og hvidløg kommes i og steges til løgene har fået lidt farve
-    - Tilsæt ingefær og karrypasta steg kort
-    - Tilsæt karry, garam masala og korianderstænger og kort efter gulerødder (karryen skal have varme men ikke brænde på)
-    - Steg det hele kort og hæld så kokosmælk, flåede tomater og græsk youghurt i curryen
-    - Smag retten til med lime, sukker, salt/boulion og peber
-7. Server curryen med risen og en lille skål med korianderblade
 
 
 
