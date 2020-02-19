@@ -15,11 +15,11 @@ layout: single
 </div>
 <h2>Ingredienser</h2> 
 
-<div style="vertical-align:top; width: 100%; line-height: 1; font-size: 0.7em">
+<div style="vertical-align:top; width: 100%; line-height: 1; font-size: 0.8em">
 <div style=" width: 100%;  ">
 {% for part in page.recipe.ingredients.single %}
 <b>{{part.part}}</b>
-<ul>
+<ul style="padding-left: 1.2em; ">
 {% for item in part.items %}
 <li> {{item.name}}{% if item.note %}<span style="opacity: 0.7; ">  ({{item.note}})</span>{% endif %}
     {% if item.prep %}
@@ -34,7 +34,7 @@ layout: single
 <div style=" display: inline-block; width: 45%;  ">
 {% for part in page.recipe.ingredients.left %}
 <b>{{part.part}}</b>
-<ul>
+<ul style="padding-left: 1.2em; ">
 {% for item in part.items %}
 <li> {{item.name}}{% if item.note %}<span style="opacity: 0.7; ">  ({{item.note}})</span>{% endif %}
     {% if item.prep %}
@@ -50,7 +50,7 @@ layout: single
 <div style="float: right ;display: inline-block;width: 45%; ">
 {% for part in page.recipe.ingredients.right %}
 <b>{{part.part}}</b>
-<ul>
+<ul style="padding-left: 1.2em; ">
 {% for item in part.items %}
 <li> {{item.name}}{% if item.note %}<span style="opacity: 0.7; ">  ({{item.note}})</span>{% endif %}
     {% if item.prep %}
@@ -65,7 +65,7 @@ layout: single
 </div>
 
 <h2>Fremgangsmåde</h2>
-<div style="vertical-align:top; width: 100%; line-height: 1.5; font-size: 0.7em">
+<div style="vertical-align:top; width: 100%; line-height: 1.5; font-size: 0.8em">
 {% for part in page.recipe.directions %}
 <b>{{part.part}}</b>
 <ol>
@@ -83,3 +83,6 @@ layout: single
 </ol>
 {% endfor %}
 </div>
+
+
+
