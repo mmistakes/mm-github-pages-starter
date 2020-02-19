@@ -9,8 +9,8 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/update/tech/homelab-rpi/",
         "teaser":null},{
-        "title": "Azure Aks",
-        "excerpt":" ","categories": [],
+        "title": "Building my Jekyll blog with Docker, K8s, and Azure-pipelines",
+        "excerpt":"As part of a school lab, we were to Containerize a very simple node-js app and serve it with Azure K8s. But I thought to take it a step further and get my Jekyll blog live through Azure-piplines and Azure Kubernete Services. If you are following along, I assume you...","categories": ["update","tech"],
         "tags": [],
-        "url": "http://localhost:4000/azure-aks/",
+        "url": "http://localhost:4000/update/tech/azure-aks/",
         "teaser":null}]

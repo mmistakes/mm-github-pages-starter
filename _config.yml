@@ -61,7 +61,7 @@ plugins:
 
 author:
   name   : "Aidan Brown"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio-avatar.jpg"
   bio    : "I am become Death, destroyer of worlds -J. Robert Oppenheimer"
   links:
     - label: "Twitter"
