@@ -17,7 +17,7 @@ intro:
 Henrik:
   - image_path: /assets/images/layout/henrik.jpg
     alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
+    title: "Henrik Bøgedal Breddam"
     excerpt: 'Her skal der stå lidt om henrik'
     url: "#test-link"
     btn_label: "Read More"
@@ -44,7 +44,7 @@ Kristian:
 
 
 {% include feature_row id="Henrik" type="left" %}
-
+Henriks posts
 {% include feature_row id="Helene" type="right" %}
 
 {% include feature_row id="Kristian" type="left" %}
