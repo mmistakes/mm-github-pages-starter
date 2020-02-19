@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/blog/welcome/</loc>
+<lastmod>2019-11-19T21:53:46-08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/update/tech/homelab-rpi/</loc>
+<lastmod>2019-11-19T22:45:50-08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/azure-aks/</loc>
+<lastmod>2019-11-25T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/about/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/categories/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tags/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/posts/</loc>
+</url>
+</urlset>
