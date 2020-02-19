@@ -21,3 +21,9 @@ steps:
       $(build.binariesDirectory):/srv/jekyll/_site
     containerCommand: 'jekyll build --future'
     detached: false
+- task: PublishBuildArtifacts@1
+  inputs:
+    artifactName: 'drop'
+    pathtoPublish: '$(build.binariesDirectory)'
+    publishLocation: 'Container'
+
