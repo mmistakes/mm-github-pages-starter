@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   A blog about Motorsports, Coding, and Modiing.
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: default
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Leo Kim"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Just a normal student, who loves driving."
+  bio    : "Just a normal student who loves driving."
   
 footer:
   
