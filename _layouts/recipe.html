@@ -21,7 +21,7 @@ layout: single
 <b>{{part.part}}</b>
 <ul style="padding-left: 1.2em; ">
 {% for item in part.items %}
-<li> {{item.name}}{% if item.note %}<span style="opacity: 0.7; ">  ({{item.note}})</span>{% endif %}
+<li> {% if item.amount %}{{item.amount}} {% endif %}{{item.name}}{% if item.note %}<span style="opacity: 0.7; ">  ({{item.note}})</span>{% endif %}
     {% if item.prep %}
      <br>
     <i style="opacity: 0.7;">- {{item.prep}}</i>
@@ -36,7 +36,7 @@ layout: single
 <b>{{part.part}}</b>
 <ul style="padding-left: 1.2em; ">
 {% for item in part.items %}
-<li> {{item.name}}{% if item.note %}<span style="opacity: 0.7; ">  ({{item.note}})</span>{% endif %}
+<li>{% if item.amount %}{{item.amount}} {% endif %}{{item.name}}{% if item.note %}<span style="opacity: 0.7; ">  ({{item.note}})</span>{% endif %}
     {% if item.prep %}
      <br>
     <i style="opacity: 0.7;">- {{item.prep}}</i>
@@ -52,7 +52,7 @@ layout: single
 <b>{{part.part}}</b>
 <ul style="padding-left: 1.2em; ">
 {% for item in part.items %}
-<li> {{item.name}}{% if item.note %}<span style="opacity: 0.7; ">  ({{item.note}})</span>{% endif %}
+<li>{% if item.amount %}{{item.amount}} {% endif %}{{item.name}}{% if item.note %}<span style="opacity: 0.7; ">  ({{item.note}})</span>{% endif %}
     {% if item.prep %}
     <br>
     <i style="opacity: 0.7;">- {{item.prep}}</i>
