@@ -10,7 +10,7 @@ layout: single
 <h1>Opskrift</h1>
 <div>
 <center>
-<div style=" display: inline-block; width: 30%">{% if page.recipe.servings %} <i class="fas fa-utensils"></i> {{page.recipe.servings}}  {% endif %}</div>   <div style=" display: inline-block; width: 30%">{%if page.recipe.prep %} <i class="fas fa-user-clock"></i> {{page.recipe.prep}} {% endif %}</div><div style=" display: inline-block; width: 30%"> {% if page.recipe.cook %} <i class="fas fa-clock"></i> {{page.recipe.cook}} {% endif %}</div>
+<div style=" display: inline-block; width: 30%">{% if page.recipe.servings %} <i class="fas fa-utensils"></i> {{page.recipe.servings | markdownify | remove: '<p>' | remove: '</p>'  }}  {% endif %}</div>   <div style=" display: inline-block; width: 30%">{%if page.recipe.prep %} <i class="fas fa-user-clock"></i> {{page.recipe.prep | markdownify | remove: '<p>' | remove: '</p>'  }} {% endif %}</div><div style=" display: inline-block; width: 30%"> {% if page.recipe.cook %} <i class="fas fa-clock"></i> {{page.recipe.cook | markdownify | remove: '<p>' | remove: '</p>'  }} {% endif %}</div>
 </center>
 </div>
 <h2>Ingredienser</h2> 
@@ -18,13 +18,13 @@ layout: single
 <div style="vertical-align:top; width: 100%; line-height: 1; font-size: 0.8em">
 <div style=" width: 100%;  ">
 {% for part in page.recipe.ingredients.single %}
-<b>{{part.part}}</b>
+<b>{{part.part | markdownify | remove: '<p>' | remove: '</p>' }}</b>
 <ul style="padding-left: 1.2em; ">
 {% for item in part.items %}
-<li> {% if item.amount %}{{item.amount}} {% endif %}{{item.name}}{% if item.note %}<span style="opacity: 0.7; ">  ({{item.note}})</span>{% endif %}
+<li> {% if item.amount %}{{item.amount| markdownify | remove: '<p>' | remove: '</p>' }} {% endif %}{{item.name| markdownify | remove: '<p>' | remove: '</p>' }}{% if item.note %}<span style="opacity: 0.7; ">  ({{item.note | markdownify | remove: '<p>' | remove: '</p>'  }})</span>{% endif %}
     {% if item.prep %}
      <br>
-    <i style="opacity: 0.7;">- {{item.prep}}</i>
+    <i style="opacity: 0.7;">- {{item.prep | markdownify | remove: '<p>' | remove: '</p>' }}</i>
     {% endif %}
 </li>
 {% endfor %}
@@ -33,13 +33,13 @@ layout: single
 </div>
 <div style=" display: inline-block; width: 45%;  ">
 {% for part in page.recipe.ingredients.left %}
-<b>{{part.part}}</b>
+<b>{{part.part | markdownify | remove: '<p>' | remove: '</p>'  }}</b>
 <ul style="padding-left: 1.2em; ">
 {% for item in part.items %}
-<li>{% if item.amount %}{{item.amount}} {% endif %}{{item.name}}{% if item.note %}<span style="opacity: 0.7; ">  ({{item.note}})</span>{% endif %}
+<li>{% if item.amount %}{{item.amount | markdownify | remove: '<p>' | remove: '</p>'  }} {% endif %}{{item.name | markdownify | remove: '<p>' | remove: '</p>'  }}{% if item.note %}<span style="opacity: 0.7; ">  ({{item.note | markdownify | remove: '<p>' | remove: '</p>'  }})</span>{% endif %}
     {% if item.prep %}
      <br>
-    <i style="opacity: 0.7;">- {{item.prep}}</i>
+    <i style="opacity: 0.7;">- {{item.prep | markdownify | remove: '<p>' | remove: '</p>'  }}</i>
     {% endif %}
 </li>
 {% endfor %}
@@ -49,13 +49,13 @@ layout: single
 
 <div style="float: right ;display: inline-block;width: 45%; ">
 {% for part in page.recipe.ingredients.right %}
-<b>{{part.part}}</b>
+<b>{{part.part | markdownify | remove: '<p>' | remove: '</p>'  }}</b>
 <ul style="padding-left: 1.2em; ">
 {% for item in part.items %}
-<li>{% if item.amount %}{{item.amount}} {% endif %}{{item.name}}{% if item.note %}<span style="opacity: 0.7; ">  ({{item.note}})</span>{% endif %}
+<li>{% if item.amount %}{{item.amount | markdownify | remove: '<p>' | remove: '</p>'  }} {% endif %}{{item.name | markdownify | remove: '<p>' | remove: '</p>'  }}{% if item.note %}<span style="opacity: 0.7; ">  ({{item.note | markdownify | remove: '<p>' | remove: '</p>'  }})</span>{% endif %}
     {% if item.prep %}
     <br>
-    <i style="opacity: 0.7;">- {{item.prep}}</i>
+    <i style="opacity: 0.7;">- {{item.prep | markdownify | remove: '<p>' | remove: '</p>'  }}</i>
     {% endif %}
     </li>
 {% endfor %}
@@ -67,22 +67,36 @@ layout: single
 <h2>Fremgangsmåde</h2>
 <div style="vertical-align:top; width: 100%; line-height: 1.5; font-size: 0.8em">
 {% for part in page.recipe.directions %}
-<b>{{part.part}}</b>
+<b>{{part.part | markdownify | remove: '<p>' | remove: '</p>'  }}</b>
+{% if part.steps.size == 1 %}
+{{part.steps.first.step | markdownify | remove: '<p>' | remove: '</p>' }}
+    {% if part.steps.first.substeps %}
+      <ul>
+      {% for sub in part.steps.first.substeps %}
+        <li>{{sub.substep | markdownify | remove: '<p>' | remove: '</p>'  }}</li>
+      {% endfor %}
+      </ul>
+    {% endif %}
+    <br>
+    <br>
+{% else %}
 <ol>
 {% for step in part.steps %}
-    <li>{{step.step }}
+    <li>{{step.step | markdownify | remove: '<p>' | remove: '</p>' }}
     {% if step.substeps %}
       <ul>
       {% for sub in step.substeps %}
-        <li>{{sub.substep}}</li>
+        <li>{{sub.substep | markdownify | remove: '<p>' | remove: '</p>'  }}</li>
       {% endfor %}
       </ul>
     {% endif %}
   </li>
 {% endfor %}
 </ol>
+{% endif %}
 {% endfor %}
 </div>
+
 
 
 
