@@ -2,7 +2,7 @@
 title: Text Mining with Python  
 subtitle: Generating word-clouds and histograms
 layout: default
-modal-id: 7
+modal-id: 9
 date: 2019-10-31
 img: nltk_full.jpg
 thumbnail: nltk_jobs.jpg
