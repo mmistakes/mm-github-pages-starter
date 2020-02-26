@@ -1,9 +1,6 @@
-Agency Jekyll theme
+Portfolio Website
 ====================
-
-Agency theme based on [Agency bootstrap theme ](https://startbootstrap.com/template-overviews/agency/)
-
-# How to use
+Used Agency theme based on [Agency bootstrap theme ](https://startbootstrap.com/template-overviews/agency/)
 
 ###Portfolio 
 
@@ -22,7 +19,7 @@ Team members and info are in '_config.yml'
 Images are in '/img/team/'
 
 
-# Demo
+# More about Jekyll themes
 
 View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
 
