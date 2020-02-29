@@ -29,9 +29,9 @@ plugins:
 author:
   avatar : "/assets/images/logo.png"
   links:
-    - label: "Website"
+    - label: "itch.io"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://jebedaia.itch.io/rakugo"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
