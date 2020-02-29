@@ -9,11 +9,11 @@ main:
     url: /news/
   - title: "Devlog"
     url: /news/devlog/
-  - title: "Docs"
-    url: https://rakugo.readthedocs.io/en/latest/
+  - title: "Learn"
+    url: /learn/
   - title: "Download"
     url: /download/
   - title: "Raport a Issue"
     url: https://github.com/rakugoteam/Rakugo/issues
   - title: "Sponsor"
-    url:
+    url: https://github.com/sponsors/jebedaia360
