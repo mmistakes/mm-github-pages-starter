@@ -69,10 +69,9 @@ recipe:
 gallery1:
   - url: assets/images/posts/kristian/finalDish.jpg
     image_path: assets/images/posts/kristian/finalDish.jpg
-    alt: "Endelig ret"
 ---
 
-Cacio e pepe som oversat til dansk betyder ost og peber eren meget simpel pastaret og en klassiker i det italienske køkken. Den består udelukkende af 5 ingredienser: Pasta, ost, peber, vand og salt. 
+Cacio e pepe som oversat til dansk betyder ost og peber er en meget simpel pastaret og en klassiker i det italienske køkken. Den består udelukkende af 5 ingredienser: Pasta, ost, peber, vand og salt. 
 I min version af denne opskrift benytter jeg mig primært af det princip at stivelsen fra pastaen, fungerer som en emulgator, som kan binde fedten fra osten med vandet. 
 Dette medfører at man får en cremet og næsten flødeagtig sovs til sin pasta. 
 For at have så høj en koncentration af stivelse i pastavandet, skæres der drastisk ned på vandmængden ved at koge det i en pande og forsøge at koge vandet fra løbende.
