@@ -67,8 +67,8 @@ recipe:
         - step: Server
 
 gallery1:
-  - url: assets/images/posts/kristian/Cacio-E-Pepe/finalDish.jpg
-    image_path: assets/images/posts/kristian/Cacio-E-Pepe/finalDish.jpg
+  - url: assets/images/posts/kristian/finalDish.jpg
+    image_path: assets/images/posts/kristian/finalDish.jpg
     alt: "Endelig ret"
 ---
 
