@@ -145,7 +145,7 @@ Jeg synes personlig at det kan være nemt med langtidshævede deje, da man kan l
 At forme flotte runde boller kan godt være svært i starten, men der er to tips der gør det hele lidt nemmere. 
 * Sørg for at dejen er æltet godt.
 * Husk at have en side der vender ud af hele tiden. 
-Når dejen er heltet godt er der lange strenge af gluten i dejen, istedet for en masse korte strenge der ligger hulter til bulter. Det er vigtigt fordi det er ænderne af strengene der klistrer og det er også derfor at en godt opspændt dejklump næsten ikke klistrer. Hvis vi så sørger for altid at have den opspændte side udad får vi gavn af både de ensrettede glutenstrenge, lidt udtørring under hævning og så kan vi komme en smule mel på siden uden at der kommer alt for meget ind i dejen.
+Når dejen er æltet godt er der lange strenge af gluten i dejen, istedet for en masse korte strenge der ligger hulter til bulter. Det er vigtigt fordi det er enderne af strengene der klistrer og det er også derfor at en godt opspændt dejklump næsten ikke klistrer. Hvis vi så sørger for altid at have den opspændte side udad får vi gavn af både de ensrettede glutenstrenge, lidt udtørring under hævning og så kan vi komme en smule mel på siden uden at der kommer alt for meget ind i dejen.
 Jeg ved godt at det kan være svært at visualisere hvordan bollerne skal formes og spændes op, derfor vil jeg anbefale dig at se [denne video fra fra Bake with Jack][BakewJackShape].
 
 Jeg tror det var nok skriverier om bollerne. Lad os se på resultatet og opskriften:
