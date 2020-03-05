@@ -7,14 +7,14 @@ categories:
   - Boller 
   - Gærdej
   - Brioche
-  - Opskrifter  
+  - Opskrifter
+  - Hovedret  
 tags: 
   - Henrik
   - Tangzhong
   - Brioche
   - Fødselsdagsboller
   - Burgerboller
-
 permalink: /Briocheburgerboller-med-Tangzhong/
 excerpt: "Med tangzhong, der giver ekstra saftige boller"
 header:
@@ -26,12 +26,24 @@ header:
     - label: "Direkte til opskriften"
       url: "/Briocheburgerboller-med-Tangzhong/#opskrift"
 recipe:
-  servings: 8 Boller
-  prep: 30 minutter
-  rise: 10 timer
-  cook: 20 minutter 
+  yield: 8 Boller
+  prepTime: 30 minutter
+  prepTime_iso: PT30M
+  riseTime: 10 timer
+  riseTime_iso: 
+  totalTime: 50 minutter
+  totalTime_iso: PT50M
+  description_short: Briocheburgerboller med tangzhong der gør dem luftige og lækre
+  keywords: "briocheboller, brioche, tangzhong"
+  cuisine: French
   ingredients:
-    #single:
+    single:
+        - part:  Bolledej
+          items:
+            - amount: 290 g 
+              name: hvedemel
+            - amount: 40 g 
+              name: grahamsspeltmel    
     left: 
         - part:  Bolledej
           items:
@@ -39,7 +51,7 @@ recipe:
               name: hvedemel
             - amount: 40 g 
               name: grahamsspeltmel     
-            - amount: 7 g 
+            - amount: 7 g   
               name: salt     
             - amount: 35 g 
               name: sukker     
@@ -81,8 +93,8 @@ recipe:
       steps: 
         - step: Bland de tørre ingredienser sammen (**hvedemel, grahamsspeltmel, salt og sukker**)
         - step: Bland **sødmælk, æg og gær** sammen
-        - step: Bland alle ingredienserne undtagen smør sammen og ælt godt. Brug en røremaskine hvis du har, beriget dej kan tage meget lang tid at ælte.
-        - step: Når dejen slipper skålen tilsættes **smøret** lidt af gangen og der æltes til dejen har optaget alt smøret og ikke længere er fedtet men mere glat. [Har du ikke en bagemaskine, kan du se her hvordan man får smøret optaget i dejen](https://www.bakewithjack.co.uk/videos/2019/6/20/bread-tip-203-how-to-get-butter-into-your-brioche-by-hand-3W3Rw)
+        - step: Bland de tørre og de våde ingredienser sammen med tangzhong, så der kun mangler at blive tilsat smør og ælt godt. Brug en røremaskine hvis du har, beriget dej kan tage meget lang tid at ælte.
+        - step: Når dejen slipper skålen eller bordet tilsættes **smøret** lidt af gangen og der æltes til dejen har optaget alt smøret og ikke længere er fedtet men mere glat. [Har du ikke en bagemaskine, kan du se her hvordan man får smøret optaget i dejen](https://www.bakewithjack.co.uk/videos/2019/6/20/bread-tip-203-how-to-get-butter-into-your-brioche-by-hand-3W3Rw)
         - step: Jeg foretrækker at tage min dej ud på bordet og spænde den op inden jeg sætter den til hævning. Har du ikke styr på hvordan man gør kan de undlades, men du kan også se [Bake with Jack videoen fra forrige punkt.](https://www.bakewithjack.co.uk/videos/2019/6/20/bread-tip-203-how-to-get-butter-into-your-brioche-by-hand-3W3Rw)
         - step: Lad dejen stå på køkkenbordet i 2 timer og sæt den derefter i køleskabet i mindst 8 timer. (Har du ikke 8 timer, kan du overveje bare at lade den stå på køkkenbordet og lade den hæve til ca dobbelt størrelse.)
         - step: Efter 8 timer tages dejen ud af køleskabet og stil den lunt i 2 timer for at varme op

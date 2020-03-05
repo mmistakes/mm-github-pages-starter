@@ -10,7 +10,7 @@ layout: single
 <h1>Opskrift</h1>
 <div>
 <center>
-<div style=" display: inline-block; width: 30%">{% if page.recipe.servings %} <i class="fas fa-utensils"></i> {{page.recipe.servings | markdownify | remove: '<p>' | remove: '</p>'  }}  {% endif %}</div>   <div style=" display: inline-block; width: 30%">{%if page.recipe.prep %} <i class="fas fa-user-clock"></i> {{page.recipe.prep | markdownify | remove: '<p>' | remove: '</p>'  }} {% endif %}</div><div style=" display: inline-block; width: 30%"> {% if page.recipe.cook %} <i class="fas fa-clock"></i> {{page.recipe.cook | markdownify | remove: '<p>' | remove: '</p>'  }} {% endif %}</div>
+<div style=" display: inline-block; width: 30%">{% if page.recipe.yield %} <i class="fas fa-utensils"></i> {{page.recipe.yield | markdownify | remove: '<p>' | remove: '</p>'  }}  {% endif %}</div>   <div style=" display: inline-block; width: 30%">{%if page.recipe.prepTime %} <i class="fas fa-user-clock"></i> {{page.recipe.prepTime | markdownify | remove: '<p>' | remove: '</p>'  }} {% endif %}</div><div style=" display: inline-block; width: 30%"> {% if page.recipe.totalTime %} <i class="fas fa-clock"></i> {{page.recipe.totalTime | markdownify | remove: '<p>' | remove: '</p>'  }} {% endif %}</div>
 </center>
 </div>
 <h2>Ingredienser</h2> 
@@ -96,7 +96,58 @@ layout: single
 {% endif %}
 {% endfor %}
 </div>
+{% assign author = page.author | default: page.authors[0] | default: site.author %}
+{% assign author = site.data.authors[author] | default: author %}
 
+{% assign single = page.recipe.ingredients.single %}
+{% assign left = page.recipe.ingredients.left %}
+{% assign right = page.recipe.ingredients.right %}
+
+
+{% if single %}
+
+{% assign allingredients = single%}{% endif %}
+{% if left %}
+{% unless allingredients %} {% assign allingredients = left%} 
+{% else %}
+{% assign allingredients = allingredients | concat: left %}
+{% endunless %}
+{% endif %}
+{% if right %}
+{% unless allingredients %} {% assign allingredients = right%} 
+{% else %}
+{% assign allingredients = allingredients | concat: right %}
+{% endunless %}
+{% endif %}
+
+{{page.tags}}
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "{{page.title}}",
+    "author": {"@type": "Person",
+    "name":  "{{author.name}}" },
+    "image": "{{site.url}}{{page.header.teaser}}",
+    {% if page.recipe.cuisine %}"recipeCuisine": "{{page.recipe.cuisine}}", {% endif %}
+    {% unless page.recipe.keywords %}"keywords": [ {%for category in page.categories%}"{{category}}"{% if forloop.last != true or page.tags.size != 0 %},{%endif%} {% endfor %}{%for category in page.tags%}{% unless category == page.author %} "{{category}}" {% if forloop.last != true %},{%endif%}{%endunless%} {% endfor %} ],
+    {% else %} "keywords": "{{page.recipe.keywords}}", {% endunless %}
+    "description": "{%if page.recipe.description_short %}{{page.recipe.description_short}} {% else %}{{page.excerpt}}{% endif %}",
+    {% if page.recipe.prepTime_iso %} "prepTime": "{{page.recipe.prepTime_iso}}", {% endif %}
+    {% if page.recipe.totalTime_iso %}"totalTime": "{{page.recipe.totalTime_iso}}", {% endif %}
+    {% if page.recipe.yield %}"recipeYield": "{{page.recipe.yield}}", {% endif %}
+    "recipeCategory": [{%for category in page.categories%}"{{category}}"{% if forloop.last != true %},{%endif%} {% endfor %}],
+    "recipeIngredient": [{% for part in allingredients  %}
+      {% for item in part.items %}"{{item.amount}} {{item.name}}" {% unless forloop.last == true and forloop.parentloop.last == true %},{% endunless %}
+      {% endfor %}{% endfor %}
+    ],
+    "recipeInstructions": [{% for part in page.recipe.directions  %}
+    {% for step in part.steps %}"{{step.step  | replace: '"', '\\"' | remove: '**' | remove: '[' | remove: ']' }} {% for substep in step.substeps %}
+    - {{substep.substep  | replace: '"', '\\"' | remove: '**' | remove: '[' | remove: ']' }} {% endfor %}" {% unless forloop.last == true and forloop.parentloop.last == true %},{% endunless %}
+    {% endfor %}{% endfor %}
+     ]
+  }
+  </script>
 
 
 
