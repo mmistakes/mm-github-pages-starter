@@ -17,8 +17,8 @@ tags:
 permalink: /Cacio-e-pepe/
 excerpt: "Pasta med peber"
 header:
-  teaser: /assets/images/posts/henrik/TangzhongBrioche-teaser.jpg
-  overlay_image: assets/images/posts/henrik/TangzhongBrioche-banner.jpg
+  teaser: /assets/images/posts/kristian/CacioEpepe-finalDish.jpg
+  overlay_image: assets/images/posts/kristian/CacioEpepe-finalDish.jpg
   overlay_filter: 0.35 # 
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
@@ -28,8 +28,7 @@ recipe:
   servings: 2 personer
   cook: 15 minutter 
   ingredients:
-    #single:
-    left: 
+    single: 
         - part:  Cacio e pepe
           items:
             - amount: 300 g 
@@ -40,10 +39,8 @@ recipe:
               name: Pecorino romano (Evt. lignene ost som Grana Padano)     
             - amount: 5-10 g 
               name: salt
-            
-    right:
   directions:
-    - part: Rist peber
+    - part: 
       steps: 
         - step: Rist peber
           substeps:
@@ -67,8 +64,8 @@ recipe:
         - step: Server
 
 gallery1:
-  - url: assets/images/posts/kristian/finalDish.jpg
-    image_path: assets/images/posts/kristian/finalDish.jpg
+  - url: assets/images/posts/kristian/CacioEpepe-finalDish.jpg
+    image_path: assets/images/posts/kristian/CacioEpepe-finalDish.jpg
 ---
 
 Cacio e pepe som oversat til dansk betyder ost og peber er en meget simpel pastaret og en klassiker i det italienske køkken. Den består udelukkende af 5 ingredienser: Pasta, ost, peber, vand og salt. 
@@ -97,10 +94,6 @@ Det her er en af mine go to retter til en hurtig frokost, da jeg altid har pasta
 
 
 Jeg tror det var nok skriverier om pastaen. Lad os se på resultatet og opskriften:
-
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/posts/kristian/Cacio-E-Pepe/finalDish.jpg)
-
-
 {% include gallery id="gallery1"  caption="" %}
 
 [KenjiPasta]: https://www.seriouseats.com/2015/09/tips-for-better-easier-pasta.html
