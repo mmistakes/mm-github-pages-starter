@@ -1,8 +1,8 @@
 main:
   - title: "Posts"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
+  - title: "Reading List"
+    url: /reading-list/
   - title: "Tags"
     url: /tags/
   - title: "About"
