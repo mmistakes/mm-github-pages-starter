@@ -4,6 +4,8 @@ permalink: /reading-list/
 author_profile: true
 ---
 
+<script data-ad-client="ca-pub-9114568327691589" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
 <div class="container">
   {% for entry in site.data.reading.list %}
   <div class="year-container">
