@@ -92,6 +92,12 @@ comments:
   disqus:
     shortname: "https-renewyourmind-github-io"
 
+# Analytics
+analytics:
+  provider: "google-gtag" # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id: "UA-160633831-1"
+
 defaults:
   # _posts
   - scope:

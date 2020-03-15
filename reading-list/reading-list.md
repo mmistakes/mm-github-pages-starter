@@ -18,7 +18,7 @@ author_profile: true
           <a href="{{ book.link }}" alt="_blank" rel="nofollow noopener">{{
             book.title
           }}</a>
-          by {{book.author}}   |   {{book.date_read}}   |   {{book.rating}} 
+          by {{book.author}}   |   {{book.date_read}}   |   {{book.rating}}
         </li>
         {% endfor %}
       </ul>
@@ -26,3 +26,5 @@ author_profile: true
   </div>
   {% endfor %}
 </div>
+
+<link rel="stylesheet" href="styles.css">
