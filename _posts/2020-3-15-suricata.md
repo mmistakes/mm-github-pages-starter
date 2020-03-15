@@ -11,8 +11,6 @@ tags:
   - suricata
 ---
 
-# Setup Lab Monitoring Serangan Jaringan dan Ethical Hacking dengan Suricata 
-
 ## Prerequisites
 1. Oracle Virtualbox / VMWare
 2. VM Vulnhub
