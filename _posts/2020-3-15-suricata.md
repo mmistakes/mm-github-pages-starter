@@ -1,5 +1,5 @@
 ---
-title: Setup Lab Monitoring Serangan Jaringan dan Ethical Hacking dengan Suricata
+title: "Setup Lab Monitoring Serangan Jaringan dan Ethical Hacking dengan Suricata"
 date: 2020-3-15T09:18:27+07:00
 categories:
   - blog
