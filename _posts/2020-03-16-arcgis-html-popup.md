@@ -25,7 +25,7 @@ var template = {
     content: "<i>The Name of this feature is {Name}</i><br><b><a href='https://services.arcgis.com/P3ePLMYs2RVChkJx/ArcGIS/rest/services/ACS_Marital_Status_Boundaries/FeatureServer/2'>Feature Service URL</a></b><br><img src='https://www.w3schools.com/images/w3schools_green.jpg' alt='W3Schools.com'>"
 }
 ```
-This clearly contains HTML. There is a link, an image, and bold/italicized text. However, the above popup will work fine because there is nothing 'dangerous' that may run a malicious script.
+This clearly contains HTML. There is a link, an image, and bold/italicized text. However, the above popup will work fine because there is nothing 'dangerous' that may run a malicious script. Check out [this page](https://doc.arcgis.com/en/arcgis-online/reference/supported-html.htm) for a list of supported HTML tags.
 
 The next code snippet contains a button with an onclick function.
 ```javascript
