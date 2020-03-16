@@ -56,7 +56,7 @@ plugins:
 
 author:
   name   : "Ben Elan"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/fry.png"
   bio    : "Web developer specializing in spatial data."
   links:
     #- label: "Website"
