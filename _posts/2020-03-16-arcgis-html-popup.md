@@ -34,11 +34,11 @@ var template = {
     content: "<input id='buttonId' class='btn btn-primary btn-block' type='button' value='Click Me' onclick='runCode({OBJECTID})' title='Clickable button in popup'>"
 }
 ```
-This code will be sanitized because it can be potentially harmful depending on what the on click function does.
+This code will be sanitized because it can be potentially harmful depending on what the onclick function does.
 
 
 ## What to do if your HTML is sanitized
-The work around is to use a function to modify the [DOM node](https://www.w3schools.com/js/js_htmldom.asp) of the popup directly. This will get around the HTML sanitizer baked into the ArcGIS JavaScript API. So, in order to add a button to your popup you would define the popup template as
+The work around is to use a function to modify the [DOM node](https://www.w3schools.com/js/js_htmldom.asp) of the popup directly. This will get around the HTML sanitizer baked into the ArcGIS JavaScript API. So, in order to add a button to your popup you would define the template as
 ```javascript
 var template = {
   content: function(){
