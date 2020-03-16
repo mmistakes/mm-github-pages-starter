@@ -9,7 +9,6 @@ tags:
   - usability
   - update
   - popup
-link: https://codepen.io/benesri/pen/ExjZoOg
 ---
 
 As a Technical Support Specialist at Esri, I have already received a few questions concerning changes to popups in the ArcGIS JavaScript API. As mentioned in the release notes [breaking changes](https://developers.arcgis.com/javascript/latest/guide/release-notes/#breaking-changes) section for version 4.14, an [HTML sanitizer](https://github.com/Esri/arcgis-html-sanitizer) was added to handle some security concerns. In this post I will talk about why it was added and how it will affect your development moving forward.
