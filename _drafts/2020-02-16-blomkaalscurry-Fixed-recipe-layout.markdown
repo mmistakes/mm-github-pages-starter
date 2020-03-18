@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title:  "Blomkålscurry v5 ekstra lang titel"
+title:  "Blomkålscurry med kikærter"
 author: Henrik
 date:   2019-11-05 13:39:33 +0100
 categories: jekyll update
@@ -99,7 +99,19 @@ recipe:
             - substep: Steg det hele kort og hæld så <b>kokosmælk</b>, flåede <b>tomater</b> og græsk <b>youghurt</b> i curryen
             - substep: Smag retten til med <b>lime</b>, <b>sukker</b>, <b>salt/boulion</b> og <b>peber</b>
         - step:  Server curryen med risen og en lille skål med korianderblade
-
+gallery1:
+  - url: /assets/images/posts/henrik/merebroed.jpg
+    image_path: /assets/images/posts/henrik/merebroed.jpg
+    alt: "Et billede af et brød"
+  - url: /assets/images/posts/henrik/kokkenbord.jpg
+    image_path: /assets/images/posts/henrik/kokkenbord.jpg
+    alt: "Brød på køkkenbord"
+  - url: /assets/images/posts/henrik/snurre.jpg
+    image_path: /assets/images/posts/henrik/snurre.jpg
+    alt: "Fog in the trees"  
+  - url: /assets/images/posts/henrik/snurre.jpg
+    image_path: /assets/images/posts/henrik/snurre.jpg
+    alt: "Snurre i massevis"  
 ---
 
 Jeg har det svært med feminas opskrifter! Forstå mig ret, deres rette er virkeligt gode, men deres måde at skrive dem på og layout er fuldstændigt forfærdeligt. Derudover er der også nogle få [principper][principper] der altid gør en ret lidt bedre, som opskrifterne fejler på.

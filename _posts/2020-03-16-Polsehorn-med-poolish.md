@@ -1,21 +1,17 @@
 ---
 layout: recipe
-title:  "Cacio e Pepe - Pasta med peber"
-author: Kristian
+title:  "Pølsehorn med poolish"
+author: Henrik
 #date:   2020-03-04 16:52:33 +0100
 categories:  
-  - Pasta 
-  - Principper
-  - Peber 
-  - Ost
-  - Opskrifter  
+  - Gærdej 
+  - Surdej
+  - Børnemad 
 tags: 
-  - Kristian
+  - Henrik
   - Pasta
-
-
-permalink: /cacio-e-pepe/
-excerpt: "Pasta med peber"
+permalink: /Poelsehorn-med-poolish/
+excerpt: "Lav en pølsehorns dej med super smag"
 header:
   teaser: /assets/images/posts/kristian/CacioEpepe-finalDish.jpg
   overlay_image: assets/images/posts/kristian/CacioEpepe-finalDish.jpg
@@ -23,23 +19,29 @@ header:
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
     - label: "Direkte til opskriften"
-      url: "/Cacio-e-pepe/#opskrift"
+      url: "/Poelsehorn-med-poolish/#opskrift"
 recipe:
-  servings: 2 personer
-  totalTime: 15 minutter
-  totalTime_iso: PT15M
+  servings: 20-30 stykker
+  prepTime: 30 minutter
+  prepTime_iso: PT30M
+  riseTime: 2-12 timer
+  riseTime_iso: PT2H
+  totalTime:  4 timer
+  totalTime_iso: PT4H
   ingredients:
-    single: 
-        - part:  Cacio e pepe
+    right: 
+        - part:  Poolish 
           items:
-            - amount: 300 g 
-              name: pasta
-            - amount: 2 tsk 
-              name: hele peberkorn    
-            - amount: 75 g 
-              name: Pecorino romano (Evt. lignene ost som Grana Padano)     
-            - amount: 5-10 g 
-              name: salt
+            - amount: 100 g 
+              name: Hvedemel
+            - amount: 100 g 
+              name: vand ved stuetemperatur   
+            - amount: 0.5 - 3 g 
+              name: gær  
+    left:
+        - part: Dej
+          items:
+            - amount:   
   directions:
     - part: 
       steps: 

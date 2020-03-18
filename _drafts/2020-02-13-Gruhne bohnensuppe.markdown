@@ -3,7 +3,12 @@ layout: single
 title:  "Grønne bønnesuppe (Gruhne Bohnensuppe)"
 date:   2019-11-05 13:39:33 +0100
 author: Henrik
-categories: opskrift suppe nem-mad
+categories: 
+  - opskrift
+  - suppe 
+  - nem mad
+tags: 
+  - Henrik
 permalink: /Gruhne-Bohnensuppe/
 excerpt: "Nem tysk klassiker der måske er den kønneske på dit instagram feed, men smager virkeligt godt"
 #Her kan man indsætte header billedet
