@@ -13,17 +13,17 @@ tags:
 permalink: /Poelsehorn-med-poolish/
 excerpt: "Lav en pølsehorns dej med super smag"
 header:
-  teaser: /assets/images/posts/kristian/CacioEpepe-finalDish.jpg
-  overlay_image: assets/images/posts/kristian/CacioEpepe-finalDish.jpg
+  teaser: /assets/images/posts/henrik/PoolishPoelsehorn-teaser.jpg
+  overlay_image: assets/images/posts/henrik/PoolishPoelsehorn-banner.jpg
   overlay_filter: 0.35 # 
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
     - label: "Direkte til opskriften"
       url: "/Poelsehorn-med-poolish/#opskrift"
 recipe:
-  servings: 20-30 stykker
-  prepTime: 30 minutter
-  prepTime_iso: PT30M
+  yield: 20-30 stykker
+  prepTime: 1 time
+  prepTime_iso: PT1H
   riseTime: 2-12 timer
   riseTime_iso: PT2H
   totalTime:  4 timer
@@ -38,10 +38,37 @@ recipe:
               name: vand ved stuetemperatur   
             - amount: 0.5 - 3 g 
               name: gær  
+        - part: Fyld
+          items: 
+            - amount: 10-15
+              name: pølser
+              note: af god kvalitet
+              prep: skåret i halve 
+            - amount: 3 dl
+              name: ketchup
     left:
         - part: Dej
           items:
-            - amount:   
+            - amount: 200 g 
+              name: poolish
+            - amount: 2 dl 
+              name: mælk
+            - amount: 1
+              name: æg
+            - amount: 375 g
+              name: hvedemel
+            - amount: 125 g
+              name: grahamsspeltmel
+              note: eller anden god fuldkornsmel
+            - amount: 50 g
+              name: smør
+              prep: ved stuetemperatur
+            - amount: 20 g 
+              name: sukker
+            - amount: 8 g
+              name: salt
+            - amount: 100 g 
+              name: surdej
   directions:
     - part: 
       steps: 
@@ -67,36 +94,14 @@ recipe:
         - step: Server
 
 gallery1:
-  - url: assets/images/posts/kristian/CacioEpepe-finalDish.jpg
-    image_path: assets/images/posts/kristian/CacioEpepe-finalDish.jpg
+  - url: assets/images/posts/henrik/PoolishPoelsehorn-teaser.jpg
+    image_path: assets/images/posts/henrik/PoolishPoelsehorn-teaser.jpg
+  - url: assets/images/posts/henrik/PoolishPoelsehorn-closeup.jpg
+    image_path: assets/images/posts/henrik/PoolishPoelsehorn-closeup.jpg
 ---
 
-Cacio e pepe som oversat til dansk betyder ost og peber er en meget simpel pastaret og en klassiker i det italienske køkken. Den består udelukkende af 5 ingredienser: Pasta, ost, peber, vand og salt. 
 
 
-I min version af denne opskrift benytter jeg mig primært af det princip at stivelsen fra pastaen, fungerer som en emulgator, som kan binde fedten fra osten med vandet. 
-
-
-Dette medfører at man får en cremet og næsten flødeagtig sovs til sin pasta. 
-
-
-For at have så høj en koncentration af stivelse i pastavandet, skæres der drastisk ned på vandmængden ved at koge det i en pande og forsøge at koge vandet fra løbende.
-
-
-Her er det nok også nødvendigt at påpege at myten om at pasta skal koges i rigeligt vand er blevet aflivet af Kenji Alt-Lopéz fra [seriouseats.com][KenjiPasta]
-
-
-Pecorino Romano, som bliver brugt i denne ret, er en fåreost i modsætning til f.eks. Grana Padano, som laves på komælk. 
-
-
-Dette giver Pecorinoen en lidt mere "funky" smag, hvis man ikke er til dette, kan den selvfølgelig erstattes af en hård komælksost (Det skal dog nok noteres at italienere ville bande og svovler over dette, men dem har vi nok allerede mistet ved at koge pasta i en pande).
-Peberen varmes på panden for at frigive aromaen bedre. 
-
-
-Det her er en af mine go to retter til en hurtig frokost, da jeg altid har pasta, ost, salt og peber i mit køkken og derfor kan have maden klar på ingen tid. 
-
-
-Jeg tror det var nok skriverier om pastaen. Lad os se på resultatet og opskriften:
 {% include gallery id="gallery1"  caption="" %}
 
 [KenjiPasta]: https://www.seriouseats.com/2015/09/tips-for-better-easier-pasta.html
