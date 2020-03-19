@@ -17,7 +17,9 @@ Henrik:
   - image_path: /assets/images/layout/henrik.jpg
     alt: "placeholder image 2"
     title: "Henrik Bøgedal Breddam"
-    excerpt: 'Henrik er helt klart den bedste '
+    excerpt: 'Henrik er vores storebror. Han er den klogeste af os - hvis man spørger ham selv. Hvis du spørger hos andre, vil vi svare, at han rigtig nok er meget klog, men den klogeste? Arh... Han er tekniknørd og går grundigt til værks. Vores mor har altid sagt, at Henrik er ham, man beder om hjælp, hvis tingene skal gøres grundigt. Han hakker løg i ens stykker, skolder sine skærebrætter og vejer dejen til sine burgerboller af.
+    
+    Hans køkken ligger i Trekroner og meget af hans tid der, går med at lave skøn aftensmad og dej til alskens lækre ting. Henrik er mest velbevandret i det salte køkken.'
     url: "/tags/#henrik"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -40,7 +42,7 @@ Kristian:
 ---
 <center>
 <div style="width: 60%; text-align:left">
-Vi er tre søskende, Henrik, Helene og Kristian og vi er elsker alle tre at lave mad. Vi har hver især vores egen stil, men vi fælles er at vi elsker at udforske nye opskrifter, ingredienser og teknikker. I lang tid har vi bare delt billeder af alt hvad vi lavede på vores "familie WhatsApp gruppe". Men når de andre så skriver "hvordan gjorde du?" har det været lidt for omstændig at skrive en lang opskrift på telefonen og for at være helt ærlig, så har man nok allerede glemt hvad man gjorde. Derfor har vi besluttet os for at gå systematisk til værks og blogge vores forskellige opskrifter, både så andre kan få glæde af dem, men også så vi selv kan huske, hvad det nu var vi gjorde sidst.
+Vi er tre søskende - Henrik, Helene og Kristian - som alle tre elsker at lave mad. Vi har hver især vores egen stil, men fælles er, at vi elsker at udforske nye opskrifter, ingredienser og teknikker. I lang tid har vi bare delt billeder af alt hvad vi lavede på vores familie-tråd på WhatsApp, men når de andre så skriver "hvordan gjorde du?" har det været lidt for omstændig at skrive en lang opskrift på telefonen (og for at være helt ærlig, så har man nok allerede glemt hvad man gjorde...). Derfor har vi besluttet os for at gå systematisk til værks og blogge vores forskellige opskrifter. Både så vi kan dele dem med hinanden (og selv huske, hvad vi gjorde), men måske også glæde nogle andre amatørkokke derude.
 </div>
 </center>
 <br>
