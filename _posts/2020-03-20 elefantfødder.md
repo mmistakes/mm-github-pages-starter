@@ -13,7 +13,7 @@ tags:
   - Marengs
   - Dessert
   - Chokolade
-permalink: /elefantfødder/
+permalink: /elefantfodder/
 excerpt: "Marengs med chokolade og et strejf af havsalt"
 header:
   teaser: 
@@ -22,7 +22,7 @@ header:
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
     - label: "Direkte til opskriften"
-      url: "/elefantfødder/#opskrift"
+      url: "/elefantfodder/#opskrift"
 recipe:
   yield: 12 stk.
   prepTime: 15 minutter
