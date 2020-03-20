@@ -29,7 +29,7 @@ recipe:
   prepTime_iso: PT15M
   riseTime:
   riseTime_iso: 
-  totalTime: 2 timer 15 minutter
+  totalTime: 2 timer 45 minutter
   totalTime_iso: PT135M
   description_short: Marengs med chokolade
   keywords: "marengs, chokolade, æggehvider"
@@ -54,15 +54,15 @@ recipe:
   directions:
     - part: 
       steps:
-        - step: Pisk æggehviderne i en ren skål, til de næsten er stive.
-        - step: Tilsætte sukkeret lidt ad gangen, mens du pisker.
+        - step: Pisk **æggehviderne** i en ren skål, til de næsten er stive.
+        - step: Tilsæt **sukkeret** lidt ad gangen, mens du pisker.
         - step: Når alt sukkeret er tilsat pisker du løs længe - gerne 5-10 minuttter, så sukkeret kan blive ordentligt opløst, da det giver den lækreste marengs.
           substeps:
             - substep: Opvarm imens din ovn til 110 grader og beklæd to bageplader med bagepapir eller silikonemåtter.
-        - step: Smelt chokoladen og tilsæt havsalt. Du må endelig ikke bruge for meget, så smag dig frem.
+        - step: Smelt **chokoladen** og tilsæt **havsalt**. Du må endelig ikke bruge for meget, så smag dig frem.
         - step: Vend nu forsigtigt den smeltede chokolade i marengsen. Massen skal ikke være ensartet, men en blanding af brune og hvide nuancer. 
-        - step: Afsæt 6 store klatter på hver af dine bageplader og bag dem i ovnen i 1 ½ time.
-        - step: Når tiden er gået skal du slukke ovnen og lade dine elefantfødder stå til tørre i yderligere 1 time.
+        - step: Afsæt 6 store klatter på hver af dine bageplader og bag dem ved **110 grader i 1 ½ time**.
+        - step: Når tiden er gået skal du slukke ovnen og lade dine elefantfødder stå til tørre i yderligere **1 time**.
         - step: Tag pladerne ud af ovnen og lad marengsene køle helt af på en bagerist inden du putter dem i en lufttæt beholder.
 
 ---
