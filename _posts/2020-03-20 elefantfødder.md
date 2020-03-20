@@ -51,15 +51,14 @@ recipe:
             - amount: ca. 2 knsp. 
               name: havsalt  
               prep: efter smag
-
   directions:
     - part: 
       steps:
         - step: Pisk æggehviderne i en ren skål, til de næsten er stive.
         - step: Tilsætte sukkeret lidt ad gangen, mens du pisker.
         - step: Når alt sukkeret er tilsat pisker du løs længe - gerne 5-10 minuttter, så sukkeret kan blive ordentligt opløst, da det giver den lækreste marengs.
-        substeps:
-          - substep: Opvarm imens din ovn til 110 grader og beklæd to bageplader med bagepapir eller silikonemåtter.
+          substeps:
+            - substep: Opvarm imens din ovn til 110 grader og beklæd to bageplader med bagepapir eller silikonemåtter.
         - step: Smelt chokoladen og tilsæt havsalt. Du må endelig ikke bruge for meget, så smag dig frem.
         - step: Vend nu forsigtigt den smeltede chokolade i marengsen. Massen skal ikke være ensartet, men en blanding af brune og hvide nuancer. 
         - step: Afsæt 6 store klatter på hver af dine bageplader og bag dem i ovnen i 1 ½ time.
