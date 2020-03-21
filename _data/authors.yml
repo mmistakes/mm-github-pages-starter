@@ -1,17 +1,9 @@
 # /_data/authors.yml
-
-
 Henrik:
   name        : "Henrik Bøgedal Breddam"
-  bio         : "Brød, børnemad og teknik"
+  bio         : "Brød og børnefamiliemad"
   avatar      : "/assets/images/layout/henrik.jpg"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:henrik@breddam.dk"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://breddam.dk"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/Hbreddam"
@@ -19,14 +11,26 @@ Henrik:
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/dejogmig/"  
 
-Cornelius Fiddlebone:
-  name        : "Cornelius Fiddlebone"
-  bio         : "I ordered what?"
-  avatar      : "/assets/images/bio-photo.jpg"
+Helene:
+  name        : "Helene Nissen Breddam"
+  bio         : "Du kan ændre dette inde i _data/authors.yml"
+  avatar      : "/assets/images/layout/helene.jpg"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:cornelius@thewhip.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/rhymeswithsackit"
+      url: "https://twitter.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/" 
+      
+Kristian:
+  name        : "Kristian Nissen Breddam"
+  bio         : "Du kan ændre dette inde i _data/authors.yml"
+  avatar      : "/assets/images/layout/kristian.jpg"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/" 
