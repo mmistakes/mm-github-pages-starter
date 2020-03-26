@@ -20,7 +20,7 @@ excerpt: "Med tangzhong, der giver ekstra saftige boller"
 header:
   teaser: /assets/images/posts/henrik/TangzhongBrioche-teaser.jpg
   overlay_image: assets/images/posts/henrik/TangzhongBrioche-banner.jpg
-  overlay_filter: 0.35 # 
+  overlay_filter: 0.2 # 
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
     - label: "Direkte til opskriften"
