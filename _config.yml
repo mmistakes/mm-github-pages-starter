@@ -24,8 +24,8 @@ twitter_username: mrshub
 github_username: mrshub
 minimal_mistakes_skin: default
 search: true
-url: https://mrshub.github.io
-baseurl: /mrshub-website
+url: "mrshub.netlify.com"
+baseurl:
 
 # Build settings
 markdown: kramdown
