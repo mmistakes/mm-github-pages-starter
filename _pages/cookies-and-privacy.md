@@ -1,10 +1,11 @@
 ---
-title: "cookies"
-excerpt: "Page not found. Your pixels are in another canvas."
+title: "Cookies"
+excerpt: "Lige nu bruger vi faktisk ikke nogen cookies, så det var jo heldigt nok"
 sitemap: false
 layout: single
 permalink: /cookies-med-mere/
 ---
 
-Cookies Cookies
+[Hvis du ledte en opskrift på cookies er det her!](/chocolate-chip-cookies/)
+
 
