@@ -1,14 +1,6 @@
 <!-- start custom footer snippets -->
 <script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161851109-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-161851109-1', { 'send_page_view': false });
-</script>
 
 <script>
 window.cookieconsent.initialise({
@@ -23,6 +15,7 @@ window.cookieconsent.initialise({
       "border": "#4b81e8"
     }
   },
+  revokable:true,
   "type": "opt-in",
   "content": {
     "message": "Cookies! Ja vi bager lækre cookies og vi bruger dem også på siden her.",
@@ -36,11 +29,9 @@ window.cookieconsent.initialise({
     var type = this.options.type;
     var didConsent = this.hasConsented();
     if (type == 'opt-in' && didConsent) {
-        alert("send pageview ip");
+         // enable cookies
     }
-    if (type == 'opt-in' && !didconsent) {
-        alert("send pageview anon");
-    }
+   
     if (type == 'opt-out' && !didConsent) {
     // disable cookies
         alert("sometext2 disable");
@@ -52,12 +43,12 @@ window.cookieconsent.initialise({
     var didConsent = this.hasConsented();
     if (type == 'opt-in' && didConsent) {
     // enable cookies
-    alert("sometext3 enale");
+        
 
     }
     if (type == 'opt-out' && !didConsent) {
     // disable cookies
-    alert("sometext4 disable");
+    
 
     }
     },
@@ -65,12 +56,12 @@ window.cookieconsent.initialise({
     var type = this.options.type;
     if (type == 'opt-in') {
     // disable cookies
-    alert("sometext5 disable");
+    
 
     }
     if (type == 'opt-out') {
     // enable cookies
-    alert("sometext6 enable");
+   
     }
     }
 
