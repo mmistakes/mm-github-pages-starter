@@ -26,6 +26,7 @@ minimal_mistakes_skin: default
 search: true
 url: "http://mrshub.netlify.com"
 baseurl: ""
+repository: mrshub/mrshub-website
 
 # Build settings
 markdown: kramdown
