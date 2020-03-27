@@ -1,0 +1,25 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+.grid__item{
+
+    .archive__item-teaser {
+        @include breakpoint($small) {
+          max-height: 200px;
+        }
+    
+        @include breakpoint($medium) {
+          max-height: 220px;
+          max-width: 220px;
+          position: relative;
+          overflow:hidden;
+        }
+      }
+    }

@@ -1,5 +1,5 @@
 ---
-title: "Blog"
+title: "Opskrifter"
 layout: home
 type: grid
 permalink: /blog/
