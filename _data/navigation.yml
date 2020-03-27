@@ -1,6 +1,6 @@
 main:
-  - title: "Blog"
-    url: /blog/
+  - title: "Opskrifter"
+    url: /opskrifter/
   - title: "Kategorier"
     url: /categories/
   - title: "Tags"
