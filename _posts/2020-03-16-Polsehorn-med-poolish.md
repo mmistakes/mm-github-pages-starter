@@ -89,7 +89,7 @@ recipe:
           substeps:
             - substep: Riv Pecorinoen ned i pastaen lidt af gangen og rør i mens. 
             - substep: Hvis sovsen bliver for tyk kan der spædes op med en smule vand eller pastavand. 
-            - substep: Når sovsen har den ønskede cremede konsistens tilføjes peberen, hvorefter der røres rundt. 
+            - substep: "**Når** sovsen har den ønskede cremede konsistens tilføjes peberen, hvorefter der røres rundt. "
         - step: Pynt med Pecorino og peber 
         - step: Server
 
