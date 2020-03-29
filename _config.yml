@@ -120,5 +120,5 @@ tag_archive:
   type: liquid
   path: /tags/
 
-footer_scripts:
-  - /assets/js/printversion.js
+#footer_scripts:
+#  - /assets/js/printversion.js
