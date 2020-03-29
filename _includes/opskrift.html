@@ -1,0 +1,165 @@
+{% assign recipe = site.data.recipes.[include.opskrift] %}
+
+
+
+
+<h1>Opskrift</h1>
+<a id="printbutton" title="Print opskrift" class="btn btn--primary"
+ href="PleaseEnableJavascript.html" onclick="printversion();return false;">Print opskrift</a>
+<div>
+    <center>
+        <div style=" display: inline-block; width: 30%">
+            {% if recipe.yield %} <i class="fas fa-utensils"></i> {{recipe.yield | markdownify | remove: '<p>' | remove: '</p>'  }}  {% endif %}</div>   <div style=" display: inline-block; width: 30%">{%if recipe.prepTime %} <i class="fas fa-user-clock"></i> {{recipe.prepTime | markdownify | remove: '<p>' | remove: '</p>'  }} {% endif %}</div><div style=" display: inline-block; width: 30%"> {% if recipe.totalTime %} <i class="fas fa-clock"></i> {{recipe.totalTime | markdownify | remove: '<p>' | remove: '</p>'  }} {% endif %}</div>
+        </center>
+</div>
+<div id="opskrift" >
+<h2>Ingredienser</h2> 
+<div style="vertical-align:top; width: 100%; line-height: 1; font-size: 0.8em">
+<div style=" width: 100%;  ">
+{% for part in recipe.ingredients.single %}
+<b>{{part.part | markdownify | remove: '<p>' | remove: '</p>' }}</b>
+<ul style="padding-left: 1.2em; ">
+{% for item in part.items %}
+<li> {% if item.amount %}{{item.amount| markdownify | remove: '<p>' | remove: '</p>' }} {% endif %}{{item.name| markdownify | remove: '<p>' | remove: '</p>' }}{% if item.note %}<span style="opacity: 0.7; ">  ({{item.note | markdownify | remove: '<p>' | remove: '</p>'  }})</span>{% endif %}
+    {% if item.prep %}
+     <br>
+    <i style="opacity: 0.7;">- {{item.prep | markdownify | remove: '<p>' | remove: '</p>' }}</i>
+    {% endif %}
+</li>
+{% endfor %}
+</ul>
+{% endfor %}
+</div>
+<div style=" display: inline-block; width: 45%;  ">
+{% for part in recipe.ingredients.left %}
+<b>{{part.part | markdownify | remove: '<p>' | remove: '</p>'  }}</b>
+<ul style="padding-left: 1.2em; ">
+{% for item in part.items %}
+<li>{% if item.amount %}{{item.amount | markdownify | remove: '<p>' | remove: '</p>'  }} {% endif %}{{item.name | markdownify | remove: '<p>' | remove: '</p>'  }}{% if item.note %}<span style="opacity: 0.7; ">  ({{item.note | markdownify | remove: '<p>' | remove: '</p>'  }})</span>{% endif %}
+    {% if item.prep %}
+     <br>
+    <i style="opacity: 0.7;">- {{item.prep | markdownify | remove: '<p>' | remove: '</p>'  }}</i>
+    {% endif %}
+</li>
+{% endfor %}
+</ul>
+{% endfor %}
+</div>
+
+<div style="float: right ;display: inline-block;width: 45%; ">
+{% for part in recipe.ingredients.right %}
+<b>{{part.part | markdownify | remove: '<p>' | remove: '</p>'  }}</b>
+<ul style="padding-left: 1.2em; ">
+{% for item in part.items %}
+<li>{% if item.amount %}{{item.amount | markdownify | remove: '<p>' | remove: '</p>'  }} {% endif %}{{item.name | markdownify | remove: '<p>' | remove: '</p>'  }}{% if item.note %}<span style="opacity: 0.7; ">  ({{item.note | markdownify | remove: '<p>' | remove: '</p>'  }})</span>{% endif %}
+    {% if item.prep %}
+    <br>
+    <i style="opacity: 0.7;">- {{item.prep | markdownify | remove: '<p>' | remove: '</p>'  }}</i>
+    {% endif %}
+    </li>
+{% endfor %}
+</ul>
+{% endfor %}
+</div>
+</div>
+
+<h2>Fremgangsmåde</h2>
+<div style="vertical-align:top; width: 100%; line-height: 1.5; font-size: 0.8em">
+{% for part in recipe.directions %}
+<b>{{part.part | markdownify | remove: '<p>' | remove: '</p>'  }}</b>
+{% if part.steps.size == 1 %}
+{{part.steps.first.step | markdownify | remove: '<p>' | remove: '</p>' }}
+    {% if part.steps.first.substeps %}
+      <ul>
+      {% for sub in part.steps.first.substeps %}
+        <li>{{sub.substep | markdownify | remove: '<p>' | remove: '</p>'  }}</li>
+      {% endfor %}
+      </ul>
+    {% endif %}
+    <br>
+    <br>
+{% else %}
+<ol>
+{% for step in part.steps %}
+    <li>{{step.step | markdownify | remove: '<p>' | remove: '</p>' }}
+    {% if step.substeps %}
+      <ul>
+      {% for sub in step.substeps %}
+        <li>{{sub.substep | markdownify | remove: '<p>' | remove: '</p>'  }}</li>
+      {% endfor %}
+      </ul>
+    {% endif %}
+  </li>
+{% endfor %}
+</ol>
+{% endif %}
+{% endfor %}
+</div>
+</div>
+{% assign author = author | default: authors[0] | default: site.author %}
+{% assign author = site.data.authors[author] | default: author %}
+
+{% assign single = recipe.ingredients.single %}
+{% assign left = recipe.ingredients.left %}
+{% assign right = recipe.ingredients.right %}
+
+
+{% if single %}
+
+{% assign allingredients = single%}{% endif %}
+{% if left %}
+{% unless allingredients %} {% assign allingredients = left%} 
+{% else %}
+{% assign allingredients = allingredients | concat: left %}
+{% endunless %}
+{% endif %}
+{% if right %}
+{% unless allingredients %} {% assign allingredients = right%} 
+{% else %}
+{% assign allingredients = allingredients | concat: right %}
+{% endunless %}
+{% endif %}
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "{{title}}",
+    "author": {"@type": "Person",
+    "name":  "{{author.name}}" },
+    "image": "{{site.url}}{{header.teaser}}",
+    {% if recipe.cuisine %}"recipeCuisine": "{{recipe.cuisine}}", {% endif %}
+    {% unless recipe.keywords %}"keywords": [ {%for category in categories%}"{{category}}"{% if forloop.last != true or tags.size != 0 %},{%endif%} {% endfor %}{%for category in tags%}{% unless category == author %} "{{category}}" {% if forloop.last != true %},{%endif%}{%endunless%} {% endfor %} ],
+    {% else %} "keywords": "{{recipe.keywords}}", {% endunless %}
+    "description": "{%if recipe.description_short %}{{recipe.description_short}} {% else %}{{excerpt}}{% endif %}",
+    {% if recipe.prepTime_iso %} "prepTime": "{{recipe.prepTime_iso}}", {% endif %}
+    {% if recipe.totalTime_iso %}"totalTime": "{{recipe.totalTime_iso}}", {% endif %}
+    {% if recipe.yield %}"recipeYield": "{{recipe.yield}}", {% endif %}
+    "recipeCategory": [{%for category in categories%}"{{category}}"{% if forloop.last != true %},{%endif%} {% endfor %}],
+    "recipeIngredient": [{% for part in allingredients  %}
+      {% for item in part.items %}"{{item.amount}} {{item.name}}" {% unless forloop.last == true and forloop.parentloop.last == true %},{% endunless %}
+      {% endfor %}{% endfor %}
+    ],
+    "recipeInstructions": [{% for part in recipe.directions  %}
+    {% for step in part.steps %}"{{step.step  | replace: '"', '\\"' | remove: '**' | remove: '[' | remove: ']' }} {% for substep in step.substeps %}
+    - {{substep.substep  | replace: '"', '\\"' | remove: '**' | remove: '[' | remove: ']' }} {% endfor %}" {% unless forloop.last == true and forloop.parentloop.last == true %},{% endunless %}
+    {% endfor %}{% endfor %}
+     ]
+  }
+  </script>
+
+  <script>function printversion() {
+    var prtContent = document.getElementById("opskrift");
+    var WinPrint = window.open('', '', 'left=0,top=0,width=800,height=900,toolbar=0,scrollbars=0,status=0');
+    WinPrint.document.write('<h1>{{recipe.name}}</h1>');
+    WinPrint.document.write('<img src=\"{{recipe.image | absolute_url}}\" alt=\"{{recipe.image | relative_url}}\">');
+    
+    WinPrint.document.write(prtContent.innerHTML);
+    WinPrint.document.close();
+    WinPrint.focus();
+    WinPrint.print();
+    WinPrint.close();
+
+    }</script>
+
