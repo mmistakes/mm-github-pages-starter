@@ -1,0 +1,40 @@
+{% if include.id %}
+  {% assign feature_row = page[include.id] %}
+{% else %}
+  {% assign feature_row = page.feature_row %}
+{% endif %}
+{% assign newest_posts = site.posts | limit: 3 %}
+
+<div class="feature__wrapper">
+
+  {% for post in newest_posts |limit: 3 %}
+
+    {% capture teaser %}{{ post.header.overlay_image }}{% endcapture %}
+    {% capture f_url %}{{ post.permalink | relative_url }}{% endcapture %}
+    
+
+    <div class="feature__item">
+      <div class="archive__item">
+          <div class="archive__item-teaser">
+            {% if post.header.teaser %}
+            <img src="{{ teaser | relative_url }}">
+            {% else %}
+            <img src="{{site.alternative_image | relative_url}}">
+            {% endif %}
+          </div>
+        
+
+        <div class="archive__item-body">
+            <h2 class="archive__item-title">{{ post.title }}</h2>
+          {% if post.excerpt %}
+            <div class="archive__item-excerpt">
+              {{ post.excerpt | markdownify }}
+            </div>
+          {% endif %}
+            <p><a href="{{ f_url }}" class="btn btn--primary"> Se opskrift</a></p>
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+
+</div>
