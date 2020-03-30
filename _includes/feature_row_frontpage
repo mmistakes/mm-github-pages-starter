@@ -9,18 +9,20 @@
 
   {% for post in newest_posts |limit: 3 %}
 
-    {% capture teaser %}{{ post.header.overlay_image }}{% endcapture %}
+    {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
     {% capture f_url %}{{ post.permalink | relative_url }}{% endcapture %}
     
 
     <div class="feature__item">
       <div class="archive__item">
-          <div class="archive__item-teaser">
+          <div class="archive__item-teaser-frontpage">
+          <a href="{{ f_url }}" class="linked_image">
             {% if post.header.teaser %}
             <img src="{{ teaser | relative_url }}">
             {% else %}
             <img src="{{site.alternative_image | relative_url}}">
             {% endif %}
+            </a>
           </div>
         
 

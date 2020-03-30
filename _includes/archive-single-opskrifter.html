@@ -21,6 +21,11 @@
     </h2>
     {% if include.type == "grid" or teaser %}
       <div class="archive__item-teaser">
+        {% if post.link %}
+        <a href="{{ post.link }}">
+      {% else %}
+        <a href="{{ post.url | relative_url }}" rel="permalink">
+      {% endif %}
         <img src=
           {% if teaser contains "://" %}
             "{{ teaser }}"
@@ -28,6 +33,7 @@
             "{{ teaser | relative_url }}"
           {% endif %}
           alt="">
+        </a>
       </div>
     {% endif %}
     {% if post.read_time %}
