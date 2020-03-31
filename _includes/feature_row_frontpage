@@ -7,7 +7,7 @@
 
 <div class="feature__wrapper">
 
-  {% for post in newest_posts |limit: 3 %}
+  {% for post in newest_posts |limit: 6 %}
 
     {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
     {% capture f_url %}{{ post.permalink | relative_url }}{% endcapture %}
@@ -15,7 +15,7 @@
 
     <div class="feature__item">
       <div class="archive__item">
-          <div class="archive__item-teaser-frontpage">
+          <div class="archive__item-teaser">
           <a href="{{ f_url }}" class="linked_image">
             {% if post.header.teaser %}
             <img src="{{ teaser | relative_url }}">
@@ -27,7 +27,12 @@
         
 
         <div class="archive__item-body">
-            <h2 class="archive__item-title">{{ post.title }}</h2>
+            <a href="{{ f_url }}" class="unstyled"><h2 class="archive__item-title">{{ post.title }}</h2></a>
+          {% if post.categories %}
+          <div class="categoryListing"><p>{% for category in post.categories %}{{category }}{% if forloop.last != true %} <b style="font-size: 0.5rem;vertical-align: middle;">&#x25CF;</b> {% endif %}
+            {% endfor %}</p></div>
+          {% endif %}
+          
           {% if post.excerpt %}
             <div class="archive__item-excerpt">
               {{ post.excerpt | markdownify }}

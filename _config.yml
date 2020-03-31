@@ -120,6 +120,6 @@ tag_archive:
   type: liquid
   path: /tags/
 
-alternative_image: /assets/images/layout/alternative.png
+alternative_image: assets/images/layout/alternative.jpg
 #footer_scripts:
 #  - /assets/js/printversion.js
