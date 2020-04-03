@@ -1,14 +1,16 @@
 ---
 layout: single
-title:  "Titel på retten eller blogpost"
-date:   2019-11-05 13:39:33 +0100
+title:  "Bløde fødselsdagsboller med tangzhong"
 author: Henrik
-categories: Opskrift Kage Brød tips-og-tricks EllerAndet
+categories: 
+  - Boller 
+  - Gærdej
+  - Tangzhong
 permalink: /Standard-blog-template/
-excerpt: "Længere underoverskrift"
+excerpt: "De mest luftige og saftige fødselsdagsboller du nogensinde har smagt"
 #Her kan man indsætte header billedet
 header:
-  overlay_image: /assets/images/posts/henrik/broed.png
+  overlay_image: assets/images/posts/henrik/fodselsdagsbollerMedTangzhong-banner.jpg
   overlay_filter: 0.35 # same as adding an opacity of 0.5 to a black background
   actions:
     - label: "Direkte til opskriften"
@@ -29,38 +31,10 @@ gallery1:
     alt: "Snurre i massevis"  
 ---
 
-Bla bla
-
-Bla bla
-
-Bla bla
-
-Bla bla
-
-Bla bla
 
 [//]: # (Her kommer galleriet)
 
 {% include gallery id="gallery1"  caption="Eksempel på et testgalleri" %}
-
-
-[//]: # (Her starter opskriften hvis man har lavet en længere post ovenfor)
-# Opskrift:
-
-## Ingredienser: 
-
-| **Pasta** | |
-|2  gulerødder | skyllet->hakket fint->steges | 
-|2  gulerødder | skyllet->hakket fint->steges | 
-
-| **Kødsovs** | |
-|2  gulerødder | skyllet->hakket fint->steges | 
-|2  gulerødder | skyllet->hakket fint->steges | 
-
-
-## Fremgangsmåde:
-1. Klargør ingredienserne 
-2. Lav retten
 
 
 

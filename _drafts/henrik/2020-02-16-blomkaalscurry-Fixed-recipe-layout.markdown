@@ -6,10 +6,10 @@ date:   2019-11-05 13:39:33 +0100
 categories: jekyll update
 permalink: /BlomkaalscurryFixed-recipelayout3/
 excerpt: "Blomkålscurry med kikærter"
-teaser: /assets/images/posts/henrik/broed.png
+teaser: /assets/images/posts/henrik/broed.jpg
 header:
   teaser: /assets/images/posts/henrik/merebroed.jpg
-  overlay_image: /assets/images/posts/henrik/broed.png
+  overlay_image: /assets/images/posts/henrik/broed.jpg
   overlay_filter: 0.35 # 
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:

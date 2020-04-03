@@ -8,7 +8,7 @@ excerpt: "Obligatorisk i et Low-FODMAP køkken, men hvidløgsolie er også en sm
 #Her kan man indsætte header billedet
 header:
   teaser: /assets/images/posts/henrik/merebroed.jpg
-  overlay_image: /assets/images/posts/henrik/broed.png
+  overlay_image: /assets/images/posts/henrik/broed.jpg
   overlay_filter: 0.35 # same as adding an opacity of 0.5 to a black background
   actions:
     - label: "Direkte til opskriften"

@@ -8,7 +8,7 @@ permalink: /Standard-blog-template/
 excerpt: "Længere underoverskrift"
 #Her kan man indsætte header billedet
 header:
-  overlay_image: /assets/images/posts/henrik/broed.png
+  overlay_image: /assets/images/posts/henrik/broed.jpg
   overlay_filter: 0.35 # same as adding an opacity of 0.5 to a black background
   actions:
     - label: "Direkte til opskriften"
