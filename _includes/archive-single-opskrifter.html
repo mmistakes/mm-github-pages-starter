@@ -20,7 +20,7 @@
       {% endif %}
     </h2>
     {% if post.categories %}
-          <div class="categoryListing"><p>{% for category in post.categories %}{{category }}{% if forloop.last != true %} <b style="font-size: 0.5rem;vertical-align: middle;">&#x25CF;</b> {% endif %}
+          <div class="categoryListing"><p>{% for category in post.categories %}{{category }}{% if forloop.last != true %} &ndash; {% endif %}
             {% endfor %}</p></div>
           {% endif %}
           

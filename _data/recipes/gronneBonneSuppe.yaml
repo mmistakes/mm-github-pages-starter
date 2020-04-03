@@ -1,0 +1,39 @@
+---
+name: Grüne Bohnensuppe
+image: assets/images/posts/henrik/GronneBonneSuppe-teaser.jpg
+description_short: Simpel tysk klassiker 
+keywords: "Suppe, Tysk, hverdagsmad"
+cuisine: German
+yield: 4 personer
+prepTime: 10 minutter
+prepTime_iso: PT10M
+totalTime:  30 minutter
+totalTime_iso: PT30M
+ingredients:
+  single: 
+  - part:  
+    items:
+      - amount: 400 g 
+        name: hakket oksekød
+      - amount: 1 
+        name: løg
+        prep: Skrælles og hakkes  
+      - amount: 1 fed
+        name: hvidløg
+        prep: Presset
+      - amount: 500 g 
+        name: kartofler
+        prep: skåret i tern på 2x2x2 cm
+      - amount: 500 g 
+        name: grønne bønner
+      - amount: 1 liter 
+        name: bouillon 
+directions:
+  - part: 
+    steps: 
+      - step: "Start med at skrælle **kartoflerne** og skær dem i tern på 2x2x2 cm, så de er klar til senere."
+      - step: "**Løg** skrælles, hakkes og steges med det pressede **hvidløg**"
+      - step: "Når løgene er blevet klare steges det **hakkede oksekød**"
+      - step: "Derefter tilsættes **bouillon og sar, og kartoflerne** koges i ca 10. min."
+      - step: "Når de 10 min er gået tilsættes **grønne bønner** og retten simre indtil kartofler og bønner er møre"
+      - step: "Så skal retten bare på bordet og øses op i store dampene portioner :) "
