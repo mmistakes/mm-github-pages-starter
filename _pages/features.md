@@ -11,12 +11,12 @@ feature_row:
     # alt: ""
     title: "UI"
     excerpt: "Working UI out of the box to save your time."
-  - image_path: assets/images/the_question.png
+  - image_path: assets/images/save_load.png
     title: "Save/Load system"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: assets/images/the_question2.png
+    excerpt: "Smiple load/save system - allow to save game at any time."
+  - image_path: assets/images/options.png
     title: "Settings system"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Bulid in all popular game options."
   - image_path: assets/images/the_question2.png
     title: "Dialog system"
     excerpt: "Advanced Dialog system inspired by Ren'Py with choices, player input and more."
@@ -29,9 +29,9 @@ feature_row:
   - image_path: assets/images/nodes.png
     title: "Extra Nodes"
     excerpt: "Big set of nodes to make creating games easier."
-  - image_path: assets/images/the_question2.png
+  - image_path: assets/images/themes.png
     title: "Collection of Themes"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Templates includes collection of gui themes ready to use in your game."
 
 ---
 
