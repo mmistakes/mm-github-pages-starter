@@ -128,7 +128,7 @@
     "name": "{{recipe.name}}",
     "author": {"@type": "Person",
     "name":  "{{author.name}}" },
-    "image": "{{image | relative_url}}",
+    "image": "{{ site.url }}{{recipe.image | relative_url}}",
     {% if recipe.cuisine %}"recipeCuisine": "{{recipe.cuisine}}", {% endif %}
     {% unless recipe.keywords %}"keywords": [ {%for category in categories%}"{{category}}"{% if forloop.last != true or tags.size != 0 %},{%endif%} {% endfor %}{%for category in tags%}{% unless category == author %} "{{category}}" {% if forloop.last != true %},{%endif%}{%endunless%} {% endfor %} ],
     {% else %} "keywords": "{{recipe.keywords}}", {% endunless %}
