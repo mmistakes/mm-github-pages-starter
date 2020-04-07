@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Grønne bønnesuppe (Grüne Bohnensuppe)"
-author: Henrik
+author:   
 categories: 
   - opskrift
   - suppe 
@@ -10,6 +10,7 @@ tags:
   - Henrik
 permalink: /Gruhne-Bohnensuppe/
 header:
+  excerpt: " "
   teaser: assets/images/posts/henrik/gronneBonneSuppe-teaser.jpg
   overlay_image: assets/images/posts/henrik/gronneBonneSuppe-banner.jpg
   overlay_filter: 0.35 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +21,11 @@ header:
 
 ---
 Grønne bønnesuppe er en af de retter der ikke ser vildt godt ud, men som smager virkeligt godt. 
-Grønne bønnesuppe stammer fra tyskland og hedder Gruhne Bohnensuppe.
+Grønne bønnesuppe er en fri oversættelse fra Grüne Bohnensuppe, som er en klassisk tysk ret, der som alle andre klassikere kan lave på tusinde måder. Denne opskrift er den vi er vokset op med, og selvom den er simpel giver krydderiet sar/bønneurt suppen virkeligt god smag. 
+Vi har haft en tradition med at spise grønne bønnesuppe lille juleaften, men den kan spises hele året.
 
-Jeg sværger personligt til denne [bouillon][bouillon] fra Herbamare, og jeg sørger altid for at købe et par stykker når den er spotvare i netto til ca 50,-
+Sar eller bønneurt som det også kaldes kan være svært at finde i butikkerne, men kan købes på nettet. Jeg købte det på [Mandala Organic][sarMandala], da de har billig fragt, men hvis man kan skal fyldt op i krydderiskabet kan det også købes [Asa Spice][sarAsa].
+Jeg sværger personligt til denne [bouillon][bouillon] fra Herbamare, og jeg sørger altid for at købe et par stykker når den er spotvare i netto til ca 50,-. Oksekødet må gerne have en høj fedtprocent. 
 
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/posts/henrik/gronneBonneSuppe-teaser.jpg)
 
@@ -36,3 +39,5 @@ Jeg sværger personligt til denne [bouillon][bouillon] fra Herbamare, og jeg sø
 [//]: # (Her kan man lave links der kan bruges i teksten uden at fylde)
 
 [bouillon]: https://www.avogel.dk/shop/products/Herbamare_bouillon.php
+[sarMandala]: https://mandala-organic.com/product/sar-bonneurt/
+[sarAsa]: https://www.asaspice.dk/sar-hel.html

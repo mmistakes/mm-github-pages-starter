@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Hvidløgsolie"
+title:  "Findes de perfekte vegetardeller"
 author: Henrik
 categories: Opskrift Low-FODMAP 
 permalink: /Hvidloegsolie/
