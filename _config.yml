@@ -27,6 +27,8 @@ search: true
 url: "https://mrshub.netlify.com"
 baseurl: ""
 repository: mrshub/mrshub-website
+logo: "/assets/images/MRSHubLogo.png"
+masthead_title: " "
 
 # Build settings
 markdown: kramdown
@@ -100,7 +102,7 @@ collections:
   libraries_collection:
     output: true
     permalink: /:collection/:path/
-  snippets_collection:
+  dataset_collection:
     output: true
     permalink: /:collection/:path/
 

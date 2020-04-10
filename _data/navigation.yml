@@ -1,18 +1,23 @@
 main:
-  - title: "Software Packages"
+  - title: "Software & Code"
     url: /software/
-    description: "Full software solutions"
-  - title: "Code Libraries"
-    url: /libraries/
-    description: "Comprehensive modular code toolboxes"
-  - title: "Snippets"
-    url: /snippets/
-    description: "Helpful little code chunks"
+    description: "The MRSHub software and code repository"
+  - title: "Forum"
+    url: https://forum.mrshub.org
+    description: "The MRSHub community forum"
+  - title: "Data"
+    url: /datasets/
+    description: "The MRSHub software and code repository"
+  - title: "Links"
+    url: /links/
+    description: "Useful links and resources"
   - title: "News"
     url: /news/
     description: "The MRSHub News Blog"
-  - title: "About MRSHub"
+  - title: "About"
     url: /about/
+    description: "About MRSHub"
+
 
 # software sidebar links
 software:
@@ -35,7 +40,7 @@ software:
 about:
   - title: "About"
     children:
-      - title: "About MRSHub"
+      - title: "MRSHub"
         url: /about/
-      - title: "Contributors"
-        url: /about_contributors
+      - title: "Committee for MRS Code and Data Sharing"
+        url: /about_committee
