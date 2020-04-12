@@ -28,7 +28,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  avatar : "/assets/images/logo.png"
+  avatar : "/assets/imgs_main/logo.png"
   links:
     - label: "itch.io"
       icon: "fas fa-fw fa-link"

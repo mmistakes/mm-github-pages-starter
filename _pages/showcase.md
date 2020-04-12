@@ -2,6 +2,7 @@
 permalink: /showcase/
 title: "Showcase"
 layout: splash
+author_profile: true
 feature_row:
   - image_path: assets/imgs_main/curator-bot.png
     title: "Bot Saves Dream"

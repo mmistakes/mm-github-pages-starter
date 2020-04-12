@@ -2,6 +2,7 @@
 permalink: /learn/
 title: "Learn"
 layout: splash
+author_profile: true
 feature_row:
   - image_path: assets/imgs_main/docs.png
     image_caption: "RakugoDocs"
