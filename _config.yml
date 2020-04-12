@@ -5,14 +5,14 @@ github_username: rakugoteam
 minimal_mistakes_skin: neon
 search: true
 
-# Build settings
+##Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
-# Outputting
+##Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 5 ##amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: ##https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
@@ -43,14 +43,14 @@ footer:
       url: "https://github.com/"
 
 defaults:
-  # _pages
+  ##_pages
   - scope:
       path: "_pages"
       type: pages
     values:
       layout: single
       author_profile: true
-  # _posts
+  ##_posts
   - scope:
       path: "_posts"
       type: posts

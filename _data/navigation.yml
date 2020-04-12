@@ -9,6 +9,8 @@ main:
     url: /news/
   - title: "Learn"
     url: /learn/
+  - title: "Showcase"
+    url: /showcase/
   - title: "Download"
     url: /download/
   - title: "Raport a Issue"

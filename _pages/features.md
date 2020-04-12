@@ -8,7 +8,7 @@ feature_row:
     excerpt: "Have all power of Godot Engine and more ;)"
   - image_path: assets/images/d_the_question.png
     image_caption: ""
-    # alt: ""
+    ## alt: ""
     title: "UI"
     excerpt: "Working UI out of the box to save your time."
   - image_path: assets/images/save_load.png
@@ -35,6 +35,6 @@ feature_row:
 
 ---
 
-# Features
+##  Features
 
 {% include feature_row %}

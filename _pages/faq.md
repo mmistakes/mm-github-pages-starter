@@ -3,7 +3,7 @@ permalink: /faq/
 title: "FAQ"
 ---
 
-## Q: So it's about adding a refined writing and dialogue system to the engine? 
+## Q: So it's about adding a refined writing and dialogue system to the engine?
 
 **A:** Yes, and more - nodes, objects and funcs to make easy to provide mechanics like in point&click and rpgs.
 

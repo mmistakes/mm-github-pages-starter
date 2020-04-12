@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: " "
-# layout: home
+## layout: home
 ---
 
 ![](/assets/images/the_question2.png)

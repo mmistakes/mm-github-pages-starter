@@ -5,17 +5,17 @@ layout: splash
 feature_row:
   - image_path: assets/images/docs.png
     image_caption: "RakugoDocs"
-    # alt: ""
+    ## alt: ""
     title: "RakugoDocs"
-    # excerpt: ""
+    ## excerpt: ""
     url: "https://rakugo.readthedocs.io/en/latest/"
     btn_label: "Learn"
     btn_class: "btn--primary"
   - image_path: assets/images/yt.png
     image_caption: "Youtube Channel"
-    # alt: ""
+    ## alt: ""
     title: "Youtube Channel"
-    # excerpt: ""
+    ## excerpt: ""
     url: "https://www.youtube.com/channel/UCuItFHsERbsyi8gLJ7Ti1KA"
     btn_label: "Watch"
     btn_class: "btn--primary"
@@ -35,6 +35,6 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
-# Learn
+## Learn
 
 {% include feature_row %}
