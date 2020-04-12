@@ -7,8 +7,6 @@ main:
     url: /faq/
   - title: "News"
     url: /news/
-  - title: "Devlog"
-    url: /news/devlog/
   - title: "Learn"
     url: /learn/
   - title: "Download"

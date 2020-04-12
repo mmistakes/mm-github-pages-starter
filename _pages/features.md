@@ -20,15 +20,15 @@ feature_row:
   - image_path: assets/images/the_question2.png
     title: "Dialog system"
     excerpt: "Advanced Dialog system inspired by Ren'Py with choices, player input and more."
-  - image_path: assets/images/the_question2.png
-    title: "Quests system"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: assets/images/rakugo_dev.png
     title: "Funcs, Objects and Vars like in Ren'Py"
     excerpt: "Rakugo uses similar programming ideas to those of Ren'Py."
   - image_path: assets/images/nodes.png
     title: "Extra Nodes"
-    excerpt: "Big set of nodes to make creating games easier."
+    excerpt: "Big set of extra nodes to make creating games easier.
+  - image_path: assets/images/tools.png
+    title: "Tools"
+    excerpt: "Tools that help creating games."
   - image_path: assets/images/themes.png
     title: "Collection of Themes"
     excerpt: "Templates includes collection of gui themes ready to use in your game."
