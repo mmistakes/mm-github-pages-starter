@@ -1,6 +1,7 @@
 ---
 permalink: /features/
 title: "Features"
+author_profile: true
 layout: splash
 feature_row:
   - image_path: assets/imgs_main/d_godot.svg
@@ -16,7 +17,7 @@ feature_row:
     excerpt: "Smiple load/save system - allow to save game at any time."
   - image_path: assets/imgs_main/options.png
     title: "Settings system"
-    excerpt: "Bulid in all popular game options."
+    excerpt: "Build in all popular game options."
   - image_path: assets/imgs_main/the_question2.png
     title: "Dialog system"
     excerpt: "Advanced Dialog system inspired by Ren'Py with choices, player input and more."
