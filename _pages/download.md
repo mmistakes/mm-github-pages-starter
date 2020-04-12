@@ -8,7 +8,7 @@ feature_row:
     ## alt: ""
     title: "Rakugo Template"
     excerpt: "Rakugo Empty Game Template"
-    url: "https://jebedaia.itch.io/rakugo/purchase"
+    url: "https://jebedaia.itch.io/rakugo/purchase?popup=1"
     btn_label: "Download"
     btn_class: "btn--primary"
   - image_path: assets/images/d_the_question.png
@@ -16,7 +16,7 @@ feature_row:
     ## alt: ""
     title: "The Question: Rakugo Edition"
     excerpt: "Port of small Ren'Py vn **The Question**."
-    url: "https://jebedaia.itch.io/rakugo/purchase"
+    url: "https://jebedaia.itch.io/rakugo/purchase?popup=1"
     btn_label: "Download"
     btn_class: "btn--primary"
   - image_path: assets/images/d_godot.svg
@@ -32,4 +32,4 @@ feature_row:
 
 ## Download
 
-{% include feature_row %}
+ {% include feature_row %}
