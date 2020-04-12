@@ -3,7 +3,7 @@ permalink: /download/
 title: "Download"
 layout: splash
 feature_row:
-  - image_path: assets/images/d_template.png
+  - image_path: assets/imgs_main/d_template.png
     image_caption: "Template"
     ## alt: ""
     title: "Rakugo Template"
@@ -11,7 +11,7 @@ feature_row:
     url: "https://jebedaia.itch.io/rakugo/purchase?popup=1"
     btn_label: "Download"
     btn_class: "btn--primary"
-  - image_path: assets/images/d_the_question.png
+  - image_path: assets/imgs_main/d_the_question.png
     image_caption: "The Question"
     ## alt: ""
     title: "The Question: Rakugo Edition"
@@ -19,7 +19,7 @@ feature_row:
     url: "https://jebedaia.itch.io/rakugo/purchase?popup=1"
     btn_label: "Download"
     btn_class: "btn--primary"
-  - image_path: assets/images/d_godot.svg
+  - image_path: assets/imgs_main/d_godot.svg
     image_caption: "Godot Engine"
     ## alt: ""
     title: "Godot Engine"

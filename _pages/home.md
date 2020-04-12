@@ -1,10 +1,9 @@
 ---
 permalink: /
-title: " "
-## layout: home
+title: ""
 ---
 
-![](/assets/images/the_question2.png)
+![](/assets/imgs_main/the_question2.png)
 
 Rakugo Framework is inspired by [Ren'Py](https://www.renpy.org) game template with addon for story driven games in [Godot](https://godotengine.org).
 

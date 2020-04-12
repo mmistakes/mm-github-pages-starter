@@ -3,13 +3,13 @@ permalink: /showcase/
 title: "Showcase"
 layout: splash
 feature_row:
-  - image_path: assets/images/curator-bot.png
+  - image_path: assets/imgs_main/curator-bot.png
     title: "Bot Saves Dream"
     excerpt: "Rakugo v0.9 game is a platform/puzzler."
     url: "https://plopsis.itch.io/curator-bot"
     btn_label: "Download"
     btn_class: "btn--primary"
-  - image_path: assets/images/space-drive-beats.gif
+  - image_path: assets/imgs_main/space-drive-beats.gif
     title: "Curator Bot"
     excerpt: "Rakugo v0.9 game made for Music Game Jam 2018"
     url: "https://plopsis.itch.io/space-drive-beats"
