@@ -11,8 +11,10 @@ main:
     url: /learn/
   - title: "Showcase"
     url: /showcase/
+  - title: "Fund"
+    url: /fund/
   - title: "Download"
-    url: /download/
+    url: https://github.com/rakugoteam/Rakugo/releases
   - title: "Raport a Issue"
     url: https://github.com/rakugoteam/Rakugo/issues
   - title: "Sponsor"
