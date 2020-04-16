@@ -25,7 +25,7 @@ When submitting your code through any of these three pathways, please attach bas
 - **Developer**: The name(s) you want to credit with development. (MANDATORY)
 - **Name of the software**: The name of the software/piece of code. (MANDATORY)
 - **Abstract**: A brief abstract of the purpose, scope, and functions of the code you contribute. (MANDATORY)
-- **Language**: The programming language of your contribution (MANDATORY)
+- **Languages**: The programming language(s) of your contribution (MANDATORY)
 - **Credit**: Indicate how you would like to be credited for your software - for example, if a certain publication should be cited, or whether you would like to be acknowledged in publications using your code. (OPTIONAL)
 - **Contact**: A way you can be contacted, for example an e-mail address, the website of your lab, or your LinkedIn/Researchgate/Google Scholar page. (OPTIONAL)
 
