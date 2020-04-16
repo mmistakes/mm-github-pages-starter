@@ -17,8 +17,8 @@ header:
       url: "https://github.com/mrshub/code-other"
 
 excerpt: "A curated resource of software and data for magnetic resonance spectroscopy researchers."
-intro:
-  - excerpt: 'Test'
+#intro:
+#  - excerpt: 'Test'
 feature_row:
   - image_path: /assets/images/code.jpg
     alt: "Software & Code"

@@ -21,12 +21,12 @@ main:
 
 # software sidebar links
 software:
-  - title: "Getting started"
+  - title: "Software & Code"
     children:
         - title: "Overview"
           url: /software/
-        - title: "Add your software"
-          url: /software_addyour/
+        - title: "Contribute your code"
+          url: /software_contribute/
 
   - title: "Software Packages"
     children:
@@ -35,6 +35,14 @@ software:
         - title: "Data Simulation & Basis Set Generation"
           url: /software_simulation/
 
+# datasets sidebar links
+datasets:
+  - title: "Data"
+    children:
+        - title: "Overview"
+          url: /datasets/
+        - title: "Contribute your dataset"
+          url: /datasets_contribute/
 
 # about sidebar links
 about:

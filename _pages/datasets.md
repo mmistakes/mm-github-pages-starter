@@ -1,7 +1,9 @@
 ---
 title: "Data"
 permalink: /datasets/
-date: 2020-04-09T00:00:00+00:00
+date: 2020-04-16T00:00:00+00:00
+sidebar:
+  nav: "datasets"
 ---
 
 The MRSHub is a place to share example datasets for optimization and testing of processing methods. For smaller datasets, you can use the MRSHub GitHub data repository. For larger datasets, consider hosting them in dedicated storage on your institutional server, or leveraging large-scale repositories like [NITRC](https://www.nitrc.org).
