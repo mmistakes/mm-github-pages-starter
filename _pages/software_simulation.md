@@ -1,7 +1,7 @@
 ---
 title: "Data Simulation & Basis Set Generation"
 permalink: /software_simulation/
-date: 2016-02-24T03:02:20+00:00
+date: 2020-04-16T13:00:00+00:00
 sidebar:
   nav: "software"
 toc: true
@@ -15,11 +15,16 @@ This is a list of simulation software.
   </h2>
   <img src= "{{ site.url }}{{ site.baseurl }}{{ software_collection.image }}" alt="" align="right"/>
   <p>{{ software_collection.abstract | markdownify }}</p>
-  <p>Language: {{ software_collection.language }}</p>
-  <p>License: {{ software_collection.license }}</p>
-  <a href="{{ software_collection.url }}">
-  Website
-  </a>   
+  Developer: {{ software_collection.developer }} <br>
+  Language: {{ software_collection.language }} <br>
+  License: {{ software_collection.license }} <br>
+  Credit: {{ software_collection.credit }} <br>
+  <a href="{{ software_collection.mrshub_url }}">
+  MRSHub Code
+  </a> &nbsp;
+  <a href="{{ software_collection.original_url }}">
+  Original URL
+  </a> &nbsp;
   <a href="{{ software_collection.paper }}">
   Publication
   </a>

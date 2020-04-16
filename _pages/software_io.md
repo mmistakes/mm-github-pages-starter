@@ -1,16 +1,16 @@
 ---
-title: "Analysis & Quantification Software"
-permalink: /software_analysis/
+title: "Input/Output"
+permalink: /software_io/
 date: 2020-04-16T13:00:00+00:00
 sidebar:
   nav: "software"
 toc: true
 ---
 
-This is a list of analysis and quantification software.
+This is a list of input/output code to load or save raw data.
 
 {% for software_collection in site.software_collection %}
-  {% if software_collection.type contains "analysis" %}
+  {% if software_collection.type contains "inout" %}
   <h2>
       {{ software_collection.name }}
   </h2>

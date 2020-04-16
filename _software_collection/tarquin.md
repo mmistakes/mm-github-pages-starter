@@ -4,7 +4,7 @@ excerpt: "Tarquin"
 
 
 name: Tarquin
-image: /assets/images/software/tarquin_thumb.png
+image: /assets/images/software/tarquin_thumb.jpg
 developer: Martin Wilson
 type: analysis processing
 abstract: Open-source GUI to process and fit MRS data.

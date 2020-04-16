@@ -1,7 +1,7 @@
 ---
 title: "Software & Code"
 permalink: /software/
-date: 2016-02-24T03:02:20+00:00
+date: 2020-04-16T12:00:00+00:00
 sidebar:
   nav: "software"
 ---

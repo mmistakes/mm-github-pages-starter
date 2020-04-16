@@ -1,16 +1,14 @@
 ---
-title: "Analysis & Quantification Software"
-permalink: /software_analysis/
+title: "Deidentification"
+permalink: /software_deid/
 date: 2020-04-16T13:00:00+00:00
 sidebar:
   nav: "software"
 toc: true
 ---
 
-This is a list of analysis and quantification software.
-
 {% for software_collection in site.software_collection %}
-  {% if software_collection.type contains "analysis" %}
+  {% if software_collection.type contains "deidentification" %}
   <h2>
       {{ software_collection.name }}
   </h2>

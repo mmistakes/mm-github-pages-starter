@@ -34,7 +34,11 @@ software:
           url: /software_analysis/
         - title: "Data Simulation & Basis Set Generation"
           url: /software_simulation/
-
+        - title: "Deidentification"
+          url: /software_deid/
+        - title: "Input/Output"
+          url: /software_io/
+          
 # datasets sidebar links
 datasets:
   - title: "Data"
