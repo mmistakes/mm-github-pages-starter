@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Zaidan Rizaki"
   avatar : "/assets/images/smudge.jpeg"
-  bio    : "Ordinary high school kid who has big interest in networking and information security stuff."
+  bio    : "Ordinary high school kid who has big interest in cloud, networking and information security stuff."
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
