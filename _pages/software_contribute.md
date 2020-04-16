@@ -2,8 +2,11 @@
 title: "How to contribute code to MRSHub"
 permalink: /software_contribute/
 date: 2020-04-16T9:00:00+00:00
+classes: wide
 sidebar:
   nav: "software"
+
+
 ---
 
 # Sharing code
