@@ -38,7 +38,11 @@ software:
           url: /software_deid/
         - title: "Input/Output"
           url: /software_io/
-          
+        - title: "Processing"
+          url: /software_processing/
+        - title: "Visualization"
+          url: /software_visualization/
+
 # datasets sidebar links
 datasets:
   - title: "Data"

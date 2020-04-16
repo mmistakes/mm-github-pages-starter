@@ -1,17 +1,21 @@
 ---
-title: "pysoher - Python Code Collection"
-excerpt: "pysoher - Python Code Collection"
+title: "pysoher"
+excerpt: "pysoher"
 
 
-name: pysoher - Python Code Collection
+name: pysoher
 image:
-developer: Brian J Soher
-type: processing analysis GUI utilities
-abstract: A collection of algorithms and general code tools (GUI, I/O etc.) written in Python for use with MRS research.
+developer: Brian J. Soher
+type: processing inout visualization
+abstract: A collection of algorithms and general code tools (GUI, I/O etc.) for use with MRS research.
 language: Python
 license: BSD
-paper: 
-url: https://github.com/bsoher/pysoher
+credit: BSD license, byproducts of the Vespa Versatile Simulation Pulses and Analysis project for MRS research at https://scion.duhs.duke.edu/vespa/project
+contact: bsoher@briansoher.com
+paper:
+mrshub_url: https://github.com/mrshub/pysoher
+original_url: https://github.com/bsoher/pysoher
+
 ---
 
-pysoher - Python Code Collections ..
+pysoher.
