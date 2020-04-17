@@ -23,7 +23,7 @@ feature_row:
   - image_path: assets/imgs_main/discord.png
     title: "Discord"
     image_caption: "Discord"
-    url: ""
+    url: "https://discord.gg/K9gvjdg"
     excerpt: ""
     btn_label: "Talk"
     btn_class: "btn--primary"
