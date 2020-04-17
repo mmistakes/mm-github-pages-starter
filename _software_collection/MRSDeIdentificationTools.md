@@ -5,7 +5,7 @@ excerpt: "MRS DeIdentification Tools"
 
 name: MRS DeIdentification Tools
 image:
-developer: Georg Oeltzschner
+developer: Georg Oeltzschner, Mark Mikkelsen
 type: deidentification processing
 abstract: MATLAB tools to remove protected health information (PHI) from magnetic resonance spectroscopy data.
 language: MATLAB
