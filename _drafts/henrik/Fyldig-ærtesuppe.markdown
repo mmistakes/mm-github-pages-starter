@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Titel på retten eller blogpost"
+title:  "Fyldig ærtesuppe"
 date:   2019-11-05 13:39:33 +0100
 author: Henrik
 categories: Opskrift Kage Brød tips-og-tricks EllerAndet
@@ -8,6 +8,7 @@ permalink: /Standard-blog-template/
 excerpt: "Længere underoverskrift"
 #Her kan man indsætte header billedet
 header:
+  teaser:
   overlay_image: /assets/images/posts/henrik/broed.jpg
   overlay_filter: 0.35 # same as adding an opacity of 0.5 to a black background
   actions:

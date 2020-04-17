@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Grønne bønnesuppe (Grüne Bohnensuppe)"
+title:  "Grüne Bohnensuppe"
 author:   
 categories: 
   - opskrift
@@ -9,8 +9,8 @@ categories:
 tags: 
   - Henrik
 permalink: /Gruhne-Bohnensuppe/
+excerpt: "Grønne bønnesuppe, som vi kalder det, er en tysk klassiker der smager fantastisk!"
 header:
-  excerpt: " "
   teaser: assets/images/posts/henrik/gronneBonneSuppe-teaser.jpg
   overlay_image: assets/images/posts/henrik/gronneBonneSuppe-banner.jpg
   overlay_filter: 0.35 # same as adding an opacity of 0.5 to a black background

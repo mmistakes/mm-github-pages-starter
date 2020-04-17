@@ -3,7 +3,7 @@
 
 
 
-<h1>Opskrift  <span style="float:right;"><a id="printbutton" title="Print opskrift" class="btn btn--inverse btn--small"
+<h1>{% if include.headline %}{{include.headline}}{% else %}Opskrift{% endif %}<span style="float:right;"><a id="printbutton" title="Print opskrift" class="btn btn--inverse btn--small"
   href="PleaseEnableJavascript.html" onclick="printversion();return false;"><i class="fas fa-print"></i>  Print</a></span></h1>
 <br>
 <div>
