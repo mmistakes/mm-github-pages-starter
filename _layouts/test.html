@@ -1,0 +1,14 @@
+---
+layout: "single"
+---
+<h1>pages</h1>
+
+{% for page in site.pages %}
+  {{ page.url }} <br>
+{% endfor %}
+
+<h1>Posts</h1>
+
+{% for post in site.posts %}
+  {{ post.url }} <br>
+{% endfor %}

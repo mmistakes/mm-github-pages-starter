@@ -1,9 +1,8 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+  - title: "Teaching"
+    # description: "some tips"
+    url: /teaching/teaching-resources
+  - title: "Blog"
+    url: /blog/
   - title: "About"
     url: /about/

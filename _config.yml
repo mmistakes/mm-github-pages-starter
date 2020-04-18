@@ -13,28 +13,54 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: "Loïc Lannelongue's personal website"
+masthead_title: "My website"
+subtitle: "Still a work in progress"
+name: &myName "Loïc Lannelongue"
+email: l.lannelongue@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
+  My website with teaching material, projects showcase, some blog articles...
+url: &myWebsite "https://llannelongue.github.io"
+locale: 'en'
+
+twitter:
+  username: "Loic_Lnlg"
+social:
+  links:
+    - &myTwitter "https://twitter.com/Loic_Lnlg"
+    - &myLinkedin "www.linkedin.com/in/loïc-lannelongue-b11046107"
+    - &myGithub "https://github.com/Llannelongue"
+
+# twitter_username: Loic_Lnlg
+# github_username: Llannelongue
+
 search: true
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-162751463-1"
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes@4.19.1"
+minimal_mistakes_skin: default # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+
+# og_image: /assets/images/site-logo.png
+
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+paginate: 3 # amount of posts to show
+paginate_path: "/blog/page:num/"
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -58,34 +84,38 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : *myName
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "PhD student in AI for medicine, on the fence between machine learning and biology."
+  location: "Cambridge, UK"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: *myWebsite
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: *myTwitter
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: *myGithub
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: *myLinkedin
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://instagram.com/"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: *myTwitter
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: *myGithub
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://instagram.com/"
 
 defaults:
   # _posts
@@ -105,11 +135,28 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
+
+breadcrumbs: true
 
 category_archive:
-  type: liquid
+  type: jekyll-archives
   path: /categories/
 tag_archive:
-  type: liquid
+  type: jekyll-archives
   path: /tags/
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layouts:
+    category: archive-taxonomy
+    tag: archive-taxonomy
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
+
+compress_html:
+  clippings: all
+  ignore:
+    envs: development  # disable compression in dev environment

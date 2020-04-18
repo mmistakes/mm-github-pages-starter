@@ -1,0 +1,13 @@
+current directory: /Users/loic/Documents/myWebsite/llannelongue.github.io/vendor/bundle/ruby/2.6.0/gems/json-2.3.0/ext/json
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20200403-2779-gflnh0.rb extconf.rb
+creating Makefile
+
+current directory: /Users/loic/Documents/myWebsite/llannelongue.github.io/vendor/bundle/ruby/2.6.0/gems/json-2.3.0/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/loic/Documents/myWebsite/llannelongue.github.io/vendor/bundle/ruby/2.6.0/gems/json-2.3.0/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/loic/Documents/myWebsite/llannelongue.github.io/vendor/bundle/ruby/2.6.0/gems/json-2.3.0/ext/json
+make "DESTDIR=" install
