@@ -25,7 +25,7 @@ feature_row:
     ## alt: ""
     title: "Godot Engine"
     excerpt: "A 2D and 3D, cross-platform, free and open-source game engine thats powers Rakugo."
-    url: "https://godotengine.org/download/linux"
+    url: "https://godotengine.org/download"
     btn_label: "Download"
     btn_class: "btn--primary"
 
