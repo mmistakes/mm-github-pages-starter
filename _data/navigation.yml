@@ -14,7 +14,7 @@ main:
   - title: "Fund"
     url: /fund/
   - title: "Download"
-    url: https://github.com/rakugoteam/Rakugo/releases
+    url: /download/
   - title: "Raport a Issue"
     url: https://github.com/rakugoteam/Rakugo/issues
   - title: "Sponsor"
