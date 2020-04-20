@@ -4,7 +4,7 @@ The MRSHub website is generated from simple text files, using the popular static
 
 To maintain and update the MRSHub website, you will need to set up two software packages on your computer:
 - **Jekyll** to test changes locally before committing them to the GitHub repository where the website text files live. Follow the [Jekyll installation guide](https://jekyllrb.com/docs/installation/) to set up Jekyll.
-- **Git** (and optionally the GitHub Desktop software) to track and commit changes you make locally to the website repository.
+- **Git** (and optionally the GitHub Desktop software) to track and commit changes you make in your local copy to the website repository.
 
 1. Clone the 'develop' branch to a folder of your choice on your computer.
 
