@@ -27,7 +27,11 @@ Helene:
   - image_path: /assets/images/layout/helene.jpg
     alt: "placeholder image 2"
     title: "Placeholder Image Right Aligned"
-    excerpt: 'Helene bager kager'
+    excerpt: 'Helene er kompromisløs og systematisk i sin fremgang i et køkken, hvilke også ses i hendes udstyr som kun består af ting som har vundet bedst i test i forbrugerbladet TÆNK. 
+	Blandt disse er rolls roycen af røremaskiner som blandt andet har en indbygget kogeplade. 
+	Helene er nok den eneste i søskende flokken som ville kunne præstere at fremtrylle end ret på den tid en kogebog estimerer det til. 
+
+	Denne kompromisløshed er nok grunden til at hun nægter at spise dåsecrossainter, men i stedet hellere vil slide over at lave sine egne.'
     url: "/tags/#helene"
     btn_label: "Read More"
     btn_class: "btn--primary"
