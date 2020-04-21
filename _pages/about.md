@@ -28,8 +28,8 @@ Helene:
     btn_label: "Helenes opskrifter"
     btn_class: "btn--primary"
 Kristian:
-  - image_path: /assets/images/layout/kristian.jpg
-    alt: "Kristian
+  - image_path: /assets/images/layout/kristian.jpg  
+    alt: "Kristian"
     title: "Kristian Nissen Breddam"
     excerpt: 'Kristian er vores lillebror, der lever det frie liv uden børn og har derfor oceaner af tid til at lave mad. Så når Krisitan skal lave en ret, læser han alt hvad der er skrevet på nettet om retten før han går igang. Blandt Kristians mesterværker kan nævnes pasta kogt i en pande og en humus med sygt meget hvidløg, der slet ikke smager af hvidløg. '
     url: "/tags/#krisitan"
