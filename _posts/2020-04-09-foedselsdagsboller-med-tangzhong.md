@@ -1,5 +1,5 @@
 ---
-layout: recipe
+layout: single
 title:  "Bløde og saftige fødselsdagsboller"
 author: Henrik
 #date:   2019-11-05 13:39:33 +0100
@@ -14,7 +14,7 @@ tags:
   - Tangzhong
   - Brioche
   - Fødselsdagsboller
-permalink: /Briocheburgerboller-med-Tangzhong/
+permalink: /foedselsdagsboller-med-tangzhong/
 excerpt: "Fødselsdagsboller med tangzhong, der giver ekstra luftige og saftige boller, som er gode i et par dage"
 header:
   teaser: assets/images/posts/henrik/fodselsdagsbollerMedTangzhong-teaser.jpg
@@ -23,7 +23,7 @@ header:
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
     - label: "Direkte til opskriften"
-      url: "/Briocheburgerboller-med-Tangzhong/#opskrift"
+      url: "/foedselsdagsboller-med-tangzhong/#opskrift"
 
 gallery:
   - url: assets/images/posts/henrik/fodselsdagsbollerMedTangzhong-boller.jpg
