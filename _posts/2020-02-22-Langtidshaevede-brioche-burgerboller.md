@@ -1,5 +1,5 @@
 ---
-layout: recipe
+layout: single
 title:  "Langtidshævede brioche burgerboller"
 author: Henrik
 #date:   2019-11-05 13:39:33 +0100

@@ -2,7 +2,7 @@
 layout: single
 title:  "Pølsehorn med poolish"
 author: Henrik
-#date:   2020-03-04 16:52:33 +0100
+date:   2020-04-20
 categories:  
   - Gærdej 
   - Surdej
@@ -11,7 +11,7 @@ tags:
   - Henrik
   - Pasta
 permalink: /Poelsehorn-med-poolish/
-excerpt: "Lav en pølsehornsdej med super smag"
+excerpt: "Pølsehorn er kongen af snacks og kan nydes af folk i alle aldrer. Med opskriften her er brødet ikke bare en holder til pølsen men meget meget mere"
 header:
   teaser: /assets/images/posts/henrik/PoolishPoelsehorn-teaser.jpg
   overlay_image: assets/images/posts/henrik/PoolishPoelsehorn-banner.jpg

@@ -1,0 +1,59 @@
+---
+name: Banankage med chokolade, peanuts og surdej
+image: assets/images/posts/henrik/banankage-med-surdej-teaser.jpg
+description_short: "Banankage med chokolade og peanuts, med en dej på speltmel og surdej, så den giver det maksimalt gas på alle smagsnuancer."
+keywords: "Banankage, kage, surdej, klassiker"
+cuisine: Danish
+yield: 12-16 stykker
+prepTime: 30 minutter
+prepTime_iso: PT30M
+totalTime:  90 minutter
+totalTime_iso: PT90M
+ingredients:
+  single: 
+  - part:  
+    items:
+      - amount: 100 g
+        name: grahamsspeltmel
+      - amount: 100 g 
+        name: hvedemel
+      - amount: 1 1/2 tsk 
+        name: salt
+      - amount: 1 tsk
+        name: bagepulver
+      - amount: 2 tsk  
+        name: vaniljesukker 
+      - amount: 200 g 
+        name: sukker
+      - amount: "5"
+        name: æg
+      - amount: 100 g
+        name: surdej 
+        note: gammel eller ny efter smag
+        prep: ved stuetemperatur
+      - amount: 200 g
+        name: smør
+      - amount: "5"
+        name: bananer
+        note: godt modne
+        prep: mosede
+      - amount: 75 g
+        name: mørk chokolade 
+        prep: groft hakket
+      - amount: 50 g 
+        name: hakkede saltede peanuts 
+        note: jeg brugte nogen uden ret meget salt på fra änglamark
+        prep: groft hakket
+directions:
+  - part: 
+    steps: 
+      - step: "Start ovnen på 180 grader og smelt **smøret** og sluk for det når det er næsten smeltet"
+      - step: "Pisk **æg og sukker** til et luftig masse"
+      - step: "Bland de tørre ingredienser **mel, vaniljesukker, salt og bagepulver** sammen og bland det i dejen lidt af gangen (brug evt. en sigte)"
+      - step: "Bland smør og surdej i dejen og lad dejen stå i 10-15 min"
+      - step: "Ved de mosede bananer i dejen"
+      - step: "Hæld dejen i en form eller ildfast fad med bagepapir i"
+      - step: "Giv dejen ca 55 minutter i ovenen eller til den er over 95&deg; i midten" 
+      - step: "Kagen kan sagtens spises som den er, men kan også toppes med hakkede peanuts, hakket chokolade og lidt maldon salt"
+        substeps:
+          - substep: "Tip: brug mælkechokolade for en snickers-agtig smag eller mørk choko hvis du er fin på den :smile:"

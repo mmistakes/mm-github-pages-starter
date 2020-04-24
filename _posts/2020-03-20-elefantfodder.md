@@ -16,7 +16,6 @@ tags:
 permalink: /elefantfodder/
 excerpt: "Marengs med chokolade og et strejf af havsalt"
 header:
-  teaser: 
   overlay_image: 
   overlay_filter: 0.35 # 
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
