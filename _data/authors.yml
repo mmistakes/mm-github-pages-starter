@@ -13,24 +13,24 @@ Henrik:
 
 Helene:
   name        : "Helene Nissen Breddam"
-  bio         : "Du kan ændre dette inde i _data/authors.yml"
-  avatar      : "/assets/images/layout/helene.jpg"
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/" 
+  bio         : "Mad, kager og søde sager"
+  avatar      : "/assets/images/layout/helene.jpg" 
+  # links:
+  #   - label: "Twitter"
+  #     icon: "fab fa-fw fa-twitter-square"
+  #     url: "https://twitter.com/"
+  #   - label: "Instagram"
+  #     icon: "fab fa-fw fa-instagram"
+  #     url: "https://www.instagram.com/" 
       
 Kristian:
   name        : "Kristian Nissen Breddam"
   bio         : "Du kan ændre dette inde i _data/authors.yml"
   avatar      : "/assets/images/layout/kristian.jpg"
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/" 
+  # links:
+  #   - label: "Twitter"
+  #     icon: "fab fa-fw fa-twitter-square"
+  #     url: "https://twitter.com/"
+  #   - label: "Instagram"
+  #     icon: "fab fa-fw fa-instagram"
+  #     url: "https://www.instagram.com/" 
