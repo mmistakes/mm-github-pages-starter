@@ -43,7 +43,7 @@ Ud over at tilføje en masse dejlig smag giver kartoflerne samme effekt, som tan
 {% include gallery id="gallery2"  caption="" %}
 Er du ikke til grove burgerboller kan du sagtens skrue ned for mængden af fuldkornsmel, men så er det en god idé at holde lidt igen med vandet, så dejen ikke bliver for svær at arbejde med. 
 
-Jeg vil våge at påstå at burgerbollerne vil være en gave til en hver burger, men til lidt inspiration kan du bruge [Valdemarsros fiskeburgeropskrift][valdemarsro-fiskeburger] (men helt ærligt, drop rejerne :grin:)
+Jeg vil våge at påstå at burgerbollerne vil være en gave til en hver burger, men til lidt inspiration kan du overveje en fiskeburger med rødspætte filetter, der er i sæson lige nu (fra april og hen over sommeren). Jeg brugte cremen fra [Valdemarsros fiskeburgeropskrift][valdemarsro-fiskeburger] (men helt ærligt, drop rejerne :grin:).
 {% include gallery id="gallery3"  caption="" %}
 Velbekomme!  
 \- Henrik 
