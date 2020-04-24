@@ -8,7 +8,7 @@ yield: 24 Boller
 prepTime: 45 minutter
 prepTime_iso: PT45M
 riseTime: 10 timer
-riseTime_iso: 
+riseTime_iso: PT10H
 totalTime: 90 minutter
 totalTime_iso: PT90M
 ingredients:
