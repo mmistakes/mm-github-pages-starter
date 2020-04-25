@@ -5,15 +5,18 @@ author: Henrik
 #date:   2019-11-05 13:39:33 +0100
 categories:  
   - Boller 
-  - Gærdej
+  - Surdej
   - Opskrifter  
-  - Aftensmad
+  - Rundstykker
+  - Morgenmad
 tags: 
   - Henrik
-  - Boller
+  - Borller
   - Gærdej
-  - Burger
+  - Rundstykker
   - Langtidshævet
+  - Morgenmad
+  - Håndværkere
 permalink: /surdejsrundstykker/
 excerpt: "For at være helt ærlig smager de her slet ikke som rundstykker fra bageren. Men for at være helt ærlig skal de helst også smage af noget helt andet. Her får du følelsen af at sætte tænderne i et rundstykke, men smagen af at spise GODT brød."
 header:
