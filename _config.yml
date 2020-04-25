@@ -57,8 +57,8 @@ plugins:
 
 author:
   name   : "Riddhi Patel"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  avatar : "/assets/images/Riddhi.jpg"
+  bio    : "Now I know, that only love can truly save the world. So I stay, I fight, and I give, for the world I know can be. "
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
