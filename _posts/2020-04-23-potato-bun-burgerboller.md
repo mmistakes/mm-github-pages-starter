@@ -23,7 +23,7 @@ header:
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
     - label: "Direkte til opskriften"
-      url: "/banakage-med-surdej/#opskrift"
+      url: "/grove-potato-buns/#opskrift"
 gallery:
   - url: assets/images/posts/henrik/grove-potato-buns-teaser.jpg
     image_path: assets/images/posts/henrik/grove-potato-buns-teaser.jpg

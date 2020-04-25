@@ -1,0 +1,82 @@
+---
+name: "Surdejsrundstykker: Håndværkere og grovstykker" 
+image: assets/images/posts/henrik/surdejsrundstykker-teaser.jpg
+description_short: "Her får du følelsen af at sætte tænderne i et rundstykke, men smagen af at spise GODT brød."
+keywords: "Rundstykker, håndværker, grovstykker, Surdej, langtidshævet, ølandshvede, rug, surdejsbrød"
+cuisine: Danish
+yield: 10 boller
+prepTime: 5 timer
+prepTime_iso: PT5H
+riseTime: 10 timer
+riseTime_iso: PT10H
+totalTime:  6 timer
+totalTime_iso: PT6H
+ingredients:
+  single: 
+  - part:  
+    items:
+      - amount: 75 g
+        name: Sigtet ølandshvedemel
+      - amount: 25 g 
+        name: rugmel
+      - amount: 400 g 
+        name: Brødhvedemel
+      - amount: 11 g  
+        name: salt
+      - amount: 160 g 
+        name: frisk surdej
+      - amount: 300 g
+        name: vand
+        note: ca 26&deg;
+      - amount:  1 dl
+        name: blå birkes
+        prep: i en dyb tallerken
+      - amount: 1 dl
+        name: solsikkekerner
+        prep: i en dyb tallerken
+directions:
+  - part: 
+    steps: 
+      - step: "Til opskriften skal vi bruge en aktiv surdej. Hvis du er en haj til surdej kan du bare bruge din foretrukne metode og springe til næste punkt. Jeg arbejder på en grundig gennemgang af min surdejsfilosofi, men her er en meget kort version:"
+        substeps:
+          - substep: "Min surdej er et 5/2 barn der bor mest hos køleskabet, så jeg starter med at tage den ud af køleskabet mindst 6 timer før jeg skal bage"
+          #- substep: "Jeg genopfrisker surdejen to gange før jeg bager. Først med formelen 1:2:2 senest 6 timer før(men ofte aftenen eller morgenen før), derefter med formelen 2,5:1:1 to timer før. "
+          - substep: "For at lave de 160 g surdej(plus det surdej jeg tager med til næste portion), bruger jeg 20 gram surdej, hvedemel, rugmel og så 40 gram vand der er ca 26&deg; varmt og derefter tilføjer jeg igen 20 gram hvedemel og rugmel og 40 g vand ved 26&deg; til surdejen. "
+          - substep: "Mellem genopfriskningerne opbevarer jeg min surdej på nederste hylde i et overskab. Jeg holder så lyset der sidder under skabet tændt mens den hygger sig, hvilket giver en virkeligt god temperatur"
+          - substep: "Når du så skal bruge surdejen skal du huske at gennem de sidste 20 gram til næste gang"
+      - step: "Første skridt ud over alt surdejstrylleriet er at blande alle ingredienser der ikke er surdej, birkes eller kerner."
+        substeps: 
+          - substep: "Bland, de tre typer mel og saltet sammen så rugmelet ikke klumper sammen"
+          - substep: "Tilsæt derefter vandet"
+      - step: Lad dejen hvile sig i mindst 30 minutter. Dette skridt hedder autolyse.
+        substeps:
+          - substep: "Jeg plejer at lade deje \"autolysere\" i 2 timer så jeg kan sætte den over samtidigt med den sidste opfriskning af surdej."
+      - step: Bland surdejen i resten af dejen. Dette gøres bedst med klør fem!
+      - step: "Lad dejen hvile (i skålen) på køkkenbordet de næste 4 timer. 3 gang i løbet af hviletiden og med 45 minutters mellemrum skal dejen forstyrres lidt"
+        substeps:
+          - substep: Tag lidt vand på fingrerne og tag derefter fat i \"kanten\" af dejen med den ene hånd. Træk roligt dejen ud og fold den ind over midten af dejen. 
+          - substep: Drej skålen 90 grader og gentag til du er kommet hele vejen rundt.
+          - substep: Drej skålen 45 grader og tag en omgang mere.
+      - step: "Når dejen har hævet færdigt vendes den ud på bordet. Brug en bordskraber til at spænde dejen op og læg den i en beholder smurt med olie"
+        substeps:
+          - substep: "Dette gør dejen meget nemmere at arbejde med efter hævningen."
+      - step: "Læg dejen i en smurt beholder med låg og sæt den i køleskabet mindst 8 timer"
+      - step: "Når dejen at hygget sig i køleskabet længe nok, tages den ud. Tænd samtidigt ovnen og sæt et bagestål, pizzasten eller en bageplade vendt på hovedet ind i ovnen. Placer også en bradepande, der skal bruge til at skabe damp i bunden af ovnen. Tænd ovnen på 260&deg; eller hvad din ovn kan trække. "
+      - step: "Fyld en dyb tallerken med birkes, en med solsikkekerner og en med vand til at gøre dejen nemmere at håndtere og til at få kernerne til at sidde bedre fast."
+        substeps:
+          - substep: "Vend dejen ud på et køkkenbord med en smule mel på"
+          - substep: "Fold dejen ind over sig selv, så der er mel hele vejen rundt om dejen. Nu er der \"yderside\" på alle sider af dejen og den yderside vil vi prøve at arbejde så meget med som muligt da den ikke klistrer så meget og ikke sprækker så nemt i ovnen."
+          - substep: "Dyp hænderne i vand og skær dejen ud i passende stykker"
+          - substep: "Vend dejklumpen op i en våd hånd så der er ydersider nedaf, som nu er blevet fugtet en smule. "
+          - substep: "Løft dejen op med den anden hånd og dyp ydersiden i birkes eller solsikkekerner."
+          - substep: "Placer bollen på et stykke bagepapir og dæk dejen (jeg bruger husholdningsfilm med lidt mel på)"
+      - step: "Lad bollerne efterhæve mens ovnen varmer op i ca 30-45 minutter"
+      - step: "Kog ca 500 ml vand til at skabe damp i ovnen"
+      - step: Før bagepapiret over på undersiden af en bageplade, et stort skærebræt, en pizzaspade eller lignende og brug det til at føre bollerne ind på den varme plade i ovnen.
+        substeps:
+          - substep: Hæld vand på bagepladen i bunden af ovnen, så det lige akkurat dækker. Træk ikke pladen for meget ud for det første vand bliver hurtigt til damp og det skal helst blive inde i ovnen.
+      - step: "Bag bollerne i 12 minutter og luk så dampen ud ved at åbne lågen. Hvis der stadig er vand i bagepladen tages den ud."
+      - step: Giv bollerne ca 6 minutter mere, til de har en flot gylden overflade. Tag det derefter ud og læg dem på en rist.
+      
+        
+
