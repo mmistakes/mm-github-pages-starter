@@ -62,16 +62,16 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
+      url: "https://riddhi041.github.io/"
+    - label: "Facebook"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
+      url: "https://www.facebook.com/riddhi.patel.12327?ref=bookmarks"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://www.linkedin.com/in/riddhi041/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/riddhi041/?hl=en"
 
 footer:
   links:
