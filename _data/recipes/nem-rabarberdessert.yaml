@@ -1,0 +1,48 @@
+---
+name: "Råsyltet rabarber med mascarponecreme og chokolade" 
+image: assets/images/posts/henrik/nem-rabarberdessert-teaser.jpg
+description_short: "Rabarber smager bare af forår og dens syrlighed spiller godt op imod den fede mascarpone creme og den mørke chokolade."
+keywords: "Forår, rabarber, chokolade, dessert, mascarpone"
+cuisine: Danish
+yield: 6 portioner
+prepTime: 10 minutter
+prepTime_iso: PT30M
+totalTime:  15 minutter
+totalTime_iso: PT15M
+ingredients:
+  right: 
+  - part: Råsyltet rabarber
+    items:
+      - amount: 100 g
+        name: sukker
+      - amount: 1 bundt
+        name: rabarber 
+      - amount: ½   
+        name: vaniljestang
+        note: eller 2 tsk vaniljesukker
+  left:
+  - part: Rabarberdessert
+    items: 
+      - amount: 250 g
+        name: piskefløde
+      - amount: 100 g 
+        name: mascarpone
+        note: "kan erstattes af creme fraiche (min. 18%)"
+      - amount: 60 gram
+        name: mørk chokolade
+directions:
+  - part: Råsyltet rabarber
+    steps: 
+      - step: Skyl rabarber og skær dem i skiver på ca ½ centimeter og kom dem i en beholder, som fx et patentglas. Skold beholderen med kogende vand, så holder det sig i op til 14 dage. 
+      - step: Skrab vaniljekornene fra vaniljestangen ud i lidt at sukkeret
+      - step: Kom sukker, vaniljekorn og stang ned til rabarberne og bland det godt rundt så alle rabarber er dækket
+      - step: Lad rabarberne trække på køl i 2-3 dage, så er de klar til at blive spist 
+  - part: Rabarberdessert
+    steps:
+      - step: Bland mascarpone og fløde og pisk det det til en let creme
+      - step: Hak chokoladen i grove flager, ved at starte fra en ende af og skære lidt af chokoladen med en stor kniv
+      - step: "Anret tallerkner med rabarber, lidt af rabarber saften, creme og chokolade, så fint eller rustikt som du lyster eller har evner til :smile:"
+        substeps:
+        - substep: "Server med et glas rabarbersaft, evt. med lidt vodka eller lignende i :wink:"
+      
+

@@ -12,10 +12,8 @@ categories:
 tags: 
   - Kristian
   - Pasta
-
-
 permalink: /cacio-e-pepe/
-excerpt: "Pasta med peber"
+excerpt: "En cremet og smagfuld pastaret med kun tre ingredienser og lidt madlavningsmagi"
 header:
   teaser: /assets/images/posts/kristian/CacioEpepe-finalDish.jpg
   overlay_image: assets/images/posts/kristian/CacioEpepe-finalDish.jpg
