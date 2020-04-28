@@ -2,7 +2,7 @@
 title: "Dejogmig instagram links"
 layout: single
 type: grid
-permalink: /dejogmig-links/
+permalink: /dejogmig/
 author_profile: false
 # header:
 #   image: /assets/images/layout/broed.jpg
