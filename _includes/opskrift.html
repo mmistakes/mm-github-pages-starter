@@ -125,14 +125,14 @@
   {
     "@context": "https://schema.org/",
     "@type": "Recipe",
-    "name": "{{recipe.name}}",
+    "name": "{{recipe.name | replace: '"', '\\"' | remove: '**' | remove: '[' | remove: ']' }}",
     "author": {"@type": "Person",
     "name":  "{{author.name}}" },
     "image": "{{ site.url }}{{recipe.image | relative_url}}",
     {% if recipe.cuisine %}"recipeCuisine": "{{recipe.cuisine}}", {% endif %}
     {% unless recipe.keywords %}"keywords": [ {%for category in categories%}"{{category}}"{% if forloop.last != true or tags.size != 0 %},{%endif%} {% endfor %}{%for category in tags%}{% unless category == author %} "{{category}}" {% if forloop.last != true %},{%endif%}{%endunless%} {% endfor %} ],
     {% else %} "keywords": "{{recipe.keywords}}", {% endunless %}
-    "description": "{%if recipe.description_short %}{{recipe.description_short}} {% else %}{{excerpt}}{% endif %}",
+    "description": "{%if recipe.description_short %}{{recipe.description_short | replace: '"', '\\"' | remove: '**' | remove: '[' | remove: ']' }} {% else %}{{excerpt}}{% endif %}",
     {% if recipe.prepTime_iso %} "prepTime": "{{recipe.prepTime_iso}}", {% endif %}
     {% if recipe.totalTime_iso %}"totalTime": "{{recipe.totalTime_iso}}", {% endif %}
     {% if recipe.yield %}"recipeYield": "{{recipe.yield}}", {% endif %}
