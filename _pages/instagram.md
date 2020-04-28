@@ -17,5 +17,5 @@ gallery:
     image_path: assets/images/posts/henrik/grove-potato-buns-teaser.jpg
     alt: "Grove potato buns"
 ---
-Herunder kan du finde links til opskrifter og blogpost som vi har skrevet om på [instagram.com/dejogmig](https://instagram.com/breddamsmad): 
+Herunder kan du finde links til opskrifter og blogpost som vi har skrevet om på [instagram.com/breddamsmad](https://instagram.com/breddamsmad): 
 {% include gallery id="gallery"  caption="" %}
