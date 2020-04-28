@@ -7,9 +7,9 @@ author_profile: false
 # header:
 #   image: /assets/images/layout/broed.jpg
 gallery:
-  - url: /nem-rabarberdessert/
-    image_path: assets/images/posts/henrik/nem-rabarberdessert-teaser.jpg
-    alt: "Nem rabarberdessert"
+  # - url: "/nem-rabarberdessert/"
+  #   image_path: "assets/images/posts/henrik/nem-rabarberdessert-teaser.jpg"
+  #   alt: "Nem rabarberdessert"
   - url: /banakage-med-surdej/
     image_path: assets/images/posts/henrik/banankage-med-surdej-teaser.jpg
     alt: "Banankage"
