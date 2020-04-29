@@ -22,6 +22,7 @@ gem "github-pages", "~> 204",  group: :jekyll_plugins
 group :jekyll_plugins do
     gem "jekyll-include-cache"
     gem "jekyll-archives"
+    gem 'jekyll-twitter-plugin'
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem

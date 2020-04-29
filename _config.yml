@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Loïc Lannelongue's personal website"
-masthead_title: "My website"
+title: "Welcome"
+masthead_title: "Home"
 subtitle: "Still a work in progress"
 name: &myName "Loïc Lannelongue"
 email: l.lannelongue@gmail.com
@@ -23,13 +23,34 @@ description: >- # this means to ignore newlines until "baseurl:"
 url: &myWebsite "https://llannelongue.github.io"
 locale: 'en'
 
-twitter:
-  username: "Loic_Lnlg"
 social:
-  links:
-    - &myTwitter "https://twitter.com/Loic_Lnlg"
-    - &myLinkedin "www.linkedin.com/in/loïc-lannelongue-b11046107"
-    - &myGithub "https://github.com/Llannelongue"
+  - googleScholar:
+    - link: &myGoogleScholar "https://scholar.google.com/citations?user=VRr3DlcAAAAJ&hl=en"
+  - twitter:
+    - link: &myTwitter "https://twitter.com/Loic_Lnlg"
+    - username: &myTwitterUser Loic_Lnlg
+  - linkedin:
+    - link: &myLinkedin "www.linkedin.com/in/loïc-lannelongue-b11046107"
+  - github:
+    - link: &myGithub "https://github.com/Llannelongue"
+    - username: Llannelongue
+  - email:
+    - cambridge: &myCamEmail "ll582@medschl.cam.ac.uk"
+    - gmail: &myGmail "l.lannelongue@gmail.com"
+
+
+# myGoogleScholar: &myGoogleScholar "https://scholar.google.com/citations?user=VRr3DlcAAAAJ&hl=en"
+# myTwitter: &myTwitter "https://twitter.com/Loic_Lnlg"
+# myCamEmail: &camEmail "ll582@medschl.cam.ac.uk"
+#
+# twitter:
+#   username: "Loic_Lnlg"
+# social:
+#   links:
+#     - *myTwitter
+#     - &myLinkedin "www.linkedin.com/in/loïc-lannelongue-b11046107"
+#     - &myGithub "https://github.com/Llannelongue"
+#     - *myGoogleScholar
 
 # twitter_username: Loic_Lnlg
 # github_username: Llannelongue
@@ -79,25 +100,32 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+  # - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-twitter-plugin
 
 author:
   name   : *myName
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/profil_loic.jpg"
   bio    : "PhD student in AI for medicine, on the fence between machine learning and biology."
   location: "Cambridge, UK"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: *myWebsite
-    - label: "Twitter"
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
+    #   url: *myWebsite
+    - label: *myCamEmail
+      icon: "fas fa-envelope-open-text"
+      url: mailto:ll582@medschl.cam.ac.uk
+    - label: *myTwitterUser
       icon: "fab fa-fw fa-twitter-square"
       url: *myTwitter
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: *myGithub
+    - label: "Google Scholar"
+      icon: "fas fa-newspaper"
+      url: *myGoogleScholar
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: *myLinkedin
@@ -107,12 +135,18 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
+    - label: *myTwitterUser
       icon: "fab fa-fw fa-twitter-square"
       url: *myTwitter
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: *myGithub
+    - label: "Google Scholar"
+      icon: "fas fa-newspaper"
+      url: *myGoogleScholar
+    - label: *myCamEmail
+      icon: "fas fa-envelope-open-text"
+      url: mailto:ll582@medschl.cam.ac.uk
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
@@ -136,6 +170,22 @@ defaults:
     values:
       layout: single
       author_profile: false
+  - scope:
+      path: "_pages/research"
+      type: pages
+    values:
+      sidebar:
+        nav: research
+  # - scope:
+  #     path: "_pages/teaching"
+  #     type: pages
+  #   values:
+  #     sidebar:
+  #       nav: teaching
+  - scope:
+      path: "assets/images"
+    values:
+      image: true
 
 breadcrumbs: true
 

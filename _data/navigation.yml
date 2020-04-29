@@ -1,8 +1,29 @@
 main:
+  - title: "Research"
+    url: /research/
   - title: "Teaching"
     # description: "some tips"
-    url: /teaching/teaching-resources
+    url: /teaching/
   - title: "Blog"
     url: /blog/
   - title: "About"
     url: /about/
+
+research:
+  - title: "Overview"
+    url: /research/
+  - title: "Protein-protein interactions"
+    url: /research/protein-protein-interactions/
+  - title: "Green Algorithms"
+    url: /research/green-algorithms/
+    children:
+      - title: "The app"
+        url: http://green-algorithms.org
+
+teaching:
+  - title: "Workshops"
+  - title: "Supervisions"
+    children:
+      - title: "Introduction to the Scientific Basis for Medicine"
+      - title: "Introduction to Data Science"
+      - title: "Bioinformatics"
