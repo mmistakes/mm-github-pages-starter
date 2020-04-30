@@ -7,7 +7,7 @@ tags:
   - Blog Soldier
 ---
 
-# Lockdown Diaries
+## Lockdown Diaries
 Namaste Darshako! Here goes my first blog, things I do during lockdown
 1. Think about eating 24x7 and then worry about weight gain
 2. Plan to watch something interesting on Netflix, but get frsustrated browsing and give up
