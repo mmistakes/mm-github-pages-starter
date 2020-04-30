@@ -17,7 +17,7 @@ Namaste Darshako! Here goes my first blog, things I do during lockdown
 6. Watch one superhero movie per day
 7. Keep checking my phone each second 
 
-# The past few days have made me realise that humans can not exist without interacting with fellow humans ! 
+The past few days have made me realise that humans can not exist without interacting with fellow humans ! 
 
 
 Check out my other blogs
