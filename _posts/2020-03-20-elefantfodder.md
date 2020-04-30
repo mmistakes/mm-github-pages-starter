@@ -16,16 +16,16 @@ tags:
 permalink: /elefantfodder/
 excerpt: "Marengs med chokolade og et strejf af havsalt"
 header:
-  teaser: assets/images/posts/helene/elefantfoedder-teaser.jpeg
-  overlay_image: assets/images/posts/helene/elefantfoedder-banner.jpeg
+  teaser: assets/images/posts/helene/elefantfoedder-teaser.jpg
+  overlay_image: assets/images/posts/helene/elefantfoedder-banner.jpg
   overlay_filter: 0.35 # 
   actions:
     - label: "Direkte til opskriften"
       url: "/elefantfodder/#opskrift"
 
 gallery1:
-  - url: assets/images/posts/helene/elefantfoedder-top-bid.jpeg
-    image_path: assets/images/posts/helene/elefantfoedder-top-bid.jpeg
+  - url: assets/images/posts/helene/elefantfoedder-top-bid.jpg
+    image_path: assets/images/posts/helene/elefantfoedder-top-bid.jpg
 
 ---
 
