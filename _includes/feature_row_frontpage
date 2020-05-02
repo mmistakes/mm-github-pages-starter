@@ -38,7 +38,7 @@
               {{ post.excerpt | markdownify }}
             </div>
           {% endif %}
-            <p><a href="{{ f_url }}" class="btn btn--primary"> Se opskrift</a></p>
+            <!--<p><a href="{{ f_url }}" class="btn btn--primary"> Se opskrift</a></p>-->
         </div>
       </div>
     </div>
