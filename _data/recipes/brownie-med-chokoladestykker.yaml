@@ -1,0 +1,55 @@
+---
+name: Brownie med chokoladestykker
+image: assets/images/posts/helene/brownie-header.jpeg
+yield: 16 sykker
+prepTime: 20 minutter
+prepTime_iso: PT20M
+riseTime:
+riseTime_iso: 
+totalTime: 45 minutter
+totalTime_iso: PT135M
+description_short: Brownie med chokoladestykker og flagesalt
+keywords: "brownie, chokolade, kage, chokoladestykker"
+cuisine: cake
+ingredients:
+  #single:  
+  left: 
+      - part:  
+        items:
+          - amount: 250 g
+            name: smør
+            prep: smeltet
+          - amount: 275 g
+            name: rørsukker     
+          - amount: 200 g  
+            name: brun farin     
+          - amount: "4"
+            name: store æg    
+          - amount: 1 spsk.
+            name: vaniljeekstrakt
+          - amount: 1 tsk.
+            name: havsalt
+          - amount: 150 g
+            name: mel
+          - amount: 100 g
+            name: kakao
+          - amount: 200 g
+            name: mørk chokolade
+            prep: Hakket groft
+          - amount: En smule
+            name: flagesalt
+            prep: til drys
+directions:
+  - part: 
+    steps: 
+      - step: Tænd din ovn på 175 grader varmluft. 
+      - step: Gør en 20 cm * 30 cm form klar med bagepapir eller smør den med smør.
+      - step: Pisk **smør, sukker og brun farin** grundigt sammen, til det bliver lidt lysere og luftigere.
+      - step: Tilsæt **æggene** ét ad gangen og pisk grundigt mellem hvert æg.
+      - step: Tilsæt **vaniljeekstrakten** og pisk ét minut eller to, til blandingen er ensartet, lys og luftig.
+      - step: Sigt **mel, kakaopulver og havsalt** i blandingen og fold det forsigtigt ind i dejen med en dejskraber.
+      - step: Vend 3/4 af **chokoladestykkerne** i dejen.
+      - step: Hæld dejen i din klargjorte form. Fordel dejen med en dejskraber og glat toppen med en dejskraber, så den er jævn. Drys med de resterende **chokoladestykker**.
+      - step: Bag brownien ved 175 grader i 20-30 minutter. Test kagen, når de 20 minutter er gået. Det er din ovn og dine præferencer, der afgører, hvornår kagen er færdig. Hos mig er det efter 23 minutter, hvor den stadig er rimelig blød i midten. Husk at kagen bager lidt videre efter, at den er taget ud.
+      - step: Lad kagen køle lidt af i formen inden du flytter den til en rist.
+      - step: Drys med flagesalt og skær i passende stykker efter afkøling.
