@@ -1,0 +1,80 @@
+---
+name: "Go-to surdejsbrød" 
+image: assets/images/posts/henrik/grove-potato-buns-teaser.jpg
+description_short: "Surdejsbrød kan laves på mange måder, men det her er min go to opskrift med den helt rigtige balance mellem smagen fra rug og ølandshvede og den bløde og saftige krumme fra det hvedemelet"
+keywords: "Brød, Surdej, langtidshævet, ølandshvede, rug, surdejsbrød"
+cuisine: Danish
+yield: 1 brød
+prepTime: 5 timer
+prepTime_iso: PT5H
+riseTime: 10 timer
+riseTime_iso: PT10H
+totalTime:  6 timer
+totalTime_iso: PT6H
+ingredients:
+  single: 
+  - part:  
+    items:
+      - amount: 200 g
+        name: Fuldkornsmel
+        note: hvede, spelt, ølands eller andet
+      - amount: 200 g 
+        name: hvedemel
+      - amount: 9 g  
+        name: salt
+      - amount: 8 g
+        name: gær
+      - amount: 50 g 
+        name: sukker
+      - amount: "2"
+        name: æg
+        note: 1 til dejen, 1 til pensling
+      - amount: 80 g
+        name: smør
+      - amount: 100 g
+        name: kartofler
+        prep: moses og afkøles
+      - amount: 170-200 g
+        name: kogevand
+        prep: ved stuetemperatur
+        note: alt efter hvor våd kartoffelmosen er
+directions:
+  - part: 
+    steps: 
+      - step: Tag smør og æg ud af køleskabet.
+      - step: Skræl kartoflerne og skær dem i mindre stykker
+      - step: Kog kartoflerne i usaltet vand (brug så lidt som muligt, men mindt 200 ml)
+        substeps:
+          - substep: Gem kogevandet  
+      - step: Mos kartoflerne til en fast mos, tilsæt lidt (10-20 ml) kogevand hvis den er for tør til at mose.
+        substeps:
+          - substep: "Lad kartoffelmos og kogevand køle af til 25-30&deg;"
+      - step: "Opløs gær i 170 ml vand, tilføj 20 gram af melet og saltet"
+      - step: "Tilføj resten af melet, sukker, et æg og kartoffelmos, og ælt dejen. Brug røremaskine hvis du har en."
+        substeps:
+          - substep: Hvis dejen er for tør, tilsættes mere af kogevandet, men pas på, for kartoflerne afgiver en del vand efter lidt tid
+      - step: "Når dejen begynder at slippe skålen eller bordet, tilsættes smøret lidt af gangen"
+      - step: "Vend dejen ud på bordet og spænd den op ved at trække den mod dig selv med begge hænder. Løft derefter dejen op og vend den 90 grader"
+        substeps:
+          - substep: Dette gør dejen lidt nemmere at arbejde med efter hævningen, men er ikke nødvendigt hvis du ikke er vandt til at gøre det.
+      - step: "Læg dejen i en smurt beholder med låg og sæt den i køleskabet i 10-24 timer"
+      - step: "Ca 2 timer før spisetid skal bollerne formes: (Forklarende video er på vej:blush:)"
+        substeps:
+          - substep: "Vend dejen ud på et køkkenbord med en smule mel på"
+          - substep: "Skær dejen ud i stykker på ca 90 gram"
+          - substep: "Tag en dejklump op og læg den med melsiden ned mod håndfladen (tag lidt mere mel på den \"bærende hånd\" hvis det klistrer) "
+          - substep: "Stræk hvert hjørne lidt og fold det hen over midten af dejklumpen"
+          - substep: "Forsæt hele klumben rundt og tag endnu en omgang med de nye hjørner"
+          - substep: "Hvis de ikke helt vil hænge sammen kan man give samlingen nogle små niv"
+          - substep: "Læg klumpen på bordet og før den rundt i cirkler med håndfladen"
+          - substep: "Placer bollen på et stykke bagepapir og dæk dejen (jeg bruger husholdningsfilm med lidt mel på)"
+      - step: "Lad bollerne hæve i en times tid et lunt sted (jeg bruger en ovn der har været tændt i 30-40 sekunder, men husk at tage dem ud før du tænder ovnen :smile:)"
+      - step: "Tænd ovnen på 200 grader (ikke varmluft)"
+        substeps:
+          - substep: "Valgfrit: Jeg fortrækker at have et forvarmet bagestål eller bageplade som er vendt på hovedet i ovnen."
+          - substep: "Også valgfrit: Jeg skaber også damp i min ovn ved at hælde kogende vand i en gammel bradepande som står i bunden af ovnen. Det giver en mere gylden overflade."
+      - step: "Pisk det sidste æg sammen med et nip salt og pensl bollerne"
+      - step: "Bag bollerne i 16-20 minutter, de skal have længere hvis der ikke bruges forvarmet bageplade"
+        substeps:
+          - substep: Luk dampen ud efter 12 minutter, hvis du bruger det 
+

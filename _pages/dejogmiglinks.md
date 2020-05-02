@@ -7,6 +7,9 @@ author_profile: false
 # header:
 #   image: /assets/images/layout/broed.jpg
 gallery:
+  - url: /surdej-uden-madspild/
+    image_path: "assets/images/posts/henrik/surdej-zerowaste-teaser.jpg"
+    alt: "Surdej uden maspild"
   - url: "/nem-rabarberdessert/"
     image_path: "assets/images/posts/henrik/nem-rabarberdessert-teaser.jpg"
     alt: "Nem rabarberdessert"
