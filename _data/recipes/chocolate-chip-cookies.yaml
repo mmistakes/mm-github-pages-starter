@@ -1,0 +1,61 @@
+---
+name: Chocolate Chip Cookies
+yield: "20 cookies"
+prepTime: 30 minutter
+prepTime_iso: PT30M
+riseTime: 
+riseTime_iso: 
+totalTime: 50 minutter
+totalTime_iso: PT50M
+description_short: Lækre cookies med sprøde kanter og blød midte
+keywords: "cookies, chocolate chip, bagværk"
+cuisine: American
+ingredients:
+  single:   
+      - part:
+        items:
+          - amount: 500 g 
+            name: hvedemel
+          - amount: 1 1/2 tsk.
+            name: natron     
+          - amount: 1 1/2 tsk. 
+            name: bagepulver     
+          - amount: 1 1/2 tsk. 
+            name: havsalt     
+          - amount: 280 g 
+            name: blødt smør    
+          - amount: 220 g
+            name: rørsukker
+          - amount: 220 g
+            name: brun farin
+          - amount: "2"
+            name: store æg 
+          - amount: 400 g
+            name: mørk chokolade
+            prep: hakket groft
+          - amount: Et par nip
+            name: flagesalt eller havsalt
+            prep: til at drysse oven på
+directions:
+  - part: Dej
+    steps: 
+      - step: Start med at sigte **hvedemel, natron, bagepulver og havsalt** i en skål og vend blandingen sammen, så den er klar til brug senere.
+      - step: Brug en elpisker eller en røremaskine til at pisk **rørsukker, brun farin og smør** lyst og luftigt i ca. 5 minutter. Pisk herefter **æggene** i ét af gangen.
+      - step: Når massen er ensartet røres **de tørre ingredienser i**. Rør så hurtigt og effektivt som muligt – du må endelig ikke ælte, så mister dejen sin luftighed.
+      - step: Når alle de tørre ingredienser er rørt sammen tilsættes **chokoladestykkerne**. Vend dem hurtigt i dejen til de er jævnt fordelt.
+      - step: Opbevar dejen i en tætsluttende beholder eller plasticpose i køleskabet i 24-72 timer.     
+  - part: Bagning
+    steps:
+      - step: Når du er klar til at bage dine cookies, tager du din dej ud af køleskabet. Den kan godt være lidt hård fra turen i køleskabet, og du kan evt. lade den stå på køkkenbordet i 10 minutter og blive lidt mere medgørlig.
+        substeps:
+          - substep: Opvarm imens din ovn til **175 grader**.  
+      - step: Sæt klumper på størrelse med bordtennisbolde på en bageplade – sørg for god afstand, da dejen flyder ud.
+      - step: Drys dejklumperne med flagesalt og bag i ovnen i **12-17 minutter**.
+        substeps:
+          - substep: Bagtiden afhænger naturligvis af din ovn, men også af, hvor sprøde eller bløde du bedst kan lide dine cookies. 
+      - step: Afkøl dine cookies på en bagerist og opbevar dem efter afkøling i en lufttæt beholder.
+  - part: Tips!
+    steps:
+      - step: Jeg synes den perfekte cookie er blød og næsten flydende i midten (i lun tilstand), men sprød og lækker karamelliseret i kanten. I min ovn ligger bagetiden på 13 minutter, men jeg plejer at mærke på kanten af cookies'ne. De er klar, når kanten virker fast og fingeren ikke afsætter mærker.
+      - step: Frys dejen ned, så du altid har cookies til impulsive besøg eller lækkersulten fredag aften. Frys klumper af dejen ned på et skærebræt eller en tallerken. Når dejen er frossen kan du flytte klumperne over i en plastikbøtte. Brug f.eks. en kridttusch til at skrive temperatur og bagetid på låget af bøtten.
+      - step: Jeg laver ofte chokoladen i forskellige størrelser, så der både er små chokoladestrejf og store "chokoladesøer". Jeg hakker 100 g i meget store stykker, 200 g i almindelige grove stykker og hakker de sidste 100 g ret fint. Det giver efter min mening en god balance.
