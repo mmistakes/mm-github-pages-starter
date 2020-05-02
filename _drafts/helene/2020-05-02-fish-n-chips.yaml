@@ -1,0 +1,111 @@
+---
+name: Fish 'n' chips med ærtemos
+image: assets/images/posts/helene/fish-n-chips-header.jpeg
+yield: 4 personer
+prepTime: 60 minutter
+prepTime_iso: PT60M
+riseTime:
+riseTime_iso: 
+totalTime: 60 minutter
+totalTime_iso: PT60M
+description_short: Sprød fish 'n' chips med ærtemos
+keywords: "fisk, chips, kartofler, fritter, ærter, friture"
+cuisine: brittish
+ingredients:
+  #single:  
+  left: 
+      - part: Fritter
+        items:
+          - amount: 1 kg
+            name: kartofler
+            prep: skåret i både
+          - amount: 1/2 dL
+            name: olivenolie   
+          - amount: 1/4 tsk.
+            name: rosmarin
+          - amount: 1/2 tsk.
+            name: timian
+          - amount: 1 tsk.
+            name: havsalt
+          - amount: ca. 1/2 tsk.
+            name: friskkværnet peber
+
+      - part: Ærtemos       
+          - amount: 2 spk.
+            name: smør 
+          - amount: 250 g
+            name: ærter
+            perp: evt. frosne
+          - amount: "5"
+            name: mynteblade
+          - amount: 1/2
+            name: citron
+          - amount:
+            name: salt og peber
+  
+  right:
+      - part: Dej 
+          - amount: 200 g
+            name: hvedemel
+          - amount: 2,5 dL
+            name: kold øl
+          - amount: 1 spsk.
+            name: bagepulver
+          - amount: 1/2 tsk.
+            name: salt
+          - amount: ca. 1/2 tsk.
+            name: friskkværnet peber
+
+      - part: Fisk
+          - amount: 1 L
+            name: olie (f.eks. solsikke eller raps)
+          - amount: 1 dL
+            name: hvedemel
+          - amount: 500 g
+            name: filetter af hvid fisk (torsk, sej, lange, kuller)  
+
+directions:
+  - part:
+    steps:
+      - step: Tænd din ovn på 175 grader varmluft.
+
+
+  - part: Ærtemos
+    steps:
+      - step: Smelt **smøret** i en lille gryde.
+      - step: Tilføj **mynten og ærterne** og lad det simre i 5-10 minutter.
+      - step: Lav dejen imens.
+      - step: Når ærterne er færdige stavblendes de og smages til med  **citron, salt og peber**.
+
+  - part: Dej
+    steps: 
+      - step: Pisk **mel, øl, bagepulver, salt og peber** sammen i en skål til en ensartet dej.
+      - step: Dæk dejen til og lad den hvile 20-30 minutter, mens du arbejder videre.
+
+  - part: Fritter
+    steps:
+      - step: Skær **kartoflerne** i både og læg dem i et ovnfast fad
+      - step: Vend dem med **olie, rosmarin, timian, salt og peber**, til alle karofler er dækket.
+      - step: Sæt kartoflerne i den forvarmede ovn og bag dem i 30-35 minutter.
+
+  - part: Fisk
+    steps:
+      - step: Hæld **olien** i en tykbundet gryde og varm den langsomt op **uden** låg.
+      - step: Pak **fisken** ud og dup den evt. tør med køkkenrulle.
+      - step: Vend filletterne i **hvedemel**, så de er helt dækkede.
+      - step: Når olien er mellem 160-180 grader er den klar til brug.
+      - step: Dyp filetterne i dejen og check at de er helt svøbt i dej og sænk dem forsigtet ned i den varme olie.
+        substeps:
+          - substep: Du bliver formentlig nødt til at stege dine filetter af flere omgange. Både for at de ikke sætter sig sammen og for at temperaturen ikke sænkes for hurtigt.
+          - substep: Hold evt. de færdige filetter varme i ovnen med fritterne imens.
+      - step: Lad fisken stege i 5-8 minutter afhængig af størrelse. Tjek deres kernetemperatur, når du fornemmer, at de er ved at være færdige. Det anbefales at fisk når en temperatur på omkring 50 grader.
+
+  - part: Servering
+    steps:
+      - step: Server filetterne hurtigst muligt efter stegning med fritter og ærtemos.
+
+
+  - part: Tips!
+    steps:
+      - step: Sætter fisken sig fast på bunden af gryden? Så er olien nok for kold.
+      - step: Det er optimalt at lade olien være i nærheden af 160 grader, når du starter stegningen og være omkring 180 grader, når du afslutter din stegning.
