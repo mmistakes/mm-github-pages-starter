@@ -1,0 +1,40 @@
+---
+name: "Surdej uden madspild" 
+image: assets/images/posts/henrik/surdej-zerowaste-teaser.jpg
+description_short: "Surdej kan sagtens laves uden madspild og daglig pasning"
+keywords: "Surdej, Madspild, zero waste, nem surdej"
+cuisine: Danish
+yield: 1 bagning
+prepTime: 10 minutter
+prepTime_iso: PT10M
+riseTime: 10 timer
+riseTime_iso: PT10H
+totalTime:  10 minutter
+totalTime_iso: PT10M
+ingredients:
+  single: 
+  - part:  
+    items:
+      - amount: 15 g
+        name: Surdej
+        note: fra sidst du bagte, gemt i køleskabet
+      - amount: 25 g
+        name: hvedemel
+      - amount: 25 g
+        name: rugmel
+      - amount: 50 g 
+        name: lunkent vand
+        note: "ca 24-26&deg;"
+directions:
+  - part: 
+    steps: 
+      - step: "Opskriften er beregnet til at lave 100 gram surdej. Jeg vil anbefale at surdej svarende til mindst 20% af melvægten i den færdige dej. Så hvis du skal bage med 800 gram mel skal du bruge 160 gram surdej og gange derfor alle ingredienser med 1,6 såledet at det er 40 gram hvede og rugmel og 80 gram vand."
+        substeps: 
+          - substep: "Note: Målene er teorestiske og du kan komme til at opleve lidt svind, så det er en god ide at være lidt gavmild i hvert skridt. Mål fx hellere 26-27 gram af end 24 gram, så skulle det gå op."
+          - substep: "Note: Hævetiderne er angivet i et meget bredt spænd, så hvis du skal vente 10 timer kan du med fordel bruge lidt koldere vand og stille den lidt køligere."
+      - step: "Gå igang mindst 6 timer før bagning og tag surdejen ud af køleskabet. Lad lige glasset og dejen varme lidt op."
+      - step: "Mål halvdelen af ingredienserne af og kom dem ned i glasset til surdejen og rør rundt."
+      - step: "De næste 4-10 timer skal dejen stå lunt. Nogen bruger toppen af køleskabet, men det synes jeg kan blive for varmt. I stedet opbevarer jeg min surdej på nederste hylde i et overskab. Jeg holder så lyset der sidder under skabet tændt mens den hygger sig, hvilket giver en virkeligt god temperatur"
+      - step: "2-4 timer før bagning gentages processen fra punkt 3. Jo længere denne tid før bagning dette skridt udføres jo mere surdejssmag vil der være i dejen"
+      - step: "Når du skal bruge surdejen kan du bare hælde den ud af beholderen. Skrab ikke glasset med en dejskraber, for det der sidder tilbage skal gemmes til næste gang du skal lave surdej."
+
