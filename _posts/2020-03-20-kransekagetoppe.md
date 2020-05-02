@@ -130,6 +130,12 @@ recipe:
           substeps:
             - substep: Undervejs skal du dreje dit fad, så du kan holde øje med, at du ikke får et skævt tårn.
         - step: Pynt til sidst kuglen til toppen. Lad kransekagen tørre et par timer før servering.
+
+    - part: Tips!
+      steps:
+        - step:  Dejen bliver til 170 cm kransekage i alt. Hvis dine gæster er glade for kransekage, så bør du regne med ca. 15 cm til hver. Hvis dine gæster er mindre glade (eller kun tager én gang), så kan du trygt regne med 8-10 cm til hver.
+        - step: Hvis du skal lave til flere mennesker, så ganger du naturligvis bare kransekagemassen op og fortsætter med at veje af i portioner på 300 g, ruller den til 80 cm lange stænger og laver ringe, der er to centimeter større. Den næste skal så være 28 cm, 30 cm osv.
+        - step: Ringene kan sagtens holde sig i en lufttæt beholder eller pose i en dag eller to, så du kan trygt lave dem dagen før, de skal bruges. Jeg anbefaler dog, at du pynter og samler dine kransekager på dagen. Så bliver resultatet flottest.
    
 ---
 
