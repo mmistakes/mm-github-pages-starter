@@ -45,7 +45,8 @@ ingredients:
             name: salt og peber
   
   right:
-      - part: Dej 
+      - part: Dej
+        items: 
           - amount: 200 g
             name: hvedemel
           - amount: 2,5 dL
@@ -58,6 +59,7 @@ ingredients:
             name: friskkværnet peber
 
       - part: Fisk
+        items:
           - amount: 1 L
             name: olie (f.eks. solsikke eller raps)
           - amount: 1 dL
