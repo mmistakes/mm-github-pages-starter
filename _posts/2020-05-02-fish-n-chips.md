@@ -14,16 +14,16 @@ tags:
   - Friture
 permalink: /fish-n-chips/
 header:
-  teaser: assets/images/posts/helene/fish-n-chips-teaser.jpeg
-  overlay_image: assets/images/posts/helene/fish-n-chips-header.jpeg
+  teaser: assets/images/posts/helene/fish-n-chips-teaser.jpg
+  overlay_image: assets/images/posts/helene/fish-n-chips-header.jpg
   overlay_filter: 0.2 # 
   actions:
     - label: "Direkte til opskriften"
       url: "/fish-n-chips/#opskrift"
 
 gallery1:
-  - url: assets/images/posts/helene/Fish-n-chips-top-shot.jpeg
-    image_path: assets/images/posts/helene/Fish-n-chips-top-shot.jpeg
+  - url: assets/images/posts/helene/Fish-n-chips-top-shot.jpg
+    image_path: assets/images/posts/helene/Fish-n-chips-top-shot.jpg
     
 ---
 
