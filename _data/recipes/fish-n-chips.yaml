@@ -31,6 +31,7 @@ ingredients:
             name: friskkværnet peber
 
       - part: Ærtemos       
+        items:
           - amount: 2 spsk.
             name: smør 
           - amount: 250 g
