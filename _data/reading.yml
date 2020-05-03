@@ -2,8 +2,13 @@ lastupdate: September 3, 2019
 list:
   - year: "2020"
     books:
+      - title: Robert Chapman: A Biography
+        author: Robert L Peterson
+        date_read: May 2020
+        link: /book-reviews/robert-chapman
+        rating: 10/10
       - title: Where the Crawdad Sings
-        author: Delia
+        author: Delia Owens
         date_read: March 2020
-        link: /where-the-crawdad-sings/
+        link: /book-reviews/where-the-crawdad-sings/
         rating: 9/10

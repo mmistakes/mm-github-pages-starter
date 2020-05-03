@@ -5,7 +5,7 @@ categories:
   - blog
 tags:
   - book-reviews
-permalink: /where-the-crawdad-sings/
+permalink: /book-reviews/where-the-crawdad-sings/
 ---
 > Author: <cite><a href="http://www.google.com">Delia Mars</a></cite>
 
