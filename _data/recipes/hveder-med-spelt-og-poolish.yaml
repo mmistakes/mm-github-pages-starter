@@ -1,0 +1,111 @@
+---
+name: Hveder med spelt
+image: assets/images/posts/henrik/hveder-med-spelt-teaser.jpg
+description_short:  "Lækre hveder med spelt der giver en dejlig fyldig og varm smag, der passer perfekt sammen med kardemommen."
+keywords: "Hveder, store bededag, briocheboller, brioche, spelt"
+cuisine: Dansk
+yield: 16 Boller
+prepTime: 45 minutter
+prepTime_iso: PT45M
+riseTime: 10 timer
+riseTime_iso: 
+totalTime: 70 minutter
+totalTime_iso: PT70M
+ingredients:
+  #single:  
+  left: 
+      - part:  Bolledej
+        items:
+          - amount: 550 g 
+            name: hvedemel
+          - amount: 12 g   
+            name: salt     
+          - amount: 60 g 
+            name: sukker     
+          - amount: 60 g 
+            name: smør
+            prep: Varmet til stuetemperatur     
+          - amount: "2"
+            name: æg     
+          - amount: 200 ml 
+            name: mælk
+          - amount: 4 tsk
+            name: kardemomme            
+          
+  right:
+      # - part: Tangzhong
+      #   items:
+      #     - amount: 20 g 
+      #       name: hvedemel  
+      #     - amount: 30 g
+      #       name: vand
+      #     - amount: 60 g 
+      #       name: Sødmælk
+      - part:  Poolish 
+        items:
+          - amount: 100 g 
+            name: Fuldkorsspeltmel
+          - amount: 50 g 
+            name: hvedemel
+          - amount: 150 g 
+            name: vand ved stuetemperatur   
+          - amount: 0.5 - 3 g 
+            name: gær  
+            note: alt efter ønsket hævetid
+      - part: Pensling
+        items:
+          - amount: 1
+            name: æg
+          - amount: 1 knivspids
+            name: salt
+directions:
+  - part: Poolish
+    steps: 
+      - step: Bland vand og gær sammen i en beholder med låg og tilføj derefter fuldkorsspeltmelet 
+      - step: "Lad beholderen stå på køkkenbordet og fermentere alt efter hvor meget gær der er kommet i:"
+        substeps:
+          - substep: 3 g -> 1-2 timer
+          - substep: 1.5 g -> 3-4 timer
+          - substep: 0.75 g -> 7-8 timer
+          - substep: 0.25 g -> 12-15 timer
+      - step: Din poolish er klar når den har toppet og den begynder at falde lidt igen, hvilket man kan se som en aftegning på siden af glasset.
+  # - part: 
+  #   steps:
+  #     - step: "Tag smør og æg ud af køleskabet så de kan få stuetemperatur mens du laver tangzhong"
+  # - part: Tangzhong
+  #   steps:
+  #     - step: Bland **hvedemel, vand og sødmælk** i en gryde.  
+  #     - step: Varm blandingen op til ca 65 grader eller til den tykner. Sørg for at røre ofte da det tykner hurtigt i bunden.
+  #     - step: Når det er tyknet til tapetklisteragtig tykkelse sættes tangzhong'en til afkøling.
+  - part: Boller
+    steps: 
+      - step: Bland de tørre ingredienser sammen (**hvedemel, kardemomme, salt og sukker**)
+      - step: Bland **sødmælk, æg og polish** sammen
+      - step: Bland de tørre og de våde ingredienser sammen, så der kun mangler at blive tilsat smør og ælt godt. Brug en røremaskine hvis du har, beriget dej kan tage lang tid at ælte. 
+      - step: Når dejen slipper skålen eller bordet tilsættes **smøret** lidt af gangen og der æltes til dejen har optaget alt smøret og ikke længere er fedtet men mere glat. [Har du ikke en bagemaskine, kan du se her hvordan man får smøret optaget i dejen](https://www.bakewithjack.co.uk/videos/2019/6/20/bread-tip-203-how-to-get-butter-into-your-brioche-by-hand-3W3Rw)
+      - step: Jeg foretrækker at tage min dej ud på bordet og spænde den op inden jeg skal arbejde med den. Har du ikke styr på hvordan man gør kan de undlades, men du kan også se [Bake with Jack videoen fra forrige punkt.](https://www.bakewithjack.co.uk/videos/2019/6/20/bread-tip-203-how-to-get-butter-into-your-brioche-by-hand-3W3Rw)
+      - step: Nu kan du vælge at sætte dejen i køleskabet og langtidshæve dejen eller fortsætte. Det dej der er en del af din poolish har allerede langtidshævet, men yderligere tid i køleskabet gør den kun bedre.
+        substeps:
+          - substep: Kom dejen i en lufttæt beholder og lad den dejen stå på køkkenbordet i 1,5 timer.
+          - substep: Sæt dejen derefter i køleskabet gerne i mindst 8 timer.
+      - step: "Når dejen er varmet op skal hvederne formes. Når du former dejen skal du forsøge at bevare den oprindelige overside fra dejens hævning, da den blandt andet er bedst at arbejde med: "
+        substeps:
+          - substep: Kom lidt mel på køkkenbordet og læg dejen på bordet med oversiden nedad og mas den lidt fladere og firkantet.
+          - substep: Del dejen op i stykker på ca. 80 gr. (prøv at bevare så meget af oversiden som muligt på hvert stykke)
+          - substep: Kom lidt mel på den ene håndflade læg et stykke med oversiden nedad i hånden.
+          - substep: Derefter trækkes hver af hjørnerne ud og foldes 2/3 ind over resten af hveden. Dette gøres med hvert hjørne og gøres igen med hver af de nye hjørner.
+          - substep: Læg hveden med folderne nedad og med en åben hånd føres hveden i cirkler så den bliver trillet til en rund og opspændt kugle (gør det et sted på bordet uden mel, da den skal kunne hænge lidt fast for at blive spændt op).
+          - substep: Hvederne lægges med ca 0,5 cm mellemrum i en bradepande (ca 25 x 35 cm) med bagepapir eller smurt godt med smør.
+      - step: Kom husholdningsfilm eller let fugtet klæde over hvederne og lad dem efterhæve.
+        substeps:
+          - substep: På køkkenbordet skal de have have omkring 3 timer.
+          - substep: Hvis du bruger et lunt sted i omkring 2 timer (jeg bruger en ovn der har været tændt i 20 sekunder).
+          - substep: "OBS: Alle hjem variere, så husk at holde øje med hvederne og give dem mere tid hvis de har brug for det."
+      - step: Hvis du hæver hvederne i ovnen tages de ud 20 min før de skal bages og ovnen tændes på 180 grader. 
+      - step: Æggemassen til pensling piskes godt sammen, og hvederne penles grundigt.
+      - step: Hvederne sættes i ovnen (Her tilføjer jeg lidt damp ved at helde kogende vand i en bradepande i bunden af ovnen, men det kan undlades).
+      - step: Bag hvederne i 20-25 minutter eller til de har fået en flot brun overflade. 
+        substeps: 
+          - substep: Hvis der bruges damp skal den nok lukkes ud efter 12-15 minutter for at få en ordentlig bruning.
+      - step: Vend forsigtigt hvederne ud på hovedet på en rist eller skærebræt, tag bagepapir af hvis du har brugt det og vend dem straks tilbage på rist.
+      - step: Hvederne har godt af at køle 5-10 minutter, hvis du altså kan holde dig fra dem.
