@@ -1,94 +1,90 @@
 ---
-name: Hveder med spelt
-image: assets/images/posts/henrik/hveder-med-spelt-teaser.jpg
-description_short:  "Lækre hveder med spelt, der giver en dejlig fyldig og varm smag, der passer perfekt sammen med kardemommen."
-keywords: "Hveder, store bededag, briocheboller, brioche, spelt"
+name: Verdens bedste hveder
+image: assets/images/posts/henrik/verdens-bedste-hveder-teaser.jpg
+description_short:  I denne opskrift har jeg brugt alle de teknikker som jeg kunne forestille mig kunne gøre en hvede bedre. Der er surdej, poolish, tangzhong, spelt og så er de langtidshævet. Brug opskriften til inspiration til hvordan dine hvede kan blive bedre."
+keywords: "Hveder, store bededag, briocheboller, brioche, spelt, tangzhong, surdej, poolish"
 cuisine: Dansk
 yield: 15 Hveder
-prepTime: 45 minutter
-prepTime_iso: PT45M
+prepTime: 60 minutter
+prepTime_iso: PT1H
 riseTime: 10 timer
 riseTime_iso: 
-totalTime: 70 minutter
-totalTime_iso: PT70M
+totalTime: 90 minutter
+totalTime_iso: PT90M
 ingredients:
   #single:  
   left: 
       - part:  Hveder
         items:
-          - amount: 550 g 
+          - amount: 510 g 
             name: hvedemel
           - amount: 12 g   
             name: salt     
-          - amount: 60 g 
+          - amount: 70 g 
             name: sukker     
-          - amount: 60 g 
+          - amount: 70 g 
             name: smør
             prep: Varmet til stuetemperatur     
           - amount: "2"
             name: æg     
-          - amount: 200 ml 
+          - amount: 100 ml 
             name: mælk
-          - amount: 4 tsk
-            name: kardemomme            
-          
-  right:
-      # - part: Tangzhong
-      #   items:
-      #     - amount: 20 g 
-      #       name: hvedemel  
-      #     - amount: 30 g
-      #       name: vand
-      #     - amount: 60 g 
-      #       name: Sødmælk
-      - part:  Poolish 
-        items:
-          - amount: 100 g 
-            name: Fuldkorsspeltmel
-          - amount: 50 g 
-            name: hvedemel
-          - amount: 150 g 
-            name: vand ved stuetemperatur   
-          - amount: 0.5 - 3 g 
-            name: gær  
-            note: alt efter ønsket hævetid
+          - amount: 5 tsk
+            name: kardemomme 
+          - amount: 100 g
+            name: surdej
+            note: 100 % hydrering           
       - part: Pensling
         items:
           - amount: 1
             name: æg
           - amount: 1 knivspids
             name: salt
+  right:
+      - part:  Poolish 
+        items:
+          - amount: 150 g 
+            name: grahamsspeltmel
+          - amount: 170 g 
+            name: vand ved stuetemperatur   
+          - amount: 0.5 - 3 g 
+            name: gær  
+            note: alt efter ønsket hævetid
+      - part: Tangzhong
+        items:
+          - amount: 40 g 
+            name: hvedemel  
+          - amount: 60 g
+            name: vand
+          - amount: 120 g 
+            name: mælk
+
 directions:
   - part: Poolish
     steps: 
-      - step: Bland vand og gær sammen i en beholder med låg og tilføj derefter fuldkorsspeltmelet 
+      - step: Bland **vand og gær** sammen i en beholder med låg og tilføj derefter **speltmelet**
       - step: "Lad beholderen stå på køkkenbordet og fermentere alt efter hvor meget gær der er kommet i:"
         substeps:
-          - substep: 3 g -> 1-2 timer
+          - substep: 3 g -> 2 timer
           - substep: 1.5 g -> 3-4 timer
           - substep: 0.75 g -> 7-8 timer
           - substep: 0.25 g -> 12-15 timer
       - step: Din poolish er klar når den har toppet og den begynder at falde lidt igen, hvilket man kan se som en aftegning på siden af glasset.
-  # - part: 
-  #   steps:
-  #     - step: "Tag smør og æg ud af køleskabet så de kan få stuetemperatur mens du laver tangzhong"
-  # - part: Tangzhong
-  #   steps:
-  #     - step: Bland **hvedemel, vand og sødmælk** i en gryde.  
-  #     - step: Varm blandingen op til ca 65 grader eller til den tykner. Sørg for at røre ofte da det tykner hurtigt i bunden.
-  #     - step: Når det er tyknet til tapetklisteragtig tykkelse sættes tangzhong'en til afkøling.
+  - part: Tangzhong
+    steps:
+      - step: Bland **hvedemel, vand og mælk** i en gryde.  
+      - step: Varm blandingen op til ca 65 grader eller til den tykner. Sørg for at røre ofte da det tykner hurtigt i bunden.
+      - step: Når det er tyknet til tapetklisteragtig tykkelse sættes tangzhong'en til afkøling.
   - part: Boller
     steps: 
+      - step: "Tag smør og æg ud af køleskabet så de kan få stuetemperatur mens du laver tangzhong"
       - step: Bland de tørre ingredienser sammen (**hvedemel, kardemomme, salt og sukker**)
-      - step: Bland **sødmælk, æg og polish** sammen
-      - step: Bland de tørre og de våde ingredienser sammen, så der kun mangler at blive tilsat smør og ælt godt. Brug en røremaskine hvis du har, beriget dej kan tage lang tid at ælte. 
+      - step: Bland **mælk, æg, polish, surdej og tangzhong** sammen med de tørre ingredienser under omrøring, så der kun mangler at blive tilsat smør og ælt godt. Brug en røremaskine hvis du har, beriget dej kan tage lang tid at ælte. 
       - step: Når dejen slipper skålen eller bordet tilsættes **smøret** lidt af gangen og der æltes til dejen har optaget alt smøret og ikke længere er fedtet men mere glat. [Har du ikke en bagemaskine, kan du se her hvordan man får smøret optaget i dejen](https://www.bakewithjack.co.uk/videos/2019/6/20/bread-tip-203-how-to-get-butter-into-your-brioche-by-hand-3W3Rw)
-      - step: Jeg foretrækker at tage min dej ud på bordet og spænde den op inden jeg skal arbejde med den. Har du ikke styr på hvordan man gør kan de undlades, men du kan også se [Bake with Jack videoen fra forrige punkt.](https://www.bakewithjack.co.uk/videos/2019/6/20/bread-tip-203-how-to-get-butter-into-your-brioche-by-hand-3W3Rw)
-      - step: Nu kan du vælge at sætte dejen i køleskabet og langtidshæve dejen eller fortsætte. Det dej der er en del af din poolish har allerede langtidshævet, men yderligere tid i køleskabet gør den kun bedre.
-        substeps:
-          - substep: Kom dejen i en lufttæt beholder og lad den dejen stå på køkkenbordet i 1,5 timer.
-          - substep: Sæt dejen derefter i køleskabet, gerne i mindst 8 timer.
-      - step: "Nu skal hvederne formes. Når du former dejen skal du forsøge at bevare den oprindelige overside fra dejens hævning, da den er bedst at arbejde med og giver den flotteste overflade: "
+      - step: Jeg foretrækker at tage min dej ud på bordet og spænde den op inden jeg skal arbejde med den. Har du ikke styr på hvordan man gør kan du se [Bake with Jack videoen fra forrige punkt.](https://www.bakewithjack.co.uk/videos/2019/6/20/bread-tip-203-how-to-get-butter-into-your-brioche-by-hand-3W3Rw)
+      - step: Kom dejen i en lufttæt beholder og lad den dejen stå på køkkenbordet i 1,5 timer.
+      - step: Sæt dejen derefter i køleskabet, gerne i mindst 8 timer.
+      - step: "Næste skridt er at forme hvederne og når du gør det skal du forsøge at bevare den oprindelige overside fra dejens hævning, da den blandt andet er bedst at arbejde med: "
         substeps:
           - substep: Kom lidt mel på køkkenbordet og læg dejen på bordet med oversiden nedad og mas den lidt fladere og firkantet.
           - substep: Del dejen op i stykker på ca. 80 gr. (prøv at bevare så meget af oversiden som muligt på hvert stykke)
@@ -101,11 +97,12 @@ directions:
           - substep: På køkkenbordet skal de have have omkring 3 timer.
           - substep: Hvis du bruger et lunt sted i omkring 2 timer (jeg bruger en ovn der har været tændt i 20 sekunder).
           - substep: "OBS: Alle hjem variere, så husk at holde øje med hvederne og give dem mere tid hvis de har brug for det."
-      - step: Hvis du hæver hvederne i ovnen tages de ud 20 min før de skal bages og ovnen tændes på 180 grader. 
+      - step: Hvis du hæver hvederne i ovnen tages de ud 30 min før de skal bages. Tænd ovnen på 180 grader og sæt bagestål, pizzasten eller en almindelig bradepande ind i ovnen.
+      - step: Placer en bradepande eller lignende i bunden af ovnen og kog en halv liter vand.
       - step: Æggemassen til pensling piskes godt sammen, og hvederne pensles grundigt.
-      - step: Hvederne sættes i ovnen (Her tilføjer jeg lidt damp ved at hælde kogende vand i en bradepande i bunden af ovnen, men det kan undlades).
-      - step: Bag hvederne i 20-25 minutter eller til de har fået en flot brun overflade. 
+      - step: Hvederne sættes nu i ovnen direkte oven på bagestålet. Hæld kogende vand i bradepanden i bunden af ovnen for at skabe damp i ovnrummet.
+      - step: Bag hvederne i ca 20 minutter eller til de har fået en flot brun overflade. Hvis du er i tvivl om de er færdige kan du bruge et stegetermometer. De skal være 88&deg;
         substeps: 
-          - substep: Hvis der bruges damp skal den nok lukkes ud efter 12-15 minutter for at få en ordentlig bruning.
+          - substep: Dampen skal lukkes ud efter 12-15 minutter for at få en ordentlig bruning.
       - step: Vend forsigtigt hvederne ud på hovedet på en rist eller skærebræt, tag bagepapir af hvis du har brugt det og vend dem straks tilbage på rist.
       - step: Hvederne har godt af at køle 5-10 minutter, hvis du altså kan holde dig fra dem.
