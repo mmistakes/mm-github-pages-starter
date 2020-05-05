@@ -57,16 +57,16 @@ gallery6:
     image_path: assets/images/posts/henrik/verdens-bedste-hveder-usmor.jpg
     alt: "Dejlig luftig hvede" 
 ---
-Jeg besluttede mig for at nørde hveder for at få den bedst mulige smag og krumme i dem. Det er et lidt sjovt projekt, da hveder i virkeligheden bare er en mager brioche, så man kunne jo bare give gas med, æg, smør og sukker. Men nogen gange så er tradition ikke noget man skal pille ved og noget så syndigt ville jo aldrig gå på en helliget gud :wink: 
+Jeg besluttede mig for at nørde hveder for at få den bedst mulige smag og krumme i dem. Det er et lidt sjovt projekt, da hveder i virkeligheden bare er en mager brioche, så man kunne jo bare give gas med, æg, smør og sukker. Men nogle gange så er tradition ikke noget man skal pille ved og noget så syndigt ville jo aldrig gå på en helliget gud :wink: 
 
-{% include gallery id="gallery"  caption="De kan være svære at holde fingrerne fra..." %}
+{% include gallery id="gallery"  caption="De kan være svære at holde fingrene fra..." %}
 
-I stedet vil jeg arbejde med melet på flere forskellige måder. Min første tanke var at hvederne ville have godt af speltmel og jeg har også gjort det [i en tidligere opskrift.](/Hveder-med-spelt/). Der ud over skal dejen koldhæve og til at hæve dejen bruger jeg både surdej og poolish. Den bløde og saftige tekstur skal hjælpes på vej af gelatiniseret mel også kendt som tangzhong og når hvederne bages er det både med bagestål og damp i ovnen. 
+I stedet vil jeg arbejde med melet på flere forskellige måder. Min første tanke var at hvederne ville have godt af speltmel og jeg har også gjort det [i en tidligere opskrift.](/Hveder-med-spelt/). Derudover skal dejen koldhæve og til at hæve dejen bruger jeg både surdej og poolish. Den bløde og saftige tekstur skal hjælpes på vej af gelatiniseret mel også kendt som tangzhong og når hvederne bages, er det både med bagestål og damp i ovnen. 
 
 Det er ikke alle køkkener der har fx bagestål og surdej, og det hele kan nok virke lidt overdrevet. Jeg vil gå igennem hver del og forklare fordelene og så kan du bruge det til inspiration til, hvad man kan gøre når man skal lave hveder eller andre brød og boller. 
 {% include gallery id="gallery2"  caption="" %}
 ## Speltmel
-Først tager vi spelt (Triticum spelta), som er en gammel korntype med høj næringsværdi der giver god smag. Spelt opfører sig, i bagning, ret meget ligesom almindelig hvedemel, hvilket er vigtigt når man skal bage luftige hveder. Jeg bruger fuldkornsmel da det giver absolut mest smag. Melet skal helst være grahamsmel, hvilket betyder at det er fint malet. Har du en almindelig fuldkornsmel kan du sigte det igennem en si. Har du ikke spelt kan du bruge ølandshvede.
+Først tager vi spelt (Triticum spelta), som er en gammel korntype med høj næringsværdi der giver god smag. Spelt opfører sig, i bagning, ret meget ligesom almindelig hvedemel hvilket er vigtigt når man skal bage luftige hveder. Jeg bruger fuldkornsmel da det giver absolut mest smag. Melet skal helst være grahamsmel, hvilket betyder at det er fint malet. Har du en almindeligt fuldkornsmel kan du sigte det igennem en si. Har du ikke spelt kan du bruge ølandshvede.
 Jeg har en melmølle så jeg kan få friskmalet mel. Det ved jeg selvfølgeligt at de fleste ikke har, men der er en pointe i at sørge for at ens fuldkornsmel ikke står alt for længe, da fedtet i det harskner og smagen forsvinder. Så kig på holdbarheden af melet næste gang du køber fuldkornsmel og vælg et par varianter så du ikke står 6 forskellige mel der er 3 år for gamle.
 
 ## Poolish
@@ -74,7 +74,7 @@ I opskriften bruger jeg speltmelet til at lave en poolish. Poolish består af me
 {% include gallery id="gallery4"  caption="Poolish lavet på fuldkornsmel der giver en flot gylden farve" %}
 Poolish er det franske navn for en metode der har forskellige navne og små variationer rundt om i verden fx biga i Italien eller den britiske sponge. Navnet poolish henviser dog til de polske bagere der tog metoden med til Frankrig. 
 
-Den næste metode som er Tangzhong er fra en helt anden verdensdel. Metoden kendes også under navnet hokkaido metoden, da den kommer fra den japanske ø Hokkaido. I bund og grund er det en gelatinisering hvor stivelsen i melet svulmer op og indkapsler vandet. Det gør det muligt at bage med et langt højere vandindhold i dejen. Når dejen bages frigives vandet og bliver til damp og da der er mere af det, kommer der en kraftigere "hævning" i ovnen. Derudover vil der stadig være mere vand i krummen når hvederne er bagte og de holder sig derfor saftige længere. Det er rigtig smart med hveder, som jo oprindeligt først skulle spises dagen efter.
+Den næste metode som er Tangzhong er fra en helt anden verdensdel. Metoden kendes også under navnet hokkaido metoden, da den kommer fra den japanske ø Hokkaido. I bund og grund er det en gelatinisering hvor stivelsen i melet svulmer op og indkapsler vandet. Det gør det muligt at bage med et langt højere vandindhold i dejen. Når dejen bages, frigives vandet og bliver til damp og da der er mere af det, kommer der en kraftigere "hævning" i ovnen. Derudover vil der stadig være mere vand i krummen når hvederne er bagte og de holder sig derfor saftige længere. Det er rigtig smart med hveder, som jo oprindeligt først skulle spises dagen efter.
 
 {% include gallery id="gallery3"  caption="Fuld plade..." %}
 ## Surdej
@@ -83,9 +83,9 @@ Den korte historie om surdej er at den faktisk ikke er så forskellig fra en poo
 Normalt når jeg laver surdej bruger jeg halvt/halvt af hvedemel og rugmel, men til denne opskrift bruger jeg kun hvedemel, for rugmel er alt for tungt. 
 
 ## Koldhævning, formning og afbagning
-Det sidste skridt i udvikling af smag er at koldhæve dejen. Når man koldhæver dejen arbejder mælkesyrebakterier især gær langsomt og det given en anden smag. Gærcellerne udvikler amylase der nedbryder stivelse til sukker og der er et væld af andre enzymer der også får god tid til at udvikle smagen og teksturen i dejen. 
+Det sidste skridt i udvikling af smag er at koldhæve dejen. Når man koldhæver dejen, arbejder mælkesyrebakterier især gær langsomt og det given en anden smag. Gærcellerne udvikler amylase der nedbryder stivelse til sukker og der er et væld af andre enzymer der også får god tid til at udvikle smagen og teksturen i dejen. 
 
-Når hveder formes skal de spændes op. Det giver en flot overflade, men holder holder også på dampen og derved fugten i bollen. Har du ikke helt styr på, hvordan det skal gøres, kan jeg anbefale [denne guide fra bake with jack](https://www.youtube.com/watch?v=Gx2Sf3XqkhQ).
+Når hveder formes, skal de spændes op. Det giver en flot overflade, men holder holder også på dampen og derved fugten i bollen. Har du ikke helt styr på, hvordan det skal gøres, kan jeg anbefale [denne guide fra bake with jack](https://www.youtube.com/watch?v=Gx2Sf3XqkhQ).
 
 Når hvederne skal i ovnen, bruger jeg både bagestål op damp. Bagestålet giver en rigtig hurtig varmeoverførsel til dejen. Det betyder at dejen hæver hurtigere da glutennettet omkring luftboblerne ikke når at stivne før vandet er fordampet. Dampen gør oversiden af bollen fugtig, hvilket giver den mulighed for at strække sig mere og derved hæve mere. Samtidigt optager stivelsen en del af vandet og bliver hel glat. Det giver en flot blank overflade, men når det så fordamper igen bliver det helt sprødt.
 
