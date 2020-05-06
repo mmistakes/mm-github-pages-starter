@@ -27,6 +27,6 @@ The pandemic has deeply impacted the world economy. Though people are counting o
 
 **Monitor consumer behavior** – To stay in business one must stay relevant.
 
-Like Darwin said, its all about **'Survival of the fittest!'**  
+Like Darwin said, its all about **'Survival of the fittest!'**
 
 
