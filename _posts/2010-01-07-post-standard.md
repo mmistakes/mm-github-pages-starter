@@ -1,6 +1,6 @@
 ---
 title: "Organizations vs Covid-19"
-excerpt_separator: "<!--more-->"
+date: 2020-05-06
 categories:
   - Business blog
 tags:
