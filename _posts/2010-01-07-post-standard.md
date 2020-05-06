@@ -1,5 +1,5 @@
 ---
-title: "Post: Business"
+title: "Blog: Business"
 excerpt_separator: "<!--more-->"
 categories:
   - Post Formats
@@ -9,8 +9,8 @@ tags:
   - standard
 ---
 
-##Danger or Opportunity, which one will the crisis bring ?
-###The answer lies in Organizational Preparedness 
+**Danger or Opportunity, which one will the crisis bring ?**
+**The answer lies in Organizational Preparedness 
 
 The pandemic has deeply impacted the world economy. Though people are counting on a new vaccine to be the only measure that shall help flush out Covid-19, here are some measures that organizations will need to plan for 
 
@@ -22,4 +22,4 @@ The pandemic has deeply impacted the world economy. Though people are counting o
 **Alternate supply chains** – With National and state boundaries locked, logistics has become a great challenge. Organizations will need to have contingency plans to mitigate these supply gaps.  
 **Monitor consumer behavior** – To stay in business one must stay relevant.
 
-##Like Darwin said, the game is all about **‘Survival of the fittest’** ! 
+Like Darwin said, the game is all about **‘Survival of the fittest’** ! 
