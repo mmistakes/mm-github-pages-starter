@@ -1,12 +1,10 @@
 ---
-title: "Blog: Business"
+title: "Organization vs Covid-19"
 excerpt_separator: "<!--more-->"
 categories:
-  - Post Formats
+  - Business blog
 tags:
-  - Post Formats
-  - readability
-  - standard
+  - Blog Soldier
 ---
 
 **Danger or Opportunity, which one will the crisis bring ?**
