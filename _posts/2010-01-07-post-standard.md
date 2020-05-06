@@ -19,6 +19,6 @@ The pandemic has deeply impacted the world economy. Though people are counting o
 **Alternate supply chains** – With National and state boundaries locked, logistics has become a great challenge. Organizations will need to have contingency plans to mitigate these supply gaps.  
 **Monitor consumer behavior** – To stay in business one must stay relevant.
 
-Like Darwin said, the game is all about **‘Survival of the fittest’** ! 
+Like Darwin said, its all about **'Survival of the fittest!'**  
 
 
