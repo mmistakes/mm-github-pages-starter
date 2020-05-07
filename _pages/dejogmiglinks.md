@@ -7,6 +7,12 @@ author_profile: false
 # header:
 #   image: /assets/images/layout/broed.jpg
 gallery:
+  - url: /verdens-bedste-hveder/
+    image_path: "assets/images/posts/henrik/verdens-bedste-hveder-teaser.jpg"
+    alt: "Verdens bedste hveder"
+  - url: /Hveder-med-spelt/
+    image_path: "assets/images/posts/henrik/hveder-med-spelt-teaser.jpg"
+    alt: "Hveder med spelt"
   - url: /surdej-uden-madspild/
     image_path: "assets/images/posts/henrik/surdej-zerowaste-teaser.jpg"
     alt: "Surdej uden maspild"

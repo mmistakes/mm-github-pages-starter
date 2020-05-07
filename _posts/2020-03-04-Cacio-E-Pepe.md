@@ -34,10 +34,14 @@ recipe:
               name: pasta
             - amount: 2 tsk 
               name: hele peberkorn    
-            - amount: 75 g 
-              name: Pecorino romano (Evt. lignene ost som Grana Padano)     
+            - amount: 35 g 
+              name: Pecorino romano
+            - amount: 35 g 
+              name: Grana Padano eller Parmigiano-Reggiano
             - amount: 5-10 g 
               name: salt
+            - amount: 3 stk 
+              name: isterninger
   directions:
     - part: 
       steps: 
@@ -56,6 +60,7 @@ recipe:
             - substep: Hvis der er mere end 1.5 dl pasta vand tilovers hældes det overskydende fra og gemmes. 
         - step: Sovs (Tid til at udnytte det meget koncentrerede pasta vand)
           substeps:
+            - substep: Fjern panden fra varmen og tilsæt 3 isterninger til pastaen, og lad panden køle en smule af, så osten ikke klumper på grund af varmen når den tilsættes. 
             - substep: Riv Pecorinoen ned i pastaen lidt af gangen og rør i mens. 
             - substep: Hvis sovsen bliver for tyk kan der spædes op med en smule vand eller pastavand. 
             - substep: Når sovsen har den ønskede cremede konsistens tilføjes peberen, hvorefter der røres rundt. 
@@ -85,7 +90,7 @@ Her er det nok også nødvendigt at påpege at myten om at pasta skal koges i ri
 Pecorino Romano, som bliver brugt i denne ret, er en fåreost i modsætning til f.eks. Grana Padano, som laves på komælk. 
 
 
-Dette giver Pecorinoen en lidt mere "funky" smag, hvis man ikke er til dette, kan den selvfølgelig erstattes af en hård komælksost (Det skal dog nok noteres at italienere ville bande og svovler over dette, men dem har vi nok allerede mistet ved at koge pasta i en pande).
+Dette giver Pecorinoen en lidt mere "funky" smag, hvis man ikke er til dette, kan den selvfølgelig erstattes af en hård komælksost (Det skal dog nok noteres at italienere ville bande og svovle over ikke at have pecorino i, men dem har vi nok allerede mistet ved at koge pasta i en pande).
 Peberen varmes på panden for at frigive aromaen bedre. 
 
 

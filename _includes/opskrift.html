@@ -9,7 +9,11 @@
 <div>
     <center>
         <div style=" display: inline-block; width: 30%">
-            {% if recipe.yield %} <i class="fas fa-utensils"></i> {{recipe.yield | markdownify | remove: '<p>' | remove: '</p>'  }}  {% endif %}</div>   <div style=" display: inline-block; width: 30%">{%if recipe.prepTime %} <i class="fas fa-user-clock"></i> {{recipe.prepTime | markdownify | remove: '<p>' | remove: '</p>'  }} {% endif %}</div><div style=" display: inline-block; width: 30%"> {% if recipe.totalTime %} <i class="fas fa-clock"></i> {{recipe.totalTime | markdownify | remove: '<p>' | remove: '</p>'  }} {% endif %}</div>
+            {% if recipe.yield %} <i class="fas fa-utensils"></i> <br> Antal: <br> {{recipe.yield | markdownify | remove: '<p>' | remove: '</p>'  }}  {% endif %}</div>   
+            <div style=" display: inline-block; width: 30%">
+            {%if recipe.prepTime %} <i class="fas fa-user-clock"></i> <br> Tilberedning: <br> {{recipe.prepTime | markdownify | remove: '<p>' | remove: '</p>'  }} {% endif %}</div>
+            <div style=" display: inline-block; width: 30%"> 
+              {% if recipe.totalTime %} <i class="fas fa-clock"></i> <br> Samlet tid: <br> {{recipe.totalTime | markdownify | remove: '<p>' | remove: '</p>'  }} {% endif %}</div>
         </center>
 </div>
 <div id="opskrift" >
@@ -132,7 +136,7 @@
     {% if recipe.cuisine %}"recipeCuisine": "{{recipe.cuisine}}", {% endif %}
     {% unless recipe.keywords %}"keywords": [ {%for category in categories%}"{{category}}"{% if forloop.last != true or tags.size != 0 %},{%endif%} {% endfor %}{%for category in tags%}{% unless category == author %} "{{category}}" {% if forloop.last != true %},{%endif%}{%endunless%} {% endfor %} ],
     {% else %} "keywords": "{{recipe.keywords}}", {% endunless %}
-    "description": "{%if recipe.description_short %}{{recipe.description_short | replace: '"', '\\"' | remove: '**' | remove: '[' | remove: ']' }} {% else %}{{excerpt}}{% endif %}",
+    "description": "{%if recipe.description_short %}{{recipe.description_short }} {% else %}{{excerpt}}{% endif %}",
     {% if recipe.prepTime_iso %} "prepTime": "{{recipe.prepTime_iso}}", {% endif %}
     {% if recipe.totalTime_iso %}"totalTime": "{{recipe.totalTime_iso}}", {% endif %}
     {% if recipe.yield %}"recipeYield": "{{recipe.yield}}", {% endif %}
@@ -154,7 +158,8 @@
     var WinPrint = window.open('', '', 'left=0,top=0,width=800,height=900,toolbar=0,scrollbars=0,status=0');
     WinPrint.document.write('<h1>{{recipe.name}}</h1>');
     WinPrint.document.write('<img src=\"{{recipe.image | absolute_url}}\" alt=\"{{recipe.image | relative_url}}\" width=\"50%\">');
-    
+    WinPrint.document.write('<br> Antal: {{recipe.yield }} <br> Tilberedning: {{recipe.prepTime }}<br> Samlet tid:  {{recipe.totalTime }} ');
+
     WinPrint.document.write(prtContent.innerHTML);
     WinPrint.document.close();
     WinPrint.focus();
