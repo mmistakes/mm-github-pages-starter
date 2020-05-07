@@ -14,22 +14,22 @@ tags:
   - Hveder
 permalink: /nemme-hveder/
 header:
-  teaser: assets/images/posts/helene/nemme-hveder-teaser.jpeg
-  overlay_image: assets/images/posts/helene/nemme-hveder-header.jpeg
+  teaser: assets/images/posts/helene/nemme-hveder-teaser.jpg
+  overlay_image: assets/images/posts/helene/nemme-hveder-header.jpg
   overlay_filter: 0.2 # 
   actions:
     - label: "Direkte til opskriften"
       url: "/nemme-hveder/#opskrift"
 
 gallery1:
-  - url: assets/images/posts/helene/nemme-hveder-top-shot.jpeg
-    image_path: assets/images/posts/helene/nemme-hveder-top-shot.jpeg
+  - url: assets/images/posts/helene/nemme-hveder-top-shot.jpg
+    image_path: assets/images/posts/helene/nemme-hveder-top-shot.jpg
 
 gallery2:
-  - url: assets/images/posts/helene/nemme-hveder-rist.jpeg
-    image_path: assets/images/posts/helene/nemme-hveder-rist.jpeg
-  - url: assets/images/posts/helene/nemme-hveder-rist-side.jpeg
-    image_path: assets/images/posts/helene/nemme-hveder-rist-side.jpeg
+  - url: assets/images/posts/helene/nemme-hveder-rist.jpg
+    image_path: assets/images/posts/helene/nemme-hveder-rist.jpg
+  - url: assets/images/posts/helene/nemme-hveder-rist-side.jpg
+    image_path: assets/images/posts/helene/nemme-hveder-rist-side.jpg
     
 ---
 Her finder du nok bloggens simpleste opskrift på hveder, men ikke desto mindre er de smaddergode :wink:
