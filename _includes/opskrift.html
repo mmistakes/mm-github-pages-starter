@@ -146,8 +146,8 @@
       {% endfor %}{% endfor %}
     ],
     "recipeInstructions": [{% for part in recipe.directions  %}
-    {% for step in part.steps %}"{{step.step  | replace: '"', '\\"' | remove: '**' | remove: '[' | remove: ']' }} {% for substep in step.substeps %}
-    - {{substep.substep  | replace: '"', '\\"' | remove: '**' | remove: '[' | remove: ']' }} {% endfor %}" {% unless forloop.last == true and forloop.parentloop.last == true %},{% endunless %}
+    {% for step in part.steps %}"{{step.step | replace: ":", ": " | replace: '"', '\\"' | remove: '**' | remove: '[' | remove: ']' }} {% for substep in step.substeps %}
+    - {{substep.substep  | replace: ":", ": " | replace: '"', '\\"' | remove: '**' | remove: '[' | remove: ']' }} {% endfor %}" {% unless forloop.last == true and forloop.parentloop.last == true %},{% endunless %}
     {% endfor %}{% endfor %}
      ]
   }
