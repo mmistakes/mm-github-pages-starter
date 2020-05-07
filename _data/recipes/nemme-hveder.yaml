@@ -1,0 +1,64 @@
+---
+name: Nemme (men lækre) hveder
+image: 
+yield: 15 stk.
+prepTime: 30 minutter
+prepTime_iso: PT60M
+riseTime:
+riseTime_iso: 
+totalTime: 60 minutter + evt. en nat til hævning
+totalTime_iso: PT60M
+description_short: Bloggens nemmeste, men stadig lækre, hveder
+keywords: "hveder, St. bededag, hvededag"
+cuisine: Danish
+ingredients:
+  #single:  
+  left: 
+      - part: 
+        items:
+          - amount: 1 dl
+            name: vand
+          - amount: 15 g
+            name: gær   
+          - amount: 2 dl
+            name: sødmælk
+          - amount: "2"
+            name: æg
+          - amount: 60 g
+            name: sukker
+          - amount: 10 g
+            name: salt
+          - amount: 12 g
+            name: stødt kardemomme
+          - amount: 550-650 g
+            name: hvedemel
+          - amount: 60 g
+            name: smør
+            prep: i tern
+
+directions:
+  - part: Aftenen før
+    steps: 
+      - step: Hæld **vand** og **mælk** i en skål og opløs **gæret** i det.
+      - step: Rør **saltet** ud i væsken.
+      - step: Slå **æggene** ud og rør dem i.
+      - step: Tilføj **sukker, kardemomme** og **hvedemel** og ælt dejen grundigt sammen. Start med 550 g mel og tilføj kun mere, hvis det bliver nødvendigt. Dejen skal være samlet, jævn, glat og slippe siderne.
+      - step: Når dejen er klar tilføjer du **smøret** af to omgange. Sørg for, at den første portion er helt optaget inden du tilføjer den næste portion.
+      - step: Ælt grundigt.
+      - step: Lad dejen hvile tildækket i 30 minutter.
+      - step: Del dejen i 15 stykker og tril dem til kugler.
+      - step: Placer hvederne med 3-5 cm mellemrum i tre rækker med fem i hver på en bageplade.
+      - step: Dæk hvederne til og sæt dem i køleskabet natten over.
+  
+  - part: Næste morgen
+    steps:
+      - step: Tag hvederne ud af køleskabet og lad dem hæve til dobbelt størrelse tildækkede på køkkenbordet i ca. to timer.
+        substeps:
+          - substep: Varm imens ovnen til 180 grader 
+      - step: Bag hvederne i 15-20 minutter
+      - step: Nyd med tandsmør og god selskab
+
+
+  - part: Tips!
+    steps:
+      - step: Hvis din bageplade er for stor til dit køleskab, kan du placere hvederne på bagepapir på et skærebræt.
