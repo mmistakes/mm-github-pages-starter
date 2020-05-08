@@ -1,6 +1,6 @@
 ---
-name: Klassisk jordbærtærte
-image: teaserbillede
+name: "Klassisk jordbærtærte"
+image: 
 yield: 1 stk.
 prepTime: 60 minutter
 prepTime_iso: PT60M
@@ -72,56 +72,55 @@ ingredients:
             name: jordbær
 
 directions:
-  - part: Vaniljecreme
+  - part: "Vaniljecreme"
     steps: 
-      - step: Flæk **vaniljestangen** og skrab kornene ud af den.
-      - step: Slå **æggene** ud i en gryde og piske dem sammen.
-      - step: Tilsæt **maizena, sukker, sødmælk, vaniljekorn** og den tomme **vaniljestang**. 
-      - step: Varm langsomt cremen op ved middel varme og under omrøring med piskeris.
-      - step: Cremen begynder langsomt at tyknes. Når den når kogepunktet, skal du røre omhyggeligt, men lade den koge et minuts tid, for at smagen af maizena forsvinder.
-      - step: Hæld cremen over i en ren skål og lad den køle af på køkkenbordet i 15 minutters tid. Rør i den med mellemrum, så den køler hurtigere.
-      - step: Dæk herefter cremen med film og stil den i køleskabet (eller fryseren, hvis du har travlt)
+      - step: "Flæk **vaniljestangen** og skrab kornene ud af den."
+      - step: "Slå **æggene** ud i en gryde og piske dem sammen."
+      - step: "Tilsæt **maizena, sukker, sødmælk, vaniljekorn** og den tomme **vaniljestang**. "
+      - step: "Varm langsomt cremen op ved middel varme og under omrøring med piskeris."
+      - step: "Cremen begynder langsomt at tyknes. Når den når kogepunktet, skal du røre omhyggeligt, men lade den koge et minuts tid, for at smagen af maizena forsvinder."
+      - step: "Hæld cremen over i en ren skål og lad den køle af på køkkenbordet i 15 minutters tid. Rør i den med mellemrum, så den køler hurtigere."
+      - step: "Dæk herefter cremen med film og stil den i køleskabet (eller fryseren, hvis du har travlt)"
         substeps:
-          - substep: Når du dækker den lune creme til med film, er det en god idé at lade filmen ligge på overfladen. Det forebygger kondens, og altså vand på overfladen af cremen.
-      - step: Lad cremen køle helt ned inden brug. Det tager et par timer, men mindre hvis du rører i den med jævne mellemrum.
+          - substep: "Når du dækker den lune creme til med film, er det en god idé at lade filmen ligge på overfladen. Det forebygger kondens, og altså vand på overfladen af cremen."
+      - step: "Lad cremen køle helt ned inden brug. Det tager et par timer, men mindre hvis du rører i den med jævne mellemrum."
   
-  - part: Mørdej
+  - part: "Mørdej"
     steps:
-      - step: Slå **ægget** ud i et glas og pisk det sammen med en gaffel 
-      - step: Fyld **mel, flormelis, salt** og **smør** i en foodprocessor og blend til en ensartet masse - vi taler 10-20 sekunder afhængig af din maskine.
-      - step: Tilsæt **ægget** lidt ad gangen mens du blender. Dejen skal kun lige akkurat hænge sammen. 
+      - step: "Slå **ægget** ud i et glas og pisk det sammen med en gaffel "
+      - step: "Fyld **mel, flormelis, salt** og **smør** i en foodprocessor og blend til en ensartet masse - vi taler 10-20 sekunder afhængig af din maskine."
+      - step: "Tilsæt **ægget** lidt ad gangen mens du blender. Dejen skal kun lige akkurat hænge sammen. "
         substeps:
-          - substep: Hvis du har brugt alt dit æg og dejen endnu ikke hænger sammen, tilsæt da en smule koldt vand, men vær forsigtig!
-      - step: Saml hurtigt dejen til en klump og tryk den lidt flad.
-      - step: Lad dejen hvile i køleskabet i minimum 30 minutter.
-
-- part: Mazarinmasse
+          - substep: "Hvis du har brugt alt dit æg og dejen endnu ikke hænger sammen, tilsæt da en smule koldt vand, men vær forsigtig!" 
+      - step: "Saml hurtigt dejen til en klump og tryk den lidt flad."
+      - step: "Lad dejen hvile i køleskabet i minimum 30 minutter."
+  - part: "Mazarinmasse"
     steps: 
-      - step: Ælt **marcipan** og **sukker** sammen i en skål.
-      - step: Pisk **smørret** i massen til den er ensartet og luftig.
-      - step: Tilsæt ét **æg** af gangen og pisk grundigt efter hvert æg.
-      - step: Tilsæt **citronskal** og **mel** og pisk det ind i massen.
+      - step: "Ælt **marcipan** og **sukker** sammen i en skål."
+      - step: "Pisk **smørret** i massen til den er ensartet og luftig."
+      - step: "Tilsæt ét **æg** af gangen og pisk grundigt efter hvert æg."
+      - step: "Tilsæt **citronskal** og **mel** og pisk det ind i massen."
 
-- part: Bagning
+  - part: "Bagning"
     steps: 
-      - step: Tænd din oven på 200 grader varmluft.
-      - step: Rul den kolde mørdej ud til en stor cirkel mellem to stykker bagepapir/silikonemåtter
-      - step: Læg dejen over i din tærteform og tryk den forsigtigt på plads.
-      - step: For at få en pæn kant, kan du bruge en kniv til at skære overskydende dej fra eller rulle din kagerulle over kanten.
-      - step: Fordel mazarinmassen i formen og bag tærten i 20-25 minutter ved 200 grader.
+      - step: "Tænd din oven på 200 grader varmluft."
+      - step: "Rul den kolde mørdej ud til en stor cirkel mellem to stykker bagepapir/silikonemåtter"
+      - step: "Læg dejen over i din tærteform og tryk den forsigtigt på plads."
+      - step: "For at få en pæn kant, kan du bruge en kniv til at skære overskydende dej fra eller rulle din kagerulle over kanten."
+      - step: "Fordel mazarinmassen i formen og bag tærten i 20-25 minutter ved 200 grader."
         substeps:
-          - substep: Hold øje med tærten mod slutningen og dæk den med lidt folie, hvis den begynder at blive for mørk. 
-      - step: Tærten er færdig, når mazarintærten giver let efter når du trykker på den.
-      - step: Tag den ud af ovnen og lad den køle af.
+          - substep: "Hold øje med tærten mod slutningen og dæk den med lidt folie, hvis den begynder at blive for mørk." 
+      - step: "Tærten er færdig, når mazarintærten giver let efter når du trykker på den."
+      - step: "Tag den ud af ovnen og lad den køle af."
 
-- part: Samling
+  - part: "Samling"
     steps: 
-      - step: Smelt **chokoladen** og pensel den på bunden.
-      - step: Imens chokoladen størkner renser, nipper og halverer du dine **jordbær**.
-      - step: Pisk **fløden** til en let skum og pisk herefter vaniljecremen for at opløse eventuelle klumper, der har dannet sig under nedkølingen. 
-      - step: Vend flødeskum og vaniljecreme sammen og fordel det over den afkølede tærtebund.
-      - step: Pynt med jordbær.
+      - step: "Smelt **chokoladen** og pensel den på bunden."
+      - step: "Imens chokoladen størkner renser, nipper og halverer du dine **jordbær**."
+      - step: "Pisk **fløden** til en let skum og pisk herefter vaniljecremen for at opløse eventuelle klumper, der har dannet sig under nedkølingen. "
+      - step: "Vend flødeskum og vaniljecreme sammen og fordel det over den afkølede tærtebund."
+      - step: "Pynt med jordbær."
 
-  - part: Tips!
+  - part: "Tips!"
     steps:
-      - step: Hvis du ikke ejer en foodprocessor kan du sagtens samle din mørdej ved håndkræft. Smuldr smørret i de tørre ingredienser og bland det hurtigt sammen. Tilsæt herefter ægget lidt af gangen. Ved en mørdej vil man gerne undgå at dejen bliver for varm og æltet, da det giver en mere brød-agtig dej, der lettere trækker sig sammen og ikke bliver lige så sprød. Derfor er en foodprocessor et god værktøj. Hvis du bare arbejder hurtigt med hænderne, kan du dog sagtens få et godt resultat alligevel. 
+      - step: "Hvis du ikke ejer en foodprocessor kan du sagtens samle din mørdej ved håndkræft. Smuldr smørret i de tørre ingredienser og bland det hurtigt sammen. Tilsæt herefter ægget lidt af gangen. Ved en mørdej vil man gerne undgå at dejen bliver for varm og æltet, da det giver en mere brød-agtig dej, der lettere trækker sig sammen og ikke bliver lige så sprød. Derfor er en foodprocessor et god værktøj. Hvis du bare arbejder hurtigt med hænderne, kan du dog sagtens få et godt resultat alligevel. "

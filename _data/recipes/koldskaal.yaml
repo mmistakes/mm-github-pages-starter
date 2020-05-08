@@ -1,5 +1,5 @@
 ---
-name: Hjemmelavet koldskål
+name: "Hjemmelavet koldskål"
 image: assets/images/posts/helene/elefantfoedder-banner.jpeg
 yield: 6 personer
 prepTime: 15 minutter
@@ -33,13 +33,14 @@ ingredients:
 directions:
   - part: 
     steps:
-      - step: Flæk **vaniljestangen** på langs og skrab kornene ud. Bland dem med lidt af sukkeret for at løsne kornene fra hinanden.
-      - step: Pisk **æggeblommer, sukker** og **kornene fra vaniljestangen** lyse og luftige i en skål. Giv det god tid - gerne 5 minutter.
-      - step: Tilsæt **A38** og rør det forsigtigt ud i blandingen.
-      - step: Rør herefter **kærnemælken i**.
-      - step: Put **citronskiverne** og  **vaniljestangen** i.
-      - step: Lad koldskålen hvile i køleskabet i **minimum 1 time** og gerne længere
-      - step: Server med kammerjunkere, bær eller dit favorifyld.
-  - part: Tips!
+      - step: "Flæk **vaniljestangen** på langs og skrab kornene ud. Bland dem med lidt af sukkeret for at løsne kornene fra hinanden."
+      - step: "Pisk **æggeblommer, sukker** og **kornene fra vaniljestangen** lyse og luftige i en skål. Giv det god tid - gerne 5 minutter."
+      - step: "Tilsæt **A38** og rør det forsigtigt ud i blandingen."
+      - step: "Rør herefter **kærnemælken i**."
+      - step: "Put **citronskiverne** og  **vaniljestangen** i."
+      - step: "Lad koldskålen hvile i køleskabet i **minimum 1 time** og gerne længere"
+      - step: "Server med kammerjunkere, bær eller dit favorifyld."
+      
+  - part: "Tips!"
     steps:
-      - step: Hvis du bruger almindelig æg til opskriften, kan du bruge de overskydne æggehvider til at lave lækre [elefanfødder](/elefantfodder/).
+      - step: "Hvis du bruger almindelig æg til opskriften, kan du bruge de overskydne æggehvider til at lave lækre [elefanfødder](/elefantfodder/)."
