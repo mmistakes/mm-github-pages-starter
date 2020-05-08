@@ -1,0 +1,45 @@
+---
+name: Koldskål
+image: assets/images/posts/helene/elefantfoedder-banner.jpeg
+yield: 6 personer
+prepTime: 15 minutter
+prepTime_iso: PT15M
+riseTime:
+riseTime_iso: 
+totalTime: 1 timer 15 minutter
+totalTime_iso: PT75M
+description_short: Koldskål
+keywords: "koldskål, sommerdessert, æggeblommer, kærnemælk"
+cuisine: 
+ingredients:
+  #single:  
+  left: 
+      - part:  
+        items:
+          - amount: "7"
+            name: æggeblommer
+            prep: evt. pasteuriserede
+          - amount: 1,5 dl
+            name: rørsukker     
+          - amount: "1"   
+            name: vaniljestang
+          - amount: 6,5 dl
+            name: A38     
+          - amount: 1 liter 
+            name: kærnemælk
+          - amount: "2"
+            name: økologiske citroner
+            prep: skåret i 1 cm tykke skiver
+directions:
+  - part: 
+    steps:
+      - step: Flæk **vaniljestangen** på langs og skrab kornene ud. Bland dem med lidt af sukkeret for at løsne kornene fra hinanden.
+      - step: Pisk **æggeblommer, sukker** og **kornene fra vaniljestangen** lyse og luftige i en skål. Giv det god tid - gerne 5 minutter.
+      - step: Tilsæt **A38** og rør det forsigtigt ud i blandingen.
+      - step: Rør herefter **kærnemælken i**.
+      - step: Put **citronskiverne** og  **vaniljestangen** i.
+      - step: Lad koldskålen hvile i køleskabet i **minimum 1 time** og gerne længere
+      - step: Server med kammerjunkere, bær eller dit favorifyld.
+  - part: Tips!
+    steps:
+      - step: Hvis du bruger almindelig æg til opskriften, kan du bruge de overskydne æggehvider til at lave lækre [elefanfødder](/elefantfodder/).
