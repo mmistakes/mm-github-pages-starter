@@ -4,25 +4,24 @@ title:  "Verdens bedste hveder"
 author: Henrik
 #date:   2019-11-05 13:39:33 +0100
 categories:  
-  - Boller 
-  - Gærdej
-  - Brioche
-  - Opskrifter
+  - Morgenmad og Brunch 
   - Højtider
-  - Poolish
-  - Tangzhong
-  - Surdej  
+  - Snack  
 tags: 
   - Henrik
   - Poolish
+  - Højtider
+  - Gærdej
   - Prefermentering
   - Brioche
   - Hveder
+  - Opskrifter
   - Tangzhong
   - Surdej  
   - Koldhævet
+  - Snack
 permalink: /verdens-bedste-hveder/
-excerpt: "I denne opskrift har jeg brugt alle de teknikker som jeg kunne forestille mig kunne gøre en hvede bedre. Der er surdej, poolish, tangzhong, spelt og så er de koldhævet. Brug opskriften til inspiration til hvordan dine hvede kan blive bedre."
+excerpt: "Lækker grillmarinade der giver bland andet nakkekoteletter en fyldig og varm umamismag"
 header:
   teaser: assets/images/posts/henrik/verdens-bedste-hveder-teaser.jpg
   overlay_image: assets/images/posts/henrik/verdens-bedste-hveder-banner.jpg

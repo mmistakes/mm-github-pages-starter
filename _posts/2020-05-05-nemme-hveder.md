@@ -5,8 +5,9 @@ excerpt: "Nemme, men lækre, langtidhævede hveder"
 author: Helene
 #date:   2019-11-05 13:39:33 +0100
 categories:  
-  - Boller
-  - Gærdej
+  - Morgenmad og Brunch 
+  - Højtider
+  - Snack 
 tags: 
   - Helene
   - Brød
