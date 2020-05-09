@@ -62,8 +62,8 @@ ingredients:
           - amount: 25 g
             name: mel
 
-      - part:
-        items: Andet
+      - part: Andet
+        items:
           - amount: 100 g
             name: chokolade
           - amount: 2 dl
