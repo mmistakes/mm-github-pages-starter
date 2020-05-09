@@ -56,17 +56,17 @@ ingredients:
             prep: blødt
           - amount: "2"
             name: æg
-          - amount: "1"
+          - amount: "1/4-1/2"
             name: citron
-            prep: fintrevet skal
+            prep: fintrevet skal (efter smag)
           - amount: 25 g
             name: mel
 
       - part:
-        items: 
+        items: Andet
           - amount: 100 g
             name: chokolade
-          - amount: 1,5 dl
+          - amount: 2 dl
             name: fløde
           - amount: 500 g
             name: jordbær
