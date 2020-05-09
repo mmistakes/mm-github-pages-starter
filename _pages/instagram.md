@@ -7,6 +7,12 @@ author_profile: false
 # header:
 #   image: /assets/images/layout/broed.jpg
 gallery:
+  - url: /koldskaal/
+    image_path: assets/images/posts/helene/koldskaal-teaser.jpg
+    alt: Koldskål
+  - url: /klassisk-jordbaertaerte/
+    image_path: assets/images/posts/helene/jordbaertaerte-teaser.jpg
+    alt: "Jordbærtærte"
   - url: /nemme-hveder/
     image_path: assets/images/posts/helene/nemme-hveder-teaser.jpg
     alt: "Nemme hveder"
