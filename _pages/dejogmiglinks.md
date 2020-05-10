@@ -6,7 +6,10 @@ permalink: /dejogmig/
 author_profile: false
 # header:
 #   image: /assets/images/layout/broed.jpg
-gallery:
+gallery: 
+  - url: /Poelsehorn-med-poolish/ 
+    image_path: "assets/images/posts/henrik/PoolishPoelsehorn-teaser.jpg"
+    alt: "Pølsehorn med poolish" 
   - url: /verdens-bedste-hveder/
     image_path: "assets/images/posts/henrik/verdens-bedste-hveder-teaser.jpg"
     alt: "Verdens bedste hveder"
