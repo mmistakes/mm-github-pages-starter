@@ -4,9 +4,11 @@ layout: single
 type: grid
 permalink: /instagram/
 author_profile: false
-# header:
-#   image: /assets/images/layout/broed.jpg
+#Instagram link galleri
 gallery:
+  # - url: /grove-potato-buns/
+  #   image_path: assets/images/posts/henrik/grove-potato-buns-teaser.jpg
+  #   alt: Potato bun
   - url: /koldskaal/
     image_path: assets/images/posts/helene/koldskaal-teaser.jpg
     alt: Koldskål
