@@ -1,0 +1,31 @@
+---
+name: "Sprøde råsyltede rabarber" 
+image: assets/images/posts/henrik/raasyltede-rabarber-teaser.jpg
+description_short: "Den nemmeste metode til råsyltede rabarber der, der også giver de sprødeste og sødeste rabarber"
+keywords: "Forår, rabarber, dessert, råsyltet"
+cuisine: Danish
+yield: 6 portioner
+prepTime: 15 minutter
+prepTime_iso: PT15M
+totalTime:  15 minutter
+totalTime_iso: PT15M
+ingredients:
+  single: 
+  - part: Råsyltet rabarber
+    items:
+      - amount: 100-150 g
+        name: sukker
+        note: alt efter størrelse på bundt
+      - amount: 1 bundt
+        name: rabarber 
+      - amount: ½   
+        name: vaniljestang
+        note: eller 2 tsk vaniljesukker
+directions:
+  - part: Råsyltet rabarber
+    steps: 
+      - step: Skyl rabarber og skær dem i skiver på ca ½ centimeter og kom dem i en beholder, som fx et patentglas. Skold beholderen med kogende vand, så holder det sig i op til 14 dage. 
+      - step: Skrab vaniljekornene fra vaniljestangen ud i lidt at sukkeret
+      - step: Kom sukker, vaniljekorn og stang ned til rabarberne og bland det godt rundt så alle rabarber er dækket
+      - step: Lad rabarberne trække på køl i 2-3 dage, så er de klar til at blive spist 
+
