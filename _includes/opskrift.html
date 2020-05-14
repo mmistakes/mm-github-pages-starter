@@ -6,19 +6,19 @@
 <h1>{% if include.headline %}{{include.headline}}{% else %}Opskrift{% endif %}<span style="float:right;"><a id="printbutton" title="Print opskrift" class="btn btn--inverse btn--small"
   href="PleaseEnableJavascript.html" onclick="printversion();return false;"><i class="fas fa-print"></i>  Print</a></span></h1>
 <br>
-<div>
+<div style="text-align: justify; vertical-align: top;">
     <center>
-        <div style=" display: inline-block; width: 30%">
-            {% if recipe.yield %} <i class="fas fa-utensils"></i> <br> Antal: <br> {{recipe.yield | markdownify | remove: '<p>' | remove: '</p>'  }}  {% endif %}</div>   
-            <div style=" display: inline-block; width: 30%">
-            {%if recipe.prepTime %} <i class="fas fa-user-clock"></i> <br> Tilberedning: <br> {{recipe.prepTime | markdownify | remove: '<p>' | remove: '</p>'  }} {% endif %}</div>
-            <div style=" display: inline-block; width: 30%"> 
-              {% if recipe.totalTime %} <i class="fas fa-clock"></i> <br> Samlet tid: <br> {{recipe.totalTime | markdownify | remove: '<p>' | remove: '</p>'  }} {% endif %}</div>
-        </center>
+    {% if recipe.yield %}<div class="recipestats">  <i class="fas fa-utensils"></i> <br> Antal: <br> {{recipe.yield | markdownify | remove: '<p>' | remove: '</p>'  }}  </div>   {% endif %}
+    {% if recipe.prepTime %}<div class="recipestats">  <i class="fas fa-user-clock"></i> <br> Arbejdstid: <br> {{recipe.prepTime | markdownify | remove: '<p>' | remove: '</p>'  }} </div>{% endif %}
+    {% if recipe.cookTime %}<div class="recipestats">  <i class="fas fa-clock"></i> <br> Tilberedning: <br> {{recipe.cookTime | markdownify | remove: '<p>' | remove: '</p>'  }} </div>{% endif %}
+    {% if recipe.riseTime %}<div class="recipestats">  <i class="fas fa-clock"></i> <br> Hævetid: <br> {{recipe.riseTime | markdownify | remove: '<p>' | remove: '</p>'  }} </div>{% endif %}
+    {% if recipe.waitTime %}<div class="recipestats">  <i class="fas fa-clock"></i> <br> Hviletid: <br> {{recipe.waitTime | markdownify | remove: '<p>' | remove: '</p>'  }} </div>{% endif %}
+    {% if recipe.totalTime %}<div class="recipestats">  <i class="fas fa-clock"></i> <br> Total: <br> {{recipe.totalTime | markdownify | remove: '<p>' | remove: '</p>'  }} </div>{% endif %}
+    </center>
 </div>
 <div id="opskrift" >
 <h2>Ingredienser</h2> 
-<div style="vertical-align:top; width: 100%; line-height: 1; font-size: 0.8em">
+<div class="recipetext" style="vertical-align:top; width: 100%; line-height: 1; font-size: 0.8em">
 <div style=" width: 100%;  ">
 {% for part in recipe.ingredients.single %}
 <b>{{part.part | markdownify | remove: '<p>' | remove: '</p>' }}</b>
