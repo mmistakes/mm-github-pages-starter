@@ -13,20 +13,20 @@ tags:
   - Kage
 permalink: /hindbaersnitter/
 header:
-  teaser: assets/images/posts/helene/hindbaersnitter-teaser.jpeg
-  overlay_image: assets/images/posts/helene/hindbaersnitter-header.jpeg
+  teaser: assets/images/posts/helene/hindbaersnitter-teaser.jpg
+  overlay_image: assets/images/posts/helene/hindbaersnitter-header.jpg
   overlay_filter: 0.25 # 
   actions:
     - label: "Direkte til opskriften"
       url: "/hindbaersnitter/#opskrift"
 
 gallery1:
-  - url: assets/images/posts/helene/hindbaersnitter-ekstra1.jpeg
-    image_path: assets/images/posts/helene/hindbaersnitter-ekstra1.jpeg
+  - url: assets/images/posts/helene/hindbaersnitter-ekstra1.jpg
+    image_path: assets/images/posts/helene/hindbaersnitter-ekstra1.jpg
 
 gallery2:
-  - url: assets/images/posts/helene/hindbaersnitter-ekstra2.jpeg
-    image_path: assets/images/posts/helene/hindbaersnitter-ekstra2.jpeg
+  - url: assets/images/posts/helene/hindbaersnitter-ekstra2.jpg
+    image_path: assets/images/posts/helene/hindbaersnitter-ekstra2.jpg
 ---
 
 Hindbærsnitter er en skøn, nem og ret hurtig kage at bage, som stadig smager af massere af kærlighed. Den er sød, men også frisk.

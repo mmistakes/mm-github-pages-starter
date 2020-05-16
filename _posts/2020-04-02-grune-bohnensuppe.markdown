@@ -20,7 +20,7 @@ header:
 #Her kan man indsætte de billeder der skal være i galleriet. Man kan lave flere gallerier hvis man bare kalder dem noget andet
 
 ---
-Grønne bønnesuppe er en af de retter der ikke ser vildt godt ud, men som smager virkeligt godt. 
+Grønne bønnesuppe er en af de retter der ikke nødvendigvis ser vildt godt ud, men som smager virkeligt godt. 
 Grønne bønnesuppe er en fri oversættelse fra Grüne Bohnensuppe, som er en klassisk tysk ret, der som alle andre klassikere kan lave på tusinde måder. Denne opskrift er den vi er vokset op med, og selvom den er simpel giver krydderiet sar/bønneurt suppen virkeligt god smag. 
 Vi har haft en tradition med at spise grønne bønnesuppe lille juleaften, men den kan spises hele året.
 
