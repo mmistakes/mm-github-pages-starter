@@ -1,0 +1,58 @@
+---
+name: "Hindbærsnitter"
+image: 
+yield: 8-10 stk.
+prepTime: 15 minutter
+prepTime_iso: PT15M
+riseTime:
+riseTime_iso: 
+totalTime: 40 time
+totalTime_iso: PT40M
+description_short: Skønne hindbærsnitter og marcipan
+keywords: "hindbær, snitter, marcipan"
+cuisine: Danish
+ingredients:
+  #single:  
+  left: 
+      - part: 
+        items:
+          - amount: 225 g
+            name: hvedemel
+          - amount: 1 tsk.
+            name: bagepulver
+          - amount: 1/4 tsk.
+            name: salt
+          - amount: 100 g
+            name: smør
+            prep: i tern
+          - amount: 75 g
+            name: marcipan
+            prep: revet
+          - amount: 125 g
+            name: sukker
+          - amount: "1"
+            name: æg
+          - amount: 1 glas
+            name: hindbærmarmelade (eller anden marmelade efter humør)
+          - amount: 1 spsk.
+            name: perlesukker
+          - amount: 15 g
+            name: mandler
+            prep: skåret til splitter
+
+directions:
+  - part: 
+    steps: 
+      - step: Tænd din ovn på 180 grader varmluft.
+      - step: Bland **mel, bagepulver** og **salt** i en skål.
+      - step: Tilføj **smør** og **marcipan** og ælt det i dejen sammen.
+      - step: Put **sukker** og **æg** i dejen og ælt den sammen.
+      - step: Når massen er ensartet, samler du den i en tyk pølse og placerer den på et stykke bagepapir, der passer i størrelse til din bageplade.
+      - step: Rul snittedejen ud, så den er ca. lige så stor som dit bagepapir.
+      - step: Smør marmeladen ud på den ene halvdel af dejen på langs, men efterlad 1,5 cm til kanten.
+      - step: Tag fat i bagpapiret og brug det til af folde den ene halvdel af dejen og den del, der er marmelade på. Fjern forsigtigt bagepapiret.
+      - step: Brug en gaffel til at trykke kanterne sammen, så de holder på marmeladen under bagning.
+      - step: Drys toppen med med perlesukker og mandelsplitter og tryk dem en smule ned i dejen.
+      - step: Bag kagen ved 180 grade i 20-25 minutter.
+      - step: Når hindbærsnitten er færdig, flyttes den forsigtet til en bagerist, så den kan køle af.
+      - step: Skær kagen ud i 8-10 snitter. Trim evt. kanten fra, for et helt _clean_ look.
