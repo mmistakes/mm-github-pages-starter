@@ -86,7 +86,8 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
-
+    - label: Icons made by Freepik from www.flaticon.com
+      url: "https://www.flaticon.com/authors/freepik"
 defaults:
   # _posts
   - scope:
@@ -117,3 +118,11 @@ tag_archive:
 alternative_image: assets/images/layout/alternative.jpg
 #footer_scripts:
 #  - /assets/js/printversion.js
+
+repository  : HBreddam/hbreddam.github.io
+comments:
+  provider: "staticman_v2"
+  staticman:
+    branch: "master"
+    endpoint: https://breddamsmadstaticman.herokuapp.com/v3/entry/github/
+    
