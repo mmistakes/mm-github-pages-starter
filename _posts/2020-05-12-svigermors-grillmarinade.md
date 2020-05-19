@@ -14,7 +14,7 @@ tags:
   - Sommer
   - Kød
 permalink: /svigermors-grillmarinade/
-excerpt: "Lækker grillmarinade der giver bland andet nakkekoteletter en fyldig og varm umamismag"
+excerpt: "Lækker grillmarinade der giver nakkekoteletter og kyllingefileter en fyldig og varm umamismag"
 header:
   teaser: assets/images/posts/henrik/svigermors-grilmarinade/svigermors-grillmarinade-teaser.jpg
   overlay_image: assets/images/posts/henrik/svigermors-grilmarinade/svigermors-grillmarinade-header.jpg
@@ -22,7 +22,7 @@ header:
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
     - label: "Direkte til opskriften"
-      url: "/verdens-bedste-hveder/#opskrift"
+      url: "/svigermors-grillmarinade/#opskrift"
 
 gallery-teaser:
   - url: assets/images/posts/henrik/svigermors-grilmarinade/svigermors-grillmarinade-teaser.jpg
