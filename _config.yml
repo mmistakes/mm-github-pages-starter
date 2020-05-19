@@ -86,8 +86,6 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
-    - label: Icons made by Freepik from www.flaticon.com
-      url: "https://www.flaticon.com/authors/freepik"
 defaults:
   # _posts
   - scope:

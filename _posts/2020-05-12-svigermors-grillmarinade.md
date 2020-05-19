@@ -32,7 +32,7 @@ gallery-top:
   - url: assets/images/posts/henrik/svigermors-grilmarinade/svigermors-grillmarinade-top.jpg
     image_path: assets/images/posts/henrik/svigermors-grilmarinade/svigermors-grillmarinade-top.jpg
     alt: "Kød på grillen"
-
+comments: true
 ---
 
 Jeg blev først rigtigt introduceret til konceptet at grille da jeg mødte min svigerfamilie. De havde en gasgrill og den første sommer min kone og jeg var sammen blev der grillet meget. Jeg husker især nakkekoteletterne! Grillede nakkekoteletter er altid en god ting, men de her havde bare lige lidt ekstra smag… jeg var instant fan! :smile: I min svigerfamilie hed marinaden Jacobs grillmarinade, men jeg har aldrig mødt jacob, og nu er det jo nu egang sådan med opskrifter, at de kan skifte navn ud i det uendelige. Så for mig må den blive til svigermors grillmarinade, og så kan du jo kalde den hvad du vil, måske breddams grillmarinade eller bare verdens bedste grillmarinade?
