@@ -1,5 +1,5 @@
 ---
-layout: recipe
+layout: single
 title:  "Himmelske hindbærsnitter"
 excerpt: "Skønne hindbærsnitter med marcipan"
 author: Helene
