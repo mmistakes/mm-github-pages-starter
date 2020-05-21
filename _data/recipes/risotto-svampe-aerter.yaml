@@ -1,0 +1,75 @@
+---
+name: Risotto med svampe og ærter
+image: /assets/images/posts/kristian/Above.jpg
+description_short:  "Lækker cremet risotto, med svampe og ærter"
+keywords: "Risotto, Svampe, ærter"
+cuisine: Italiensk
+yield: 4 portioner
+prepTime: 15 minutter
+prepTime_iso: PT15M
+waitTime: 
+waitTime_iso: 
+riseTime: 
+riseTime_iso: 
+totalTime: 40 min
+totalTime_iso: PT40M
+ingredients:
+  #left
+    single: 
+        - part:  Risotto
+          items:
+            - amount: 500 g 
+              name: Risottoris eller grødris  
+            - amount: 400 g  
+              name: Champignon
+            - amount: 2 spsk.
+              name: Soya
+            - amount: 3-4 stilke  
+              name: Timian
+            - amount: 2 stk 
+              name: Løg
+            - amount: 2 stilke
+              name: Bladselleri
+            - amount: 4 fed 
+              name: Hvidløg
+            - amount: 1 stk  
+              name: Økologisk citron
+            - amount: 2 dL
+              name: Hvidvin
+            - amount: Boullionterninger eller fond svarende til 1.5 L
+              name: Hønseboullion 
+            - amount: 1.5 L
+              name: Kogende vand
+            - amount: 300g 
+              name: Ærter
+            - amount: 150g 
+              name: Grana Padano
+            - amount: 50g
+              name: Smør
+            - amount:
+              name: Salt og peber
+directions:
+    - part: Klargør ingredienser
+      steps: 
+        - step: Rens og snit champignon i både.
+        - step: Snit løg og bladselleri fint. 
+        - step: Riv osten og sæt den til side.
+        - step: Snit hvidløg fint.
+    - part: Steg champignon
+      steps:
+        - step: Steg champignon hårdt med soya og en smule salt i samme gryde som resten af retten skal laves i. 
+        - step: Når champignonen har taget farve, tilsættes timianen. 
+        - step: Sæt champignonen til side, så den ikke koges igennem i resten af retten. 
+    - part: Risottoen
+      steps:
+        - step: Steg løg og bladselleri til løgene er blanke.
+        - step: Tilføj ris og steg disse til gyldne. 
+        - step: Tilføj hønseboullionterningerne og hvidløg og lad det stege med kort uden at hvidløgen får farve. 
+        - step: Tilføj hvidvin for at deglacere og lad det koge fra. 
+        - step: Tilføj kogende vand løbende i takt med at det bliver optaget af risen og lad det koge i omtrent 10 minutter. 
+        - step: Riv halvdelen af citronskallen i risottoen. 
+        - step: Lad risene koge til de er blevet møre, men stadig har smule bid.
+        - step: Tilføj ærter og champignon og lad det varme igennem. 
+        - step: Vend osten og smør i risottoen lidt af gangen så den ikke klumper.
+        - step: Smag til med salt, peber, citronskal og citron.  
+        - step: Server med Grana Padano og timian eller persille.  r
