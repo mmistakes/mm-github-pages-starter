@@ -5,8 +5,8 @@ description_short:  "Lækker cremet risotto, med svampe og ærter"
 keywords: "Risotto, Svampe, ærter"
 cuisine: Italiensk
 yield: 4 portioner
-prepTime: 15 minutter
-prepTime_iso: PT15M
+prepTime: 
+prepTime_iso: 
 waitTime: 
 waitTime_iso: 
 riseTime: 
