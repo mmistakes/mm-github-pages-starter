@@ -21,12 +21,11 @@ tags:
   - Koldhævet
   - Snack
 permalink: /verdens-bedste-hveder/
-excerpt: "Lækker grillmarinade der giver bland andet nakkekoteletter en fyldig og varm umamismag"
+excerpt: "I denne opskrift har jeg brugt alle de teknikker som jeg kunne forestille mig kunne gøre en hvede bedre. Der er surdej, poolish, tangzhong, spelt og så er de koldhævet. Brug opskriften til inspiration til hvordan dine hvede kan blive bedre."
 header:
   teaser: assets/images/posts/henrik/verdens-bedste-hveder-teaser.jpg
   overlay_image: assets/images/posts/henrik/verdens-bedste-hveder-banner.jpg
   overlay_filter: 0.2 # 
-  #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
     - label: "Direkte til opskriften"
       url: "/verdens-bedste-hveder/#opskrift"

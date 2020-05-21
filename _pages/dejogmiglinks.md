@@ -7,6 +7,9 @@ author_profile: false
 # header:
 #   image: /assets/images/layout/broed.jpg
 gallery: 
+  - url: /raasyltede-rabarber/
+    image_path: "assets/images/posts/henrik/raasyltede-rabarber-teaser.jpg"
+    alt: "Råsyltede rabarber" 
   - url: /Poelsehorn-med-poolish/ 
     image_path: "assets/images/posts/henrik/PoolishPoelsehorn-teaser.jpg"
     alt: "Pølsehorn med poolish" 

@@ -5,12 +5,16 @@ description_short:  "I denne opskrift har jeg brugt alle de teknikker som jeg ku
 keywords: "Hveder, store bededag, briocheboller, brioche, spelt, tangzhong, surdej, poolish"
 cuisine: Dansk
 yield: 15 Hveder
-prepTime: 60 minutter
+prepTime: 60 min
 prepTime_iso: PT1H
+#cookTime:
+#cookTime_iso:
+#waitTime:
+#waitTime_iso:
 riseTime: 10 timer
-riseTime_iso: 
-totalTime: 90 minutter
-totalTime_iso: PT90M
+riseTime_iso: PT10H
+totalTime: 11 t 30 min
+totalTime_iso: PT11H30M
 ingredients:
   #single:  
   left: 
@@ -97,10 +101,10 @@ directions:
           - substep: På køkkenbordet skal de have have omkring 3 timer.
           - substep: Hvis du bruger et lunt sted i omkring 2 timer (jeg bruger en ovn der har været tændt i 20 sekunder).
           - substep: "OBS: Alle hjem variere, så husk at holde øje med hvederne og give dem mere tid hvis de har brug for det."
-      - step: Hvis du hæver hvederne i ovnen tages de ud 30 min før de skal bages. Tænd ovnen på 180 grader og sæt bagestål, pizzasten eller en almindelig bradepande ind i ovnen.
+      - step: Hvis du hæver hvederne i ovnen tages de ud 30 min før de skal bages. Tænd ovnen på 220&deg;  og sæt bagestål, pizzasten eller en almindelig bradepande ind i ovnen.
       - step: Placer en bradepande eller lignende i bunden af ovnen og kog en halv liter vand.
       - step: Æggemassen til pensling piskes godt sammen, og hvederne pensles grundigt.
-      - step: Hvederne sættes nu i ovnen direkte oven på bagestålet. Hæld kogende vand i bradepanden i bunden af ovnen for at skabe damp i ovnrummet.
+      - step: Hvederne sættes nu i ovnen direkte oven på bagestålet. Hæld kogende vand i bradepanden i bunden af ovnen for at skabe damp i ovnrummet. Skru ned på 180-200&deg alt efter hvor afbagte du ønsker hvederne.
       - step: Bag hvederne i ca 20 minutter eller til de har fået en flot brun overflade. Hvis du er i tvivl om de er færdige kan du bruge et stegetermometer. De skal være 88&deg;
         substeps: 
           - substep: Dampen skal lukkes ud efter 12-15 minutter for at få en ordentlig bruning.

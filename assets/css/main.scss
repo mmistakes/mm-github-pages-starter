@@ -60,3 +60,15 @@
         color: inherit;
       }
     }
+.recipetext {
+  vertical-align:top; 
+  width: 100%; 
+  line-height: 1; 
+  font-size: 0.8em;
+}
+
+.recipestats {
+  display: inline-block; 
+  width: 23%;
+  vertical-align: top;
+}

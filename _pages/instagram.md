@@ -9,6 +9,15 @@ gallery:
   # - url: /grove-potato-buns/
   #   image_path: assets/images/posts/henrik/grove-potato-buns-teaser.jpg
   #   alt: Potato bun
+  - url: /hindbaersnitter/
+    image_path: assets/images/posts/helene/hindbaersnitter-teaser.jpg
+    alt: Hindbærsnitter
+  - url: /svigermors-grillmarinade/
+    image_path: assets/images/posts/henrik/svigermors-grilmarinade/svigermors-grillmarinade-teaser.jpg
+    alt: Svigermors grillmarinade
+  - url: /hindbaersnitter/
+    image_path: assets/images/posts/helene/hindbaersnitter-teaser.jpg
+    alt: Hindbærsnitter
   - url: /koldskaal/
     image_path: assets/images/posts/helene/koldskaal-teaser.jpg
     alt: Koldskål

@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Verdens bedste burgerboller: Grove potato buns"
+title:  "Grove potato buns - Verdens bedste burgerboller"
 author: Henrik
 #date:   2019-11-05 13:39:33 +0100
 categories:  

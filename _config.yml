@@ -80,13 +80,9 @@ footer:
     - label: "Privatlivspolitik mm."
       icon: "fas fa-cookie-bite"
       url: "/cookies-med-mere/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/HBreddam"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
-
+      url: "https://instagram.com/breddamsmad"
 defaults:
   # _posts
   - scope:
@@ -99,6 +95,7 @@ defaults:
       comments: true
       share: true
       related: true
+      comments: true
   # _pages
   - scope:
       path: "_pages"
@@ -106,6 +103,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      
 
 category_archive:
   type: liquid
@@ -117,3 +115,17 @@ tag_archive:
 alternative_image: assets/images/layout/alternative.jpg
 #footer_scripts:
 #  - /assets/js/printversion.js
+
+repository  : HBreddam/hbreddam.github.io
+comments:
+  provider: "staticman_v2"
+  staticman:
+    branch: "master"
+    endpoint: https://breddamsmadstaticman.herokuapp.com/v2/entry/
+reCaptcha:
+  enabled: true
+  siteKey: "6Lc4k_kUAAAAAIHPnhStq7auOcVIOj7LOIS0_9FH"
+  # Encrypt reCaptcha secret key using Staticman /encrypt endpoint
+  # For more information, https://staticman.net/docs/encryption
+  secret: "Vzcm4mox25xwRh9GgIlUMkW4/uzTVsTcPknsj0YN4fPfbZVF9FxTnwAFSIKnsQw7tP39mSXHYRhQC3xRYyy5mwce2UF++fY10ZFy78MZhBEpDRyOltF1Yc3Gn8/ooqpGJNay4csfyUG1Z6zS0TqjBdA+uKNcFQwYp7dJQP9I0M6IkTyH+WouYE+ay8gNIoXgURr/H/SSgFt1uQcLO5OTMORhQoMfHZ+Y73J9tk2EprH4Kqs6pIHySuSVYvOeLN5zatYbuiAO/B6JDygSOuQH1+EN3abxH4f/jGHrCKmsMqPRhrkVBW1H+M3KMrUaaGQ66jyrsEeMKI6Jl6+mK/lTOPYA2cu8IivIQ5wfmAtuq/TeXl9pYnJ7VHgZmFD9Nj498ytancYVu6EM9F1NR9X/NxGzZFO/3kFF6DdA4LUhbSZZjaBM9lCYG68NAEDOUMg9blFUz8gkwk+NXtkyzr07Wgev4RnWn8N165GSO+gYHBvMxggacwgs42qT8++3B85eocz9FnNjjuFoC4kwir31eaUqN7W+81/A7QRMW2aiS70BmWMbieeBRIgCppIUjKdyGVNai+UT0ZjSYghowP6VaCNtdNcprY2VzNEXb0anv0qsLQWKfFVmB9cWC5uhOM94Xc8fi3I2+2TIPmbklJd/YFH2ZJ6s7FkAKytxHo1JN9Q="
+  

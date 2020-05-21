@@ -1,0 +1,41 @@
+---
+name: Svigermors grillmarinade
+image: assets/images/posts/henrik/svigermors-grilmarinade/svigermors-grillmarinade-teaser.jpg
+description_short:  "Lækker grillmarinade der giver nakkekoteletter og kyllingefileter en fyldig og varm umamismag"
+keywords: "Grill, marinade, kød, umami, sommer, low FODMAP"
+cuisine: Dansk
+yield: 6-12 koteletter
+prepTime: 10 minutter
+prepTime_iso: PT10M
+waitTime: 2 timer
+waitTime_iso: PT2H
+riseTime: 
+riseTime_iso: 
+totalTime: 2 t 10 min
+totalTime_iso: PT2H10M
+ingredients:
+  #left: 
+  single:  
+      - part:  Marinade
+        items:
+          - amount: "2"
+            name: hvidløg
+            prep: presset eller skåret i rynde skiver
+          - amount: 75 ml   
+            name: olie     
+          - amount: 25 ml 
+            name: soja     
+          - amount: 2 tsk
+            name: pabrika    
+          - amount: 2 tsk
+            name: salt     
+          - amount: 3 cm 
+            name: ingefær 
+            prep: fint revet
+directions:
+ - part:
+   steps: 
+      - step: Riv ingefær fint og pres hvidløg eller skær det i tynde skiver for et mere low fodmap grill marinade (hvis du har brug for det).
+      - step: Bland alle indredienserne sammen og hvis du har brugt hvidløg i tynde skiver kan du lade den trække lidt.
+      - step: Mariner kødet i en pose i mindst 2 timer. Kødet kan ligge i op til 2 dage, men der er ikke meget effekt når du kommer over et par timer.
+      - step: Grill kødet og nyd den gode smag.
