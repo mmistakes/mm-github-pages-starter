@@ -48,7 +48,7 @@ Min oprindelige opfattelse var at svinekød ikke var særligt rigt på umami, og
 
 Fun fact: Modermælk har 15 gange så meget umami som komælk og i forsøg drikker babyer gerne umamiberiget grønsagsuppe, mens de vender sig væk fra den uberigede. Så det er intet under at køerne er tilfredse med at spise græs, mens vi gennem livet jagter det næste umami fix. :smile:
 
-Du kan læse meget mere om umami på [umamiinfo.com](umamiinfo.com) og gå på opdagelse i deres database over umamiholdige fødevarer.
+Du kan læse meget mere om umami på [umamiinfo.com](https://umamiinfo.com) og gå på opdagelse i deres database over umamiholdige fødevarer.
 
 ## Krydderier og sprængning
 Det er selvfølgeligt ikke kun umami der gør marinade lækker. For ud over umami indeholder soya en masse salt, så mens kødet ligger og trækker, bliver det “sprængt”. Sprængningen tillader mere marinade at komme ind i mellem de individuelle fibre i kødet og saltet gør også fibrene bedre til at holde på det vand der allerede er i kødet under stegning.
