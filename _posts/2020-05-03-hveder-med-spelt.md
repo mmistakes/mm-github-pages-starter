@@ -17,7 +17,7 @@ tags:
   - Brioche
   - Hveder
 permalink: /Hveder-med-spelt/
-excerpt: "Lækre hveder med spelt der giver en dejlig fyldig varm smag, der passer perfekt sammen med kardemommen."
+excerpt: "Lækre hveder med spelt, der giver en dejlig fyldig varm smag, der passer perfekt sammen med kardemommen."
 header:
   teaser: assets/images/posts/henrik/hveder-med-spelt-teaser.jpg
   overlay_image: assets/images/posts/henrik/hveder-med-spelt-banner.jpg

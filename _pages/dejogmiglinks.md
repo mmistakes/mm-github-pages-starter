@@ -7,6 +7,9 @@ author_profile: false
 # header:
 #   image: /assets/images/layout/broed.jpg
 gallery: 
+  - url: /foedselsdagsboller-med-tangzhong/
+    image_path: assets/images/posts/henrik/fodselsdagsbollerMedTangzhong-teaser.jpg
+    alt: "Fødselsdagsboller med tangzhong"
   - url: /raasyltede-rabarber/
     image_path: "assets/images/posts/henrik/raasyltede-rabarber-teaser.jpg"
     alt: "Råsyltede rabarber" 
