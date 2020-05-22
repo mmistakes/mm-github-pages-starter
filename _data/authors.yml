@@ -3,7 +3,11 @@ Henrik:
   name        : "Henrik Bøgedal Breddam"
   bio         : "Brød og børnefamiliemad"
   avatar      : "/assets/images/layout/henrik.jpg"
+  home        : "/tags/#henrik"
   links:
+    - label: "Henriks opskrifter"
+      icon: "fas fa-bread-slice"
+      url: "/tags/#henrik"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/Hbreddam"
@@ -15,22 +19,24 @@ Helene:
   name        : "Helene Nissen Breddam"
   bio         : "Mad, kager og søde sager"
   avatar      : "/assets/images/layout/helene.jpg" 
-  # links:
-  #   - label: "Twitter"
-  #     icon: "fab fa-fw fa-twitter-square"
-  #     url: "https://twitter.com/"
-  #   - label: "Instagram"
-  #     icon: "fab fa-fw fa-instagram"
-  #     url: "https://www.instagram.com/" 
+  home        : "/tags/#helene"
+  links:
+    - label: "Helenes opskrifter"
+      icon: "fas fa-cookie-bite"
+      url: "/tags/#helene"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/breddamsmad" 
       
 Kristian:
   name        : "Kristian Nissen Breddam"
   bio         : "Pasta med peber"
   avatar      : "/assets/images/layout/kristian.jpg"
-  # links:
-  #   - label: "Twitter"
-  #     icon: "fab fa-fw fa-twitter-square"
-  #     url: "https://twitter.com/"
+  home        : "/tags/#kristian"
+  links:
+    - label: "Kristians opskrifter"
+      icon: "fas fa-pizza-slice"
+      url: "/tags/#kristian"
   #   - label: "Instagram"
   #     icon: "fab fa-fw fa-instagram"
   #     url: "https://www.instagram.com/" 
