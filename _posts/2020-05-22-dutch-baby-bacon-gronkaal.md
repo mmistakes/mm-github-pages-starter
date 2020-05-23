@@ -16,6 +16,7 @@ excerpt: "Dutch baby er omelettens instagramvenlig afløser. Den er flot, lække
 header:
   teaser: assets/images/posts/henrik/dutch-baby-m-bacon-gronkaal/dutch-baby-m-bacon-gronkaal-teaser.jpg
   overlay_image: assets/images/posts/henrik/dutch-baby-m-bacon-gronkaal/dutch-baby-m-bacon-gronkaal-header.jpg
+  og_image: assets/images/posts/henrik/dutch-baby-m-bacon-gronkaal/dutch-baby-m-bacon-gronkaal-OG.jpg
   overlay_filter: 0.2 # 
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
