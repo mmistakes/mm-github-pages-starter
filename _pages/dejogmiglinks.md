@@ -7,6 +7,9 @@ author_profile: false
 # header:
 #   image: /assets/images/layout/broed.jpg
 gallery: 
+  - url: /dutch-baby-m-bacon-gronkaal/
+    image_path: assets/images/posts/henrik/dutch-baby-m-bacon-gronkaal/dutch-baby-m-bacon-gronkaal-teaser.jpg
+    alt: "Dutch baby med bacon og grønkål"
   - url: /foedselsdagsboller-med-tangzhong/
     image_path: assets/images/posts/henrik/fodselsdagsbollerMedTangzhong-teaser.jpg
     alt: "Fødselsdagsboller med tangzhong"
