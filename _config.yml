@@ -30,7 +30,7 @@ remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+paginate_path: opskrifter/page:num/
 timezone: Europe/Copenhagen
 locale: da
 header:
@@ -112,7 +112,14 @@ tag_archive:
   type: liquid
   path: /tags/
 
+collections:
+  category:
+    output: true
+    permalink: /:collection/:path/
+
 alternative_image: assets/images/layout/alternative.jpg
+
+
 #footer_scripts:
 #  - /assets/js/printversion.js
 

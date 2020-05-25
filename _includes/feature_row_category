@@ -1,0 +1,21 @@
+{% assign category_name = include.category%}
+{% if include.limit %}
+  {% assign in_limit = include.limit%}
+{% else %}
+  {% assign in_limit = site.categories[category_name] | size %}
+{%endif%}
+{% if include.headline != "false" %}
+<h1 class="category-head"><a href="/category/{{category_name |downcase |replace: ' ', '-'}}"  class="unstyled" >{{ category_name }}</a></h1>
+{%endif%}
+
+{%unless (site.categories[category_name] | size)  != 0 %}
+Kategorien er ind til videre tom...
+{%endunless%}
+<div class="feature__wrapper">
+
+  {% for post in site.categories[category_name] | limit: in_limit %}
+
+    {%include feature_item post=post %}
+  {% endfor %}
+
+</div>

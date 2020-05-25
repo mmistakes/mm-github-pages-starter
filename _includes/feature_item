@@ -1,0 +1,32 @@
+{% assign post = include.post%}
+{% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% capture f_url %}{{ post.permalink | relative_url }}{% endcapture %}
+
+<div class="feature__item">
+    <div class="archive__item">
+        <div class="archive__item-teaser">
+        <a href="{{ f_url }}" class="linked_image">
+        {% if post.header.teaser %}
+        <img src="{{ teaser | relative_url }}">
+        {% else %}
+        <img src="{{site.alternative_image | relative_url}}">
+        {% endif %}
+        </a>
+        </div>
+    
+
+    <div class="archive__item-body">
+        <a href="{{ f_url }}" class="unstyled"><h2 class="archive__item-title">{{ post.title }}</h2></a>
+        {% if post.categories %}
+        <div class="categoryListing"><p>{% for category in post.categories %}{{category }}{% if forloop.last != true %} 	&ndash; {% endif %}
+        {% endfor %}</p></div>
+        {% endif %}
+        
+        {% if post.excerpt %}
+        <div class="archive__item-excerpt">
+            {{ post.excerpt | markdownify | strip_html | truncatewords: 25 }}
+        </div>
+        {% endif %}
+    </div>
+    </div>
+</div>

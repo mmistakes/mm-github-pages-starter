@@ -15,7 +15,7 @@ ingredients:
   single: 
   - part:  
     items:
-      - amount: 75 g
+      - amount: 75 g  
         name: Sigtet ølandshvedemel
       - amount: 25 g 
         name: rugmel
@@ -25,9 +25,10 @@ ingredients:
         name: salt
       - amount: 160 g 
         name: frisk surdej
-      - amount: 300 g
+      - amount: 300-350 g
         name: vand
-        note: ca 26&deg;
+        note: 65-75% hydrering, vælg hvad du er tryg ved
+        prep: ca 26&deg;
       - amount:  1 dl
         name: blå birkes
         prep: i en dyb tallerken
