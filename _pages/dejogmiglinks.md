@@ -7,6 +7,9 @@ author_profile: false
 # header:
 #   image: /assets/images/layout/broed.jpg
 gallery: 
+  - url: /grove-potato-buns/
+    image_path: assets/images/instagram/potatobuns-gluten.jpg
+    alt: "Grove potato-buns"
   - url: /surdejsrundstykker/
     image_path: assets/images/instagram/surdejsrundstykker-sesam.jpg
     alt: "Surdejsrundstykker"
