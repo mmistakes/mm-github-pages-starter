@@ -1,19 +1,15 @@
 ---
-title: "Breddams Mad"
+title: "Aftensmad"
 layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.15"
   overlay_image: /assets/images/layout/broed.jpg
-  actions:
-    - label: "Se alle opskrifterne"
-      url: "/opskrifter/"
 excerpt: ""
 
 ---
-<h1>Nyeste opskrifter</h1>
 
-{% include feature_row_frontpage limit=6 %}
+{% include feature_row_category category="Aftensmad" %}
 
 <!--
 {% include feature_row id="feature_row2" type="left" %}

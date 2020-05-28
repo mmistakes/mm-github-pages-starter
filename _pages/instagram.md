@@ -9,6 +9,9 @@ gallery:
   # - url: /grove-potato-buns/
   #   image_path: assets/images/posts/henrik/grove-potato-buns-teaser.jpg
   #   alt: Potato bun
+  - url: /surdejsrundstykker/
+    image_path: assets/images/instagram/surdejsrundstykker-sesam2.jpg
+    alt: "Surdejsrundstykker"
   - url: /hindbaersnitter/
     image_path: assets/images/posts/helene/hindbaersnitter-teaser.jpg
     alt: Hindbærsnitter
