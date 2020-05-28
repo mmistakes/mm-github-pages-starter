@@ -5,14 +5,13 @@ author: Helene
 #date:   2019-11-05 13:39:33 +0100
 categories:  
   - Dessert
-  - Søde snacks
-  - Rester
-  - Chokolade  
+  - Kage og bagværk
 tags: 
   - Helene
   - Marengs
   - Dessert
   - Chokolade
+  - Rester
 permalink: /elefantfodder/
 excerpt: "Marengs med chokolade og et strejf af havsalt"
 header:
