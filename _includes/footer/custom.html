@@ -16,9 +16,10 @@ window.cookieconsent.initialise({
     }
   },
   revokable:true,
-  "type": "opt-in",
+  "type": "info",
   "content": {
     "message": "Cookies! Ja vi bager lækre cookies og vi bruger dem også på siden her.",
+    "dismiss": "Mmmh... cookies! Ja tak!",
     "allow": "Coookies, ja tak!",
     "deny": "Nej tak...",
     "link": "Få mere at vide!",
@@ -34,7 +35,7 @@ window.cookieconsent.initialise({
    
     if (type == 'opt-out' && !didConsent) {
     // disable cookies
-        alert("sometext2 disable");
+       
 
     }
     },

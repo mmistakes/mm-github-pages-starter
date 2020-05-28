@@ -4,18 +4,17 @@ title:  "Smagfulde hveder med spelt"
 author: Henrik
 #date:   2019-11-05 13:39:33 +0100
 categories:  
-  - Boller 
-  - Gærdej
-  - Brioche
-  - Opskrifter
-  - Højtider
-  - Poolish  
+  - Kage og bagværk  
 tags: 
   - Henrik
   - Poolish
   - Prefermentering
   - Brioche
   - Hveder
+  - Boller 
+  - Gærdej
+  - Opskrifter
+  - Højtider 
 permalink: /Hveder-med-spelt/
 excerpt: "Lækre hveder med spelt, der giver en dejlig fyldig varm smag, der passer perfekt sammen med kardemommen."
 header:

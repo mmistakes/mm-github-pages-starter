@@ -1,8 +1,9 @@
----
-layout: archive
+--- 
+layout: splash
 ---
 
 {{ content }}
+
 <!--
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 -->
@@ -11,9 +12,13 @@ layout: archive
 {% else %}
   {% assign posts = site.posts %}
 {% endif %}
+<div class="feature__wrapper">
 
-{% for post in posts %}
-  {% include archive-single-opskrifter.html %}
-{% endfor %}
+  {% for post in posts %}
+
+  {%include feature_item post=post %}
+  {% endfor %}
+
+</div>
 
 {% include paginator.html %}

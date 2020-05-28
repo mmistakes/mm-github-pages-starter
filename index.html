@@ -6,20 +6,18 @@ header:
   overlay_filter: "0.15"
   overlay_image: /assets/images/layout/broed.jpg
   actions:
-    - label: "Se alle opskrifterne"
-      url: "/opskrifter/"
+    - label: "Find opskrifter"
+      url: "/kategorier/"
 excerpt: ""
 
 ---
-<h1>Nyeste opskrifter</h1>
+<a href="/opskrifter/"><h1>Nyeste opskrifter</h1></a>
 
-{% include feature_row_frontpage limit=6 %}
+{% include feature_row_frontpage limit=3 %}
+<a href="/henrik/"><h1>Nyeste post fra Henrik:</h1></a>
+{% include feature_row_author id="feature_row2" type="left" author="Henrik" %}
+<a href="/helene/"><h1>Nyeste post fra Helene:</h1></a>
+{% include feature_row_author id="feature_row3" type="right" author="Helene" %}
+<a href="/kristian/"><h1>Nyeste post fra Kristian:</h1></a>
+{% include feature_row_author id="feature_row4" type="left" author="Kristian"%}
 
-<!--
-{% include feature_row id="feature_row2" type="left" %}
-
-{% include feature_row id="feature_row3" type="right" %}
-
-{% include feature_row id="feature_row4" type="center" %}
-
--->

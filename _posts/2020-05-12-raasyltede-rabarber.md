@@ -5,8 +5,8 @@ author: Henrik
 #date:   2019-11-05 13:39:33 +0100
 categories:  
   - Dessert
-  - Tilbehør
-  - Sommer 
+  - Teknikker, tips og tricks
+  - Forår 
 tags: 
   - Henrik
   - Rabarber

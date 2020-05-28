@@ -5,11 +5,11 @@ author: Henrik
 #date:   2019-11-05 13:39:33 +0100
 categories:  
   - Aftensmad
-  - nem mad 
 tags: 
   - Henrik
   - Aftensmad
   - æg
+  - nem mad
   - ovnretter
 permalink: /dutch-baby-m-bacon-gronkaal/
 excerpt: "Dutch baby er omelettens instagramvenlig afløser. Den er flot, lækker og når du først har smidt den i ovnen passer den sig selv og vokser sig stor og flot"

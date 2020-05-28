@@ -14,7 +14,7 @@ Henrik:
     excerpt: 'Henrik er vores storebror. Han er den klogeste af os - hvis man spørger ham selv. Hvis du spørger os andre, vil vi svare, at han rigtig nok er meget klog, men den klogeste? Arh... Han er tekniknørd og går grundigt til værks. Vores mor har altid sagt, at Henrik er ham, man beder om hjælp, hvis tingene skal gøres grundigt. Han hakker løg i ens stykker, skolder sine skærebrætter og vejer dejen til sine burgerboller af.
     
     Hans køkken ligger i Trekroner og meget af hans tid der, går med at lave skøn aftensmad og dej til alskens lækre ting. Henrik er mest velbevandret i det salte køkken.'
-    url: "/tags/#henrik"
+    url: "/henrik/"
     btn_label: "Henriks opskrifter"
     btn_class: "btn--primary"
 Helene:
@@ -24,7 +24,7 @@ Helene:
     excerpt: 'Helene kan lave kager. Altså virkeligt lave kager! Og når hun inviterer til fødselsdag er der nok flere kager end gæster og vi har en rimeligt stor familie. Hun kan også meget andet og er kompromisløs og systematisk i sin fremgang i et køkken, hvilke også ses i hendes udstyr som kun består af ting som har vundet bedst i test i forbrugerbladet TÆNK. 
 	Blandt disse er rolls roycen af røremaskiner som blandt andet har en indbygget kogeplade. 
 	Helene er nok den eneste i søskende flokken som ville kunne præstere at fremtrylle end ret på den tid en kogebog estimerer det til. '
-    url: "/tags/#helene"
+    url: "/helene/"
     btn_label: "Helenes opskrifter"
     btn_class: "btn--primary"
 Kristian:
@@ -32,7 +32,7 @@ Kristian:
     alt: "Kristian"
     title: "Kristian Nissen Breddam"
     excerpt: 'Kristian er vores lillebror, der lever det frie liv uden børn og har derfor oceaner af tid til at lave mad. Så når Krisitan skal lave en ret, læser han alt hvad der er skrevet på nettet om retten før han går igang. Blandt Kristians mesterværker kan nævnes pasta kogt i en pande og en humus med sygt meget hvidløg, der slet ikke smager af hvidløg. '
-    url: "/tags/#krisitan"
+    url: "/krisitan/"
     btn_label: "Kristians opskrifter"
     btn_class: "btn--primary"
 ---

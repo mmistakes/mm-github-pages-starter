@@ -1,0 +1,60 @@
+{% if include.id %}
+  {% assign feature_row = page[include.id] %}
+{% else %}
+  {% assign feature_row = page.feature_row %}
+{% endif %}
+{% if include.author %}
+  {% assign post = site.posts | where: 'author', include.author | first %}
+{% endif %}
+
+<div class="feature__wrapper">
+
+{% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% capture alt %}{{ post.title }}{% endcapture %}
+{% capture image_caption %}{{ post.title }}{% endcapture %}
+{% capture post_text %}{{ post.excerpt }}<br><br>{{post.content | split: '<img' | first}}<br>{% endcapture %}
+
+{% capture f_url %}{{ post.permalink | relative_url }}{% endcapture %}
+
+   
+
+    <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
+      <div class="archive__item">
+        {% if teaser %}
+          <div class="archive__item-teaser">
+          <a href="{{ f_url }}" class="linked_image">
+            <img src=
+              {% if teaser contains "://" %}
+                "{{ teaser}}"
+              {% else %}
+                "{{ teaser| relative_url }}"
+              {% endif %}
+            alt="{% if alt %}{{ alt }}{% endif %}">
+            {%comment%}{% if image_caption %}
+              <span class="archive__item-caption">{{ image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
+            {% endif %}{%endcomment%}
+            </a>
+          </div>
+        {% endif %}
+
+        <div class="archive__item-body">
+          {% if post.title %}
+          <a href="{{ f_url }}" class="unstyled">
+            <h2 class="archive__item-title">{{ post.title }}</h2>
+          </a>
+          {% endif %}
+
+          {% if post_text %}
+            <div class="archive__item-excerpt">
+            {{ post_text | remove: '<p>'| remove:'</p>' | truncatewords: 80 }}
+            </div>
+          {% endif %}
+
+          {% if f_url %}
+            <p><a href="{{ f_url }}" class="btn btn--primary">Se opskriften</a></p>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+
+</div>
