@@ -38,9 +38,12 @@ Dutch baby er sådan en ret, som man skal tage lidt tilløb til før man endelig
 
 {% include gallery id="gallery-teaser"  caption="" %}
 
-Det vigtigste du skal bruge er en pande der kan gå i en 220&deg; varm ovn. Sæt pande i ovnen når du starter og brug hurtigvarmfunktionen, hvis din ovn har sådan en, så er du sikker på at den er gennemvarm når du skal bruge den. 
+Måske har du undret dig over, hvad der giver en dutch baby sin form, men det korte svar er at den puffer op og bliver kuglerund. Jeg skrevet lidt mere om i min opskrift på [dessertversionen af dutch baby](/dutch-baby-m-baer/)
 
-Ellers er noget af det gode ved denne ret, at den er godt timet. Dejen kan klargøres mens gryden varmer og når babyen er i ovnen kan fyldet laves. Dejen kan blandes med i en blender/foodprocessor eller med en stavblender for at undgå klumber.
+
+Det vigtigste du skal bruge, er en pande der kan gå i en 220&deg; varm ovn. Sæt pande i ovnen når du starter og brug hurtigvarmfunktionen, hvis din ovn har sådan en, så er du sikker på at den er gennemvarm når du skal bruge den. 
+
+Ellers er noget af det gode ved denne ret, at den er godt timet. Dejen kan klargøres mens gryden varmer og når babyen er i ovnen, kan fyldet laves. Dejen kan blandes med i en blender/foodprocessor eller med en stavblender for at undgå klumper.
 
 {% include gallery id="gallery-OG"  caption="" %}
 

@@ -2,7 +2,7 @@ main:
   - title: "Opskrifter"
     url: /opskrifter/
   - title: "Kategorier"
-    url: /categories/
+    url: /kategorier/
   - title: "Tags"
     url: /tags/
   - title: "Om os"

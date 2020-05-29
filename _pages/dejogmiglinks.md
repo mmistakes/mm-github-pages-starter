@@ -7,6 +7,12 @@ author_profile: false
 # header:
 #   image: /assets/images/layout/broed.jpg
 gallery: 
+  # - url: /dutch-baby-m-baer/
+  #   image_path: assets/images/posts/henrik/sod-dutch-baby/dutch-baby-m-baer-teaser-holger.jpg
+  #   alt: "Dutch baby med bær"
+  - url: /dutch-baby-m-baer/
+    image_path: assets/images/posts/henrik/sod-dutch-baby/dutch-baby-m-baer-teaser.jpg
+    alt: "Dutch baby med bær"
   - url: /grove-potato-buns/
     image_path: assets/images/instagram/potatobuns-gluten.jpg
     alt: "Grove potato-buns"

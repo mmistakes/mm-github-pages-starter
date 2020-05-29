@@ -1,0 +1,66 @@
+---
+name: Dutch baby med bær og flødeskum
+image: "assets/images/posts/henrik/dutch-baby-m-bacon-gronkaal/dutch-baby-m-bacon-gronkaal-teaser.jpg"
+description_short:  "En sød dutch baby med bær til er et perfekt alternativ til pandekager. Man får følelsen af at spise en rigtig lækker brunch, men den er lige så nærende og mættende som en omelet"
+keywords: "Dutch baby, morgenmad, brunch, nem mad, æggekage"
+cuisine: Dutch
+yield: "26 cm \"baby\""
+prepTime: 30 min
+prepTime_iso: PT30M
+waitTime: 
+waitTime_iso:
+riseTime: 
+riseTime_iso: 
+totalTime: 1 time
+totalTime_iso: PT1H
+ingredients:
+  left:  
+      - part:  Dutch baby
+        items:
+          - amount: "4-5"
+            name: æg
+            note: alt efter størrelse
+          - amount: 150 g  
+            name: hvedemel     
+          - amount: 170 ml
+            name: mælk     
+          - amount: 1 tsk 
+            name: vaniliesukker  
+          - amount: 2 spsk 
+            name: sukker 
+            note: til dejen
+          - amount: 1 spsk 
+            name: sukker 
+            note: til at strø oven på
+          - amount: 1/2 tsk
+            name: salt     
+          - amount: 50 g  
+            name: smør 
+  right:  
+      - part: Fyld
+        items:
+          - amount: "200-300 g"
+            name: bær (Jordbær, blåbær, hindbær osv.)
+          - amount: "100 ml"
+            name: piskefløde
+          - amount: 1-2 spsk
+            name: Flormelis
+directions:
+  - part: Dutch baby
+    steps: 
+      - step: Sæt en pande eller lav støbejernsgryde i ovnen og tænd den på 220&deg; (evt. hurtigvarme);
+      - step: Bland mælk, mel, æg, sukker, vaniliesukker og salt sammen og pisk godt.
+        substeps:
+          - substep: "Brug en blender, foodprocessor eller en stavblender til at blande dejen godt og få godt med luft i."
+      - step: Når ovnen er blevet 220&deg; grader skal panden have 10 min ekstra i ovnen for at blive gennemvarm.
+      - step: Tag panden ud og kom smørret i panden og rør det rundt til det er smeltet.
+      - step: Hæld baby-dejen ned i smøret, drys med sukker og sæt panden tilbage i ovnen.
+      - step: Giv babyen 20-25 minutter i ovnen. Bare rolig den skal nok puffe op når du endeligt har opgivet den.
+  - part: Fyld
+    steps: 
+      - step: Skyld og skær bær ud i passende stykker
+      - step: Pisk flødeskum
+      - step: Når babyen er færdig tages ud af ovnen, hvorefter den falder sammen på midten. Drys straks halvdelen af flormelisset over babyen.
+      - step: Når den er kølet en smule af, kommer du fyldet i midten af babyen og drysser med resten af flormelisset.
+      - step: Drys evt. med lidt ost og server i den varme pande.
+
