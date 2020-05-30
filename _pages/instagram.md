@@ -9,6 +9,9 @@ gallery:
   # - url: /grove-potato-buns/
   #   image_path: assets/images/posts/henrik/grove-potato-buns-teaser.jpg
   #   alt: Potato bun
+  - url: /dutch-baby-m-baer/
+    image_path: assets/images/posts/henrik/sod-dutch-baby/dutch-baby-m-baer-teaser2.jpg
+    alt: "Dutch baby med bær"
   - url: /surdejsrundstykker/
     image_path: assets/images/instagram/surdejsrundstykker-sesam2.jpg
     alt: "Surdejsrundstykker"
