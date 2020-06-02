@@ -22,7 +22,9 @@ echo "Shutting down manager server"
 service ovmm stop
 
 echo "Removing database"
-cd /u01/app/oracle/ovm-manager-3/weblogic; source /u01/app/oracle/Middleware/wlserver_10.3/server/bin/setWLSEnv.sh; ant -Ddb.password=Welcome1 clean_database
+cd /u01/app/oracle/ovm-manager-3/weblogic
+source /u01/app/oracle/Middleware/wlserver_10.3/server/bin/setWLSEnv.sh
+ant -Ddb.password=Welcome1 clean_database
 
 echo "Shutting down manager server"
 service ovmm start
