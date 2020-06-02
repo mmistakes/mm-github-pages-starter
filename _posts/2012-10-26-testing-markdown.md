@@ -24,7 +24,7 @@ Some examples are:
 
 Markup should also extend to _code_: 
 
-``` perl compute_average.pl
+``` perl
 #!/usr/bin/perl
 
 $count = 0;
