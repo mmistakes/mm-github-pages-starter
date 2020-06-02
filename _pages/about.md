@@ -3,8 +3,6 @@ permalink: /about/
 title: "About"
 ---
 
-# Hi
-
 My name is Ken Crandall. I am a Cloud Solutions Architect at Rackspace.  I focus on private/hybrid clouds and containerization with Kubernetes.
 
 My main responsibility is exploring cloud business opportunities with new and existing customers, helping them to design and deploy their mission-critical infrastructure and applications to the cloud.
