@@ -1,0 +1,35 @@
+---
+name: "Rabarberkompot"
+image: 
+yield: 4 personer
+prepTime: 10 minutter
+prepTime_iso: PT30M
+riseTime:
+riseTime_iso: 
+totalTime: 30 min.
+totalTime_iso: PT30M
+description_short: Sød og syrlig rabarberkompot
+keywords: "rabarber, kompot, frugt, grød"
+cuisine: Dansk
+ingredients:
+  #single:  
+  left: 
+      - part: 
+        items:
+          - amount: 600 g
+            name: rabarber
+          - amount: 60-120 g
+            name: rørsukker
+          - amount: 1/2
+            name: vaniljestang
+
+directions:
+  - part:
+    steps: 
+      - step: Rens **rabarberstilkene** og skær dem i skiver på ca. 1/2 cm. 
+      - step: Flæk **vaniljestangen** og skrab kornene ud. Mas dem med lidt rørsukker, for at skille kornene.
+      - step: Put rabarberskiverne i en gryde og tilsæt **rørsukkeret** og vaniljekorn og -stang. Rør rundt i gryden for at fordele det.
+      - step: Sæt gryden over på middel blus og kog kompotten langsomt op. Rør rundt en gang i mellem.
+      - step: Det tager ca. 10-15 minutter før kompotten er færdig afhængig af størrelsen på dine rabarberstykker.
+      - step: Når de sidste stykker lige akkurat er gennemkogte fjerner du gryden fra varmen.
+      - step: Opbevar kompotten i tætsluttende beholder i køleskabet.
