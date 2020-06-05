@@ -1,0 +1,81 @@
+---
+name: "Rabarbertrifli"
+image: 
+yield: 4 personer
+prepTime: 60 minutter
+prepTime_iso: PT30M
+riseTime:
+riseTime_iso: 
+totalTime: 60 min.
+totalTime_iso: PT60M
+description_short: Rabarbertrifli med råcreme og hjemmelavede makroner
+keywords: "rabarber, kompot, frugt, trifli, makroner, råcreme"
+cuisine: Dansk
+ingredients:
+  #single:  
+  left: 
+      - part: Rabarberkompot
+        items:
+          - amount: 500 g
+            name: rabarber
+          - amount: 50-100 g
+            name: rørsukker
+          - amount: 1/2
+            name: vaniljestang
+ 
+      - part: Makroner
+        items:
+          - amount: 200 g
+            name: marcipan
+            prep: revet
+          - amount: 275 g
+            name: rørsukker
+          - amount: "2"
+            name: æggehvider
+
+  right: 
+      - part: Råcreme
+        items:
+          - amount: 1/2
+            name: vaniljestang
+          - amount: 2 spsk.
+            name: rørsukker
+          - amount: "2"
+            name: æggeblommer
+            prep: evt. pasteuriserede
+          - amount: 2 dl
+            name: piskefløde
+
+
+directions:
+  - part: Rabarberkompot
+    steps: 
+      - step: Rens **rabarberstilkene** og skær dem i skiver på ca. 1/2 cm. 
+      - step: Flæk **vaniljestangen** og skrab kornene ud. Mas dem med lidt rørsukker, for at skille kornene.
+      - step: Put rabarberskiverne i en gryde og tilsæt **rørsukkeret** og vaniljekorn og -stang. Rør rundt i gryden for at fordele det.
+      - step: Sæt gryden over på middel blus og kog kompotten langsomt op. Rør rundt en gang i mellem.
+      - step: Det tager ca. 10-15 minutter før kompotten er færdig afhængig af størrelsen på dine rabarberstykker.
+      - step: Når de sidste stykker lige akkurat er gennemkogte, fjerner du gryden fra varmen.
+      - step: Opbevar kompotten i tætsluttende beholder i køleskabet.
+
+  - part: Makroner
+    steps: 
+      - step: Tænd din ovn på 160 grader varmluft og gør en bageplade klar med bagepapir eller en silikonemåtte.
+      - step: Ælt **marcipan** og **sukker** sammen.
+      - step: Tilsæt **æggehviderne** og rør det sammen med marcipanmassen. Brug gerne en el-pisker.
+      - step: Når massen er ensartet fylder du den i en sprøjtepose. Sprøjt klatter på størrelse med en femkrone ud på bagepladen.
+      - step: Bag makronerne i ovnen i 20-25 minutter.
+      - step: Lad dem køle af på en bagerist.
+
+  - part: Råcreme
+    steps: 
+      - step: Flæk **vaniljestangen** og skrab kornene ud. Skil dem ad, ved at presse den ud i en smule af sukkeret.
+      - step: Hæld **æggeblommer, vanilje** og **rørsukker** i en skål og pisk det _længe_. I hvert fald fem minutter og sandsynligvis mere. Det skal være stort, fluffy og nærmest fast i det. Ellers får du en flydende råcreme.
+      - step: Pisk fløden til en let skum.
+      - step: Vend flødeskum og æggesnaps sammen.
+      - step: Opbevar på køl ind til brug.
+
+  - part: Samling
+    steps: 
+      - step: Læg triflierne sammen ved at starte med rabarberkompot, så et lag knuste makroner og dernæst råcreme. Hvis dine glas er høje, så fotsætter du med endnu et lag af hver.
+      - step: Lad helst triflierne trække på køl i en times tid eller mere.
