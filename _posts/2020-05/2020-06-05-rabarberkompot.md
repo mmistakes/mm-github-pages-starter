@@ -13,7 +13,8 @@ tags:
   - Rabarber
   - Frugt
 permalink: /rabarberkompot/
-header: 
+excerpt: 
+header:
   teaser: assets/images/posts/helene/rabarberkompot-teaser.jpeg
   overlay_image: assets/images/posts/helene/rababerkompot-header.jpeg
   overlay_filter: 0.25 # 
