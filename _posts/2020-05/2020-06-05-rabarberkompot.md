@@ -1,5 +1,5 @@
 ---
-layout: recipe
+layout: single
 title:  "Rabarberkompot"
 excerpt: "Syrlig og sød rabarberkompot, der passer i både det salte og det søde køkken"
 author: Helene
