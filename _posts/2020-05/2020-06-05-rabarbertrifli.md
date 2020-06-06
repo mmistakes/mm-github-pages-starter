@@ -1,5 +1,5 @@
 ---
-layout: recipe
+layout: single
 title:  "Rabarbertrifli"
 excerpt: "Sød og syrlig, blød og sprød rabarbertrifli med hjemmelavede makroner"
 author: Helene
@@ -36,4 +36,4 @@ God fornøjelse med opskriften :blossom:
 
 {% include gallery id="gallery1"  caption="" %}
 
-{% include opskrift.html opskrift="rabarberkompot" %}
+{% include opskrift.html opskrift="rabarbertrifli" %}
