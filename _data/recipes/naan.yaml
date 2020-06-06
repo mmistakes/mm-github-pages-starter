@@ -1,0 +1,71 @@
+---
+name: "Seje og luftige naan-brød"
+image: 
+yield: 8 stk.
+prepTime: 30 minutter
+prepTime_iso: PT30M
+riseTime:
+riseTime_iso: 
+totalTime: 1 1/2 time
+totalTime_iso: PT90M
+description_short: Seje, smagfulde og lækre naan perfekt til indisk mad
+keywords: "naan, indisk, brød"
+cuisine: Indian
+ingredients:
+  #single:  
+  left: 
+      - part: Dej
+        items:
+          - amount: 200 g
+            name: vand
+            prep: 25-30 grader
+          - amount: 20 g
+            name: gær
+          - amount: 5 g
+            name: salt
+          - amount: 5 g
+            name: sukker
+          - amount: 15 g
+            name: neutral olie (raps, solsikke)
+          - amount: 115 g
+            name: youghurt naturel
+          - amount: 450-550 g
+            name: hvedemel
+  right: 
+      - part: Valgfrit
+        items:
+          - amount: 50 g
+            name: smør
+            prep: smeltet
+          - amount: 2 fed
+            name: hvidløg
+          - amount: En smule
+            name: friske korianderblade
+
+directions:
+  - part: "Dej"
+    steps: 
+      - step: Hæld **vandet** i en skål og opløs **gæren** heri.
+      - step: Tilsæt **salt, sukker, olie** og **yoghurt** og rør det i.
+      - step: Tilsæt melet og ælt dejen grundigt enten ved håndkræft eller på røremaskine.
+        substeps:
+          - substep: Start med en del af melet og tilsæt kun mere, hvis dejen er for klistret og hænger ved dine fingre.
+      - step: Dejen er klar, når den er smidig og blød og ikke hænger ved fingrene.
+      - step: Spænd dejen op til en kugle og læg den til hævning i en ren skål med et fugtigt viskestykke over.
+      - step: Lad dejen hæve ca. én time på køkkenbordet til den har dobbelt størrelse.
+  
+  - part: "Bagning"
+    steps:
+      - step: Vend dejen ud på bordet og del den i otte stykker.
+      - step: Varm din pande op på fuld kraft mens du laver næste step.
+      - step: Hvert stykke trilles til en kugle, som rulles ud til en cirkel på størrelse med din hånd (er par millimeter i tykkelse).
+      - step: Når panden er godt gennemvarmet skruer du en smule ned (jeg bruger 7 ud af 9) og lægger dit første brød på panden.
+        substeps:
+          - substep: Hvis panden er tilstrækkelig varm, vil du opleve, at brødet puffer op.
+      - step: Bag brødet i et par minutter på begge sider. Det må rigtig gerne tage lidt farve og få ægte "naan" pletter.
+      - step: "Variationer:"
+        substeps:
+          - substep: 1. Pensel hvert naan med lidt smeltet smør
+          - substep: 2. Hvis du vil have 'garlic naan' kan du presse 1-2 fed hvidløg i det smeltede smør
+          - substep: 3. Du kan også drysse med hakkede korianderblade for et friskt pift.
+      - step: Opbevar brødene pakket ind i et viskestykke. Det holder dem både lune og bløde.

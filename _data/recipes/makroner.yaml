@@ -1,0 +1,34 @@
+---
+name: "Makroner"
+image: 
+yield: 25 stk.
+prepTime: 15 minutter
+prepTime_iso: PT15M
+riseTime:
+riseTime_iso: 
+totalTime: 40 min.
+totalTime_iso: PT40M
+description_short: Hjemmelavede makroner med marcipan
+keywords: "kage, trifli, makroner"
+cuisine: Dansk
+ingredients:
+  #single:  
+  left: 
+      - part: Makroner
+        items:
+          - amount: 200 g
+            name: marcipan
+            prep: revet
+          - amount: 275 g
+            name: rørsukker
+          - amount: "2"
+            name: æggehvider
+
+  - part: Makroner
+    steps: 
+      - step: Tænd din ovn på 160 grader varmluft og gør en bageplade klar med bagepapir eller en silikonemåtte.
+      - step: Ælt **marcipan** og **sukker** sammen.
+      - step: Tilsæt **æggehviderne** og rør det sammen med marcipanmassen. Brug gerne en el-pisker.
+      - step: Når massen er ensartet fylder du den i en sprøjtepose. Sprøjt klatter på størrelse med en femkrone ud på bagepladen.
+      - step: Bag makronerne i ovnen i 20-25 minutter.
+      - step: Lad dem køle af på en bagerist.
