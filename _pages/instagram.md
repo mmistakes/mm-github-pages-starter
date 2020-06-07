@@ -6,9 +6,21 @@ permalink: /instagram/
 author_profile: false
 #Instagram link galleri
 gallery:
-  # - url: /grove-potato-buns/
-  #   image_path: assets/images/posts/henrik/grove-potato-buns-teaser.jpg
+  # - url: /rabarbertrifli/
+  #   image_path: assets/images/posts/helene/trifli/trifli-ekstra.jpg
+  #   alt: Rabarbertrifli
+  # - url: /rabarbertrifli/
+  #   image_path: assets/images/posts/helene/trifli/trifli-teaser2.jpg
+  #   alt: Rabarbertrifli
+  # - url: /rabarberkompot/
+  #   image_path: assets/images/posts/helene/rabarberkompot/rabarberkompot-ekstra.jpg
   #   alt: Potato bun
+  - url: /rabarbertrifli/
+    image_path: assets/images/posts/helene/trifli/trifli-teaser.jpg
+    alt: Rabarbertrifli
+  - url: /rabarberkompot/
+    image_path: assets/images/posts/helene/rabarberkompot/rabarberkompot-teaser.jpg
+    alt: Potato bun
   - url: /dutch-baby-m-baer/
     image_path: assets/images/posts/henrik/sod-dutch-baby/dutch-baby-m-baer-top.jpg
     alt: "Dutch baby med bær"
