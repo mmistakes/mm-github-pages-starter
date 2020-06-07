@@ -12,18 +12,18 @@ tags:
   - Frugt
 permalink: /rabarbertrifli/
 header:
-  teaser: assets/images/posts/helene/trifli-teaser.jpeg
-  overlay_image: assets/images/posts/helene/trifli-header.jpeg
+  teaser: assets/images/posts/helene/trifli/trifli-teaser.jpg
+  overlay_image: assets/images/posts/helene/trifli/trifli-header.jpg
   overlay_filter: 0.25 # 
   actions:
     - label: "Direkte til opskriften"
       url: "/rabarbertrifli/#opskrift"
 
 gallery1:
-  - url: assets/images/posts/helene/trifli-teaser-2.jpeg
-    image_path: assets/images/posts/helene/trifli-teaser-2.jpeg
-  - url: assets/images/posts/helene/trifli-ekstra.jpeg
-    image_path: assets/images/posts/helene/trifli-ekstra.jpeg
+  - url: assets/images/posts/helene/trifli/trifli-teaser-2.jpg
+    image_path: assets/images/posts/helene/trifli/trifli-teaser-2.jpg
+  - url: assets/images/posts/helene/trifli/trifli-ekstra.jpg
+    image_path: assets/images/posts/helene/trifli/trifli-ekstra.jpg
         
 
 ---

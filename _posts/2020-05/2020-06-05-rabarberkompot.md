@@ -15,16 +15,16 @@ tags:
 permalink: /rabarberkompot/
 excerpt: 
 header:
-  teaser: assets/images/posts/helene/rabarberkompot-teaser.jpeg
-  overlay_image: assets/images/posts/helene/rababerkompot-header.jpeg
+  teaser: assets/images/posts/helene/rabarberkompot/rabarberkompot-teaser.jpeg
+  overlay_image: assets/images/posts/helene/rabarberkompot/rabarberkompot-header.jpeg
   overlay_filter: 0.25 # 
   actions:
     - label: "Direkte til opskriften"
-      url: "/rabarberkompot/#opskrift"
+      url: "/rabarberkompot/rabarberkompot/#opskrift"
 
 gallery1:
-  - url: assets/images/posts/helene/rababerkompot-ekstra.jpeg
-    image_path: assets/images/posts/helene/rababerkompot-ekstra.jpeg
+  - url: assets/images/posts/helene/rabarberkompot/rabarberkompot-ekstra.jpeg
+    image_path: assets/images/posts/helene/rabarberkompot/rabarberkompot-ekstra.jpeg
 ---
 Rabarberkompot gør det både godt i det salte og det søde køkken. Det er perfekt til kylling og nye kartofler, men er lige så genialt i en trifli eller helt enkelt med fløde til.
 
