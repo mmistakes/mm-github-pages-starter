@@ -1,0 +1,71 @@
+---
+name: "Hurtige koldhævede køkkenbordsboller - med eller uden surdej" 
+image: assets/images/posts/henrik/surdejsrundstykker-teaser.jpg
+description_short: "Koldhævede boller eller klatboller er en klassiker i mange hjem og kan derfor gøres på tusind forskellige måder. Denne opskrift er mit bud på de mest luftige, sprøde og bløde, men stadig nemme og hurtige klatboller."
+keywords: "Rundstykker, klatboller, Surdej, langtidshævet, ølandshvede, rug, surdejsbrød"
+cuisine: Danish
+yield: 8-10 boller
+prepTime: 30 min
+prepTime_iso: PT30M
+riseTime: 9 timer
+riseTime_iso: PT9H
+totalTime:  10 timer
+totalTime_iso: PT10H
+ingredients:
+  single: 
+  - part:  
+    items:
+      - amount: 75 g  
+        name: Sigtet ølandshvedemel
+      - amount: 25 g 
+        name: rugmel
+      - amount: 400 g 
+        name: Brødhvedemel
+      - amount: 11 g  
+        name: salt
+      - amount: 100 g 
+        name: surdej
+        prep: frisket op om morgenen
+        note: alternativt 2 gram gær
+      - amount: 350-400 g
+        name: koldt vand
+        note: 75-82% hydrering, vælg hvad du er tryg ved
+        prep: 
+directions:
+  - part: 
+    steps: 
+      - step: "Til opskriften skal vi bruge en aktiv surdej (med mindre du bruger gær). Jeg plejer som sagt at bruge denne opskrift når jeg har genopfrisket surdejen om morgenen og så glemt, at jeg skulle bage med den. Alternativt kan du genopfriske den ned til 4 timer før bagning."
+      - step: "Første skridt er at blande alle ingredienserne sammen "
+        substeps: 
+          - substep: "Bland, de tre typer mel og saltet sammen så rugmelet ikke klumper sammen"
+          - substep: "Tilsæt derefter vandet og surdejen og bland det sammen til alt melet er blevet vådt"
+      - step: "Lad dejen hvile sig i ca. 30 minutter. Det passer lige med at man kan gøre sig klar til at gå i seng og dejen bliver meget nemmere at arbejde med når den har stået i 30 minutter. "
+      - step: "Nu bygger vi lidt styrke i dejen og sørger for at alt er bliver blandet godt sammen. Dette gøres bedst med klør fem!"
+        substeps:
+          - substep: "Gør dine hænder våde og løsn dejen fra skålen i kanterne ved at køre hånden rundt i kanten"
+          - substep: "Tag lidt mere vand på fingrerne og tag derefter fat i \"kanten\" af dejen med den ene hånd. Træk roligt dejen ud og fold den ind over midten af dejen."
+          - substep: "Drej skålen 90 grader og gentag til du er kommet hele vejen rundt."
+          - substep: "Drej skålen 45 grader og tag en omgang mere."
+          - substep: "Et valgfrit sidste skridt er at spænde dejen op ved at føre hånden ind under dejen langs skålens kant hele vejen rundt (men det kræver lidt øvelse)."
+      - step: "Lad dejen hvile (i skålen) på køkkenbordet natten over"
+      - step: "Næste morgen er det første der skal gøres et sæt spolefoldninger/coil folds (hvis du har brug for lidt mere forklaring kan du se længere oppe)"
+        substeps:
+          - substep: Løsn igen dejen hele vejen rundt med en våd hånd.
+          - substep: Med en hånd på hver side af dejen, løftes den ene ende af dejen roligt op og strækkes. Foldes det løftede dej ind under sig selv.
+          - substep: Gentag med den modsatte ende og drej på skålen og gentag med det to sidste hjørner. 
+      - step: "Lad dejen stå i mindst 30 minutter og vend den derefter ud på bordet."
+        substeps:
+          - substep: "Fold dejen ind over sig selv, så der er mel hele vejen rundt om dejen. Nu er der \"yderside\" på alle sider af dejen og den yderside vil vi prøve at arbejde så meget med som muligt da den ikke klistrer så meget og ikke sprækker så nemt i ovnen."
+          - substep: "Skær dejen ud i passende stykker og løft dem forsigtigt over på et stykke bagepapir"
+          - substep: "Dæk dejen (jeg bruger husholdningsfilm med lidt mel på)"
+      - step: "Lad bollerne efterhæve et lunt sted. De kan godt bruge mere tid at de 40 minutter en ovn bruger på at blive rigtig gennemvarm, men hvis du har travlt er det fint med det"
+      - step: "Tænd ovnen og brug et bagestål, pizzasten eller kom en bageplade vendt på hovedet ind i ovenen. Sæt også et metalfad eller lignende der kan tåle at få hældt vand på sig ind i bunden eller på en rist og lad det varme med"
+      - step: "Når ovnen er klar, kog ca 500 ml vand til at skabe damp i ovnen"
+      - step: Før bagepapiret over på undersiden af en bageplade, et stort skærebræt, en pizzaspade eller lignende og brug det til at føre bollerne ind på den varme plade i ovnen.
+        substeps:
+          - substep: Hæld vand på bagepladen i bunden af ovnen, så det lige akkurat dækker. Træk ikke pladen for meget ud for det første vand bliver hurtigt til damp og det skal helst blive inde i ovnen.
+      - step: "Bag bollerne i 12 minutter og luk så dampen ud ved at åbne lågen. Hvis der stadig er vand i bagepladen tages den ud."
+      - step: Giv bollerne ca 6 minutter mere, til de har en flot gylden overflade. Tag det derefter ud og læg dem på en rist.
+      
+        
+

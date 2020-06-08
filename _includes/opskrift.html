@@ -1,5 +1,12 @@
-{% assign recipe = site.data.recipes.[include.opskrift] %}
-
+{% if include.author %}
+  {% if include.category %}
+    {% assign recipe = site.data.recipes.[include.author].[include.category].[include.opskrift] %}
+  {% else %}
+    {% assign recipe = site.data.recipes.[include.author].[include.opskrift] %}
+  {%endif%}
+{%else %}
+  {% assign recipe = site.data.recipes.[include.opskrift] %}
+{%endif%}
 
 
 
