@@ -10,6 +10,9 @@ gallery:
   # - url: /dutch-baby-m-baer/
   #   image_path: assets/images/posts/henrik/sod-dutch-baby/dutch-baby-m-baer-teaser-holger.jpg
   #   alt: "Dutch baby med bær"
+  - url: /grove-potato-buns/
+    image_path: assets/images/posts/henrik/grove-potato-buns-top-new.jpg
+    alt: "Grove potato buns"
   - url: /dutch-baby-m-baer/
     image_path: assets/images/posts/henrik/sod-dutch-baby/dutch-baby-m-baer-teaser.jpg
     alt: "Dutch baby med bær"

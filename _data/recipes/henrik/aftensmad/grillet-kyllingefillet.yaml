@@ -1,0 +1,36 @@
+---
+name: Grillet kyllingefillet
+image: assets/images/posts/henrik/svigermors-grilmarinade/svigermors-grillmarinade-teaser.jpg
+description_short:  "Lækker grillmarinade der giver nakkekoteletter og kyllingefileter en fyldig og varm umamismag"
+keywords: "Grill, marinade, kød, saltlage, sommer, kylling"
+cuisine: Dansk
+yield: 1-100 filetter
+prepTime: 10 min
+prepTime_iso: PT10M
+waitTime: +30 min
+waitTime_iso: PT2H
+riseTime: 
+riseTime_iso: 
+totalTime: 40 min
+totalTime_iso: PT2H10M
+ingredients:
+  #left: 
+  single:  
+      - part:  
+        items:
+          - amount: 
+            name: Kyllingefiletter
+          - amount:    
+            name: salt     
+          - amount: 
+            name: olie     
+directions:
+ - part:
+   steps: 
+      - step: Først skal kyllingefiletterne bankes, så de har nogenlunde den samme tykkelse. Kom dem i en plastikpose, fjern overskydende luft fra posen men undlad at lukke posen.
+      - step: Med bagsiden af en stegepande bankes hver enkelt filet så det har nogenlunde den samme tykkelse over hele filetten. 
+      - step: Kom filetterne op på en rist over et fad, drys dem med salt og gnid det ind. Brug omkring 1/2 tsk per filet, men overskydende salt bliver tørret af, så brug hellere til mere end lidt for lidt.
+      - step: Lad kødet trække i mindst 30 min. Hvis der er under en time til de skal grilles bør de trække på køkkenbordet. Ellers kan du komme film over og komme dem i køleskabet.
+      - step: Før kødet skal grilles, varmes grillen op på medium varme til den er ca 200&deg; og godt gennemvarm.
+      - step: Smør filetterne med lidt olie og kom dem på grillen. Giv dem 5 minutter på hver side, hvor du ikke rører ved dem. Hvis du prøver at løfte dem før får du pulled kylling.
+      - step: Tag temperaturen på kyllingen. Anbefalingerne for kylling lyder på 75&deg;, hvilket nogle vil mene er lidt for højt, men det er også det jeg griller det til.

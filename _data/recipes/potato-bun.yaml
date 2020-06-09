@@ -1,6 +1,6 @@
 ---
 name: "Grove potato-bun burgerboller" 
-image: assets/images/posts/henrik/grove-potato-buns-teaser.jpg
+image: assets/images/posts/henrik/grove-potato-buns-teaser-new.jpg
 description_short: "Potato buns er burgerboller som de er skal være til en klassisk amerikansk burger. Jeg har tilladt migt at tilføje groft mel og langtidshæve dem, for at give dem ekstra god smag."
 keywords: "boller, potato bun, langtidshævet, burger"
 cuisine: American
@@ -73,7 +73,7 @@ directions:
         substeps:
           - substep: "Valgfrit: Jeg fortrækker at have et forvarmet bagestål eller bageplade som er vendt på hovedet i ovnen."
           - substep: "Også valgfrit: Jeg skaber også damp i min ovn ved at hælde kogende vand i en gammel bradepande som står i bunden af ovnen. Det giver en mere gylden overflade."
-      - step: "Pisk det sidste æg sammen med et nip salt og pensl bollerne"
+      - step: "Pisk det sidste æg sammen med et nip salt og pensl bollerne, drys evt med lidt sesam for det klassiske burgerbolle look."
       - step: "Bag bollerne i 16-20 minutter, de skal have længere hvis der ikke bruges forvarmet bageplade"
         substeps:
           - substep: Luk dampen ud efter 12 minutter, hvis du bruger det 
