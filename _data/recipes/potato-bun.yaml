@@ -34,7 +34,7 @@ ingredients:
       - amount: 100 g
         name: kartofler
         prep: moses og afkøles
-      - amount: 170-200 g
+      - amount: 170-200 ml
         name: kogevand
         prep: ved stuetemperatur
         note: alt efter hvor våd kartoffelmosen er
@@ -49,7 +49,7 @@ directions:
       - step: Mos kartoflerne til en fast mos, tilsæt lidt (10-20 ml) kogevand hvis den er for tør til at mose.
         substeps:
           - substep: "Lad kartoffelmos og kogevand køle af til 25-30&deg;"
-      - step: "Opløs gær i 170 ml vand, tilføj 20 gram af melet og saltet"
+      - step: "Opløs gær i 170 ml kogevand, tilføj 20 gram af melet og saltet"
       - step: "Tilføj resten af melet, sukker, et æg og kartoffelmos, og ælt dejen. Brug røremaskine hvis du har en."
         substeps:
           - substep: Hvis dejen er for tør, tilsættes mere af kogevandet, men pas på, for kartoflerne afgiver en del vand efter lidt tid
