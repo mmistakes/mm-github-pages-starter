@@ -13,7 +13,7 @@ tags:
   - Grill
   - Sommer
   - Kød
-permalink: /svigermors-grillmarinade/
+permalink: /perfekt-grillet-kylling/
 excerpt: "Grillet eller stegt kylling kan hurtigt blive en tør sag, men med lidt hurtig forberedelse af kødet kan de faktisk lade sig gøre at få gennemstegt kylling, der også er mørt og saftigt"
 header:
   teaser: assets/images/posts/henrik/grillet-kylling/grillet-kylling-teaser.jpg
@@ -23,7 +23,7 @@ header:
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
     - label: "Direkte til opskriften"
-      url: "/svigermors-grillmarinade/#opskrift"
+      url: "/perfekt-grillet-kylling/#opskrift"
 
 gallery-teaser:
   - url: assets/images/posts/henrik/grillet-kylling/grillet-kylling-teaser.jpg

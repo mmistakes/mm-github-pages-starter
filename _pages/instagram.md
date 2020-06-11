@@ -14,7 +14,10 @@ gallery:
   #   alt: Rabarbertrifli
   # - url: /rabarberkompot/
   #   image_path: assets/images/posts/helene/rabarberkompot/rabarberkompot-ekstra.jpg
-  #   alt: Potato bun
+  #   alt: rabarberkompot
+  - url: /perfekt-grillet-kylling/
+    image_path: assets/images/posts/henrik/grillet-kylling/grillet-kylling-teaser.jpg
+    alt: Perfekt grillet kylling
   - url: /rabarbertrifli/
     image_path: assets/images/posts/helene/trifli/trifli-teaser.jpg
     alt: Rabarbertrifli
