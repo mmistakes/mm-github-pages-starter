@@ -4,16 +4,17 @@ title:  "Bløde og saftige fødselsdagsboller"
 author: Henrik
 #date:   2019-11-05 13:39:33 +0100
 categories:  
-  - Boller 
-  - Gærdej
-  - Brioche
+  - Surdej og brød
   - Opskrifter
-  - Fødselsdagsfest  
 tags: 
   - Henrik
   - Tangzhong
   - Brioche
   - Fødselsdagsboller
+  - Fødselsdagsfest 
+  - Boller 
+  - Gærdej
+  - Fødselsdag
 permalink: /foedselsdagsboller-med-tangzhong/
 excerpt: "Fødselsdagsboller med tangzhong, der giver ekstra luftige og saftige boller, som er gode i et par dage"
 header:

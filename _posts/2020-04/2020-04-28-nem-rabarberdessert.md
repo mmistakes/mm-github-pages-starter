@@ -6,8 +6,7 @@ author: Henrik
 categories:  
   - Forår 
   - Dessert
-  - Chokolade  
-  - Nem mad
+  - Opskrifter
 tags: 
   - Forår 
   - Dessert

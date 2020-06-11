@@ -4,10 +4,14 @@ title:  "Grüne Bohnensuppe"
 author:   
 categories: 
   - opskrift
-  - suppe 
-  - nem mad
+  - Aftensmad 
+  
 tags: 
   - Henrik
+  - nem mad
+  - Tysk
+  - Bønner
+  - Suppe
 permalink: /Gruhne-Bohnensuppe/
 excerpt: "Grønne bønnesuppe, som vi kalder det, er en tysk klassiker der smager fantastisk!"
 header:

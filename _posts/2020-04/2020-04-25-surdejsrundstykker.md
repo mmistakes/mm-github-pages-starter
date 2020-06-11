@@ -4,14 +4,12 @@ title:  "Surdejsrundstykker: Håndværkere og grovstykker"
 author: Henrik
 #date:   2019-11-05 13:39:33 +0100
 categories:  
-  - Boller 
-  - Surdej
+  - Surdej og brød
   - Opskrifter  
-  - Rundstykker
-  - Morgenmad
+  - Morgenmad og brunch
 tags: 
   - Henrik
-  - Borller
+  - Boller
   - Gærdej
   - Rundstykker
   - Langtidshævet

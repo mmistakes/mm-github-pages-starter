@@ -4,12 +4,14 @@ title:  "Pølsehorn med poolish"
 author: Henrik
 date:   2020-04-20
 categories:  
-  - Gærdej 
-  - Surdej
-  - Børnemad 
+  - Surdej og brød
+  - Børnemad
+  - Snacks og tilbehør
 tags: 
   - Henrik
-  - Pasta
+  - Gærdej 
+  - Børnemad
+  - Snack
 permalink: /Poelsehorn-med-poolish/
 excerpt: "Pølsehorn er kongen af snacks og kan nydes af folk i alle aldrer. Med opskriften her er brødet ikke bare en holder til pølsen men meget meget mere"
 header:
