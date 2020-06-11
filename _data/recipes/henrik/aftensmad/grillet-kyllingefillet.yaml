@@ -23,7 +23,9 @@ ingredients:
           - amount:    
             name: salt     
           - amount: 
-            name: olie     
+            name: olie  
+          - amount:
+            name: peber   
 directions:
  - part:
    steps: 
@@ -32,5 +34,5 @@ directions:
       - step: Kom filetterne op på en rist over et fad, drys dem med salt og gnid det ind. Brug omkring 1/2 tsk per filet, men overskydende salt bliver tørret af, så brug hellere til mere end lidt for lidt.
       - step: Lad kødet trække i mindst 30 min. Hvis der er under en time til de skal grilles bør de trække på køkkenbordet. Ellers kan du komme film over og komme dem i køleskabet.
       - step: Før kødet skal grilles, varmes grillen op på medium varme til den er ca 200&deg; og godt gennemvarm.
-      - step: Smør filetterne med lidt olie og kom dem på grillen. Giv dem 5 minutter på hver side, hvor du ikke rører ved dem. Hvis du prøver at løfte dem før får du pulled kylling.
-      - step: Tag temperaturen på kyllingen. Anbefalingerne for kylling lyder på 75&deg;, hvilket nogle vil mene er lidt for højt, men det er også det jeg griller det til.
+      - step: Tag kyllingerne ud 30 min før grillning og smør eller spray filetterne med lidt olie og giv dem lidt peber og kom dem på grillen. Giv dem 5 minutter på hver side, hvor du ikke rører ved dem. Hvis du prøver at løfte dem før får du pulled kylling.
+      - step: Tag temperaturen på kyllingen. Anbefalingerne for kylling lyder på 75&deg;, hvilket nogle vil mene er lidt for højt, men det er også det jeg griller det til. Er de ikke færdige grilles de færdige på indirekte varme.
