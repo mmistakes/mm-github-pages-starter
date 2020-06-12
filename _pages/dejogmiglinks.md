@@ -7,6 +7,9 @@ author_profile: false
 # header:
 #   image: /assets/images/layout/broed.jpg
 gallery: 
+  - url: /koldhaevede-kokkenbordsboller/
+    image_path: assets/images/posts/henrik/kokkenbordsboller/kokkenbordsboller-teaser.jpg
+    alt: "Køkkenbordsboller"
   - url: /dutch-baby-m-baer/
     image_path: assets/images/posts/henrik/sod-dutch-baby/dutch-baby-m-baer-teaser-holger.jpg
     alt: "Dutch baby med bær"
