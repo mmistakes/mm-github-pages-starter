@@ -6,12 +6,9 @@ permalink: /instagram/
 author_profile: false
 #Instagram link galleri
 gallery:
-  # - url: /rabarbertrifli/
-  #   image_path: assets/images/posts/helene/trifli/trifli-ekstra.jpg
-  #   alt: Rabarbertrifli
-  # - url: /rabarbertrifli/
-  #   image_path: assets/images/posts/helene/trifli/trifli-teaser2.jpg
-  #   alt: Rabarbertrifli
+  - url: /rabarbertrifli/
+    image_path: assets/images/posts/helene/trifli/trifli-ekstra.jpg
+    alt: Rabarbertrifli
   # - url: /rabarberkompot/
   #   image_path: assets/images/posts/helene/rabarberkompot/rabarberkompot-ekstra.jpg
   #   alt: rabarberkompot
