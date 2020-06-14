@@ -35,13 +35,13 @@ author:
       url: "https://jebedaia.itch.io/rakugo"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/rakugoteam/Rakugo"
 
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/rakugoteam/Rakugo"
 
 defaults:
   ##_pages
