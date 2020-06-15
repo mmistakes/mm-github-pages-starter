@@ -2,7 +2,7 @@ title: Rakugo Framework
 email:
 description: Rakugo Framework for Godot Engine
 github_username: rakugoteam
-minimal_mistakes_skin: neon
+minimal_mistakes_skin: dark
 search: true
 
 ##Build settings
