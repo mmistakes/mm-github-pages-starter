@@ -12,5 +12,3 @@ fields:
 - type: list
   name: categories
   label: categories
-pages:
-- _posts/long-time-no-see.md
