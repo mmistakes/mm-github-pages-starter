@@ -1,0 +1,125 @@
+---
+name: Blomkålscurry
+image: 
+description_short:  "Dejlig vegetar curry, med blomkål og kikærter til at give fylde"
+keywords: "Vegetar, Curry, blomkål, indisk"
+cuisine: Indish
+yield: 4-5 personer
+prepTime: 40 minutter
+prepTime_iso: PT40M
+cookTime: 30 minutter
+cookTime_iso: PT30M
+ingredients:
+  #single:
+  left: 
+      - part:  Curry
+        items:
+          - amount: "1"   
+            name: løg   
+            prep: Skrælles og skæres i både     
+          - amount: "2"   
+            name: fed hvidløg
+            prep: Hakkes fint  
+          - amount: 3 cm    
+            name: frisk ingefær  
+            prep:  Rives fint  
+          - amount: 1 bundt    
+            name: frisk koriander  
+            prep:  Skylles og bladene skilles fra stilkene, stilkene hakkes og bruges i curryen 
+          - amount: "2"   
+            name:  gulerødder 
+            prep: Revet 
+          - amount: 1 spsk   
+            name: olivenolie til stegning  
+          - amount: 2 tsk  
+            name: rød karrypasta 
+          - amount: 1 spsk  
+            name: karry 
+          - amount: 1 spsk  
+            name: garam masala 
+          - amount: 1 dåse   
+            name: kokosmælk 
+          - amount: 1 dåse   
+            name: flåede tomater 
+            note: gerne Mutti eller anden god kvalitet
+          - amount: 200 g   
+            name: græsk yoghurt 10 % 
+          - amount: "1"  
+            name: lime 
+            note: til tilsmagning 
+          - amount: 1-2 tsk  
+            name: sukker 
+            note: Til tilsmagning
+          - amount: 1 spsk 
+            name: boulion
+            note: eller 1-2 tsk salt
+          - amount:   
+            name: peber 
+  right:
+      - part: Blomkål
+        items:
+          - amount: 1-2  
+            name:  blomkålshoved(er)
+            note: alt efter størrelse
+            prep: Skylles og plukkes i mindre bukketter   
+          - amount:  1 spsk
+            name:  olivenolie 
+          - amount:  1 spsk 
+            name:  hvidløgsolie 
+            note: brug ekstra olivenolie hvis du ikke har hvidløgsolie 
+          - amount: 1½ tsk  
+            name:  salt 
+          - amount:   
+            name: peber 
+          - amount: 1 tsk
+            name: spidskommen
+      - part: Kikærter
+        items:
+          - amount: 1 dåse
+            name:  Kikærter 
+            prep: skylles og tørres af 
+          - amount: 1 spsk  
+            name: garam masala 
+          - amount: 1 spsk 
+            name: oliveolie 
+          - amount: 1 tsk
+            name: salt 
+      - part: Tilbehør
+        items:
+          - amount: 4 dl 
+            name: ris 
+            note: brune eller basmati efter smag, jeg bruger brune
+          - amount: 
+            name: korianderbladene
+            note: fra tidligere
+            prep: plukket fra stilkene tidligere
+directions:
+  - part: "Forberedelse"
+    steps:
+      - step: "Start ovnen på 200&deg; varmluft"
+      - step: "Kog **ris** som man koger ris (hvis der bruges hvide ris kan man vente til blomkål og kikærter er i ovnen)"
+      - step: "Klargør ingredienserne til curryen:"
+        substeps:
+          - substep:  "**Løg** og **hvidløg** skrælles og snittes"
+          - substep:  "**Gulerod** og **ingefær** skrælles og rives"
+          - substep:  "**Korianderen** plukkes og stilkene hakkes fint, bladene sættes til siden"
+      - step: "**Blomkål** skylles og plukkes i mindre bukketter"
+        substeps:
+          - substep: "Fordel blomkålbukketerne på en bageplade og vend dem i **olivenolie** og **hvidløgsolie** og drys med **spidskommen** for at fordele jævnt og vend det hele rundt"
+          - substep: "Sæt bagepladen i ovnen så der er plads til en plade neden under"
+          - substep: "Bag i 25 min og tøm jævnligt ovnrummet for damp"
+      - step: "Skyl **kikærterne** og lad dem dryppe af og tør dem i et viskestykke eller lignende"
+        substeps:
+          - substep: "Fordel kikærterne på en bageplade og vend dem i **olie** drys med **salt** og **garam masala** og tril kikærterne med rundt til den er jævnt fordelt."
+          - substep: "Sæt pladen i ovnen og tjek til om de er klar når blomkålen tages ud, hvis ikke de er færdig skrues ned på 175&deg;  giv dem 5-10 min mere"
+  - part: "Curry"      
+    steps:
+      - step : "Gryden varmes op (gerne meget varm hvis du har to frie hænder og ingen børn til at forstyrre dig) og **olie**, **løg** og **hvidløg** kommes i og steges til løgene har fået lidt farve"
+        substeps:
+          - substep: "Tilsæt **ingefær** og **karrypasta** steg kort"
+          - substep: "Tilsæt **karry**, **garam masala** og **korianderstænger** og kort efter **gulerødder** (karryen skal have varme men ikke brænde på)"
+          - substep: "Steg det hele kort og hæld så **kokosmælk**, flåede **tomater** og **græsk youghurt** i curryen"
+          - substep: "Smag retten til med **lime**, **sukker**, **salt/boulion** og **peber**. Den må gerne smage surt da både blomkål og kikærter balancere surheden."
+          - substep: "Bland **blomkålen** i gryden"
+      - step:  "Server curryen med risen og drys med kikærter og korianderblade samt en måske limebåd."
+
