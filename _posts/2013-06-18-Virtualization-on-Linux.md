@@ -1,11 +1,11 @@
 ---
-title: "Virtualization on Linux"
+title: Virtualization on Linux
 date: 2013-06-18 12:12
-categories: 
-- virtualization
-- linux
----
+categories:
+- Linux
+- Virtualization
 
+---
 It is interesting that so many virtualization solutions either *use* or *start-out using* Linux as their base.  
 
 Xen uses Linux for Dom0 and VMware's original ESX used Linux as the Service Console...
