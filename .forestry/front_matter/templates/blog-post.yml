@@ -12,3 +12,5 @@ fields:
 - type: list
   name: categories
   label: categories
+pages:
+- _posts/apple-and-arm-it-is.md
