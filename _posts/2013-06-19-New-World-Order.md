@@ -2,6 +2,8 @@
 title: New Networking World Order
 date: 2013-06-19 12:43:00 -0700
 categories: 
+- Networking
+- Virtualization
 
 ---
 I have a collegue that is leaving Oracle today to go to a hybrid hardware/software network startup. That, in itself, is not a surprise as people switch companies frequently (especially in the valley.)  What is surprising is the emergence of these HW/SW networking players.
