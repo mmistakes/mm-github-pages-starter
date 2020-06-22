@@ -1,11 +1,9 @@
 ---
-title: "New Networking World Order"
-date: 2013-06-19 12:43
-categories:
+title: New Networking World Order
+date: 2013-06-19 12:43:00 -0700
+categories: 
 
 ---
-
-
 I have a collegue that is leaving Oracle today to go to a hybrid hardware/software network startup. That, in itself, is not a surprise as people switch companies frequently (especially in the valley.)  What is surprising is the emergence of these HW/SW networking players.
 
 I think that this is the _real_ effect of SDN first showing itself.
@@ -27,4 +25,3 @@ Because their based on commodity OS, they can facilitate application and platfor
 Imagine an open-source/open-standards based version of this based on open hardware platforms, open software (like Linux,) and Open vSwitch.  That is what's coming from guys like these. 
 
 This is going to start to make [OpenStack Quantum](https://wiki.openstack.org/wiki/Quantum) even more interesting...
-
