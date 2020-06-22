@@ -62,8 +62,6 @@ Du har ret til at få oplyst, hvilke personoplysninger, vi behandler om dig. Du 
 Websitet ejes og publiceres af:
 
 [  Henrik Breddam  ]
-[  Tønsbergvej 7  ]
-[  4000 Roskilde ]
 Email: [  Breddamsmad@gmail.com ]
 
 [Google]:[https://policies.google.com/privacy?hl=da]
