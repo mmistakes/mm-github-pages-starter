@@ -9,7 +9,7 @@ feature_row:
     ## alt: ""
     title: "Rakugo Template"
     excerpt: "Rakugo Empty Game Template"
-    url: "https://github.com/rakugoteam/Rakugo/releases/download/v2.1.02/Rakugo-2.1.02.zip"
+    url: "https://github.com/rakugoteam/Rakugo/releases/download/v2.1.03/Rakugo-2.1.03.zip"
     btn_label: "Download"
     btn_class: "btn--primary"
   - image_path: assets/imgs_main/d_the_question.png
@@ -17,7 +17,7 @@ feature_row:
     ## alt: ""
     title: "The Question: Rakugo Edition"
     excerpt: "Port of small Ren'Py vn **The Question**."
-    url: "https://github.com/rakugoteam/Rakugo/releases/download/v2.1.02/The-Question-1.4.2.zip"
+    url: "https://github.com/rakugoteam/Rakugo/releases/download/v2.1.03/The-Question-1.4.2.zip"
     btn_label: "Download"
     btn_class: "btn--primary"
   - image_path: assets/imgs_main/d_godot.svg
