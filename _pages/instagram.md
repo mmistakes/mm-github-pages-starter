@@ -6,6 +6,9 @@ permalink: /instagram/
 author_profile: false
 #Instagram link galleri
 gallery:
+  - url: /pasta-med-kodsovs/
+    image_path: assets/images/posts/henrik/pasta-med-kodsovs/pasta-med-kodsovs-teaser.jpg
+    alt: Pasta med kødsovs
   - url: /rabarbertrifli/
     image_path: assets/images/posts/helene/trifli/trifli-ekstra.jpg
     alt: Rabarbertrifli
