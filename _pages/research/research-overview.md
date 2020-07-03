@@ -4,6 +4,10 @@ permalink: /research/
 classes: wide
 ---
 
+{{ site.pages["about.html"] }}
+
+{{ site.pages["about.html"].permalink }}
+
 The primary focus of my PhD is the prediction of Protein-Protein Interactions (PPIs) using Machine Learning. [More]({% link _pages/research/protein-protein-interactions.md %})
 
 I am also interested in the environmental impact of computer-based research.
