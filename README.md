@@ -4,4 +4,4 @@
 
 ### Built using Jekyll 
 
-Deploying through Azure Devops CI/CD Pipeline that creates and deploys a Docker image to Github Pages.
+Deploying through Azure Devops CI/CD Pipeline.
