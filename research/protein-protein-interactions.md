@@ -1,5 +1,7 @@
 ---
 toc: true
+
+title: Protein-protein interactions
 ---
 
 ## Why are we interested in PPIs

@@ -11,5 +11,5 @@ In 2017, I headed to the University of Oxford where I completed an [MSc in Stati
 My Master’s thesis focused on developing a Bayesian tree-based algorithm to predict the length of hospital stays for patients, working with [Professor Mihaela van der Schaar](http://www.vanderschaar-lab.com/).
 
 I joined the [Inouye Lab](http://www.inouyelab.org/) and the University of Cambridge in 2018 after my graduation for a PhD in Health Data Science.
-Go [here]({% link _pages/research/research-overview.md %}) for more details about my current research interests.
+Go [here]({% link research/research-overview.md %}) for more details about my current research interests.
 

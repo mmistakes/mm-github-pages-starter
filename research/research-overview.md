@@ -1,18 +1,15 @@
 ---
 permalink: /research/
+title: Research
 
 classes: wide
 ---
 
-{{ site.pages["about.html"] }}
-
-{{ site.pages["about.html"].permalink }}
-
-The primary focus of my PhD is the prediction of Protein-Protein Interactions (PPIs) using Machine Learning. [More]({% link _pages/research/protein-protein-interactions.md %})
+The primary focus of my PhD is the prediction of Protein-Protein Interactions (PPIs) using Machine Learning. [More]({% link research/protein-protein-interactions.md %})
 
 I am also interested in the environmental impact of computer-based research.
 We developped the Green Algorithms project to push forward the discussion around this issue.
-More info [here]({% link _pages/research/green-algorithms.md %}) and on [www.green-algorithms.org](www.green-algorithms.org)
+More info [here]({% link research/green-algorithms.md %}) and on [www.green-algorithms.org](www.green-algorithms.org)
 
 And I contribute to clinical studies to advise on statistical methodology.
 

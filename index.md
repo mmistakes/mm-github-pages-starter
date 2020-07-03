@@ -4,9 +4,12 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: splash
 
+permalink: /
+
+title: "Welcome"
+
 header:
   overlay_image: /assets/images/header_blue.jpg
 ---
 
 {% twitter site.myTwitter maxwidth=300 limit=5 chrome=nofooter dnt=true %}
-
