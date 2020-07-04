@@ -33,6 +33,8 @@ highlights:
     btn_class: ".btn"
 
 ---
+<!-- TODO check everything with Grammarly -->
+
 On this website, you can learn more about my research interests, read the blog articles and find all my teaching material. Below are some highlights as well as recent blog articles.
 
 _I am a Phd student at the University of Cambridge in the Inouye Lab,
