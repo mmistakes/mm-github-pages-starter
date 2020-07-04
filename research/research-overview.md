@@ -2,7 +2,11 @@
 permalink: /research/
 title: Research
 
+layout: single
+
 classes: wide
+
+last_modified_at: 04/07/2020
 ---
 
 The primary focus of my PhD is the prediction of Protein-Protein Interactions (PPIs) using Machine Learning. [More]({% link research/protein-protein-interactions.md %})

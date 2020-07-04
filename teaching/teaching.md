@@ -1,5 +1,7 @@
 ---
-permalink: /teaching/
+<!-- permalink: /teaching/ -->
+
+published: false
 ---
 
 Here are some resources:

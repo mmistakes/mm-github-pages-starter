@@ -65,7 +65,7 @@ analytics:
 
 # Build settings
 markdown: kramdown
-remote_theme: "mmistakes/minimal-mistakes@4.19.1"
+remote_theme: "mmistakes/minimal-mistakes@4.19.3"
 minimal_mistakes_skin: default # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
 # og_image: /assets/images/site-logo.png
@@ -112,7 +112,7 @@ plugins:
 author:
   name   : *myName
   avatar : "/assets/images/profil_loic.jpg"
-  bio    : "PhD student in AI for medicine, on the fence between machine learning and biology."
+  bio    : "On the fence between machine learning and biology."
   location: "Cambridge, UK"
   links:
     # - label: "Website"

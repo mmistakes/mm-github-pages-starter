@@ -1,0 +1,45 @@
+---
+layout: default
+---
+
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+  {% include page__hero.html %}
+{% elsif page.header.video.id and page.header.video.provider %}
+  {% include page__hero_video.html %}
+{% endif %}
+
+<div id="main" role="main">
+  <article class="splash" itemscope itemtype="https://schema.org/CreativeWork">
+    {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+    {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+    {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date_to_xmlschema }}">{% endif %}
+    {% if page.last_modified_at %}<meta itemprop="dateModified" content="{{ page.last_modified_at | date_to_xmlschema }}">{% endif %}
+
+    {% include sidebar.html %}
+
+    <section class="page__content" itemprop="text">
+      <aside class="sidebar__right {% if page.toc_sticky %}sticky{% endif %}">
+        {% twitter site.myTwitter maxwidth=300 limit=3 chrome=nofooter dnt=true %}
+      </aside>
+
+      {{ content }}
+
+      <h3>Recent posts</h3>
+      <!-- <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3> -->
+
+      {% if paginator %}
+        {% assign posts = paginator.posts %}
+      {% else %}
+        {% assign posts = site.posts %}
+      {% endif %}
+
+      {% for post in posts %}
+        {% include archive-single.html %}
+      {% endfor %}
+
+      {% include paginator.html %}
+
+    </section>
+
+  </article>
+</div>
