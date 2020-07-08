@@ -17,7 +17,7 @@ tags:
   - Opskrifter
   - Boller
 permalink: /sommerhussurdej/
-excerpt: 
+excerpt: "Her får du et bud på, hvordan du kan starte en surdej på din sommerhustur og bage med den lige fra starten. Det er også et trick du kan bruge hvis du endnu ikke har en surdej."
 header:
   teaser: assets/images/posts/henrik/sommerhussurdej/sommerhussurdej-teaser.jpg
   overlay_image: assets/images/posts/henrik/sommerhussurdej/sommerhussurdej-header.jpg
