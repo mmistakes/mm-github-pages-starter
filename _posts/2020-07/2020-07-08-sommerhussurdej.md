@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Start en surdej til sommerhuset, der er klar med det samme"
+title:  "Start en \"sommerhus-surdej\" der er klar med det samme"
 author: Henrik
 #date:   2019-11-05 13:39:33 +0100
 categories:  
@@ -83,7 +83,7 @@ Har du en instagram profil kan du se resultaterne af eksperimentet i [disse stor
 Resultatet var lidt svingende, pga. melet og min lidt for laissez faire tilgang til hydrering, men hævningen var der altid og efter noget tid havde jeg fået styr på mig selv :smile: 
 {% include gallery id="gallery-stories"  caption="Udvalgte billeder fra instagram story'en" %}
 
-Konklusionen på mit projekt er, at det godt kan lade sig gøre at få en surdej fra ud af en poolish. Idéen med at kunne smage ændringerne i surdejskulturens opbygning undervej var god, men jeg skulle nok have fulgt en lidt mere standardiseret process, for rigtigt at kunne sammenligne. Allerede på dag 1 var bollerne rigtigt gode, for der kan jo også nogen gange være et eller andet over en gærdej.:smile:  Især når gærdejen er lavet på en poolish, får man en ekstra kompleks smag pga. den høje enzymaktivitet, der hjælper gæret med at nedbryde stivelsen. En alternativ metode som man kan bruge, hvis man gerne vil starte en ren fuldblodssurdej, er selvfølgeligt at lave surdejen efter samme princip men uden gær og så tilsætte gær på størrelse med en halv ært i dejen sammen med surdejen. Jeg kan kun anbefale at man gør det ift. hvordan man ellers bliver anbefalet at gå og vente på at surdejen er klar.
+Konklusionen på mit projekt er, at det godt kan lade sig gøre at få en surdej ud af en poolish. Idéen med at kunne smage ændringerne i surdejskulturens opbygning undervej var god, men jeg skulle nok have fulgt en lidt mere standardiseret process, for rigtigt at kunne sammenligne. Allerede på dag 1 var bollerne rigtigt gode, for der kan jo også nogen gange være et eller andet over en gærdej.:smile:  Især når gærdejen er lavet på en poolish, får man en ekstra kompleks smag pga. den høje enzymaktivitet, der hjælper gæret med at nedbryde stivelsen. En alternativ metode som man kan bruge, hvis man gerne vil starte en ren fuldblodssurdej, er selvfølgeligt at lave surdejen efter samme princip men uden gær og så tilsætte gær på størrelse med en halv ært i dejen sammen med surdejen. Jeg kan kun anbefale at man gør det ift. hvordan man ellers bliver anbefalet at gå og vente på at surdejen er klar.
 {% include gallery id="gallery-header"  caption="Surdej og poolish" %}
 
 Velbekomme!  
