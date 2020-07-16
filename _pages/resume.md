@@ -31,15 +31,15 @@ Led teams to complete daily scheduled tasks in a production/manufacturing facili
 ### Development Tools
 
 > PHP, Python, Bash, PowerShell
-> Docker, Git, Azure devops, AKS
-> AWS, Azure. Digital Ocean
+> Docker, Git, Azure devops, AKS,
+> AWS, Azure, Digital Ocean.
 
 ### IT Administration
 
-> Linux (CentOs, Ubuntu, Arch)
-> VMware Vsphere, Esxi, Workstation
-> Windows Server (AD, GPO, Exchange, O365)
-> Troubleshooting, Service Desk
+> Linux (CentOs, Ubuntu, Arch),
+> VMware Vsphere, Esxi, Workstation,
+> Windows Server (AD, GPO, Exchange, O365),
+> Troubleshooting, Service Desk.
 
 ## Education
 
