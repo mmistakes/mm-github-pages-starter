@@ -9,9 +9,9 @@ Analytical, problem-solving, technology enthusiast,
 Always seeking technical improvement and new challenges. 
 
 
-**Nanaimo, BC**        |  **250-268-4869**
-aidanbrownj@gmail.com  |  [Github](https://github.com/h4wk590) 
-aidanb.net             |  [LinkedIn](https://ca.linkedin.com/in/aidan-brown-8312a7181)
+**Nanaimo, BC**                   |  **250-268-4869**
+aidanbrownj@gmail.com             |  [Github](https://github.com/h4wk590) 
+[Website](aidanb.net)             |  [LinkedIn](https://ca.linkedin.com/in/aidan-brown-8312a7181)
 
 ## Experience
 
