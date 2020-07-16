@@ -30,7 +30,7 @@ Led teams to complete daily scheduled tasks in a production/manufacturing facili
 
 ### Development Tools
 
-> PHP, Python, Bash, PowerShell
+> PHP, Python, Bash, PowerShell,
 > Docker, Git, Azure devops, AKS,
 > AWS, Azure, Digital Ocean.
 
