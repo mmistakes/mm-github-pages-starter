@@ -9,11 +9,11 @@ feature_row:
     btn_label: "Sponsor"
     btn_class: "btn--primary"
   - image_path: assets/imgs_main/mona-heart-featured.png
-    url: "https://github.com/sponsors/jebedaia360"
+    url: "https://github.com/sponsors/Jeremi360"
     btn_label: "Sponsor"
     btn_class: "btn--primary"
   - image_path: assets/imgs_main/itch.io.png
-    url: "https://jebedaia.itch.io/rakugo"
+    url: "https://jeremi360x.itch.io/rakugo"
     btn_label: "Buy"
     btn_class: "btn--primary"
   - image_path: assets/imgs_main/PP_logo_h_200x51.png

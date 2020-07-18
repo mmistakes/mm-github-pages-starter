@@ -18,7 +18,6 @@ include:
   - _pages
   - _posts
 
-
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -32,7 +31,7 @@ author:
   links:
     - label: "itch.io"
       icon: "fas fa-fw fa-link"
-      url: "https://jebedaia.itch.io/rakugo"
+      url: "https://jeremi360x.itch.io/rakugo"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/rakugoteam/Rakugo"
