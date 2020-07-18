@@ -18,7 +18,6 @@ include:
   - _pages
   - _posts
 
-
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
