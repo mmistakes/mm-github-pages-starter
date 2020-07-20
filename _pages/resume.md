@@ -5,7 +5,7 @@ title: "Resume"
 
 # Aidan Brown
 
-Analytical, problem-solving, technology enthusiast,
+Solutions forward, Analytical, problem-solving, technology enthusiast,
 Always seeking technical improvement and new challenges. 
 
 
@@ -18,7 +18,7 @@ aidanbrownj@gmail.com             |  [Github](https://github.com/h4wk590)
 **Junior Systems Administrator, Mosaic Forest Management**
 *May 2019 - September 2019*
 
-Maintained  a Windows server 2012/2016 Active Directory, creating and editing group policies, implemented backups using Veeam, monitored systems using logging applications, created powershell scripts to automate user creation and apply patching, troubleshooting desktop support related issues via ticket requests, and deployed user workstations and software.
+Maintained  a Windows server 2012/2016 Active Directory, creating and editing group policies, implemented backups using Veeam, monitored systems using logging applications, created powershell scripts to automate user creation and apply patching, troubleshooting desktop support related issues via ticket requests, and deployed user workstations/software.
 
 **Production Technician Lead, Tilray**
 *January 2017 - August 2018*
@@ -30,8 +30,8 @@ Led teams to complete daily scheduled tasks in a production/manufacturing facili
 
 ### Development Tools
 
-> PHP, Python, Bash, PowerShell,
-> Docker, Git, Azure devops, AKS,
+> PHP, Java, Python, Bash, PowerShell,
+> Docker, Git, Azure devops,
 > AWS, Azure, Digital Ocean.
 
 ### IT Administration
@@ -40,6 +40,10 @@ Led teams to complete daily scheduled tasks in a production/manufacturing facili
 > VMware Vsphere, Esxi, Workstation,
 > Windows Server (AD, GPO, Exchange, O365),
 > Troubleshooting, Service Desk.
+
+### Networking
+
+> Fundamental routing and switching concepts.
 
 ## Education
 
