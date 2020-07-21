@@ -1,9 +1,12 @@
 ---
 title: "Intro 1: Machine Learning for scientists"
+
+toc: true
+toc_sticky: true
 ---
 
 <!-- TODO link to the slides of the ML workshops -->
-_This blog series is based on workshops I have delivered to (bio)statisticians and clinicians at the university of Cambridge. The slides from my talks are here._
+_This blog series is based on workshops I have delivered to (bio)statisticians and clinicians at the University of Cambridge. The slides from my talks are here._
 
 <!-- TODO reorganise assets folder -->
 <!-- TODO references -->

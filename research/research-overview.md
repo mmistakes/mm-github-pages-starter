@@ -4,15 +4,18 @@ title: Research
 
 layout: single
 
+header:
+  image: assets/images/research/research_banner.jpg
+
 classes: wide
 
-last_modified_at: 04/07/2020
+last_modified_at: 21/07/2020
 ---
 
 The primary focus of my PhD is the prediction of Protein-Protein Interactions (PPIs) using Machine Learning. [More]({% link research/protein-protein-interactions.md %})
 
 I am also interested in the environmental impact of computer-based research.
-We developped the Green Algorithms project to push forward the discussion around this issue.
+We developed the Green Algorithms project to push forward the discussion around this issue.
 More info [here]({% link research/green-algorithms.md %}) and on [www.green-algorithms.org](www.green-algorithms.org)
 
 And I contribute to clinical studies to advise on statistical methodology.
@@ -22,13 +25,19 @@ And I contribute to clinical studies to advise on statistical methodology.
 A complete list of publications is available on [Google Scholar]({{ site.social.googleScholar.link }}).
 {{ site.social.googleScholar }}
 
-- J. Roos, C. Aubanel, Z. Niewiadomska, L. Lannelongue, C. Maenhoudt, and A. Fontbonne,
+- __L. Lannelongue\*__, J. Grealey\* and M. Inouye,
+["Green Algorithms: Quantifying the carbon emissions of computation"](https://arxiv.org/abs/2007.07610),
+arXiv:2007.07610, July 2020.
+
+- J. Roos, C. Aubanel, Z. Niewiadomska, __L. Lannelongue__, C. Maenhoudt, and A. Fontbonne,
 [“Triplex doppler ultrasonography to describe the uterine arteries during diestrus and progesterone profile in pregnant and non-pregnant bitches of different sizes”](https://www.sciencedirect.com/science/article/abs/pii/S0093691X19303826),
 Theriogenology, vol. 141, pp. 153–160, Jan. 2020.
 
-- M. Inouye and L. Lannelongue,
+- M. Inouye and __L. Lannelongue__,
 [“Gene Regulatory Networks to Explain Coronary Artery Disease Heritability”](http://www.onlinejacc.org/content/73/23/2958/F1),
 J. Am. Coll. Cardiol., vol. 73, no. 23, pp. 2958–2960, Jun. 2019.
+
+\* equal contributions
 
 ## Talks and posters
 

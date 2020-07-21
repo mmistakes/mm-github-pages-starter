@@ -8,7 +8,7 @@ classes: wide
 
 _A CV can be downloaded [here]({% link /assets/files/CV.pdf %})._
 
-I was initially trained in Paris, France, at [Lycée Saint-Louis](https://lycee-saintlouis.fr/) (2013-15) and [ENSAE Paris](https://www.ensae.fr/en/) (2015-17) where I earned a BSc and a french _Diplôme d’ingénieur_ (MSc) studying mainly mathematics and statistics, but also theoretical physics and economics. During these years, I interned as a Data Scientist at [Sidetrade](https://www.sidetrade.com) (Paris) and Amazon EU (Luxembourg).
+I was initially trained in Paris (France) at [Lycée Saint-Louis](https://lycee-saintlouis.fr/) (2013-15) and [ENSAE Paris](https://www.ensae.fr/en/) (2015-17) where I earned a BSc and a french _Diplôme d’ingénieur_ (MSc) studying mainly mathematics and statistics, but also theoretical physics and economics. During these years, I interned as a Data Scientist at [Sidetrade](https://www.sidetrade.com) (Paris) and Amazon EU (Luxembourg).
 
 In 2017, I headed to the University of Oxford where I completed an [MSc in Statistics and Machine Learning](https://www.stats.ox.ac.uk/study-here/taught-postgraduate/msc-in-statistical-science/) (with Distinction).
 My Master’s thesis focused on developing a Bayesian tree-based algorithm to predict the length of hospital stays for patients, working with [Prof. Mihaela van der Schaar](http://www.vanderschaar-lab.com/).

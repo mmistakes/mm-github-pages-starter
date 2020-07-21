@@ -46,3 +46,9 @@ avoid the apoptosis-triggering activity of P53 but the Nutlins have been shown c
 of activating cell cycle arrest and apoptosis by binding to MDM2. This example shows
 the potential impact of a systematic way to identify these critical interactions which
 can then be used as therapeutic targets.
+
+## Our work
+
+Our primary goal is to find the best ways to leverage to power of machine learning to predict PPIs _in silico_.
+
+_More details coming soon_

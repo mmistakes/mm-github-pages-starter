@@ -27,3 +27,10 @@ teaching:
       - title: "Introduction to the Scientific Basis for Medicine"
       - title: "Introduction to Data Science"
       - title: "Bioinformatics"
+
+blog:
+  - title: "All posts"
+    url: /blog/
+  # - title: "Learning challenge: Ethics in AI"
+  - title: "Machine Learning tutorials for scientists"
+  - title: "Blog articles about my research"

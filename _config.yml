@@ -13,9 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Loïc Lanneelongue's personnal website"
+title: "Loïc Lannelongue's personnal website"
 masthead_title: "Home"
-subtitle: "version 0.9"
 name: &myName "Loïc Lannelongue"
 email: l.lannelongue@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -36,7 +35,7 @@ social:
     - link: &myGithub "https://github.com/Llannelongue"
     - username: Llannelongue
   - email:
-    - cambridge: &myCamEmail "ll582@medschl.cam.ac.uk"
+    - cambridge: &myCamEmail "ll582 (at) medschl.cam.ac.uk"
     - gmail: &myGmail "l.lannelongue@gmail.com"
 
 
@@ -72,9 +71,11 @@ minimal_mistakes_skin: default # "default", "air", "aqua", "contrast", "dark", "
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 3 # amount of posts to show
-paginate_path: "/blog/page:num/"
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+# Blog home page
+paginate: 5 # amount of posts to show
+paginate_path: "/blog/page:num"
+ # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # include:
 #   - _pages
@@ -120,7 +121,7 @@ author:
     #   url: *myWebsite
     - label: *myCamEmail
       icon: "fas fa-envelope-open-text"
-      url: mailto:ll582@medschl.cam.ac.uk
+      # url: mailto:ll582@medschl.cam.ac.uk
     - label: *myTwitterUser
       icon: "fab fa-fw fa-twitter-square"
       url: *myTwitter
@@ -150,7 +151,7 @@ footer:
       url: *myGoogleScholar
     - label: *myCamEmail
       icon: "fas fa-envelope-open-text"
-      url: mailto:ll582@medschl.cam.ac.uk
+      # url: mailto:ll582@medschl.cam.ac.uk
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
