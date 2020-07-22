@@ -5,9 +5,9 @@ layout: splash
 author_profile: true
 feature_row:
   - image_path: assets/imgs_main/d_template.png
-    image_caption: "Template"
+    image_caption: "2.1.05"
     ## alt: ""
-    title: "Rakugo v2.1.05 Template "
+    title: "Rakugo Template "
     excerpt: "Rakugo Empty Game Template"
     url: "https://github.com/rakugoteam/Rakugo/releases/download/2.1.05/Rakugo-2.1.05.zip"
     btn_label: "Download"
@@ -15,7 +15,8 @@ feature_row:
   - image_path: assets/imgs_main/d_the_question.png
     image_caption: "The Question"
     ## alt: ""
-    title: "The Question: Rakugo Edition v1.4.4"
+    title: "The Question: Rakugo Edition"
+    image_caption: "1.4.4"
     excerpt: "Port of small Ren'Py vn **The Question**."
     url: "https://github.com/rakugoteam/Rakugo/releases/download/2.1.05/The-Question-1.4.4.zip"
     btn_label: "Download"
