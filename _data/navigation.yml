@@ -1,23 +1,21 @@
 main:
-  - title: "Home"
-    url: /
-  - title: "Features"
-    url: /features/
-  - title: "FAQ"
-    url: /faq/
   - title: "News"
     url: /news/
+  - title: "Features"
+    url: /features/
+  - title: "Download"
+    url: /download/
+  - title: "Extensions"
+    url : /extensions/
+  - title: "FAQ"
+    url: /faq/
   - title: "Learn"
     url: /learn/
   - title: "Showcase"
     url: /showcase/
   - title: "Fund"
     url: /fund/
-  - title: "Download"
-    url: /download/
   - title: "Next Relase"
     url: https://github.com/rakugoteam/Rakugo/issues?q=is%3Aopen+is%3Aissue+milestone%3A%222.1.xx+(Godot+Developer+Simulator)%22
   - title: "Raport a Issue"
     url: https://github.com/rakugoteam/Rakugo/labels/bug
-  - title: "Sponsor"
-    url: https://github.com/sponsors/Jeremi360
