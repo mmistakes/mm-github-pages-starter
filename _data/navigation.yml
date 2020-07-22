@@ -15,7 +15,9 @@ main:
     url: /fund/
   - title: "Download"
     url: /download/
+  - title: "Next Relase"
+    url: https://github.com/rakugoteam/Rakugo/issues?q=is%3Aopen+is%3Aissue+milestone%3A%222.1.xx+(Godot+Developer+Simulator)%22
   - title: "Raport a Issue"
-    url: https://github.com/rakugoteam/Rakugo/issues
+    url: https://github.com/rakugoteam/Rakugo/labels/bug
   - title: "Sponsor"
-    url: https://github.com/sponsors/jebedaia360
+    url: https://github.com/sponsors/Jeremi360
