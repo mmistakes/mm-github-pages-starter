@@ -36,7 +36,7 @@ It adds:
 ## What about other RPG mechanics
 
 - *Quest System* is already part of Rakugo
-- O1.4.4assets/ext/rakugo-rpg.pngther rpg machanics will be added in next updates of this extension
+- Other rpg machanics will be added in next updates of this extension
 
 ## How To install
 
