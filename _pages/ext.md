@@ -1,6 +1,6 @@
 ---
 permalink: /extensions/
-title: "Extensions"
+title: "Extensions/Addons"
 layout: splash
 author_profile: true
 feature_row:

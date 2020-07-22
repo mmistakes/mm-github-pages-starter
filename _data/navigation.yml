@@ -5,7 +5,7 @@ main:
     url: /features/
   - title: "Download"
     url: /download/
-  - title: "Extensions"
+  - title: "Extensions/Addons"
     url : /extensions/
   - title: "FAQ"
     url: /faq/
