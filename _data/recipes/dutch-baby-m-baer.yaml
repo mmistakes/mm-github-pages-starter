@@ -48,11 +48,11 @@ ingredients:
 directions:
   - part: Dutch baby
     steps: 
-      - step: Sæt en pande eller lav støbejernsgryde i ovnen og tænd den på 220&deg; (evt. hurtigvarme);
+      - step: Sæt en pande eller lav støbejernsgryde i ovnen og tænd den på 220&deg; (evt. hurtigvarme );
       - step: Bland mælk, mel, æg, sukker, vaniliesukker og salt sammen og pisk godt.
         substeps:
-          - substep: "Brug en blender, foodprocessor eller en stavblender til at blande dejen godt og få godt med luft i."
-      - step: Når ovnen er blevet 220&deg; grader skal panden have 10 min ekstra i ovnen for at blive gennemvarm.
+          - substep: "Brug en håndmixer eller en stavblender til at blande dejen godt og få godt med luft i."
+      - step: Når ovnen er blevet 220&deg; grader skal panden have 10 min ekstra i ovnen for at blive gennemvarm. (Sluk for evt. hurtigvarme)
       - step: Tag panden ud og kom smørret i panden og rør det rundt til det er smeltet.
       - step: Hæld baby-dejen ned i smøret, drys med sukker og sæt panden tilbage i ovnen.
       - step: Giv babyen 20-25 minutter i ovnen. Bare rolig den skal nok puffe op når du endeligt har opgivet den.

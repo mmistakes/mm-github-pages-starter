@@ -32,6 +32,9 @@ ingredients:
           - amount: 3 cm 
             name: ingefær 
             prep: fint revet
+          - amount: 5-10 skvæt
+            name: tabasco
+            note: eller en knivspids chilli
 directions:
  - part:
    steps: 

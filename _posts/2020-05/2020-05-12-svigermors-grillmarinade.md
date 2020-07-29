@@ -53,7 +53,7 @@ Du kan læse meget mere om umami på [umamiinfo.com](https://umamiinfo.com) og g
 ## Krydderier og sprængning
 Det er selvfølgeligt ikke kun umami der gør marinade lækker. For ud over umami indeholder soya en masse salt, så mens kødet ligger og trækker, bliver det “sprængt”. Sprængningen tillader mere marinade at komme ind i mellem de individuelle fibre i kødet og saltet gør også fibrene bedre til at holde på det vand der allerede er i kødet under stegning.
 
-Krydderierne ingefær og hvidløg indeholder selv en del umami og begår sig, ligesom paprika, generelt rigtig godt i umamirige madretter. Tænk bare på en smagfuld wokret eller en paprikagryde med masser af bacon.
+Krydderierne chili/tabasco, ingefær og hvidløg indeholder selv en del umami og begår sig, ligesom paprika, generelt rigtig godt i umamirige madretter. Tænk bare på en smagfuld wokret eller en paprikagryde med masser af bacon. 
 
 
 {% include gallery id="gallery-top"  caption="" %}
