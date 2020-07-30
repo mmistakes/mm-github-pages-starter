@@ -5,7 +5,7 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: Data/recipes
+  path: _Data/recipes
   label: Recipes
   create: all
   match: "**/*"
