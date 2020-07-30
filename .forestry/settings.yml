@@ -9,7 +9,7 @@ sections:
   label: all
   create: all
   match: "**/*"
-  new_doc_ext: ".yaml"
+  new_doc_ext: yaml
 - type: directory
   path: _data/recipes
   label: Recipes
