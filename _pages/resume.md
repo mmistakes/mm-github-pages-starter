@@ -1,9 +1,8 @@
 ---
 permalink: /resume/
-title: "Resume"
+title: "Aidan Brown"
 ---
 
-# Aidan Brown
 
 Solutions forward, Analytical, problem-solving, technology enthusiast,
 Always seeking technical improvement and new challenges. 
