@@ -1,0 +1,100 @@
+---
+label: Opskrift
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: text
+  name: author
+  label: author
+- type: list
+  name: categories
+  label: categories
+- type: list
+  name: tags
+  label: tags
+- type: text
+  name: permalink
+  label: permalink
+- type: textarea
+  name: excerpt
+  label: excerpt
+- type: field_group
+  name: header
+  label: header
+  fields:
+  - type: file
+    name: teaser
+    label: teaser
+  - type: file
+    name: overlay_image
+    label: overlay_image
+  - type: number
+    name: overlay_filter
+    label: overlay_filter
+  - type: field_group_list
+    name: actions
+    label: actions
+    fields:
+    - type: text
+      name: label
+      label: label
+    - type: text
+      name: url
+      label: url
+- type: field_group_list
+  name: gallery-teaser
+  label: gallery-teaser
+  fields:
+  - type: file
+    name: url
+    label: url
+  - type: file
+    name: image_path
+    label: image_path
+  - type: text
+    name: alt
+    label: alt
+- type: field_group_list
+  name: gallery-poolish
+  label: gallery-poolish
+  fields:
+  - type: file
+    name: url
+    label: url
+  - type: file
+    name: image_path
+    label: image_path
+  - type: text
+    name: alt
+    label: alt
+- type: field_group_list
+  name: gallery-stories
+  label: gallery-stories
+  fields:
+  - type: file
+    name: url
+    label: url
+  - type: file
+    name: image_path
+    label: image_path
+  - type: text
+    name: alt
+    label: alt
+- type: field_group_list
+  name: gallery-header
+  label: gallery-header
+  fields:
+  - type: file
+    name: url
+    label: url
+  - type: file
+    name: image_path
+    label: image_path
+  - type: text
+    name: alt
+    label: alt
