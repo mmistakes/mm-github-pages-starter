@@ -5,6 +5,7 @@ fields:
 - type: text
   name: layout
   label: layout
+  default: single
 - type: text
   name: title
   label: title
