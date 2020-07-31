@@ -5,7 +5,8 @@ title: "Aidan Brown"
 
 
 Solutions forward, Analytical, problem-solving, technology enthusiast,
-Always seeking technical improvement and new challenges. 
+Always seeking technical improvement and new challenges. I'm looking to specialize
+and utlize my skills as a young IT proffesional.
 
 
 **Nanaimo, BC**                   |  **250-268-4869**
@@ -19,6 +20,7 @@ aidanbrownj@gmail.com             |  [Github](https://github.com/h4wk590)
 
 - Maintained  a Windows server 2012/2016 Active Directory by creating and editing group policies.
 - Implemented daily/weekly/monthly backups using Veeam.
+- Creating and editing Distribution Groups in O365.
 - Monitored systems using logging applications. 
 - Created Powershell scripts to automate user creation and apply patching. 
 - Provided troubleshooting for desktop support related issues via ticket requests, and deployed user workstations/software.
@@ -27,7 +29,7 @@ aidanbrownj@gmail.com             |  [Github](https://github.com/h4wk590)
 *January 2017 - August 2018*
 
 - Led teams to complete daily scheduled tasks in a production/manufacturing facility. 
-- Followed Good documentation practices to effectively record data and metrics from tasks. 
+- Followed Good documentation practices and SOPs to effectively record data and metrics from tasks. 
 - Used proper and safe techniques to carry out responsibilities. 
 
 
