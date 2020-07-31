@@ -48,7 +48,7 @@ aidanbrownj@gmail.com             |  [Github](https://github.com/h4wk590)
 
 ### Networking
 
-> Fundamental routing and switching concepts(NAT, WAN, DNS, VLANS, ACL, IP subnetting).
+> Fundamental routing and switching concepts (NAT, WAN, DNS, VLANS, ACL, IP subnetting).
 
 ## Education
 
