@@ -17,12 +17,18 @@ aidanbrownj@gmail.com             |  [Github](https://github.com/h4wk590)
 **Junior Systems Administrator, Mosaic Forest Management**
 *May 2019 - September 2019*
 
-Maintained  a Windows server 2012/2016 Active Directory, creating and editing group policies, implemented backups using Veeam, monitored systems using logging applications, created powershell scripts to automate user creation and apply patching, troubleshooting desktop support related issues via ticket requests, and deployed user workstations/software.
+- Maintained  a Windows server 2012/2016 Active Directory by creating and editing group policies.
+- Implemented daily/weekly/monthly backups using Veeam.
+- Monitored systems using logging applications. 
+- Created Powershell scripts to automate user creation and apply patching. 
+- Provided troubleshooting for desktop support related issues via ticket requests, and deployed user workstations/software.
 
 **Production Technician Lead, Tilray**
 *January 2017 - August 2018*
 
-Led teams to complete daily scheduled tasks in a production/manufacturing facility. Followed Good documentation practices to effectively record data and metrics from tasks. Used proper and safe techniques to carry out responsibilities. 
+- Led teams to complete daily scheduled tasks in a production/manufacturing facility. 
+- Followed Good documentation practices to effectively record data and metrics from tasks. 
+- Used proper and safe techniques to carry out responsibilities. 
 
 
 ## Technical Skills
@@ -42,12 +48,12 @@ Led teams to complete daily scheduled tasks in a production/manufacturing facili
 
 ### Networking
 
-> Fundamental routing and switching concepts.
+> Fundamental routing and switching concepts(NAT, WAN, DNS, VLANS, ACL, IP subnetting).
 
 ## Education
 
 **Vancouver Island University**
-> Diploma, Information Technology & Applied Systems
+> Diploma, Information Technology & Applied Systems,
 > Graduated 2020, 3.8 GPA
 
 
