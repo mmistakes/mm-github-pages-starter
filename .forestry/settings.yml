@@ -7,11 +7,9 @@ sections:
 - type: document
   path: _pages/dejogmiglinks.md
   label: dejogmig links
-  match: "**/*"
 - type: document
   path: _pages/instagram.md
   label: instagram.md
-  match: "**/*"
 - type: directory
   path: ''
   label: all
