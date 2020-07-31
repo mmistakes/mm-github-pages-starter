@@ -1,62 +1,68 @@
 ---
-name: "Hurtig surdej til sommerhuset" 
+name: Hurtig surdej til sommerhuset
 image: assets/images/posts/henrik/surdejsrundstykker-teaser.jpg
-description_short: "En surdej du kan bage med fra dag ét, men som bliver bedre og bedre hver dag!"
-keywords: "Surdej, opstart af surdej"
+description_short: En surdej du kan bage med fra dag ét, men som bliver bedre og bedre
+  hver dag!
+keywords: Surdej, opstart af surdej
 cuisine: Danish
 yield: 1 surdej
 prepTime: 30 min
 prepTime_iso: PT30M
-totalTime:  1-7 dage
-totalTime_iso: PT1D
+totalTime: 1-7 dage
+totalTime_iso: P1D
 ingredients:
-  left: 
-  - part: Første gange  
+  left:
+  - part: Første gange
     items:
-      - amount: 3 spsk  
-        name: Hvedemel
-      - amount: 3 spsk  
-        name: Fuldkornsmel (rug eller andet)
-      - amount: ca 4 spsk  
-        name: vand
-      - amount: nærmest intet
-        name: gær
-  - part: Efter bagning (morgen)  
+    - amount: 3 spsk
+      name: Hvedemel
+    - amount: 3 spsk
+      name: Fuldkornsmel (rug eller andet)
+    - amount: ca 4 spsk
+      name: vand
+    - amount: nærmest intet
+      name: gær
+  - part: Efter bagning (morgen)
     items:
-      - amount: 1 spsk  
-        name: Hvedemel
-      - amount: 1 spsk  
-        name: Fuldkornsmel (rug eller andet)
-      - amount: ca 1-2 spsk  
-        name: vand
-  right: 
+    - amount: 1 spsk
+      name: Hvedemel
+    - amount: 1 spsk
+      name: Fuldkornsmel (rug eller andet)
+    - amount: ca 1-2 spsk
+      name: vand
+  right:
   - part: Før bagning (aften)
     items:
-      - amount: 3 spsk  
-        name: Hvedemel
-      - amount: 3 spsk  
-        name: Fuldkornsmel (rug eller andet)
-      - amount: ca 4 spsk  
-        name: vand
+    - amount: 3 spsk
+      name: Hvedemel
+    - amount: 3 spsk
+      name: Fuldkornsmel (rug eller andet)
+    - amount: ca 4 spsk
+      name: vand
 directions:
-  - part: Opstart
-    steps: 
-      - step: Bland alle ingredienser til opstart af surdejen sammen i et glas eller anden beholder. 
-        substeps:
-          - substep: Brug et lille hjørne af gæren på størrelse med et korn.
-      - step: Luk IKKE låget så det er luftæt, men læg eller skru det løst på!
-      - step: Placer beholderen et sted, hvor det er lunt men ikke bliver for varmt, især i sommervarmen.
-      - step: Efter 12-16 timer er "surdejen" nu en poolish og der kan bages første portion boller med den.
-  - part: Ved bagning (morgen)
-    steps:
-      - step: Når der skal bages med surdejen, kan du bruge næsten alt surdejen, men sørg for at der sidder, det der svarer til en teskes, surdej tilbage på kanten og bunden af glasset.
-      - step: Kom en teske almindelig og fuldkorns mel i glasset og tilsæt 1-2 tsk vand.
-      - step: Sæt surdejen tilbage på sin plads og lad den gøre sin ting, til du skal genopfriske den.
-  - part: Før næste bagning eller hver aften
-    steps: 
-      - step: Dette skridt er meget simpelt og gøres aftenen før (eller 8-10 timer før) næste bagning.
-      - step: Bland alle mel, vand og surdej sammen og sæt låget løst på.
-      - step: Lad surdejen arbejde hele natten mens du sover eller drikker vin på terrassen.
-      - step: Gentag processen hver aften!
-        
-
+- part: Opstart
+  steps:
+  - step: Bland alle ingredienser til opstart af surdejen sammen i et glas eller anden
+      beholder.
+    substeps:
+    - substep: Brug et lille hjørne af gæren på størrelse med et korn.
+  - step: Luk IKKE låget så det er luftæt, men læg eller skru det løst på!
+  - step: Placer beholderen et sted, hvor det er lunt men ikke bliver for varmt, især
+      i sommervarmen.
+  - step: Efter 12-16 timer er "surdejen" nu en poolish og der kan bages første portion
+      boller med den.
+- part: Ved bagning (morgen)
+  steps:
+  - step: Når der skal bages med surdejen, kan du bruge næsten alt surdejen, men sørg
+      for at der sidder, det der svarer til en teskes, surdej tilbage på kanten og
+      bunden af glasset.
+  - step: Kom en teske almindelig og fuldkorns mel i glasset og tilsæt 1-2 tsk vand.
+  - step: Sæt surdejen tilbage på sin plads og lad den gøre sin ting, til du skal
+      genopfriske den.
+- part: Før næste bagning eller hver aften
+  steps:
+  - step: Dette skridt er meget simpelt og gøres aftenen før (eller 8-10 timer før)
+      næste bagning.
+  - step: Bland alle mel, vand og surdej sammen og sæt låget løst på.
+  - step: Lad surdejen arbejde hele natten mens du sover eller drikker vin på terrassen.
+  - step: Gentag processen hver aften!
