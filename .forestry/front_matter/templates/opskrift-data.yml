@@ -1,0 +1,75 @@
+---
+label: Opskrift - data
+hide_body: true
+fields:
+- type: text
+  name: name
+  label: name
+- type: file
+  name: image
+  label: image
+- type: textarea
+  name: description_short
+  label: description_short
+- type: text
+  name: keywords
+  label: keywords
+- type: text
+  name: cuisine
+  label: cuisine
+- type: datetime
+  name: yield
+  label: yield
+- type: text
+  name: prepTime
+  label: prepTime
+- type: text
+  name: prepTime_iso
+  label: prepTime_iso
+- type: text
+  name: riseTime
+  label: riseTime
+- type: text
+  name: riseTime_iso
+  label: riseTime_iso
+- type: text
+  name: totalTime
+  label: totalTime
+- type: text
+  name: totalTime_iso
+  label: totalTime_iso
+- type: field_group
+  name: ingredients
+  label: ingredients
+  fields:
+  - type: field_group_list
+    name: single
+    label: single
+    fields:
+    - type: text
+      name: part
+      label: part
+    - type: field_group_list
+      name: items
+      label: items
+      fields:
+      - type: text
+        name: amount
+        label: amount
+      - type: text
+        name: name
+        label: name
+- type: field_group_list
+  name: directions
+  label: directions
+  fields:
+  - type: text
+    name: part
+    label: part
+  - type: field_group_list
+    name: steps
+    label: steps
+    fields:
+    - type: textarea
+      name: step
+      label: step
