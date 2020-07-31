@@ -6,7 +6,7 @@ title: "Aidan Brown"
 
 Solutions forward, Analytical, problem-solving, technology enthusiast,
 Always seeking technical improvement and new challenges. I'm looking to specialize
-and utlize my skills as a young IT proffesional.
+and utilize my skills as a young IT professional.
 
 
 **Nanaimo, BC**                   |  **250-268-4869**
