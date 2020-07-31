@@ -20,7 +20,7 @@ aidanbrownj@gmail.com             |  [Github](https://github.com/h4wk590)
 
 - Maintained  a Windows server 2012/2016 Active Directory by creating and editing group policies.
 - Implemented daily/weekly/monthly backups using Veeam.
-- Creating and editing Distribution Groups in O365.
+- Created and edited Distribution Groups in O365.
 - Monitored systems using logging applications. 
 - Created Powershell scripts to automate user creation and apply patching. 
 - Provided troubleshooting for desktop support related issues via ticket requests, and deployed user workstations/software.
