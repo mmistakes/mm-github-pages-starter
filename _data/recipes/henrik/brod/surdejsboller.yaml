@@ -28,7 +28,7 @@ ingredients:
     - amount: 240 g
       name: surdej
       note: 100% hydrering
-    - amount: 720-800 g
+    - amount: 700-800 g
       name: koldt vand
       note: 75-82% hydrering, vælg hvad du er tryg ved
 directions:
@@ -85,8 +85,19 @@ directions:
   - step: Dejen skal nu have næsten så lang til som de kan få i køleskabet. Jeg kan
       godt lide deje der har ligget i køleskabet i omkring 48 timer, men helt ned
       til 8 timer giver et ganske fint resultat.
-  - step: Før bollerne formes kommes bagepapir på en bageplade der er vendt på hovedet,
-      et stort skærebræt, en pizzaspade eller lignende.
+  - step: Før bollerne formes kommes bagepapir på en pizzaspade, en bageplade der
+      er vendt på hovedet, et stort skærebræt eller lignende. Sørg for at have nok
+      plads til bollerne og bag dem gerne over flere omgange.
+  - step: 'Nu skal bollerne formes. Kom en smule mel på køkkenbordet og  vend skålen
+      eller beholderen så dejen stille og rolig kan flyde ud. Den skal gerne lande
+      sådan at det der var yderside nede i beholderen nu ligger ned mod køkkenbordet. '
+    substeps:
+    - substep: Nu folder vi dejen ind over sig selv, så den nu melede yderside går
+        hele vejen rundt om dejen. Tag lidt mel på fingrene og tag fat i kanten af
+        dejen og fold den over sig selv som en pizzasandwich.
+    - substep: Drys evt lidt mere mel over dejen og tag så en bordskraber eller lignende
+        som fx en paletkniv til at hakke dejen ud. Hak nu dejen ud i passende stykker.
+        Jeg starter altid med "hjørnerne"
   - step: Lad bollerne efterhæve et lunt sted. De kan godt bruge mere tid at de 45
       minutter en ovn bruger på at blive rigtig gennemvarm, men hvis du har travlt
       er det fint med det
