@@ -12,8 +12,8 @@ tags:
 permalink: "/surdejsboller/"
 excerpt: ''
 header:
-  teaser: assets/images/uploads/_dsc8882.jpg
-  overlay_image: assets/images/uploads/_dsc8882.jpg
+  teaser: "/assets/images/uploads/dsc8882.jpg"
+  overlay_image: "/assets/images/uploads/dsc8882.jpg"
   overlay_filter: 
   actions: []
 
