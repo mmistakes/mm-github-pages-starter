@@ -12,7 +12,7 @@ tags:
 permalink: "/surdejsboller/"
 excerpt: ''
 header:
-  teaser: assets/uploads/_dsc0095.jpg
+  teaser: ''
   overlay_image: assets/uploads/_dsc0095.jpg
   overlay_filter: 
   actions: []
