@@ -9,7 +9,7 @@ feature_row:
     ## alt: ""
     title: "RakugoDocs"
     ## excerpt: ""
-    url: "https://rakugo.readthedocs.io/en/latest/"
+    url: "https://rakugoteam.github.io/RakugoDocs-new/"
     btn_label: "Learn"
     btn_class: "btn--primary"
   - image_path: assets/imgs_main/yt.png

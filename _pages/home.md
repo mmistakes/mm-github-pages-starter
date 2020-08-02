@@ -6,8 +6,18 @@ author_profile: true
 
 ![](/assets/imgs_main/the_question2.png)
 
-Rakugo Framework is inspired by [Ren'Py](https://www.renpy.org) game template with addon for story driven games in [Godot](https://godotengine.org) like visual novels, point & click and rpg, but you can mix it with other types of games.
+Inspired by [Ren'Py](https://www.renpy.org), Rakugo is a framework aimed at providing a better toolset for narrative-based games on [Godot](https://godotengine.org). Simplify your project, if it is a visual novel, point and click, RPG, interactive text game or many other styles and blends of styles.
 
-It has dialogue system, some extra tools, nodes, gui and features that most games have out of the box. See all features [here](/features/).
+Unlock the potential of [Godot](https://godotengine.org) 3.x with Rakugo!
 
-The idea is to have a ready to use this framework for stories, so developers can create narrative driven games with all the amazing features and tools of Godot 3.1+.
+Features include:
+
+- Expanded nodes
+
+- GUI extensions
+
+- Specialized tools for narrative-driven games
+
+...[and much, much more](/features/).
+
+Read our [documentation](/RakugoDocs-new/) and [download Rakugo](/download/), free!
