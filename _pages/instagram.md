@@ -1,10 +1,9 @@
 ---
-title: "Breddams mad - instagram links"
+title: Breddams mad - instagram links
 layout: single
 type: grid
-permalink: /instagram/
+permalink: "/instagram/"
 author_profile: false
-#Instagram link galleri
 gallery:
   - url: /pasta-med-kodsovs/
     image_path: assets/images/posts/henrik/pasta-med-kodsovs/pasta-med-kodsovs-teaser.jpg

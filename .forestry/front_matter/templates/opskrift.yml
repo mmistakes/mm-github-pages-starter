@@ -1,0 +1,51 @@
+---
+label: Opskrift
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+  default: single
+- type: text
+  name: title
+  label: title
+- type: text
+  name: author
+  label: author
+- type: list
+  name: categories
+  label: categories
+- type: list
+  name: tags
+  label: tags
+- type: text
+  name: permalink
+  label: permalink
+- type: textarea
+  name: excerpt
+  label: excerpt
+- type: field_group
+  name: header
+  label: header
+  fields:
+  - type: file
+    name: teaser
+    label: teaser
+  - type: file
+    name: overlay_image
+    label: overlay_image
+  - type: number
+    name: overlay_filter
+    label: overlay_filter
+  - type: field_group_list
+    name: actions
+    label: actions
+    fields:
+    - type: text
+      name: label
+      label: label
+    - type: text
+      name: url
+      label: url
+pages:
+- _posts/2020-08/bornevenlig-boller-i-karry-uden-maelk-og-med-masser-af-skjulte-gronsager.md
