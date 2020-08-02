@@ -5,9 +5,6 @@ type: grid
 permalink: "/dejogmig/"
 author_profile: false
 gallery:
-- url: "/surdejsboller/"
-  image_path: assets/uploads/_dsc0095.jpg
-  alt: test
 - url: "/koldhaevede-kokkenbordsboller/"
   image_path: assets/images/posts/henrik/kokkenbordsboller/kokkenbordsboller-teaser.jpg
   alt: Køkkenbordsboller
