@@ -45,7 +45,6 @@ Det går måske meget fint, lige indtil man er begyndt at stege krydderierne og 
 {% include opskrift.html author="henrik" category="aftensmad" opskrift="blomkaalscurry" %}
 
 
-[Cleaned]: /BlomkaalscurryFixed-blog/
+
 [opskrift]: https://www.femina.dk/mad/hovedretter/blomkaalskarry-med-sproede-kikaerter
-[principper]:   /principper/
-[garlicoil]: /low-foodmap-hvidloegsolie/
+

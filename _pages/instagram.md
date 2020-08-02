@@ -8,7 +8,7 @@ author_profile: false
 gallery:
   - url: /pasta-med-kodsovs/
     image_path: assets/images/posts/henrik/pasta-med-kodsovs/pasta-med-kodsovs-teaser.jpg
-    alt: Pasta med kødsovs
+    alt: Pasta med kødsovs 
   - url: /rabarbertrifli/
     image_path: assets/images/posts/helene/trifli/trifli-ekstra.jpg
     alt: Rabarbertrifli
