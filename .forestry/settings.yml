@@ -21,7 +21,7 @@ sections:
   label: Recipes
   create: all
   match: "**/*"
-  new_doc_ext: ".yaml"
+  new_doc_ext: yaml
   templates:
   - opskrift-data
 - type: jekyll-pages
@@ -30,7 +30,7 @@ sections:
 - type: jekyll-posts
   label: Posts
   create: all
-  new_doc_ext: ".md"
+  new_doc_ext: md
   templates:
   - opskrift
 - type: directory

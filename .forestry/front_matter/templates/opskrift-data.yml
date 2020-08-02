@@ -73,3 +73,20 @@ fields:
     - type: textarea
       name: step
       label: step
+    - name: substeps
+      type: field_group_list
+      fields:
+      - name: substep
+        type: textarea
+        default: ''
+        config:
+          required: false
+          wysiwyg: true
+          schema:
+            format: markdown
+        label: substep
+      config:
+        min: 
+        max: 
+        labelField: 
+      label: substeps
