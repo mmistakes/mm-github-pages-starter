@@ -12,10 +12,11 @@ tags:
 permalink: "/surdejsboller/"
 excerpt: ''
 header:
-  teaser: ''
-  overlay_image: ''
+  teaser: assets/uploads/_dsc0095.jpg
+  overlay_image: assets/uploads/_dsc0095.jpg
   overlay_filter: 
   actions: []
 
 ---
+
 {% include opskrift.html author="henrik" category="brod" opskrift="surdejsboller" %}
