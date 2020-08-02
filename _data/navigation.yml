@@ -5,16 +5,16 @@ main:
     url: /features/
   - title: "Download"
     url: /download/
-  - title: "Extensions/Addons"
+  - title: "Extensions & Addons"
     url : /extensions/
-  - title: "FAQ"
-    url: /faq/
+  - title: "Donations"
+    url: /donations/
   - title: "Learn"
     url: /learn/
+  - title: "FAQ"
+    url: /faq/
   - title: "Showcase"
     url: /showcase/
-  - title: "Fund"
-    url: /fund/
   - title: "Next Relase"
     url: https://github.com/rakugoteam/Rakugo/issues?q=is%3Aopen+is%3Aissue+milestone%3A%222.1.xx+(Godot+Developer+Simulator)%22
   - title: "Raport a Issue"

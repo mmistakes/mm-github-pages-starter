@@ -1,6 +1,6 @@
 ---
-permalink: /fund/
-title: "Fund"
+permalink: /donations/
+title: "Donations"
 author_profile: true
 layout: splash
 feature_row:
@@ -23,6 +23,6 @@ feature_row:
 
 ---
 
-## Fund
+## Donations
 
 {% include feature_row %}
