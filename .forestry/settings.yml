@@ -21,12 +21,18 @@ sections:
   label: Recipes
   create: all
   match: "**/*"
+  new_doc_ext: ".yaml"
+  templates:
+  - opskrift-data
 - type: jekyll-pages
   label: Pages
   create: all
 - type: jekyll-posts
   label: Posts
   create: all
+  new_doc_ext: ".md"
+  templates:
+  - opskrift
 - type: directory
   path: _category
   label: Category
