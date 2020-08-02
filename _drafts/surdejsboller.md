@@ -18,6 +18,6 @@ header:
   actions: []
 
 ---
-![testtesttet](assets/images/uploads/_dsc8882.jpg)
+![](/assets/images/uploads/dsc8882.jpg)
 
 {% include opskrift.html author="henrik" category="brod" opskrift="surdejsboller" %}
