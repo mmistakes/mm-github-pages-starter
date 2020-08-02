@@ -5,6 +5,9 @@ type: grid
 permalink: "/dejogmig/"
 author_profile: false
 gallery:
+- url: "/surdejsboller/"
+  image_path: assets/uploads/_dsc0095.jpg
+  alt: test
 - url: "/koldhaevede-kokkenbordsboller/"
   image_path: assets/images/posts/henrik/kokkenbordsboller/kokkenbordsboller-teaser.jpg
   alt: Køkkenbordsboller
@@ -56,9 +59,10 @@ gallery:
 - url: "/grove-potato-buns/"
   image_path: assets/images/posts/henrik/grove-potato-buns-teaser.jpg
   alt: Grove potato buns
+published: false
 
 ---
 Herunder kan du finde links til opskrifter og blogpost som jeg har skrevet om på [instagram.com/dejogmig](https://instagram.com/dejogmig):
 {% include gallery id="gallery"  caption="" %}
 
-![](/uploads/_dsc0095.jpg)
+![](assets/uploads/_dsc0095.jpg)
