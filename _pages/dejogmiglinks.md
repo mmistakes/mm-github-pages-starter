@@ -61,5 +61,7 @@ gallery:
   alt: Grove potato buns
 
 ---
-Herunder kan du finde links til opskrifter og blogpost som jeg har skrevet om på [instagram.com/dejogmig](https://instagram.com/dejogmig): 
+Herunder kan du finde links til opskrifter og blogpost som jeg har skrevet om på [instagram.com/dejogmig](https://instagram.com/dejogmig):
 {% include gallery id="gallery"  caption="" %}
+
+![](/uploads/_dsc0095.jpg)
