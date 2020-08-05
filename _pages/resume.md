@@ -37,20 +37,20 @@ aidanbrownj@gmail.com             |  [Github](https://github.com/h4wk590)
 
 ### Development Tools
 
-> PHP, Java, Python, Bash, PowerShell,
+> PHP, Java, Bash, PowerShell,
 > Docker, Git, Azure devops,
-> AWS, Azure, Digital Ocean.
+> AWS, WordPress.
 
 ### IT Administration
 
 > Linux (CentOs, Ubuntu, Arch),
 > VMware Vsphere, Esxi, Workstation,
-> Windows Server (AD, GPO, Exchange, O365),
+> Windows Server 2016 (AD, GPO, Exchange, O365),
 > Troubleshooting, Service Desk.
 
 ### Networking
 
-> Fundamental routing and switching concepts (NAT, WAN, DNS, VLANS, ACL, IP subnetting).
+> Fundamental routing and switching concepts.
 
 ## Education
 
