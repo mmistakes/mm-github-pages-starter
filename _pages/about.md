@@ -5,7 +5,7 @@ title: "About"
 
 Hi! I'm Aidan, I'm from Vancouver Island, British Columbia, Canada. I'm a Recent Graduate in Information Technology and Applied Systems.
 
-My interest and passion in technlogy is specifically in Devops, scripting, automation, cloud technologies and Linux.
+My interest and passion in technlogy is specifically in System Administration/Devops, scripting, automation, cloud and virtualization technologies, and Linux.
 
 Outside of tech I enjoy the great outdoors (and indoors), fitness, minimalism, film, food and beer ( I love a good pale ale).
 
