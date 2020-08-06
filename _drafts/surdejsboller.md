@@ -10,7 +10,11 @@ tags:
 - Boller
 - Surdejsboller
 permalink: "/surdejsboller/"
-excerpt: ''
+excerpt: 'Surdejsboller er nok det jeg bager mest, da processen er en del mere fleksibel
+  end brødbagning og derfor passer rigtig godt ind i en travl hverdag. Selvom jeg
+  tit ændrer på, præcis hvordan jeg laver bollerne er dette er mit forsøg på at føre
+  én surdejsbolleopskrift til protokol. Så har jeg noget jeg selv kan gå ud fra og
+  samtidigt noget jeg kan dele med omverdenen :smile:'
 header:
   teaser: "/assets/images/uploads/dsc8882.jpg"
   overlay_image: "/assets/images/uploads/dsc8882.jpg"
