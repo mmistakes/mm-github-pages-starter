@@ -6,7 +6,7 @@ Categories: tech 2020 homelab
 
 ### Intro
 
-I wanted a way to both view my containers within my homelab using a domain name, and also have a system to manage routing between containers. I discovered [Traefik](docs.traefik.io), Open source, easy to use, serverless. 
+I wanted a way to both view my containers within my homelab using a domain name, and also have a system to manage routing between containers. I discovered [Traefik](https://containo.us/traefik/) , Open source, easy to use, serverless, edge router. 
 
 This post will serve as a guide to setting up a reverse-proxy using Traefik and Docker. There's a few requirements before we need to get started, you will need the following:
 
