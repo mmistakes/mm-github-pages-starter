@@ -21,7 +21,7 @@ aidanbrownj@gmail.com             |  [Github](https://github.com/h4wk590)
 - Supported a Windows Server multi-forest 2012/2016 virtualized environment with 125+ employees.
 - Utilized Active Directory to add new users, reset passwords, and manage OUs.
 - Implemented daily/weekly/monthly backup jobs using Veeam for core infrastructure.
-- Imaged and deployed new workstations for emplpyees, and maintained IT inventory records.
+- Imaged and deployed new workstations for employees, and maintained IT inventory records.
 - Created and updated SolarWinds infrastructure monitoring notificatons to relay important logging information to the respective business application owner.
 - Created and used Powershell scripts to automate user creation, remove Windows-related bloatware, and map network drives.
 - Provided troubleshooting for T1 desktop support related issues via ticket requests from Dell KACE. 
