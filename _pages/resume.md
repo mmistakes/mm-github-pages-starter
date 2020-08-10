@@ -15,15 +15,16 @@ aidanbrownj@gmail.com             |  [Github](https://github.com/h4wk590)
 
 ## Experience
 
-**Junior Systems Administrator, Mosaic Forest Management**
+**Junior Systems Administrator, Mosaic Forest Management - Internship**
 *May 2019 - September 2019*
 
-- Maintained  a Windows server 2012/2016 Active Directory by creating and editing group policies.
-- Implemented daily/weekly/monthly backups using Veeam.
-- Created and edited Distribution Groups in O365.
-- Monitored systems using logging applications. 
-- Created Powershell scripts to automate user creation and apply patching. 
-- Provided troubleshooting for desktop support related issues via ticket requests, and deployed user workstations/software.
+- Supported a Windows Server multi-forest 2012/2016 virtualized environment with 125+ employees.
+- Utilized Active Directory to add new users, reset passwords, and manage OUs.
+- Implemented daily/weekly/monthly backup jobs using Veeam for core infrastructure.
+- Imaged and deployed new workstations for emplpyees, and maintained IT inventory records.
+- Created and updated SolarWinds infrastructure monitoring notificatons to relay important logging information to the respective business application owner.
+- Created and used Powershell scripts to automate user creation, remove Windows-related bloatware, and map network drives.
+- Provided troubleshooting for T1 desktop support related issues via ticket requests from Dell KACE. 
 
 **Production Technician Lead, Tilray**
 *January 2017 - August 2018*
@@ -31,7 +32,6 @@ aidanbrownj@gmail.com             |  [Github](https://github.com/h4wk590)
 - Led teams to complete daily scheduled tasks in a production/manufacturing facility. 
 - Followed Good documentation practices and SOPs to effectively record data and metrics from tasks. 
 - Used proper and safe techniques to carry out responsibilities. 
-
 
 ## Technical Skills
 
@@ -50,7 +50,7 @@ aidanbrownj@gmail.com             |  [Github](https://github.com/h4wk590)
 
 ### Networking
 
-> Fundamental routing and switching concepts.
+> Fundamental routing and switching concepts related to CCENT material.
 
 ## Education
 
