@@ -59,22 +59,23 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Ken Crandall"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Dad. Mac lover. Business-focused technical guy. Electric-powered meat machine. Racker. Husky. Ex-Oracle, Ex-Red Hat."
+  name: "Ken Crandall"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "Dad. Mac lover. Business-focused technical guy. Electric-powered meat machine. Racker. Husky. Ex-Oracle, Ex-Red Hat."
+  location: "Portland, OR"
   links:
-#    - label: "Website"
-#      icon: "fas fa-fw fa-link"
-#      url: "https://kencrandall.github.io"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://kencrandall.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/kencrandall"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/kencrandall"
-#    - label: "Instagram"
-#      icon: "fab fa-fw fa-instagram"
-#      url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/ken.crandall/"
 
 footer:
   links:
