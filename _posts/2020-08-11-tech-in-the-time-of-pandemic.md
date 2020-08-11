@@ -1,8 +1,10 @@
 ---
-date: 2020-08-11 08:45:09 -0700
+date: 2020-08-11T08:45:09.000-07:00
 title: Tech in the Time of Pandemic...
 categories:
 - technology
+- personal
+- covid
 
 ---
 As we enter the 6th (or more?) month of the COVID-19 pandemic, it has become more and more apparent to me that we are fortunate to have the tools we do to weather it..
