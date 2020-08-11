@@ -12,5 +12,3 @@ fields:
 - type: list
   name: categories
   label: categories
-pages:
-- _posts/a-random-thought.md
