@@ -64,9 +64,9 @@ author:
   bio: "Dad. Mac lover. Business-focused technical guy. Electric-powered meat machine. Racker. Husky. Ex-Oracle, Ex-Red Hat."
   location: "Portland, OR"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://kencrandall.github.io"
+    #    - label: "Website"
+    #      icon: "fas fa-fw fa-link"
+    #      url: "https://kencrandall.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/kencrandall"
@@ -75,7 +75,7 @@ author:
       url: "https://github.com/kencrandall"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/ken.crandall/"
+      url: "https://linkedin.com/kencrandall/"
 
 footer:
   links:
