@@ -2,8 +2,8 @@
 title: "Things I Am Still Learning"
 date: 2020-04-09 19:18
 categories:
-- Blogging
-- Personal
+- blogging
+- personal
 
 ---
 Hi, my name is Ken Crandall.  Today I turn 46.  _I am a work in progres..._

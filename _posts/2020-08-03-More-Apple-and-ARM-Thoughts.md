@@ -3,8 +3,8 @@ date: 2020-08-03 13:00:00 -0700
 title: More Apple and ARM Thoughts
 categories:
 - x86
-- ARM
-- Apple
+- arm
+- apple
 
 ---
 OK, I've had some time to digest and think about this some more.  I've also been watching the industry/community response to the announcement.

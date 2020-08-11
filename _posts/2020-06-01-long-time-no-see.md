@@ -2,7 +2,7 @@
 date: 2020-06-01T00:35:42.000-07:00
 title: Long time no see...
 categories:
-- Blogging
+- blogging
 
 ---
 Hi sports-fans!  I haven't blogged in quite a while.  This is for many reasons.

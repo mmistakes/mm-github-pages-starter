@@ -3,8 +3,8 @@ date: 2020-06-21 18:18:11 -0700
 title: Apple and ARM eh?
 categories:
 - x86
-- ARM
-- Apple
+- arm
+- apple
 
 ---
 So, the whole world seems to think that Apple is going to ditch x86 and move to their home-grown ARM processors in their Mac line as of WWDC this year.  On the one hand, I think that it is probably an inevitable move, especially given the Apple worldview of wanting to own their whole supply chain and of viewing their products as a hardware+software system, vs a platform+OS.  

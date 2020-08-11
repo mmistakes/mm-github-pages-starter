@@ -2,8 +2,8 @@
 title: Virtualization on Linux
 date: 2013-06-18 12:12
 categories:
-- Linux
-- Virtualization
+- linux
+- virtualization
 
 ---
 It is interesting that so many virtualization solutions either *use* or *start-out using* Linux as their base.  

@@ -3,8 +3,8 @@ date: 2020-06-22 13:19:44 -0700
 title: Apple and ARM it is!
 categories:
 - x86
-- ARM
-- Apple
+- arm
+- apple
 
 ---
 So, it looks like the ARM rumors played-out.  The PRO's won over the CON's it seems.  One aspect of the power-savings advantage I neglected to mention was the advantage of ARM big.LITTLE -- makes me wonder why Intel hasn't done something similar, except the nature of CISC probably makes it prohibitive.  Or there's a patent on it that prevents Intel from doing so.
