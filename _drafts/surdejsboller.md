@@ -22,5 +22,6 @@ header:
   actions: []
 
 ---
-
 {% include opskrift.html author="henrik" category="brod" opskrift="surdejsboller" %}
+
+![](/assets/images/uploads/surdejboller-teaser.jpg)
