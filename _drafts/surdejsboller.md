@@ -16,8 +16,8 @@ excerpt: 'Surdejsboller er nok det jeg bager mest, da processen er en del mere f
   én surdejsbolleopskrift til protokol. Så har jeg noget jeg selv kan gå ud fra og
   samtidigt noget jeg kan dele med omverdenen :smile:'
 header:
-  teaser: "/assets/images/uploads/_dsc0026.jpg"
-  overlay_image: "/assets/images/uploads/_dsc0027.jpg"
+  teaser: "/assets/images/uploads/surdejboller-teaser.jpg"
+  overlay_image: "/assets/images/uploads/surdejboller-header.jpg"
   overlay_filter: 
   actions: []
 
