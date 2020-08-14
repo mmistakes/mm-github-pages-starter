@@ -54,11 +54,11 @@ fields:
       label: items
       fields:
       - type: text
-        name: amount
-        label: amount
-      - type: text
         name: name
         label: name
+      - type: text
+        name: amount
+        label: amount
 - type: field_group_list
   name: directions
   label: directions
