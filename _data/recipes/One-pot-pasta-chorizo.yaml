@@ -1,0 +1,22 @@
+---
+name: 'One-pot pasta med svampe og chorizo '
+image: ''
+description_short: ''
+keywords: ''
+cuisine: ''
+yield: 
+prepTime: ''
+prepTime_iso: ''
+riseTime: ''
+riseTime_iso: ''
+totalTime: ''
+totalTime_iso: ''
+ingredients:
+  single:
+  - part: ''
+    items:
+    - name: pasta
+      amount: 250 g
+    - amount: 100 g
+      name: Chorizo
+directions: []
