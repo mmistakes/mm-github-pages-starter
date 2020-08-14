@@ -59,6 +59,16 @@ fields:
       - type: text
         name: amount
         label: amount
+      - name: note
+        type: text
+        config:
+          required: false
+        label: Note
+      - name: prep
+        type: text
+        config:
+          required: false
+        label: Prep
 - type: field_group_list
   name: directions
   label: directions
