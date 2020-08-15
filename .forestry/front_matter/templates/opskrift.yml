@@ -34,7 +34,7 @@ fields:
   - type: file
     name: overlay_image
     label: overlay_image
-    default: "/assets/images/uploads/surdejboller-teaser.jpg"
+    default: "/assets/images/layout/broed.jpg"
   - type: number
     name: overlay_filter
     label: overlay_filter
