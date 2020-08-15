@@ -31,6 +31,7 @@ fields:
   - type: file
     name: teaser
     label: teaser
+    default: "/assets/images/uploads/surdejboller-teaser.jpg"
   - type: file
     name: overlay_image
     label: overlay_image
