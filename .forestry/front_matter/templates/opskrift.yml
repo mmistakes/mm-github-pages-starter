@@ -47,16 +47,16 @@ fields:
     - type: text
       name: url
       label: url
-- name: dato__2020-01-01_
+- name: date
   type: datetime
-  label: Dato (2020-01-01)
   description: ''
   config:
     required: false
-    date_format: 
+    date_format: YYYY-MM-DD
     time_format: 
     display_utc: false
   default: now
+  label: date
 pages:
 - _posts/2020-08/bornevenlig-boller-i-karry-uden-maelk-og-med-masser-af-skjulte-gronsager.md
 - _posts/2020-08/bornevenlig-boller-i-karry-uden-maelk-og-med-masser-af-skjulte-gronsager.md
