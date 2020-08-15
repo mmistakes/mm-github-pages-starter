@@ -34,6 +34,7 @@ fields:
   - type: file
     name: overlay_image
     label: overlay_image
+    default: "/assets/images/uploads/surdejboller-teaser.jpg"
   - type: number
     name: overlay_filter
     label: overlay_filter
@@ -61,4 +62,6 @@ pages:
 - _posts/2020-08/bornevenlig-boller-i-karry-uden-maelk-og-med-masser-af-skjulte-gronsager.md
 - _posts/2020-08/bornevenlig-boller-i-karry-uden-maelk-og-med-masser-af-skjulte-gronsager.md
 - _posts/one-pot-pasta-med-svampe-og-chorizo.md
+- _posts/one-pot-pasta-med-svampe-og-chorizo.md
+- _posts/surdejsboller.md
 - _posts/surdejsboller.md
