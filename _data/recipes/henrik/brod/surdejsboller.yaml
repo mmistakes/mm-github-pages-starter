@@ -28,9 +28,10 @@ ingredients:
     - amount: 240 g
       name: surdej
       note: 100% hydrering
-    - amount: 700-800 g
-      name: koldt vand
-      note: 75-82% hydrering, vælg hvad du er tryg ved
+    - amount: 650-750 g
+      name: vand
+      note: 69-78% hydrering, vælg hvad du er tryg ved
+      prep: 20&deg;-26&deg;
 directions:
 - part: 
   steps:
