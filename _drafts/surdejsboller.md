@@ -33,6 +33,6 @@ Jeg har mange forskellige måder og tidsplaner for hvordan jeg bager boller. Oft
 
 Som med alle andre surdejopskrifter, skal man også huske med denne opskrift huske at bruge sine sanser. Lige nu har vi hedebølge, så jeg vil nok sørge for at vandet er lidt koldere og give dejen lidt kortere tid på køkkenbordet end en jeg vil til vinter. Surdej er nu engang levende og opfører sig ikke altid som man forventer. Derfor kan jeg kun anbefale, at man prøver sig lidt frem og følge opskriften mere som retningslinjer i stedet for en lovtekst.
 
-<div class="tenor-gif-embed" data-postid="14292102" data-share-method="host" data-width="100%" data-aspect-ratio="2.515151515151515"><a href="[https://tenor.com/view/code-guidelines-pirates-code-captain-barbosa-pirates-of-the-caribbean-gif-14292102](https://tenor.com/view/code-guidelines-pirates-code-captain-barbosa-pirates-of-the-caribbean-gif-14292102 "https://tenor.com/view/code-guidelines-pirates-code-captain-barbosa-pirates-of-the-caribbean-gif-14292102")">Code Guidelines Pirates Code GIF</a> from <a href="[https://tenor.com/search/codeguidelines-gifs](https://tenor.com/search/codeguidelines-gifs "https://tenor.com/search/codeguidelines-gifs")">Codeguidelines GIFs</a></div><script type="text/javascript" async src="[https://tenor.com/embed.js](https://tenor.com/embed.js "https://tenor.com/embed.js")"></script>
+![](/assets/images/uploads/guidelines.jpg)
 
 {% include opskrift.html author="henrik" category="brod" opskrift="surdejsboller" %}
