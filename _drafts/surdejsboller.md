@@ -20,7 +20,7 @@ header:
   overlay_image: "/assets/images/uploads/surdejboller-header.jpg"
   overlay_filter: 
   actions: []
-date: 
+date: 2020-08-15 22:00:00 +0000
 
 ---
 Jeg er ret sikker på, at jeg ikke er den eneste der elsker endeskiven på et surdejsbrød og boller er jo bare et meget lille brød kun bestående af endeskiver...
