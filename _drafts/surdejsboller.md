@@ -36,3 +36,6 @@ Som med alle andre surdejopskrifter, skal man med denne opskrift også huske at 
 ![](/assets/images/uploads/guidelines.jpg)
 
 {% include opskrift.html author="henrik" category="brod" opskrift="surdejsboller" %}
+
+Velbekomme!  
+\- Henrik
