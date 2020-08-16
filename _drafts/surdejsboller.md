@@ -20,9 +20,11 @@ header:
   overlay_image: "/assets/images/uploads/surdejboller-header.jpg"
   overlay_filter: 
   actions: []
+date: 
 
 ---
+Der er mange der går meget op i at lave de perfekte brød 
 
-![](/assets/images/uploads/surdejboller-teaser.jpg)
+![Surdejsboller](/assets/images/uploads/surdejboller-teaser.jpg)
 
 {% include opskrift.html author="henrik" category="brod" opskrift="surdejsboller" %}
