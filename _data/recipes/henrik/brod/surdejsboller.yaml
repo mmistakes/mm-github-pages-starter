@@ -37,9 +37,9 @@ directions:
   steps:
   - step: Til opskriften skal vi bruge en aktiv surdej.
     substeps:
-    - substep: 'Da min surdej bor i køleskabet mellem bagninger genopfrisker jeg surdejen
-        to gange før jeg bager. Først med formelen 1:2:2 senest 6 timer før(men ofte
-        aftenen eller morgenen før), derefter med formelen 2,5:1:1 to timer før. '
+    - substep: Da min surdej bor i køleskabet mellem bagninger genopfrisker jeg surdejen
+        to gange før jeg bager. Først med formlen 1:2:2 senest 6 timer før(men ofte
+        aftenen eller morgenen før), derefter med formlen 2,5:1:1 to timer før.
     - substep: 'For at lave de 240 g surdej(plus det surdej jeg tager med til næste
         portion), bruger jeg 30 gram surdej(svarende til hvad der er tilbage i glasset
         fra sidste gang), hvedemel, rugmel og så 60 gram vand der er ca 26&deg; varmt
@@ -68,8 +68,7 @@ directions:
     - substep: Drej skålen et nøk og gentag foldet. Dette kan gøre så lang tid man
         vil, men mindst 2 omgange er anbefalet.
   - step: Lad dejen hvile i skålen på køkkenbordet i 30-45 min
-  - step: Nu skal der udføres et sæt spolefoldninger/coil folds (hvis du har brug
-      for lidt mere forklaring kan du se længere oppe)
+  - step: 'Nu skal der udføres et sæt spolefoldninger/coil folds '
     substeps:
     - substep: Løsn igen dejen hele vejen rundt i kanten med en våd hånd.
     - substep: Med en hånd på hver side af dejen, løftes den ene ende af dejen roligt
