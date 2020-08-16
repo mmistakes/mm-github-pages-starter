@@ -35,6 +35,12 @@ Som med alle andre surdejopskrifter, skal man med denne opskrift også huske at 
 
 ![](/assets/images/uploads/guidelines.jpg)
 
+Lige de sidste noter inden opskriften begynder:
+
+* Formlen for surdejsgenopfriskning skal læses sådan: "Gammel surdej":Mel:Vand, så dobbelt så meget vand og mel som surdej skrives 1:2:2
+* Hydrering (altså den samlede vandmængde) angives som i procent af den samlede mængde mel. Er der 120 g mel og 120 ml vand i surdejen og 1000 g mel i opskriften vil 650 ml vand give en hydrering på (650+120)/(1000+120) = 68,75%
+* Har du ikke styr på hvad spolefoldninger er kan du [følge dette link](https://youtu.be/5xymoOMF_L8 "Spolefoldninger")
+
 Velbekomme!  
 \- Henrik
 
