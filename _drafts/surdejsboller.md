@@ -23,8 +23,12 @@ header:
 date: 
 
 ---
-Der er mange der går meget op i at lave de perfekte brød 
+Jeg er ret sikker på, at jeg ikke er den eneste der elsker endeskiven på et surdejsbrød og boller er jo bare et meget lille brød kun bestående af endeskiver...
+
+Ud over det så synes jeg at boller ofte er langt mere praktiske.  Især når man har en stor fryser kan bage en stor portion i weekenden og så fryse resterne ned og spise dem i løbet af ugen. De er også nemmere at lave og man dejen behøver ikke at hæve så længe før den kommer i køleskabet, så de passer godt ind i en tralv og måske ret træt fredag aften. 
 
 ![Surdejsboller](/assets/images/uploads/surdejboller-teaser.jpg)
+
+Jeg har mange forskellige måder og tidsplaner for hvordan jeg bager boller. Ofte bager jeg et brød og en portion boller af samme portion dej, hvor jeg laver dejen om fredagen og former brød og boller lørdag morgen, for derefter at bage bollerne og komme brødet i fryseren. Andre gange laver jeg en ny portion dej lørdag morgen og lader den ligge i køleskabet til søndag morgen.
 
 {% include opskrift.html author="henrik" category="brod" opskrift="surdejsboller" %}
