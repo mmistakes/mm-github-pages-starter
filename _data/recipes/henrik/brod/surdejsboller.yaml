@@ -107,10 +107,11 @@ directions:
       Lad så bollerne efterhæve et lunt sted. De kan godt bruge mere lidt tid, end
       de 45 minutter en ovn bruger på at blive rigtig gennemvarm, men hvis du har
       travlt er det fint med det
-  - step: Tænd ovnen på det højeste din ovn kan trække, jeg bager ved 300 grader,
+  - step: 'Tænd ovnen på det højeste din ovn kan trække, jeg bager ved 300 grader,
       men alt over 250 er fint. Brug et bagestål, pizzasten eller kom en bageplade
       vendt på hovedet ind i ovenen. Sæt også et metalfad eller lignende der kan tåle
-      at få hældt vand på sig ind i bunden eller på en rist og lad det varme med
+      at få hældt vand på sig ind i bunden eller på en rist og lad fadet varme med
+      op. '
   - step: Når ovnen er klar, koges ca 500 ml vand til at skabe damp i ovnen
   - step: Træk bagepapiret med bollerne ind på den varme plade i ovnen.
     substeps:
