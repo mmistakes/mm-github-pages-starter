@@ -51,7 +51,7 @@ directions:
         sig. Det giver begge en virkeligt god temperatur
     - substep: Når du så skal bruge surdejen skal du huske at gennem de sidste 30
         gram til næste gang
-  - step: 'Første skridt er at blande alle ingredienserne sammen '
+  - step: 'Første skridt i bolleopskriften er at blande alle ingredienserne sammen '
     substeps:
     - substep: Bland, de tre typer mel og saltet sammen så rugmelet ikke klumper sammen
     - substep: Tilsæt derefter vandet og surdejen og bland det sammen til alt melet
