@@ -18,7 +18,7 @@ excerpt: 'Surdejsboller er nok det jeg bager mest, da processen er en del mere f
 header:
   teaser: "/assets/images/uploads/surdejboller-teaser.jpg"
   overlay_image: "/assets/images/uploads/surdejboller-header.jpg"
-  overlay_filter: 
+  overlay_filter: 0.2
   actions: []
 date: 2020-08-15 22:00:00 +0000
 
