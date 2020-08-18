@@ -31,7 +31,7 @@ Ud over det, så synes jeg at boller ofte er langt mere praktiske.  Især når m
 
 Jeg har mange forskellige måder og tidsplaner for, hvordan jeg bager boller. Ofte bager jeg et brød og en portion boller af samme portion dej, hvor jeg laver dejen om fredagen og former brød og boller lørdag morgen, for derefter at bage bollerne og komme brødet i køleskabet. Andre gange laver jeg en ny portion dej lørdag morgen og lader den ligge i køleskabet til søndag morgen.
 
-Som med alle andre surdejopskrifter, skal man med denne opskrift også huske at bruge sine sanser og sunde fornuft. Lige nu har vi hedebølge, så jeg vil nok sørge for at vandet er lidt koldere og give dejen lidt kortere tid på køkkenbordet end jeg vil til vinter. Surdej er nu engang levende og opfører sig ikke altid som man forventer. Derfor kan jeg kun anbefale, at man prøver sig lidt frem og følge opskriften mere som retningslinjer i stedet for en lovtekst.
+Som med alle andre surdejopskrifter, skal man med denne opskrift også huske at bruge sine sanser og sunde fornuft. Lige nu har vi hedebølge, så jeg vil nok sørge for at vandet er lidt koldere og give dejen lidt kortere tid på køkkenbordet end jeg vil til vinter. Surdej er nu engang levende og opfører sig ikke altid som man forventer. Derfor kan jeg kun anbefale, at man prøver sig lidt frem og følger opskriften mere som retningslinjer i stedet for en lovtekst.
 
 ![](/assets/images/uploads/guidelines.jpg)
 
