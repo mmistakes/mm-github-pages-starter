@@ -32,6 +32,4 @@ feature_row:
 
 ---
 
-## Download
-
  {% include feature_row %}

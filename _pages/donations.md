@@ -28,6 +28,4 @@ feature_row:
 
 ---
 
-## Donations
-
 {% include feature_row %}

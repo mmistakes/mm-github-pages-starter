@@ -19,6 +19,4 @@ feature_row:
 
 ---
 
-##  Showcase
-
 {% include feature_row %}

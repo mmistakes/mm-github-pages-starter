@@ -1,0 +1,51 @@
+---
+permalink: /kits/rakugo-rpg/
+title: "Rakugo RPG Game Kit"
+published: true
+layout: single
+# header:
+#   image: /assets/kits_addons/rakugo-rpg.png
+---
+
+![](/assets/kits_addons/rakugo-rpg.png)
+
+It adds:
+
+- **RPGCharacter** - extension of **Character** Node
+- **Combat System**
+- **Example assets from GDQuest's godot-open-rpg**
+
+## What about other RPG mechanics
+
+- *Quest System* is already part of Rakugo
+- Other rpg machanics will be added in next updates of this extension
+
+## How To install
+
+- First you need [Rakugo 2.1.06]()
+- Unpack zip to _res://game_ folder
+- Start modifying it to fit your game
+- Once you have incorporated the extension, you can remove the example asset folder
+
+## How I can modify
+
+### Here I will put video tutorial soon
+
+## Changelog:
+
+### version 0.1.2:
+
+- use new features of Rakugo 2.1.06
+- fixes in Combat systems
+
+### version 0.1.1:
+
+- add missing files 
+
+### version 0.1.0:
+
+- inital realse
+- **RPGCharacter** - extension of **Character** Node
+- **Combat System**
+- **Example assets from GDQuest's godot-open-rpg**
+

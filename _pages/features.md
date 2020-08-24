@@ -36,6 +36,4 @@ feature_row:
 
 ---
 
-##  Features
-
 {% include feature_row %}

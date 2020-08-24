@@ -5,8 +5,8 @@ main:
     url: /features/
   - title: "Download"
     url: /download/
-  - title: "Extensions & Addons"
-    url : /extensions/
+  - title: "Game Kits & Addons"
+    url : /kits_addons/
   - title: "Donations"
     url: /donations/
   - title: "Learn"

@@ -17,6 +17,7 @@ timezone: ##https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 include:
   - _pages
   - _posts
+  - _kits_addons
 
 plugins:
   - jekyll-paginate
@@ -61,6 +62,15 @@ defaults:
       comments: true
       share: true
       related: true
+  ##_kits_addons
+  - scope:
+      path: "_kits_addons"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      comments: true
+      share: true
 
 
 category_archive:

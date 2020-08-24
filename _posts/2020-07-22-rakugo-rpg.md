@@ -25,7 +25,7 @@ However, before that I need to change/add few things in Rakugo itself.
 
 ## Rakugo RPG
 
-![combat system image](/assets/ext/rakugo-rpg.png)
+![combat system image](/assets/kits_addons/rakugo-rpg.png)
 
 It adds:
 
