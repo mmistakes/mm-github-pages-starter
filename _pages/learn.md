@@ -36,6 +36,4 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
-## Learn
-
 {% include feature_row %}

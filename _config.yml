@@ -17,6 +17,7 @@ timezone: ##https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 include:
   - _pages
   - _posts
+  - _kits_addons
 
 plugins:
   - jekyll-paginate
@@ -29,12 +30,24 @@ plugins:
 author:
   avatar : "/assets/imgs_main/logo.png"
   links:
+    - label: "Patreon"
+      icon: "fab fa-fw fa-link"
+      url: "https://www.patreon.com/rakguoteam"
     - label: "itch.io"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-shopping-bag"
       url: "https://jeremi360x.itch.io/rakugo"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/rakugoteam/Rakugo"
+    - label: Discord
+      icon: "fab fa-fw fa-link"
+      url: "https://discord.gg/K9gvjdg"
+    - label: "Youtube Channel"
+      icon: "fab fa-fw fa-youtube-square"
+      url: "https://www.youtube.com/channel/UCuItFHsERbsyi8gLJ7Ti1KA"
+    - label: "Docs"
+      icon: "fab fa-fw fa-link"
+      url: "https://rakugoteam.github.io/RakugoDocs-new/"
 
 footer:
   links:
@@ -61,6 +74,15 @@ defaults:
       comments: true
       share: true
       related: true
+  ##_kits_addons
+  - scope:
+      path: "_kits_addons"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      comments: true
+      share: true
 
 
 category_archive:
