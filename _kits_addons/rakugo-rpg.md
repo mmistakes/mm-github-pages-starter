@@ -27,7 +27,7 @@ It adds:
 
 ## How To install
 
-- First you need [Rakugo 2.1.06]()
+- First you need [Rakugo 2.1.06](/download/)
 - Unpack zip to _res://game_ folder
 - Start modifying it to fit your game
 - Once you have incorporated the extension, you can remove the example asset folder
@@ -41,7 +41,10 @@ It adds:
 ### version 0.1.2:
 
 - use new features of Rakugo 2.1.06
-- fixes in Combat systems
+- Better character placement on Combat Area
+- Fixes bugs in managing turns
+- Fixes bugs in that when more that 1 vs 1 , enemies always wins
+- Example now is combat 2 vs 2
 
 ### version 0.1.1:
 
