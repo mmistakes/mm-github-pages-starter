@@ -9,7 +9,7 @@ header:
   caption: "0.1.2"
   actions:
     - label: "Download"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
+      url: "https://github.com/rakugoteam/rakugo-open-rpg/releases/download/0.1.2/rpg-game-kit-0.1.2.zip"
 ---
 
 <!-- if I need gallery: https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/ -->
