@@ -2,12 +2,17 @@
 permalink: /kits/rakugo-rpg/
 title: "Rakugo RPG Game Kit"
 published: true
+author_profile: true
 layout: single
-# header:
-#   image: /assets/kits_addons/rakugo-rpg.png
+header:
+  overlay_image: assets/kits_addons/rakugo-rpg.png
+  caption: "0.1.2"
+  actions:
+    - label: "Download"
+      url: "https://github.com/mmistakes/minimal-mistakes/"
 ---
 
-![](/assets/kits_addons/rakugo-rpg.png)
+<!-- if I need gallery: https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/ -->
 
 It adds:
 

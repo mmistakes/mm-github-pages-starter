@@ -30,12 +30,24 @@ plugins:
 author:
   avatar : "/assets/imgs_main/logo.png"
   links:
+    - label: "Patreon"
+      icon: "fab fa-fw fa-link"
+      url: "https://www.patreon.com/rakguoteam"
     - label: "itch.io"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-shopping-bag"
       url: "https://jeremi360x.itch.io/rakugo"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/rakugoteam/Rakugo"
+    - label: Discord
+      icon: "fab fa-fw fa-link"
+      url: "https://discord.gg/K9gvjdg"
+    - label: "Youtube Channel"
+      icon: "fab fa-fw fa-youtube-square"
+      url: "https://www.youtube.com/channel/UCuItFHsERbsyi8gLJ7Ti1KA"
+    - label: "Docs"
+      icon: "fab fa-fw fa-link"
+      url: "https://rakugoteam.github.io/RakugoDocs-new/"
 
 footer:
   links:

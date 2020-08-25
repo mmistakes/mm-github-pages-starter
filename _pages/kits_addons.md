@@ -15,6 +15,4 @@ feature_row:
 
 ---
 
-## Game Kits & Addons
-
- {% include feature_row %}
+{% include feature_row %}
