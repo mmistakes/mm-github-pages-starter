@@ -14,7 +14,7 @@ header:
 
 <!-- if I need gallery: https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/ -->
 
-It adds:
+## It adds
 
 - **RPGCharacter** - extension of **Character** Node
 - **Combat System**
@@ -36,9 +36,9 @@ It adds:
 
 ### Here I will put video tutorial soon
 
-## Changelog:
+## Changelog
 
-### version 0.1.2:
+### version 0.1.2
 
 - use new features of Rakugo 2.1.06
 - Better character placement on Combat Area
@@ -46,11 +46,11 @@ It adds:
 - Fixes bugs in that when more that 1 vs 1 , enemies always wins
 - Example now is combat 2 vs 2
 
-### version 0.1.1:
+### version 0.1.1
 
 - add missing files 
 
-### version 0.1.0:
+### version 0.1.0
 
 - inital realse
 - **RPGCharacter** - extension of **Character** Node
