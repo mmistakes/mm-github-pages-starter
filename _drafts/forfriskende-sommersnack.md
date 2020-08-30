@@ -1,9 +1,9 @@
 ---
 layout: single
 header:
-  overlay_image: "/assets/images/layout/broed.jpg"
+  overlay_image: "/assets/images/uploads/vandmelon-med-chilli-header.jpg"
   teaser: "/assets/images/uploads/vandmelon-med-chilli-teaser.jpg"
-  overlay_filter: 
+  overlay_filter: 0.2
   actions: []
 date: 2020-08-30 06:10:59 +0000
 title: Forfriskende sommersnack
