@@ -1,0 +1,30 @@
+---
+name: 'Vandmelon med chil og Honning '
+image: "/assets/images/uploads/vandmelon-med-chilli-teaser.jpg"
+description_short: 'Lækker forfriskende sommersnack med vandmelon, chili og honning. '
+keywords: 'Sommer, snacks, vandmelon, chili, aperitif '
+cuisine: Danish
+yield: 
+prepTime: 2 min
+prepTime_iso: PT2M
+riseTime: ''
+riseTime_iso: ''
+totalTime: 2 minutter
+totalTime_iso: PT2M
+ingredients:
+  single:
+  - part: ''
+    items:
+    - name: Maldon salt
+      amount: ''
+      note: Eller andet flagesalt
+      prep: ''
+    - name: 'Chili '
+      amount: ''
+      note: ''
+      prep: ''
+    - name: 'Vandmelon '
+      amount: ''
+      note: ''
+      prep: ''
+directions: []
