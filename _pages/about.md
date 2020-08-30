@@ -1,9 +1,9 @@
 ---
-permalink: /about/
-title: "About Me"
----
+permalink: "/about/"
+title: About Me
 
-I’m a Senior Software Engineer at Quizlet.
+---
+I’m a Staff Software Engineer at Quizlet.
 
 I primarily focus on delivering awesome experiences with Android and Kotlin Multiplatform -- both for our users and my fellow engineers.
 
@@ -11,5 +11,5 @@ I've been involved with [Quizlet Android](https://play.google.com/store/apps/det
 
 I went to MIT, where I organized HackMIT, did a lot of distributed systems research, and earned my:
 
-- **Bachelor of Science in Computer Science**,
-- and my **Master of Engineering** in **Computer Science and Engineering**, concentrating in **Computer Systems**
+* **Bachelor of Science in Computer Science**,
+* and my **Master of Engineering** in **Computer Science and Engineering**, concentrating in **Computer Systems**
