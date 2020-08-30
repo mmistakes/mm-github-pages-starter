@@ -24,4 +24,13 @@ Der er officielt én sommerdag tilbage, så det er måske lidt sent at komme på
 
 Desværre kom jeg først på den i går, da jeg sammen med min søn prøvede at lave is ved at fryse vandmelonsstykker. Resultatet var ikke særligt godt, for de var hårde og smagte ikke af særligt meget. Det fik mig til tænke på hvad man kunne gøre for at spice det lidt op. Min søn havde givet op på dem, så jeg gik med nogle voksen smage istedet for at dyppe dem i sukker eller lignende. 
 
-Jeg havde hørt at vandmelon og chili gik godt sammen
+Jeg havde hørt at vandmelon og chili skulle gå godt sammen og chili og honning er et rigtig godt match. Tilsidst gav jeg den lidt maldon havsalt, for helt ærligt, hvad bliver ikke bedre af maldon salt? 
+
+Resultatet var mega lækkert og gjorde vandmelon på forfriskende og mættende, som en god aperitif eller snack. 
+
+  
+![](/assets/images/uploads/vandmelon-med-chilli-teaser.jpg)Selvom￼ der nok ikke er så meget vandmelon sæson tilbage i 2020, så ved jeg godt hvad jeg skal gøre med de sidste par stykker!
+
+Velbekomme! 
+
+/Henrik
