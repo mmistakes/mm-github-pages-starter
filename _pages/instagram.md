@@ -5,6 +5,9 @@ type: grid
 permalink: "/instagram/"
 author_profile: false
 gallery:
+  - url: /vandmelon-med-chilli/
+    image_path: assets/images/uploads/vandmelon-med-chilli-teaser.jpg
+    alt: Vandmelon med chili
   - url: /pasta-med-kodsovs/
     image_path: assets/images/posts/henrik/pasta-med-kodsovs/pasta-med-kodsovs-teaser.jpg
     alt: Pasta med kødsovs 
