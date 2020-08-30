@@ -15,16 +15,26 @@ ingredients:
   single:
   - part: ''
     items:
-    - name: Maldon salt
-      amount: ''
-      note: Eller andet flagesalt
-      prep: ''
-    - name: 'Chili '
-      amount: ''
-      note: ''
-      prep: ''
     - name: 'Vandmelon '
       amount: ''
       note: ''
       prep: ''
-directions: []
+    - name: 'Chilipulver eller cayennepeber '
+      amount: ''
+      note: ''
+      prep: ''
+    - name: Flydende honning
+      amount: ''
+      note: ''
+      prep: ''
+    - name: Maldon salt
+      amount: ''
+      note: Eller andet flagesalt
+      prep: ''
+directions:
+- part: ''
+  steps:
+  - step: 'Skær vandmelonen i passende stykker, gerne på 2-3 cm tykkelse. '
+    substeps: []
+  - step: 'Læg stykket/stykkerne på et fad og drys cayennepeber og salt over melonen. '
+    substeps: []
