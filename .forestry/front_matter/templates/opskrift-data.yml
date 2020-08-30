@@ -17,8 +17,10 @@ fields:
 - type: text
   name: cuisine
   label: cuisine
-- type: datetime
-  name: yield
+- name: yield
+  type: text
+  config:
+    required: false
   label: yield
 - type: text
   name: prepTime
