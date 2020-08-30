@@ -31,8 +31,12 @@ Jeg havde hørt at vandmelon og chili skulle gå godt sammen og chili og honning
 
 Resultatet var mega lækkert og gjorde vandmelon på forfriskende og mættende, som en god aperitif eller snack.
 
-![](/assets/images/uploads/vandmelon-med-chilli-teaser.jpg)Selvom￼ der nok ikke er så meget vandmelon sæson tilbage i 2020, så ved jeg godt hvad jeg skal gøre med de sidste par stykker!
+![](/assets/images/uploads/vandmelon-med-chilli-teaser.jpg)
+
+Selvom der nok ikke er så meget vandmelon sæson tilbage i 2020, så ved jeg godt hvad jeg skal gøre med de sidste par stykker!
 
 Velbekomme!
 
-/Henrik
+\- Henrik
+
+{% include opskrift.html author="henrik" category="snacks" opskrift="vandmelon-med-chili" %}

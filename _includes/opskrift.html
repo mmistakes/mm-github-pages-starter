@@ -31,8 +31,8 @@
 <b>{{part.part | markdownify | remove: '<p>' | remove: '</p>' }}</b>
 <ul style="padding-left: 1.2em; ">
 {% for item in part.items %}
-<li> {% if item.amount %}{{item.amount| markdownify | remove: '<p>' | remove: '</p>' }} {% endif %}{{item.name| markdownify | remove: '<p>' | remove: '</p>' }}{% if item.note %}<span style="opacity: 0.7; ">  ({{item.note | markdownify | remove: '<p>' | remove: '</p>'  }})</span>{% endif %}
-    {% if item.prep %}
+<li> {% if item.amount %}{{item.amount| markdownify | remove: '<p>' | remove: '</p>' }} {% endif %}{{item.name| markdownify | remove: '<p>' | remove: '</p>' }}{% if item.note.size > 0 %}<span style="opacity: 0.7; ">  ({{item.note | markdownify | remove: '<p>' | remove: '</p>'  }})</span>{% endif %}
+    {% if item.prep.size > 0 %}
      <br>
     <i style="opacity: 0.7;">- {{item.prep | markdownify | remove: '<p>' | remove: '</p>' }}</i>
     {% endif %}
