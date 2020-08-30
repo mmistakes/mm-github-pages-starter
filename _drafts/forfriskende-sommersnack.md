@@ -6,18 +6,21 @@ header:
   overlay_filter: 0.2
   actions: []
 date: 2020-08-30 06:10:59 +0000
-title: Forfriskende sommersnack
+title: 'Forfriskende sommersnack med vandmelon og chili '
 author: Henrik
 categories:
 - Sommer
 - Opskrifter
 - Snack
 tags:
+- Snack
 - 'Vandmelon '
 - 'Sommer '
 - Henrik
 permalink: "/vandmelon-med-chilli/"
-excerpt: ''
+excerpt: "Vandmelon er lækkert og virkeligt forfriskende og tilføjer du lige tre simple
+  \"krydderier\" vil du få en virkeligt velsmagende snack der helt sikker overrasker
+  de fleste. \n"
 
 ---
 Der er officielt én sommerdag tilbage, så det er måske lidt sent at komme på denne forfriskende sommersnack. Jeg tænker selv at jeg godt kunne have brugt den til at komme igennem de to hedebølger vi lige har været i gennem.
