@@ -18,8 +18,8 @@ tags:
 - 'Sommer '
 - Henrik
 permalink: "/vandmelon-med-chilli/"
-excerpt: "Vandmelon er lækkert og virkeligt forfriskende og tilføjer du lige tre simple
-  \"krydderier\" vil du få en virkeligt velsmagende snack der helt sikker overrasker
+excerpt: "Vandmelon er lækkert og virkeligt forfriskende. Tilføjer du lige tre simple
+  \"krydderier\" vil du få en virkeligt velsmagende snack der helt sikkert overrasker
   de fleste. \n"
 
 ---
