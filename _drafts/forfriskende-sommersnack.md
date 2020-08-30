@@ -11,7 +11,7 @@ author: Henrik
 categories:
 - Sommer
 - Opskrifter
-- Snack
+- Snacks og forretter
 tags:
 - Snack
 - 'Vandmelon '
