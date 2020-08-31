@@ -5,7 +5,7 @@ header:
   teaser: "/assets/images/uploads/vandmelon-med-chilli-teaser.jpg"
   overlay_filter: 0.2
   actions: []
-date: 2020-08-30 06:10:59 +0000
+date: 2020-08-30T06:10:59.000+00:00
 title: 'Forfriskende sommersnack med vandmelon og chili '
 author: Henrik
 categories:
@@ -27,7 +27,7 @@ Der er officielt én sommerdag tilbage, så det er måske lidt sent at komme på
 
 Desværre kom jeg først på den i går, da jeg sammen med min søn prøvede at lave is ved at fryse vandmelonsstykker. Resultatet var ikke særligt godt, for de var hårde og smagte ikke af særlig meget. Det fik mig til tænke på hvad man kunne gøre for at spice det lidt op. Min søn havde givet op på dem, så jeg gik med nogle voksen smage istedet for at dyppe dem i sukker eller lignende.
 
-Jeg havde hørt at vandmelon og chili skulle gå godt sammen og chili og honning er et rigtig godt match. Tilsidst gav jeg den lidt maldon havsalt, for helt ærligt, hvad bliver ikke bedre af maldon salt?
+Jeg havde hørt at vandmelon og chili skulle gå godt sammen og chili og honning er et rigtig godt match. Tilsidst gav jeg den lidt maldon havsalt, for helt ærligt, hvad bliver ikke bedre af maldon salt? Jeg fik hurtigt spist de tre is vi havde lavet og selvom det smagte meget fint var det først da jeg eksperimenterede videre med frisk vandmelon at det blev rigtig godt! 
 
 Resultatet var mega lækkert og gjorde vandmelon på forfriskende og mættende, som en god aperitif eller snack.
 
