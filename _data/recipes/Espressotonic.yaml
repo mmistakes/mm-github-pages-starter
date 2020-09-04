@@ -16,6 +16,10 @@ ingredients:
   single:
   - part: ''
     items:
+    - name: 'isterninger '
+      amount: En håndfuld
+      note: ''
+      prep: ''
     - name: Tonic
       amount: 200 ml
       note: ''
