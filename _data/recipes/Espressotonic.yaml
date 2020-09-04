@@ -1,0 +1,17 @@
+---
+name: Espresso-tonic
+image: "/assets/images/uploads/vandmelon-med-chilli-teaser-4.jpg"
+description_short: 'Espressotonic er en drink der lyder skør, men når man blander
+  de to bitre væsker bliver der skabt noget magisk! '
+keywords: Coffee, espresso, tonic, espresso tonic, drink
+cuisine: ''
+yield: 1 glas
+prepTime: '2 minutter '
+prepTime_iso: PT2M
+riseTime: ''
+riseTime_iso: ''
+totalTime: '2 minutter '
+totalTime_iso: PT2M
+ingredients:
+  single: []
+directions: []
