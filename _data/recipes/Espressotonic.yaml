@@ -16,16 +16,23 @@ ingredients:
   single:
   - part: ''
     items:
-    - name: 'isterninger '
-      amount: En håndfuld
-      note: ''
-      prep: ''
-    - name: Tonic
-      amount: 200 ml
-      note: ''
-      prep: ''
     - amount: Dobbeltshot
       note: ''
       prep: ''
       name: espresso
-directions: []
+    - name: Tonic
+      amount: 200 ml
+      note: ''
+      prep: ''
+    - name: 'isterninger '
+      amount: En håndfuld
+      note: ''
+      prep: ''
+directions:
+- part: ''
+  steps:
+  - substeps: []
+    step: 'Lav et dobbelt shot espresso i et decilitermål eller lignende der kan hældes
+      af. '
+  - step: 'Kom en håndfuld isterninger i et glas og hæld tonic i glasset. '
+    substeps: []
