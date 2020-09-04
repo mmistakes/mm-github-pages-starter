@@ -13,5 +13,15 @@ riseTime_iso: ''
 totalTime: '2 minutter '
 totalTime_iso: PT2M
 ingredients:
-  single: []
+  single:
+  - part: ''
+    items:
+    - name: Tonic
+      amount: 200 ml
+      note: ''
+      prep: ''
+    - amount: Dobbeltshot
+      note: ''
+      prep: ''
+      name: espresso
 directions: []
