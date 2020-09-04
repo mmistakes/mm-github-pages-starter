@@ -12,7 +12,7 @@ teaser: "/assets/images/posts/henrik/broed.jpg"
 header:
   teaser: "/assets/images/posts/henrik/merebroed.jpg"
   overlay_image: "/assets/images/posts/henrik/broed.jpg"
-  overlay_filter: "0.35"
+  overlay_filter: 0.35
   actions:
   - label: Direkte til opskriften
     url: "/Blomkaalscurry/#opskrift"
@@ -31,6 +31,8 @@ gallery1:
   alt: Snurre i massevis
 
 ---
+Når jeg skriver en opskrift, går jeg meget at 
+
 Nogle mennesker er mandagstrænere og råber af fjernsynet når de ser fodbold, jeg råber af opskrifter når de ikke kan guide mig ordentligt igennem madlavningen.
 Jeg har det især svært med [feminas opskrifter!](https://www.femina.dk/mad/hovedretter/blomkaalskarry-med-sproede-kikaerter) Forstå mig ret, deres retter er virkeligt gode, men deres måde at skrive dem på og layout er fuldstændigt forfærdeligt.
 
@@ -39,8 +41,5 @@ Hvordan læser du en opskrift? Jeg sætter mig gerne ned dagen før, læser opsk
 
 Min pointe er at det er forfatteren til opskriften der skal gøre alt det forarbejde og holde madlaveren i hånden hele vejen igennem. Det er præcis det modsatte Feminas forfatter gør i blomkålcurry [opskriften](https://www.femina.dk/mad/hovedretter/blomkaalskarry-med-sproede-kikaerter). Prøv bare at se hvordan selve curryen er beskrevet i en lang paragraf med masser af trin der bare går ud i et... suk!
 Det går måske meget fint, lige indtil man er begyndt at stege krydderierne og man så ser at man skal plukke bladene af korianderplanten og så hakke stilkene. Klemt inde mellem "tilsæt salt og peber" og "hæld kokosmælk" står lige rettens allermest tidskrævende trin - Så knækker filmen for mig!
-
-
-[opskrift]: https://www.femina.dk/mad/hovedretter/blomkaalskarry-med-sproede-kikaerter
 
 {% include opskrift.html author="henrik" category="aftensmad" opskrift="blomkaalscurry" %}
