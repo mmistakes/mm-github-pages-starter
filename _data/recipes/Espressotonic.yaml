@@ -31,7 +31,9 @@ ingredients:
 directions:
 - part: ''
   steps:
-  - substeps: []
+  - substeps:
+    - substep: 'Fjern evt. cremaen da skummet kan blive ret tykt, men dette er en
+        smagssag. '
     step: 'Lav et dobbelt shot espresso i et decilitermål eller lignende der kan hældes
       af. '
   - step: 'Kom en håndfuld isterninger i et glas og hæld tonic i glasset. '
