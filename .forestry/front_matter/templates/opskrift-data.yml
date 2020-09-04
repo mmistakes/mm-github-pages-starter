@@ -103,6 +103,6 @@ fields:
         labelField: 
       label: substeps
 pages:
-- _data/recipes/Espressotonic.yaml
 - _data/recipes/One-pot-pasta-chorizo.yaml
 - _data/recipes/One-pot-pasta-chorizo.yaml
+- _data/recipes/espressotonic.yaml
