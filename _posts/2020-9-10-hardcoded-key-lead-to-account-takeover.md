@@ -29,7 +29,7 @@ b'%;\x8f\x0e\x1dv\xd8\x8bb\x8d\x1d\xda\xc3\xdf=\x96'
 My next step was to guess how the pin parameter is getting encrypted. Since the app wasn't obfuscated by either Proguard/Dexguard and I was able to decompile and gain a pretty clear view of the source code, I begin by inspecting the LoginActivity -- which of course responsible for handling the login activity.
 
 `LoginActivity.java`
-```
+```java
         final String str2 = "0" + this.phoneNumber.getText().toString();
         final String obj = this.pin.getText().toString();
         LoginRequest loginRequest = new LoginRequest(str2, AES.AES256Encrypt(obj), str);
@@ -39,7 +39,7 @@ My next step was to guess how the pin parameter is getting encrypted. Since the 
 It turns out that the pin number is passed into AES256Encrypt method, and -- you guess it from the title -- the key is hardcoded into the method itself.
 
 `AES256Encrypt.java`
-```
+```java
     public static String AES256Encrypt(String str) {
         String str2;
         try {
@@ -57,7 +57,7 @@ As you see, there are two  \<REDACTED> parameter in the code above, the first is
 Refering to the code above, I was able to make a script that encrypts the number in range of 100000-999999 to be then used as wordlist for bruteforcing. 
 
 `pin.java`
-```
+```java
 import javax.crypto.Cipher;
 import javax.crypto.spec.SecretKeySpec;
 import java.util.Base64;
