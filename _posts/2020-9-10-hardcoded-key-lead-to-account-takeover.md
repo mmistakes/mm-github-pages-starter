@@ -52,7 +52,7 @@ It turns out that the pin number is passed into AES256Encrypt method, and -- you
         return str2.replaceAll("\\n", "");
     }    return str2.replaceAll("\\n", "");
 ```
-As you see, there are two  \<REDACTED> parameter in the code above, the first is Initialization Vector, and the other is Encryption/Secret Key itself.
+As you see, there are two  \<REDACTED> parameter in the code above, the first is **Initialization Vector**, and the other is **Encryption/Secret Key** itself.
 
 Refering to the code above, I was able to make a script that encrypts the number in range of 100000-999999 to be then used as wordlist for bruteforcing. 
 
