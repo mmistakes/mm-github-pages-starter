@@ -20,7 +20,6 @@ Request
 The request is a JSON object consist of fcmToken, phoneNumber, and a pin number which is somehow looks absolutely different from what I sent from the login screen.
 
 My first guess was that the pin parameter is encoded in Base 64 (notice the "==" at the end), but as I decoding it into plain text, it turns out to be gibberish bytes-like text.
-
 ```
 >>> import base64
 >>> base64.b64decode("JTuPDh122ItijR3aw989lg==")
@@ -29,7 +28,7 @@ b'%;\x8f\x0e\x1dv\xd8\x8bb\x8d\x1d\xda\xc3\xdf=\x96'
 
 My next step was to guess how the pin parameter is getting encrypted. Since the app wasn't obfuscated by either Proguard/Dexguard and I was able to decompile and gain a pretty clear view of the source code, I begin by inspecting the LoginActivity -- which of course responsible for handling the login activity.
 
-LoginActivity.java
+`LoginActivity.java`
 ```
         final String str2 = "0" + this.phoneNumber.getText().toString();
         final String obj = this.pin.getText().toString();
@@ -39,7 +38,7 @@ LoginActivity.java
 
 It turns out that the pin number is passed into AES256Encrypt method, and -- you guess it from the title -- the key is hardcoded into the method itself.
 
-AES256Encrypt.java
+`AES256Encrypt.java`
 ```
     public static String AES256Encrypt(String str) {
         String str2;
@@ -53,11 +52,11 @@ AES256Encrypt.java
         return str2.replaceAll("\\n", "");
     }    return str2.replaceAll("\\n", "");
 ```
-As you see, there are two  \<REDACTED> parameter in the code above, the first is **Initialization Vector**, and the other is **Encryption/Secret Key** itself.
+As you see, there are two  \<REDACTED> parameter in the code above, the first is Initialization Vector, and the other is Encryption/Secret Key itself.
 
 Refering to the code above, I was able to make a script that encrypts the number in range of 100000-999999 to be then used as wordlist for bruteforcing. 
 
-pin.java
+`pin.java`
 ```
 import javax.crypto.Cipher;
 import javax.crypto.spec.SecretKeySpec;
@@ -110,7 +109,7 @@ public class Encrypt {
 ```
 
 
-Lastly, by using Burpsuite's Turbo Intruder and the wordlist generated from the script, I was able to gain access to my own account in relatively short amount of time :)
+Lastly, by using Burpsuite's Turbo Intruder and the wordlist generated from the script, I was able to "forcefully" gain access to my own account in relatively short amount of time :)
 
 ![intruder](/assets/images/writeup-1/intruder.png)
 
