@@ -71,6 +71,60 @@ fields:
         config:
           required: false
         label: Prep
+  - type: field_group_list
+    name: left
+    label: left
+    fields:
+    - type: text
+      name: part
+      label: part
+    - type: field_group_list
+      name: items
+      label: items
+      fields:
+      - type: text
+        name: name
+        label: name
+      - type: text
+        name: amount
+        label: amount
+      - name: note
+        type: text
+        config:
+          required: false
+        label: Note
+      - name: prep
+        type: text
+        config:
+          required: false
+        label: Prep
+  - type: field_group_list
+    name: right
+    label: right
+    fields:
+    - type: text
+      name: part
+      label: part
+    - type: field_group_list
+      name: items
+      label: items
+      fields:
+      - type: text
+        name: name
+        label: name
+      - type: text
+        name: amount
+        label: amount
+      - name: note
+        type: text
+        config:
+          required: false
+        label: Note
+      - name: prep
+        type: text
+        config:
+          required: false
+        label: Prep
 - type: field_group_list
   name: directions
   label: directions
