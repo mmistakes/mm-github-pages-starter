@@ -1,8 +1,10 @@
 ---
 name: Lækker pasta med kødsovs fyldt med grøntsager og masser af smag
 image: 
-description_short:  "Kødsovs er nok en af de mest almindelige retter i det danske køkken. Denne version af kødsovs er fyldt med grøntsager, men er også spækket med smag. Den vil derfor være et hit hos både børn og forældre!"
-keywords: "Aftensmad, børnemad, nem mad, kødsovs, gryderet, oksekød, svinekød"
+description_short: Kødsovs er nok en af de mest almindelige retter i det danske køkken.
+  Denne version af kødsovs er fyldt med grøntsager, men er også spækket med smag.
+  Den vil derfor være et hit hos både børn og forældre!
+keywords: Aftensmad, børnemad, nem mad, kødsovs, gryderet, oksekød, svinekød
 cuisine: Dansk
 yield: 8 portioner
 prepTime: 30 min
@@ -14,79 +16,87 @@ riseTime_iso:
 totalTime: 60 min
 totalTime_iso: PT1H
 ingredients:
-  left:  
-      - part:  
-        items:
-          - amount: 2 hvidløg
-            name: hvidløg
-          - amount: "2"  
-            name: løg
-            prep: fint hakket
-          - amount: 450 g
-            name: squash
-            note: ca 1 stor eller 2 mellemstørrelse
-            prep: revet     
-          - amount: 450 g 
-            name: gulerødder
-            prep: revet
-          - amount: 100 g 
-            name: Bladselleri 
-            prep: fint hakket 
-            note: (valgfri)  
-          - amount: 450 g 
-            name: hakket oksekød
-          - amount: 450 g 
-            name: hakket svinekød
-          - amount: 800 g (2 dåser)
-            name: hakket tomater
-            note: af god kvalitet, så som mutti
-          - amount: 150 g 
-            name: tomatpuré
-            note: også gerne mutti
-          - amount: ca 4 tsk 
-            name: bouillon 
-            note: svarende til ca 1,5 liters færdig bouillon
-          - amount: 4 tsk 
-            name: oregano
-          - amount: 2-4 tsk 
-            name: sukker
-          - amount: 1 tsk 
-            name: paprika
-          - amount: ½-1 tsk 
-            name: worcestershire sauce
-          - amount: 10 g 
-            name: parmesan
-            note: alternativt en gammel skorpe fra parmesan
-          - amount: 2 spsk 
-            name: olivenolie
-          - amount: 5-10 skvæt 
-            name: tabasco 
-            note: (valgfri)  
-          - amount: 
-            name: peber
-  right:  
-      - part:  
-        items:
-          - amount: 
-            name: pasta
-          - amount:    
-            name: salt     
-          - amount: 
-            name: parmesan  
+  left:
+  - part: 
+    items:
+    - amount: 2 hvidløg
+      name: hvidløg
+    - amount: "2"
+      name: løg
+      prep: fint hakket
+    - amount: 450 g
+      name: squash
+      note: ca 1 stor eller 2 mellemstørrelse
+      prep: revet
+    - amount: 450 g
+      name: gulerødder
+      prep: revet
+    - amount: 100 g
+      name: Bladselleri
+      prep: fint hakket
+      note: valgfri
+    - amount: 450 g
+      name: hakket oksekød
+    - amount: 450 g
+      name: hakket svinekød
+    - amount: 800 g (2 dåser)
+      name: hakket tomater
+      note: af god kvalitet, så som mutti
+    - amount: 150 g
+      name: tomatpuré
+      note: også gerne mutti
+    - amount: ca 4 tsk
+      name: bouillon
+      note: svarende til ca 1,5 liters færdig bouillon
+    - amount: 4 tsk
+      name: oregano
+    - amount: 2-4 tsk
+      name: sukker
+    - amount: 1 tsk
+      name: paprika
+    - amount: "½-1 tsk"
+      name: worcestershire sauce
+    - amount: 10 g
+      name: parmesan
+      note: alternativt en gammel skorpe fra parmesan
+    - amount: 2 spsk
+      name: olivenolie
+    - amount: 5-10 skvæt
+      name: tabasco
+      note: valgfri
+    - amount: 
+      name: peber
+  right:
+  - part: 
+    items:
+    - amount: 
+      name: pasta
+    - amount: 
+      name: salt
+    - amount: 
+      name: parmesan
 directions:
- - part:
-   steps: 
-      - step: Det første der skal gøres er at finde en pande og en stor gryde frem, da der skal steges en masse. 
-      - step: Hak løg og bladselleri fint.
-      - step: Kom en spiseske olie, bladselleri og løg i gryden og steg det ved lav varme mens resten forberedes. 
-      - step: Mens løgene hygger sig rives squash og gulerødder på et rivejern.
-      - step: Når løgene er klare og bløde presses hvidløg ned i gryden.
-      - step: Hvidløget steges i ca 1 minut og derefter tilsættes hakket tomat til gryden, som nu skal hygge sig på middel varme.
-      - step: Steg kødet på panden evt. over flere omgange, hvis panden ikke er stor nok og blusset ikke er stærkt nok. Kom kødet over i gryden efterhåden som det bliver brunet.
-      - step: Tilsæt mere olie og steg derefter tomatpuré i et par minutter.
-      - step: Steg de revede grøntsager i overkommelige portioner og kom dem op i gryden. (Dette gøres blandt andet for at trække smagen fra panden over i gryden)
-      - step: Så snart der er overskud til det kan du begynde at krydre retten. Kom den koncentrerede bouillon direkte ned i gryden og tilsæt derefter oregano, paprika, worcestershire sauce, 2 tsk sukker, peber og parmesan.
-      - step: Lad kødsovsen simre i så lang tid du kan overskue, men mindst 20 minutter.
-      - step: Inden servering koges pasta efter anvisning på pastapakken.
-      - step: Før retten serveres, smages den til med det sidste sukker.
-      - step: Server pasta med kødsovs og en god portion revet parmesan!
+- part: 
+  steps:
+  - step: Det første der skal gøres er at finde en pande og en stor gryde frem, da
+      der skal steges en masse.
+  - step: Hak løg og bladselleri fint.
+  - step: Kom en spiseske olie, bladselleri og løg i gryden og steg det ved lav varme
+      mens resten forberedes.
+  - step: Mens løgene hygger sig rives squash og gulerødder på et rivejern.
+  - step: Når løgene er klare og bløde presses hvidløg ned i gryden.
+  - step: Hvidløget steges i ca 1 minut og derefter tilsættes hakket tomat til gryden,
+      som nu skal hygge sig på middel varme.
+  - step: Steg kødet på panden evt. over flere omgange, hvis panden ikke er stor nok
+      og blusset ikke er stærkt nok. Kom kødet over i gryden efterhåden som det bliver
+      brunet.
+  - step: Tilsæt mere olie og steg derefter tomatpuré i et par minutter.
+  - step: Steg de revede grøntsager i overkommelige portioner og kom dem op i gryden.
+      (Dette gøres blandt andet for at trække smagen fra panden over i gryden)
+  - step: Så snart der er overskud til det kan du begynde at krydre retten. Kom den
+      koncentrerede bouillon direkte ned i gryden og tilsæt derefter oregano, paprika,
+      worcestershire sauce, 2 tsk sukker, peber og parmesan.
+  - step: Lad kødsovsen simre i så lang tid du kan overskue, men mindst 20 minutter.
+  - step: Inden servering koges pasta efter anvisning på pastapakken.
+  - step: Før retten serveres, smages den til med det sidste sukker.
+  - step: Server pasta med kødsovs og en god portion revet parmesan!
