@@ -62,4 +62,4 @@ Krydderierne chili/tabasco, ingefær og hvidløg indeholder selv en del umami og
 Velbekomme!  
 \- Henrik 
 
-{% include opskrift.html opskrift="svigermors-grillmarinade" %}
+{% include opskrift.html author="henrik" category="aftensmad" opskrift="svigermors-grillmarinade" %}
