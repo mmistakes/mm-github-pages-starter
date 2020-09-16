@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-Hi! I'm Aidan, I'm from Vancouver Island, British Columbia, Canada. I'm a Recent Graduate in Information Technology and Applied Systems.
+Hi! I'm Aidan, I'm from Vancouver Island, British Columbia, Canada. I'm a Junior Systems Administrator specializing in VMware vSphere, Windows Server, O365, and Azure. 
 
 My interest and passion in technlogy is specifically in System Administration/Devops, scripting, automation, cloud and virtualization technologies, and Linux.
 
