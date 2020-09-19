@@ -31,9 +31,8 @@ gallery1:
   alt: Snurre i massevis
 
 ---
-Når jeg skriver en opskrift, går jeg meget at 
+Når jeg skriver en opskrift, går jeg meget op i at de læses sådan som arbejdsflowet i køkkenet er.    Derfor irriterer det mig også ret meget når jeg laver mad efter opskrifter der er skrevet ordentligt. Faktisk var det egentlige startskud til bloggen her, da min hustru efter en frustreret ulvetime sagde: "hvorfor skriver du ikke bare dine egne opskrifter?" 
 
-Nogle mennesker er mandagstrænere og råber af fjernsynet når de ser fodbold, jeg råber af opskrifter når de ikke kan guide mig ordentligt igennem madlavningen.
 Jeg har det især svært med [feminas opskrifter!](https://www.femina.dk/mad/hovedretter/blomkaalskarry-med-sproede-kikaerter) Forstå mig ret, deres retter er virkeligt gode, men deres måde at skrive dem på og layout er fuldstændigt forfærdeligt.
 
 Først det med layoutet...
