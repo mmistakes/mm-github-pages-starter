@@ -45,6 +45,6 @@ Nu er det heldigvis sådan at copyright til en opskrift ikke ligger i ingrediens
 
 Velbekomme!
 
-\\- Henrik
+\- Henrik
 
 {% include opskrift.html author="henrik" category="aftensmad" opskrift="blomkaalscurry" %}
