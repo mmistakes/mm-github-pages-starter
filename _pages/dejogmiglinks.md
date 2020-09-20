@@ -5,6 +5,9 @@ type: grid
 permalink: "/dejogmig/"
 author_profile: false
 gallery:
+- url: "/dutch-baby-m-bacon-gronkaal/"
+  image_path: assets/images/posts/henrik/dutch-baby-m-bacon-gronkaal/dutch-baby-m-bacon-gronkaal-teaser.jpg
+  alt: Dutch baby med bacon og grønkål
 - url: "/surdejsboller/"
   image_path: "/assets/images/uploads/surdejboller-teaser.jpg"
   alt: Surdejsboller
@@ -26,9 +29,6 @@ gallery:
 - url: "/surdejsrundstykker/"
   image_path: assets/images/instagram/surdejsrundstykker-sesam.jpg
   alt: Surdejsrundstykker
-- url: "/dutch-baby-m-bacon-gronkaal/"
-  image_path: assets/images/posts/henrik/dutch-baby-m-bacon-gronkaal/dutch-baby-m-bacon-gronkaal-teaser.jpg
-  alt: Dutch baby med bacon og grønkål
 - url: "/foedselsdagsboller-med-tangzhong/"
   image_path: assets/images/posts/henrik/fodselsdagsbollerMedTangzhong-teaser.jpg
   alt: Fødselsdagsboller med tangzhong
