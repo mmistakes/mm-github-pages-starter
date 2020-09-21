@@ -7,7 +7,8 @@ categories:
 - Aftensmad
 - Vegetar
 permalink: "/Blomkaalscurry/"
-excerpt: Fyldig blomkålscurry med kikærter
+excerpt: 'Denne lækre blomkålscurry med bagte kikærter til, er en dejlig vegetarret
+  der er smagfuld og mættende. '
 teaser: "/assets/images/posts/henrik/broed.jpg"
 header:
   teaser: "/assets/images/posts/henrik/merebroed.jpg"
