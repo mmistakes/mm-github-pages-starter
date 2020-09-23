@@ -2,7 +2,7 @@
 layout: single
 title: Blomkålscurry med kikærter
 author: Henrik
-date: 2019-11-05T13:39:33.000+01:00
+date: 2020-09-23 11:39:33 +0000
 categories:
 - Aftensmad
 - Vegetar
