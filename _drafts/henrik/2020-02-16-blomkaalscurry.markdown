@@ -2,7 +2,7 @@
 layout: single
 title: Blomkålscurry med kikærter
 author: Henrik
-date: 2020-09-23 11:39:33 +0000
+date: 2020-09-23T11:39:33.000+00:00
 categories:
 - Aftensmad
 - Vegetar
@@ -32,7 +32,7 @@ gallery1:
   alt: Snurre i massevis
 
 ---
-Jeg vil starte denne opskrift med en lille disclaimer: Denne opskrift ligger sig meget op af en af [feminas opskrifter](https://www.femina.dk/mad/hovedretter/blomkaalskarry-med-sproede-kikaerter). Men ud over at jeg har ændret et par ingredienser og nogle mængde, som det jo er rart at huske fra gang til gang, bliver jeg simpelt nød til at genskrive fremgangsmåden for at kunne følge opskriften. Når jeg skriver en opskrift, går jeg meget op i at de læses sådan som arbejdsflowet i køkkenet er.  Derfor irriterer det mig også ret meget når jeg laver mad efter opskrifter der er skrevet ordentligt. Faktisk kom den allerførste idé til at starte en madblog, da min hustru efter en frustreret ulvetime med lige netop denne ret sagde: "hvorfor skriver du ikke bare dine egne opskrifter?"
+Jeg vil starte denne opskrift med en lille disclaimer: Denne opskrift ligger sig meget op af en af [feminas opskrifter](https://www.femina.dk/mad/hovedretter/blomkaalskarry-med-sproede-kikaerter). Men ud over at jeg har ændret et par ingredienser og nogle mængde, som det jo er rart at huske fra gang til gang, bliver jeg simpelt nød til at genskrive fremgangsmåden, for at kunne følge opskriften. Når jeg skriver en opskrift, går jeg meget op i at de læses sådan som arbejdsflowet i køkkenet er.  Derfor irriterer det mig også ret meget når jeg laver mad efter opskrifter der ikke er skrevet ordentligt. Faktisk kom den allerførste idé til at starte en madblog, da min hustru efter en frustreret ulvetimen, med lige netop denne opskrift sagde: "hvorfor skriver du ikke bare dine egne opskrifter?"
 
 ## Feminas blomkålscurry
 
