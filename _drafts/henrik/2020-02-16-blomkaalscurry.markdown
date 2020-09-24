@@ -44,7 +44,7 @@ Hvordan læser du en opskrift? Jeg sætter mig gerne ned dagen før, læser opsk
 
 Min pointe er at det er forfatteren til opskriften der skal gøre det forarbejde og holde madlaveren i hånden hele vejen igennem. Det er præcis det modsatte Feminas forfatter gør i blomkålcurry. Prøv bare at se hvordan selve curryen er beskrevet i en lang paragraf med masser af trin der bare går ud i et... suk! Det går måske meget fint, lige indtil man er begyndt at stege krydderierne og man så ser, at man skal plukke bladene af korianderplanten og så hakke stilkene. Klemt inde mellem "tilsæt salt og peber" og "hæld kokosmælk" står altså lige rettens mest tidskrævende trin - Så knækker filmen for mig!
 
-Nu er det heldigvis sådan at copyright til en opskrift ikke ligger i ingredienslisten eller det generelle koncept, men i beskrivelsen af fremgangsmåden, så her følger min meget mere udførlige og  forhåbentligt bedre beskrivelse af hvordan man laver en blomkålscurry med kikærter!
+Nu er det heldigvis sådan at copyright til en opskrift ikke ligger i ingredienslisten eller det generelle koncept, men i beskrivelsen af fremgangsmåden, så her følger min meget mere udførlige og  forhåbentligt bedre beskrivelse af hvordan man laver en blomkålscurry med kikærter! :smile:
 
 Velbekomme!
 
