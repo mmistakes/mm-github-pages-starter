@@ -32,7 +32,7 @@ gallery1:
   alt: Snurre i massevis
 
 ---
-Jeg vil starte denne opskrift med en lille disclaimer: Denne opskrift ligger sig meget op af en af [feminas opskrifter](https://www.femina.dk/mad/hovedretter/blomkaalskarry-med-sproede-kikaerter). Men ud over at jeg har ændret et par ingredienser og nogle mængde, som det jo er rart at huske fra gang til gang, bliver jeg simpelt nød til at genskrive fremgangsmåden, for at kunne følge opskriften. Når jeg skriver en opskrift, går jeg meget op i at de læses sådan som arbejdsflowet i køkkenet er.  Derfor irriterer det mig også ret meget når jeg laver mad efter opskrifter der ikke er skrevet ordentligt. Faktisk kom den allerførste idé til at starte en madblog, da min hustru efter en frustreret ulvetimen, med lige netop denne opskrift sagde: "hvorfor skriver du ikke bare dine egne opskrifter?"
+Jeg vil starte denne opskrift med en lille disclaimer: Denne opskrift ligger sig meget op af en af [feminas opskrifter](https://www.femina.dk/mad/hovedretter/blomkaalskarry-med-sproede-kikaerter). Men ud over at jeg har ændret et par ingredienser og nogle mængde, som det jo er rart at huske fra gang til gang, bliver jeg simpelt nød til at genskrive fremgangsmåden, for at kunne følge opskriften. Når jeg skriver en opskrift, går jeg meget op i at de læses sådan som arbejdsflowet i køkkenet er.  Derfor irriterer det mig også ret meget når jeg laver mad efter opskrifter der ikke er skrevet ordentligt. Faktisk kom den allerførste idé til at starte en madblog, da min hustru efter en frustreret ulvetimen, med lige netop denne opskrift sagde: "Hvorfor skriver du ikke bare dine egne opskrifter?"
 
 ## Feminas blomkålscurry
 
@@ -42,7 +42,7 @@ Hvordan læser du en opskrift? Jeg sætter mig gerne ned dagen før, læser opsk
 
 ![](/assets/images/uploads/blomkaalscurry-teaser.jpg)
 
-Min pointe er at det er forfatteren til opskriften der skal gøre det forarbejde og holde madlaveren i hånden hele vejen igennem. Det er præcis det modsatte Feminas forfatter gør i blomkålcurry. Prøv bare at se hvordan selve curryen er beskrevet i en lang paragraf med masser af trin der bare går ud i et... suk! Det går måske meget fint, lige indtil man er begyndt at stege krydderierne og man så ser at man skal plukke bladene af korianderplanten og så hakke stilkene. Klemt inde mellem "tilsæt salt og peber" og "hæld kokosmælk" står altså lige rettens allermest tidskrævende trin - Så knækker filmen for mig!
+Min pointe er at det er forfatteren til opskriften der skal gøre det forarbejde og holde madlaveren i hånden hele vejen igennem. Det er præcis det modsatte Feminas forfatter gør i blomkålcurry. Prøv bare at se hvordan selve curryen er beskrevet i en lang paragraf med masser af trin der bare går ud i et... suk! Det går måske meget fint, lige indtil man er begyndt at stege krydderierne og man så ser, at man skal plukke bladene af korianderplanten og så hakke stilkene. Klemt inde mellem "tilsæt salt og peber" og "hæld kokosmælk" står altså lige rettens mest tidskrævende trin - Så knækker filmen for mig!
 
 Nu er det heldigvis sådan at copyright til en opskrift ikke ligger i ingredienslisten eller det generelle koncept, men i beskrivelsen af fremgangsmåden, så her følger min meget mere udførlige og  forhåbentligt bedre beskrivelse af hvordan man laver en blomkålscurry med kikærter!
 
