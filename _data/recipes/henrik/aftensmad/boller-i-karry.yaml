@@ -3,14 +3,14 @@ name: Boller i karry uden mælk og med masser af skjulte grøntsager
 image: ''
 description_short: ''
 keywords: ''
-cuisine: ''
-yield: ''
-prepTime: ''
-prepTime_iso: ''
+cuisine: Danish
+yield: '9 portioner '
+prepTime: 1 time
+prepTime_iso: PT1H
 riseTime: ''
 riseTime_iso: ''
-totalTime: ''
-totalTime_iso: ''
+totalTime: 1 t 20 min
+totalTime_iso: PT1H20M
 ingredients:
   single: []
   left: []
