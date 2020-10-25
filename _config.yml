@@ -29,8 +29,29 @@ markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
-paginate: 12 # amount of posts to show
-paginate_path: opskrifter/page:num/
+#paginate: 12 # amount of posts to show
+#paginate_path: opskrifter/page:num/
+pagination:
+  # Site-wide kill switch, disabled here it doesn't run at all 
+  enabled: true
+    # Set to 'true' to enable pagination debugging. This can be enabled in the site config or only for individual pagination pages
+  debug: false
+  # How many objects per paginated page, used to be `paginate` (default: 0, means all)
+  per_page: 9
+   # The permalink structure for the paginated pages (this can be any level deep)
+  permalink: '/:num/' # Pages are index.html inside this folder (default)
+  #permalink: '/page/:num.html' # Pages are simple html files 
+  #permalink: '/page/:num' # Pages are html files, linked jekyll extensionless permalink style.
+
+  # Optional the title format for the paginated pages (supports :title for original page title, :num for pagination page number, :max for total number of pages)
+  title: ':title - side :num'
+
+  # Limit how many pagenated pages to create (default: 0, means all)
+  limit: 0
+
+  trail: 
+    before: 2 # The number of links before the current page
+    after: 2  # The number of links after the current page
 timezone: Europe/Copenhagen
 locale: da
 header:
@@ -56,7 +77,7 @@ analytics:
 
 # Plugins (previously gems:)
 plugins:
-  - jekyll-paginate
+  - jekyll-paginate-v2
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
