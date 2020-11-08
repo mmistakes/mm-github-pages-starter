@@ -9,7 +9,7 @@ header:
 
 classes: wide
 
-last_modified_at: 21/07/2020
+last_modified_at: 08/11/2020
 ---
 
 The primary focus of my PhD is the prediction of Protein-Protein Interactions (PPIs) using Machine Learning. [More]({% link research/protein-protein-interactions.md %})
@@ -39,7 +39,22 @@ J. Am. Coll. Cardiol., vol. 73, no. 23, pp. 2958–2960, Jun. 2019.
 
 \* equal contributions
 
-## Talks and posters
+## Talks
+
+- __The Green Algorithms project: quantifying the carbon impact of bioinformatics and genomics.__ <br>
+Conference talk, CSHL Meeting on Biological Data Science <br>
+_November 2020_
+
+- __Green Algorithms: quantifying the carbon impact of computations.__ <br>
+Varsity Sci conference between Oxford and Cambridge <br>
+_September 2020_ <br>
+Recording [here](https://t.co/pYoZNE2hEL?amp=1) and slides [here](https://t.co/HZUPH67D7x?amp=1). <br>
+Article about it in _The Oxford Scientist_ [here](https://t.co/BalmrQvIYE?amp=1).
+
+- __The Green Algorithms project: quantifying the carbon impact of bioinformatics and genomics.__ <br>
+Conference talk, 6th European Student Council Symposium, ISCB 2020 <br>
+_September 2020_
+Recording [here](https://youtu.be/f9LOQ_L__ak) and slides [here](https://drive.google.com/file/d/1Aw8DRHII8Jai0eplBR-T_7ajepdm5bVZ/view?usp=sharing)
 
 - __The environmental impact of (bio)informatic research__ <br>
 Scientific meeting, BHF Cardiovascular Epidemiology Unit, DPHPC, University of Cambridge <br>
@@ -50,10 +65,6 @@ Departmental workshops (2 x 1h) introducing biostatisticians and clinicians to m
 Department of Public Health and Primary Care, University of Cambridge <br>
 _December 2019_
 
-- __Using Machine Learning to predict protein-protein interaction networks__ <br>
-Flash talk & Poster, Cambridge Network Days <br>
-_August 2019_
-
 - __Predicting new disease-genes using machine learning and protein-protein interaction networks__ <br>
 1st year PhD presentation, Department of Public Health and Primary Care, University of Cambridge <br>
 _June 2019_
@@ -61,3 +72,14 @@ _June 2019_
 - __Predicting new disease-genes using machine learning and protein-protein interaction networks__ <br>
 Flash talk, Cambridge-Baker System Genomics Initiative launch event, Cambridge <br>
 _March 2019_
+
+## Conference posters
+
+- __Green Algorithms: Quantifying the carbon impact of genomics.__ <br>
+Flash talk & poster, Wellcome Genome Campus conference _Genome Informatics_ <br>
+_September 2020_
+Flash talk [here](https://t.co/5PI91II216?amp=1) and poster [here](https://t.co/j8SO3ou8oB?amp=1)
+
+- __Using Machine Learning to predict protein-protein interaction networks__ <br>
+Flash talk & Poster, Cambridge Network Days <br>
+_August 2019_

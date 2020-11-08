@@ -33,4 +33,6 @@ blog:
     url: /blog/
   # - title: "Learning challenge: Ethics in AI"
   - title: "Machine Learning tutorials for scientists"
+    url: /blog/machine-learning-tutorials/
   - title: "Blog articles about my research"
+    url: /blog/my-research/

@@ -2,6 +2,8 @@
 title: "HDR-UK blog: Green Algorithms for Health Data Science"
 
 blog_link: https://www.hdruk.ac.uk/news/green-algorithms-for-health-data-science/
+
+category: "My research"
 ---
 
 <!-- TODO: fix the "blog" homepage -->

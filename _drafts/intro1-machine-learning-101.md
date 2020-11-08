@@ -3,6 +3,8 @@ title: "Intro 1: Machine Learning for scientists"
 
 toc: true
 toc_sticky: true
+
+category: "Machine Learning tutorials"
 ---
 
 <!-- TODO link to the slides of the ML workshops -->
@@ -11,7 +13,21 @@ _This blog series is based on workshops I have delivered to (bio)statisticians a
 <!-- TODO reorganise assets folder -->
 <!-- TODO references -->
 
-# Why this series of articles?
+# Why these posts?
+
+The more I try to apply machine learning to real world problems, the more I realise that the most important component of a successful project is a deep understanding of the problem. Biologists using basic regression models will get more robust and useful results than computer scientists using state-of-the-art technique on a biological dataset they don't fully apprehend. The same applies to physicists, neuroscientists, robotic experts...
+
+Why? Partly because the pitfalls are numerous: is the cross validation biased? Are some underlying connections between the features missed? How to preprocess the features? And so on  and so forth.
+
+Ideally, you would have a mixed team with people with different expertise working on every projects,  but that's not always possible. We therefore need more scientists with a dual knowledge.
+
+Similarly to biostatisticians who bridge the gap between statisticians and biologists, we need more [insert your favourite field]-data scientists.
+
+Through interacting with biostatisticians, I realised that many of them - very competent mathematicians, comfortable with
+
+Reference to "Genetics Needs Non-geneticists" (https://www.cell.com/trends/genetics/fulltext/S0168-9525(20)30161-X?dgcid=raven_jbs_etoc_email)
+
+# Who is it for?
 
 So let's dive in.
 

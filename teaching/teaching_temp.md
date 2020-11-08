@@ -1,5 +1,5 @@
 ---
-permalink: /teaching/
+permalink: /teaching_temp/
 
 title: Teaching resources
 ---

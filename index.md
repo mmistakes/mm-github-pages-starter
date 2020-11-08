@@ -5,7 +5,7 @@
 layout: home_page2
 
 permalink: /
-title: "<br>Welcome<br><br>"
+title: "<br>Loïc Lannelongue<br><br>"
 
 last_modified_at: 21/07/2020
 
@@ -46,6 +46,12 @@ highlights:
 <!-- TODO Check link of buttons -->
 
 On this website, you can learn more about my research interests, read the blog articles and find all my teaching material. Below are some highlights as well as recent blog articles.
+
+{% for page in site.pages %}
+{{page.url}}
+{% endfor %}
+
+## Highlights
 
 <!-- TODO: Resize all pictures -->
 <!-- TODO: Picture for highlight PPIs -->
