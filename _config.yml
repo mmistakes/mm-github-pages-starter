@@ -21,12 +21,13 @@ description: >- # this means to ignore newlines until "baseurl:"
   Personal blog of Ken Crandall
 twitter_username: kencrandall
 github_username: kencrandall
-minimal_mistakes_skin: default
+#minimal_mistakes_skin: default
 search: true
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+#remote_theme: mmistakes/minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes@4.21.0" 
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
