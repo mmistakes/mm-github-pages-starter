@@ -42,9 +42,9 @@
 
 
     {% if paginator.page_trail.last.num != paginator.total_pages %}
-
+    {% assign Ellipsis = {paginator.total_pages | plus: 0}  - {paginator.page_trail.last.num | plus: 0 } %}
         {% comment %} Ellipsis for truncated links {% endcomment %}
-      {% if paginator.page_trail.last.num != paginator.total_pages - 1 %}
+      {% if Ellipsis > 1 %}
         <li><a href="#" class="disabled">&hellip;</a></li>
       {% endif %}
 

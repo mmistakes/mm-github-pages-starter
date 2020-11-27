@@ -7,9 +7,11 @@
         <div class="archive__item-teaser">
         <a href="{{ f_url }}" class="linked_image">
         {% if post.header.teaser.size > 0  %}
-        <img src="{{ teaser | relative_url }}">
+        <!--<img src="{{ teaser | relative_url }}">-->
+        {% picture {{ teaser | relative_url }}"%}
         {% else %}
-        <img src="{{site.alternative_image | relative_url}}">
+        {% picture {{site.alternative_image | relative_url}}%}
+        <!--<img src="{{site.alternative_image | relative_url}}">-->
         {% endif %}
         </a>
         </div>

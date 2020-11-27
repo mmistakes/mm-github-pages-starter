@@ -45,13 +45,16 @@ pagination:
 
   # Optional the title format for the paginated pages (supports :title for original page title, :num for pagination page number, :max for total number of pages)
   title: ':title - side :num'
-
+  sort_reverse: true
   # Limit how many pagenated pages to create (default: 0, means all)
   limit: 0
 
   trail: 
     before: 2 # The number of links before the current page
     after: 2  # The number of links after the current page
+  category: 'posts'
+
+ 
 timezone: Europe/Copenhagen
 locale: da
 header:

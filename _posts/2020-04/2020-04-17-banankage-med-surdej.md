@@ -42,4 +42,4 @@ Når du har bagt kagen kan sagtens spises som den er, men for at gøre den lidt 
 Velbekomme!  
 \- Henrik 
 
-{% include opskrift.html opskrift="banakage-med-surdej" %}
+{% include opskrift.html author="henrik" category="aftensmad" opskrift="banankage-med-surdej" %}
