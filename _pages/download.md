@@ -3,6 +3,7 @@ permalink: /download/
 title: "Download"
 layout: splash
 author_profile: true
+
 feature_row:
   - image_path: assets/imgs_main/d_template.png
     image_caption: "2.1.06"

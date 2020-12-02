@@ -24,9 +24,9 @@ feature_row:
   - image_path: assets/imgs_main/rakugo_dev.png
     title: "Funcs, Objects and Vars like in Ren'Py"
     excerpt: "Rakugo uses similar programming ideas to those of Ren'Py."
-  - image_path: assets/imgs_main/nodes.png
-    title: "Extra Nodes"
-    excerpt: "Big set of extra nodes to make creating games easier."
+  # - image_path: assets/imgs_main/nodes.png
+  #   title: "Extra Nodes"
+  #   excerpt: "Big set of extra nodes to make creating games easier."
   - image_path: assets/imgs_main/tools.png
     title: "Tools"
     excerpt: "Tools that help creating games."

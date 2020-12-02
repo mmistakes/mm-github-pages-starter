@@ -3,6 +3,7 @@ permalink: /kits_addons/
 title: "Game Kits & Addons"
 layout: splash
 author_profile: true
+
 feature_row:
   - image_path: assets/kits_addons/rakugo-rpg.png
     image_caption: "0.1.2"
