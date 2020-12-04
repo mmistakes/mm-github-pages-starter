@@ -1,2 +1,2 @@
-This is Rakugo Framework Website Repo
+This is Rakugo Website Repo
 =====================================
