@@ -10,7 +10,7 @@ author_profile: true
 ***Light Letters***
 *Rakugo v3.0.0b game, it is a VN-2D platformer hybrid. Made for 2020 Yuri Game Jam.*
 
-Inspired by [Ren'Py](https://www.renpy.org), Rakugo is a framework aimed at providing a better toolset for narrative-based games on [Godot](https://godotengine.org). Simplify your project, if it is a visual novel, point and click, RPG, interactive text game or many other styles and blends of styles.
+Inspired by [Ren'Py](https://www.renpy.org), Rakugo is a addon + template aimed at providing a better toolset for narrative-based games on [Godot](https://godotengine.org). Simplify your project, if it is a visual novel, point and click, RPG, interactive text game or many other styles and blends of styles.
 
 <!-- Unlock the potential of [Godot](https://godotengine.org) 3.x with Rakugo!
 
