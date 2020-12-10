@@ -3,7 +3,8 @@ layout: single
 title:  "Smagfulde hveder med spelt"
 author: Henrik
 #date:   2019-11-05 13:39:33 +0100
-categories:  
+categories:
+  - Opskrifter   
   - Kage og bagværk  
 tags: 
   - Henrik

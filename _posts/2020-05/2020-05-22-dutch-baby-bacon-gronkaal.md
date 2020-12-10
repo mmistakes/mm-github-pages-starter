@@ -3,6 +3,7 @@ layout: single
 title: Dutch baby med bacon og grønkål
 author: Henrik
 categories:
+- Opskrifter
 - Aftensmad
 - Frokost
 tags:

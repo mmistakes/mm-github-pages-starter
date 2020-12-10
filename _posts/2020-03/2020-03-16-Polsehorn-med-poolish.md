@@ -3,7 +3,8 @@ layout: single
 title:  "Pølsehorn med poolish"
 author: Henrik
 date:   2020-04-20
-categories:  
+categories:
+  - Opskrifter   
   - Surdej og brød
   - Børnemad
   - Snacks og tilbehør

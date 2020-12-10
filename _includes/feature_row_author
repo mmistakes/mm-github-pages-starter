@@ -6,14 +6,22 @@
 {% if include.author %}
   {% assign post = site.posts | where: 'author', include.author | first %}
 {% endif %}
+{% if include.category %}
+  {% assign post = site.categories[include.category] | first %}
+{% endif %}
 
 <div class="feature__wrapper">
 
 {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
 {% capture alt %}{{ post.title }}{% endcapture %}
 {% capture image_caption %}{{ post.title }}{% endcapture %}
-{% capture post_text %}{{ post.excerpt }}<br><br>{{post.content | split: '<img' | first}}<br>{% endcapture %}
-
+{% capture post_text %}
+{% if post.excerpt}
+  {{post.content | split: '<img' | first}}<br>
+{% else %}
+  {{post.content | split: '<img' | first}}<br>
+{% endif %}
+{% endcapture %}
 {% capture f_url %}{{ post.permalink | relative_url }}{% endcapture %}
 
    

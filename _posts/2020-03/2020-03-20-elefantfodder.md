@@ -3,7 +3,8 @@ layout: single
 title:  "Elefantfødder"
 author: Helene
 #date:   2019-11-05 13:39:33 +0100
-categories:  
+categories:
+  - Opskrifter   
   - Dessert
   - Kage og bagværk
 tags: 

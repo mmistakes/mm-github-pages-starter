@@ -3,7 +3,7 @@ layout: single
 title:  "Grüne Bohnensuppe"
 author:   
 categories: 
-  - opskrift
+  - Opskrifter 
   - Aftensmad 
   
 tags: 

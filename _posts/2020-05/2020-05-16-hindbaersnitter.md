@@ -4,7 +4,8 @@ title:  "Himmelske hindbærsnitter"
 excerpt: "Skønne hindbærsnitter med marcipan"
 author: Helene
 #date:   2019-11-05 13:39:33 +0100
-categories:  
+categories:
+  - Opskrifter  
   - Kage og bagværk
 tags: 
   - Helene

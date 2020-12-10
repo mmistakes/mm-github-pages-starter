@@ -4,8 +4,8 @@ title:  "Banakage med chokolade, peanut og surdej"
 author: Henrik
 #date:   2019-11-05 13:39:33 +0100
 categories:  
-  - Kage 
-  - Surdej
+  - Kage og bagværk
+  - Surdej og brød
   - Opskrifter  
 tags: 
   - Henrik

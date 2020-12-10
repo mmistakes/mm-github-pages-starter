@@ -4,7 +4,8 @@ title:  "Fish 'n' chips med ærtemos"
 excerpt: "Sprøde fisk og lækre fritter"
 author: Helene
 #date:   2019-11-05 13:39:33 +0100
-categories:  
+categories:
+  - Opskrifter   
   - Aftensmad
 tags: 
   - Helene

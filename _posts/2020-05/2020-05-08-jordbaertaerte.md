@@ -4,7 +4,8 @@ title:  "Klassisk jordbærtærte"
 excerpt: "Klassisk jordbærtærte med mørdejsbund, mazarinfyld, chokolade og vaniljecreme"
 author: Helene
 #date:   2019-11-05 13:39:33 +0100
-categories:  
+categories:
+  - Opskrifter   
   - Kage og bagværk
   - Dessert
 tags: 

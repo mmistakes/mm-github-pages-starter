@@ -3,7 +3,8 @@ layout: single
 title:  "Svigermors grillmarinade med masser af umami og varme"
 author: Henrik
 #date:   2019-11-05 13:39:33 +0100
-categories:  
+categories:
+  - Opskrifter  
   - Aftensmad
   - Sommer 
 tags: 

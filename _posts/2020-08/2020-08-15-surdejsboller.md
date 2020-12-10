@@ -4,7 +4,7 @@ title: Surdejsboller
 author: Henrik
 categories:
 - Morgenmad
-- Opskrift
+- Opskrifter
 - Surdej og brød
 tags:
 - Boller

@@ -13,7 +13,9 @@ excerpt: ""
 ---
 <a href="/opskrifter/"><h1>Nyeste opskrifter</h1></a>
 
-{% include feature_row_frontpage limit=3 %}
+{% include feature_row_category category="Opskrifter" limit=3 headline="false"%}
+<a href="/blog/"><h1>Nyeste blogpost:</h1></a>
+{% include feature_row_author id="feature_row1" type="right" category="Blog" %}
 <a href="/henrik/"><h1>Nyeste post fra Henrik:</h1></a>
 {% include feature_row_author id="feature_row2" type="left" author="Henrik" %}
 <a href="/helene/"><h1>Nyeste post fra Helene:</h1></a>

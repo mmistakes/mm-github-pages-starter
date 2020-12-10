@@ -3,7 +3,8 @@ layout: single
 title:  "Langtidshævede brioche burgerboller"
 author: Henrik
 #date:   2019-11-05 13:39:33 +0100
-categories:  
+categories:
+  - Opskrifter   
   - Surdej og brød
   - Aftensmad 
 tags: 

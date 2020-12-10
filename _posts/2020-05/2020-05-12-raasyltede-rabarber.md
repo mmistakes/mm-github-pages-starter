@@ -4,6 +4,7 @@ title:  "Sprøde råsyltede rabarber"
 author: Henrik
 #date:   2019-11-05 13:39:33 +0100
 categories:  
+  - Opskrifter 
   - Dessert
   - Teknikker, tips og tricks
   - Forår 
