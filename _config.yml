@@ -58,7 +58,7 @@ author:
       url: "https://www.youtube.com/channel/UCuItFHsERbsyi8gLJ7Ti1KA"
     - label: "Docs"
       icon: "fab fa-fw fa-link"
-      url: "https://rakugoteam.github.io/RakugoDocs-new/"
+      url: "https://rakugoteam.github.io/RakugoDocs/"
 
 footer:
   links:
