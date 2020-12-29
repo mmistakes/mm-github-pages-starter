@@ -3,8 +3,8 @@ main:
     url: /news/
   - title: "Features"
     url: /features/
-  # - title: "Download"
-  #   url: /download/
+  - title: "Download"
+    url: /download/
   # - title: "Game Kits & Addons"
   #   url : /kits_addons/
   - title: "Donations"
@@ -15,7 +15,5 @@ main:
     url: /faq/
   - title: "Showcase"
     url: /showcase/
-  # - title: "Next Relase"
-  #   url: https://github.com/rakugoteam/Rakugo/issues?q=is%3Aopen+is%3Aissue+milestone%3A%222.1.xx+(Godot+Developer+Simulator)%22
   - title: "Raport a Issue"
-    url: https://github.com/rakugoteam/Rakugo/labels/bug
+    url: https://github.com/rakugoteam/Rakugo
