@@ -6,20 +6,20 @@ author_profile: true
 
 feature_row:
   - image_path: assets/imgs_main/d_template.png
-    image_caption: "2.1.06"
+    image_caption: "3.1.0"
     ## alt: ""
     title: "Rakugo Template "
     excerpt: "Rakugo Empty Game Template"
-    url: "https://github.com/rakugoteam/Rakugo/releases/download/2.1.06/Rakugo-2.1.06.zip"
+    url: "https://github.com/rakugoteam/Rakugo/archive/master.zip"
     btn_label: "Download"
     btn_class: "btn--primary"
   - image_path: assets/imgs_main/d_the_question.png
     image_caption: "The Question"
     ## alt: ""
     title: "The Question: Rakugo Edition"
-    image_caption: "1.4.5"
-    excerpt: "Port of small Ren'Py vn **The Question**."
-    url: "https://github.com/rakugoteam/Rakugo/releases/download/2.1.06/The-Question-1.4.5.zip"
+    image_caption: "3.1.0"
+    excerpt: "Port of small Ren'Py game **The Question**."
+    url: "https://github.com/rakugoteam/Rakugo/archive/the-question.zip"
     btn_label: "Download"
     btn_class: "btn--primary"
   - image_path: assets/imgs_main/d_godot.svg
