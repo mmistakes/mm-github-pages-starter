@@ -30,9 +30,9 @@ My next step was to guess how the pin parameter is getting encrypted. Since the 
 
 `LoginActivity.java`
 ```java
-        final String str2 = "0" + this.phoneNumber.getText().toString();
-        final String obj = this.pin.getText().toString();
-        LoginRequest loginRequest = new LoginRequest(str2, AES.AES256Encrypt(obj), str);
+final String str2 = "0" + this.phoneNumber.getText( ).toString();
+final String obj = this.pin.getText().toString();
+LoginRequest loginRequest = new LoginRequest(str2, AES.AES256Encrypt(obj), str);
 ```
 
 
@@ -40,17 +40,17 @@ It turns out that the pin number is passed into AES256Encrypt method, and -- you
 
 `AES256Encrypt.java`
 ```java
-    public static String AES256Encrypt(String str) {
-        String str2;
-        try {
-            str2 = Base64.encodeToString(encrypt("<REDACTED>".getBytes("UTF-8"), "<REDACTED>".getBytes("UTF-8"), str.getBytes("UTF-8")), 0);
-        } catch (Exception e) {
-            PrintStream printStream = System.err;
-            printStream.println("Encrypted Err: " + e.getMessage());
-            str2 = e.getMessage();
-        }
-        return str2.replaceAll("\\n", "");
-    }    return str2.replaceAll("\\n", "");
+public static String AES256Encrypt(String str) {
+    String str2;
+    try {
+        str2 = Base64.encodeToString(encrypt("<REDACTED>".getBytes("UTF-8"), "<REDACTED>".getBytes("UTF-8"), str.getBytes("UTF-8")), 0);
+    } catch (Exception e) {
+        PrintStream printStream = System.err;
+        printStream.println("Encrypted Err: " + e.getMessage());
+        str2 = e.getMessage();
+    }
+    return str2.replaceAll("\\n", "");
+}    return str2.replaceAll("\\n", "");
 ```
 As you see, there are two  \<REDACTED> parameter in the code above, the first is **Initialization Vector**, and the other is **Encryption/Secret Key** itself.
 
