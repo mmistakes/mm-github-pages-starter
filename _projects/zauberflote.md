@@ -6,7 +6,8 @@ feature: true
 tags:
   - distributed systems
   - web
-excerpt: Zauberflöte is a peer-to-peer content delivery network. The system uses WebRTC to cache and distribute content between peers.
+excerpt: Zauberflöte is a peer-to-peer content delivery network. The system uses WebRTC to cache and distribute content between peers. <br/><br/>
+tagline: Zauberflöte is a peer-to-peer content delivery network. The system uses WebRTC to cache and distribute content between peers.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false

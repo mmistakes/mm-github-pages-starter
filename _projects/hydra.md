@@ -8,6 +8,7 @@ tags:
   - distributed systems
   - security
 excerpt: Hydra is a decentralized and secure authentication system to access services on the Internet.
+tagline: Hydra is a decentralized and secure authentication system to access services on the Internet.
 header:
   overlay_color: "#333"
   show_overlay_excerpt: false

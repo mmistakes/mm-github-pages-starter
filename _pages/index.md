@@ -8,7 +8,6 @@ excerpt: I'm a Staff Software Engineer at [Quizlet](https://quizlet.com).<br/><b
 header:
   overlay_color: "#333"
   show_overlay_excerpt: true
-
 ---
 ## Recent Posts
 
