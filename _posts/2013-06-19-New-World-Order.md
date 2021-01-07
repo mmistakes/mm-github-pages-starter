@@ -10,10 +10,7 @@ I have a collegue that is leaving Oracle today to go to a hybrid hardware/softwa
 
 I think that this is the _real_ effect of SDN first showing itself.
 
-
 ...
-
-
 
 I also saw this announcement today:
 > [Cumulus launches a Linux distro for data-center bare metal](http://venturebeat.com/2013/06/19/linux-cumulus/)
@@ -24,6 +21,6 @@ These network platforms are able to run customized commodity OS's (or enable sys
 
 Because their based on commodity OS, they can facilitate application and platform integration much easier than the isolated networking stacks of the past.  This is the same thing that Cisco is trying to do in-house with NXOS (Nexus 1000v etc.)
 
-Imagine an open-source/open-standards based version of this based on open hardware platforms, open software (like Linux,) and Open vSwitch.  That is what's coming from guys like these. 
+Imagine an open-source/open-standards based version of this based on open hardware platforms, open software (like Linux,) and Open vSwitch.  That is what's coming from guys like these.
 
 This is going to start to make [OpenStack Quantum](https://wiki.openstack.org/wiki/Quantum) even more interesting...

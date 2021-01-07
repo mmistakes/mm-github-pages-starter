@@ -11,7 +11,7 @@ So, the whole world seems to think that Apple is going to ditch x86 and move to 
 
 I'm of mixed opinions on whether it is a good idea, though.  Let's break down the PRO's and CON's...
 
-## PRO's:
+## PRO's
 
 * Full vertical integration of a key product line:  
   This is probably the biggest one right here.  We've seen with the iPhone and the iPad how effective Apple is at delivering a fully-optimized solution where there is really no line between the hardware and software.  This is exactly what they want -- the ability to deliver an _experience_ and specific _capabilities_ not a _platform_ with _features_. This is probably their biggest driver, TBH
@@ -22,7 +22,7 @@ I'm of mixed opinions on whether it is a good idea, though.  Let's break down th
 * Power:  
   Now, I tend to think of power consumption as a performance metric, but I think that most people separate it out, so I'll do the same thing.  ARM CPU's are historically less power-hungry than x86 CPU's so there is the real possibility of being able to refactor the power and space budgets in mobile Macs to account for this.  We can either look forward to smaller Macs that have the same power budgets and/or longer lasting Macs in the same form factors we are used to.  This isn't just limited to an x86 -> ARM transition, either.  I'd expect mobile Macs to use a SoC (system-on-chip) design that is optimized for their role (consumer/pro/creative/etc.) and this, coupled with complete macOS control, means that we could even see greater gains than predicted.
 
-## CON's:
+## CON's
 
 * It's not x86:  
   Now, I know that there are a lot of reasons that this is less of a big deal than it may have been in the past, but this is still true: the **WORLD** runs on x86 still, _for the moment_.  It's that last bit that's important though.  With Amazon's Graviton CPU instances, and more and more ARM server development, x86 might not have the choke-hold it once had on the industry; however, the bulk of today's software still runs on x86 and there is a large back catalog of x86 software that still has to be accounted for.  In the Mac world, specifically, there are interesting facets to having LLVM be the default toolchain that can allow Apple to move compiled binaries across architectures. We also must remember that they're masters at having done this before (see above) and have made the transition as smooth as possible each time.  However, that fails to account for users needing x86 virtualization (Virtualbox or VMware, etc.) for all of the non-Mac software out there that is still x86.  I am not sure how that can easily be remedied on an ARM platform.
@@ -31,4 +31,4 @@ I'm of mixed opinions on whether it is a good idea, though.  Let's break down th
 
 Overall, I'm on the fence.  I can see it from both sides and this is all still rampant speculation on everyone's part until the facts emerge.  I can see Apple doing an ARM transition across the line, and I can also see them doing a partial transition with x86 staying in some models to account for x86-specific things that need to be done.  I don't know if it is in-character for Apple to have a split-architecture product line, but since they've had x86 and ARM living together for years already, it's not unprecedented -- just new in the same product family, where it to be intentional and not a transitional situation.
 
-Anyways, we'll see come this week.  
+Anyways, we'll see come this week.
