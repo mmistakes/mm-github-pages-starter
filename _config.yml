@@ -23,6 +23,8 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
 search: true
+# Change the repository name
+repository: "mmistakes/minimal-mistakes" 
 
 # Build settings
 markdown: kramdown
