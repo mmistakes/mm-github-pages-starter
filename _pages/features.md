@@ -20,7 +20,7 @@ feature_row:
     excerpt: "Build in all popular game options."
   - image_path: assets/imgs_main/the_question2.png
     title: "Dialog system"
-    excerpt: "Advanced Dialog system inspired by Ren'Py with choices, player input and more."
+    excerpt: "Advanced Dialog system inspired by Ren'Py with choices, player input, rollback and more."
   - image_path: assets/imgs_main/rakugo_dev.png
     title: "Funcs, Objects and Vars like in Ren'Py"
     excerpt: "Rakugo uses similar programming ideas to those of Ren'Py."
@@ -33,7 +33,6 @@ feature_row:
   - image_path: assets/imgs_main/themes.png
     title: "Collection of Themes"
     excerpt: "Templates includes collection of gui themes ready to use in your game."
-
 ---
 
 {% include feature_row %}
