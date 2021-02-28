@@ -59,7 +59,7 @@ author:
       url: "https://www.youtube.com/channel/UCuItFHsERbsyi8gLJ7Ti1KA"
     - label: "Docs"
       icon: "fas fa-book"
-      url: "https://rakugoteam.github.io/RakugoDocs/"
+      url: "https://rakugodocs.readthedocs.io"
 
 footer:
   links:
