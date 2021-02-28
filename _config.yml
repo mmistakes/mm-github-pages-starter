@@ -40,31 +40,31 @@ whitelist:
   - jekyll-redirect-from
 
 author:
-  avatar : "/assets/imgs_main/logo.png"
+  avatar: "/assets/imgs_main/logo.png"
   links:
     - label: "Patreon"
-      icon: "fab fa-fw fa-link"
+      icon: "fas fa-donate"
       url: "https://www.patreon.com/rakguoteam"
     - label: "itch.io"
-      icon: "fas fa-fw fa-shopping-bag"
+      icon: "fas fa-shopping-bag"
       url: "https://jeremi360x.itch.io/rakugo"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-github"
       url: "https://github.com/rakugoteam/Rakugo"
-    - label: Discord
-      icon: "fab fa-fw fa-link"
+    - label: "Discord"
+      icon: "fas fa-comments"
       url: "https://discord.gg/K9gvjdg"
     - label: "Youtube Channel"
-      icon: "fab fa-fw fa-youtube-square"
+      icon: "fab fa-youtube-square"
       url: "https://www.youtube.com/channel/UCuItFHsERbsyi8gLJ7Ti1KA"
     - label: "Docs"
-      icon: "fab fa-fw fa-link"
-      url: "https://rakugoteam.github.io/RakugoDocs/"
+      icon: "fas fa-book"
+      url: "https://rakugodocs.readthedocs.io"
 
 footer:
   links:
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-github"
       url: "https://github.com/rakugoteam/Rakugo"
 
 defaults:
@@ -95,7 +95,6 @@ defaults:
       author_profile: true
       comments: true
       share: true
-
 
 category_archive:
   type: liquid
