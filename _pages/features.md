@@ -9,7 +9,6 @@ feature_row:
     excerpt: "Have all power of Godot Engine and more ;)"
   - image_path: assets/imgs_main/d_the_question.png
     image_caption: ""
-    ## alt: ""
     title: "UI"
     excerpt: "Working UI out of the box to save your time."
   - image_path: assets/imgs_main/save_load.png
@@ -24,9 +23,9 @@ feature_row:
   - image_path: assets/imgs_main/rakugo_dev.png
     title: "Funcs, Objects and Vars like in Ren'Py"
     excerpt: "Rakugo uses similar programming ideas to those of Ren'Py."
-  # - image_path: assets/imgs_main/nodes.png
-  #   title: "Extra Nodes"
-  #   excerpt: "Big set of extra nodes to make creating games easier."
+  - image_path: assets/imgs_main/nodes.png
+    title: "Rakugo Nodes"
+    excerpt: "Custom Nodes for better integration with dialogues and Rakugo."
   - image_path: assets/imgs_main/tools.png
     title: "Tools"
     excerpt: "Tools that help creating games."
