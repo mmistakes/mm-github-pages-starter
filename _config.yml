@@ -42,7 +42,7 @@ whitelist:
 author:
   avatar: "/assets/imgs_main/logo.png"
   links:
-     - label: "Roadmap"
+    - label: "Roadmap"
       icon: "far fa-road"
       url: "https://trello.com/b/sx9eofUy"
     - label: "GitHub"
