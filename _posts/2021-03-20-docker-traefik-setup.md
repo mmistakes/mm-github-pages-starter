@@ -141,7 +141,7 @@ networks:
 
  ![](/assets/images/traefik_dashboard.png)
 
- #### Part 3 - Adding other services to Traefik
+#### Part 3 - Adding other services to Traefik
 
  You'll now be able to use traefik to give ssl to your other services running in Docker containers!
 
