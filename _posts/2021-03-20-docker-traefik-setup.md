@@ -87,7 +87,7 @@ Save the output somewhere secure. You'll be using it shortly.
 
 Now create the docker-compose.yml in the root of the traefik directory:
 
-```Yaml
+```yaml
 version: '3'
 
 services:
