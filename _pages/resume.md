@@ -46,7 +46,7 @@ aidanbrownj@gmail.com             |  [Github](https://github.com/h4wk590)
 
 > Azure (AZAD, VMs, Storage),
 > VMware Vsphere, Esxi,
-> Windows Server 2016 (AD, GPO, O365, DNS,),
+> Windows Server 2016/2019 (AD, GPO, O365, DNS, DHCP),
 > Veeam Backup & Replication,
 > Fundamental Layer 2 & 3 routing and switching concepts.
 
