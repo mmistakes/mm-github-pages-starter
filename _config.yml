@@ -30,7 +30,7 @@ analytics:
     tracking_id: UA-1190814-10
     anonymize_ip: false
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes@4.22.0"
 permalink: "/posts/:title/"
 timezone: America/Los_Angeles
 include:
