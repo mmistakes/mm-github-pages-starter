@@ -35,7 +35,7 @@ social:
     - link: &myGithub "https://github.com/Llannelongue"
     - username: Llannelongue
   - email:
-    - cambridge: &myCamEmail "ll582 (at) medschl.cam.ac.uk"
+    - cambridge: &myCamEmail
     - gmail: &myGmail "l.lannelongue@gmail.com"
 
 
@@ -86,7 +86,8 @@ collections:
   #   permalink: /:path/
   posts:
     output: true
-    permalink: /blog/:categories/:title/
+    # permalink: /blog/:categories/:title/
+    permalink: /blog/:title/
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -113,7 +114,7 @@ plugins:
 author:
   name   : *myName
   avatar : "/assets/images/profil_loic.jpg"
-  bio    : "On the fence between machine learning and biology."
+  bio    : "On the fence between machine learning and biology"
   location: "Cambridge, UK"
   links:
     # - label: "Website"

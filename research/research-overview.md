@@ -1,15 +1,20 @@
 ---
 permalink: /research/
-title: Research
 
 layout: single
 
+title: Research
+excerpt: "I'm interested in ways to use Machine Learning to predict protein-protein interactions and on the carbon footprint of computational research in general<br><br>"
+
 header:
-  image: assets/images/research/research_banner.jpg
+  overlay_image: assets/images/research/research_banner_processed.png
+
+sidebar:
+  nav: research
 
 classes: wide
 
-last_modified_at: 08/11/2020
+last_modified_at: 18/04/2021
 ---
 
 The primary focus of my PhD is the prediction of Protein-Protein Interactions (PPIs) using Machine Learning. [More]({% link research/protein-protein-interactions.md %})
@@ -20,22 +25,24 @@ More info [here]({% link research/green-algorithms.md %}) and on [www.green-algo
 
 And I contribute to clinical studies to advise on statistical methodology.
 
-## Publications
+## Selected publications
 
 A complete list of publications is available on [Google Scholar]({{ site.social.googleScholar.link }}).
 {{ site.social.googleScholar }}
 
 - __L. Lannelongue\*__, J. Grealey\* and M. Inouye,
 ["Green Algorithms: Quantifying the carbon emissions of computation"](https://arxiv.org/abs/2007.07610),
-arXiv:2007.07610, July 2020.
+_arXiv_, July 2020.
+
+- J. Grealey\*, __L. Lannelongue\*__, W. Saw, J. Marten,  G. Meric, S. Ruiz-Carmona and M. Inouye, [The carbon footprint of bioinformatics](https://www.biorxiv.org/content/10.1101/2021.03.08.434372v1.abstract), _bioRxiv_, March 2021.
 
 - J. Roos, C. Aubanel, Z. Niewiadomska, __L. Lannelongue__, C. Maenhoudt, and A. Fontbonne,
 [“Triplex doppler ultrasonography to describe the uterine arteries during diestrus and progesterone profile in pregnant and non-pregnant bitches of different sizes”](https://www.sciencedirect.com/science/article/abs/pii/S0093691X19303826),
-Theriogenology, vol. 141, pp. 153–160, Jan. 2020.
+_Theriogenology_, Jan. 2020.
 
 - M. Inouye and __L. Lannelongue__,
 [“Gene Regulatory Networks to Explain Coronary Artery Disease Heritability”](http://www.onlinejacc.org/content/73/23/2958/F1),
-J. Am. Coll. Cardiol., vol. 73, no. 23, pp. 2958–2960, Jun. 2019.
+_J. Am. Coll. Cardiol._, Jun. 2019.
 
 \* equal contributions
 
@@ -44,6 +51,10 @@ J. Am. Coll. Cardiol., vol. 73, no. 23, pp. 2958–2960, Jun. 2019.
 - __The Green Algorithms project: quantifying the carbon impact of bioinformatics and genomics.__ <br>
 Conference talk, CSHL Meeting on Biological Data Science <br>
 _November 2020_
+
+- __Artificial Intelligence and Machine Learning for Science.__ <br>
+Lecture, Baker Heart and Diabetes Institute, Melbourne, Australia
+_September 2020_
 
 - __Green Algorithms: quantifying the carbon impact of computations.__ <br>
 Varsity Sci conference between Oxford and Cambridge <br>
@@ -54,7 +65,7 @@ Article about it in _The Oxford Scientist_ [here](https://t.co/BalmrQvIYE?amp=1)
 - __The Green Algorithms project: quantifying the carbon impact of bioinformatics and genomics.__ <br>
 Conference talk, 6th European Student Council Symposium, ISCB 2020 <br>
 _September 2020_
-Recording [here](https://youtu.be/f9LOQ_L__ak) and slides [here](https://drive.google.com/file/d/1Aw8DRHII8Jai0eplBR-T_7ajepdm5bVZ/view?usp=sharing)
+Recording [here](https://youtu.be/f9LOQ_L__ak) and slides [here](https://drive.google.com/file/d/1Aw8DRHII8Jai0eplBR-T_7ajepdm5bVZ/view?usp=sharing).
 
 - __The environmental impact of (bio)informatic research__ <br>
 Scientific meeting, BHF Cardiovascular Epidemiology Unit, DPHPC, University of Cambridge <br>

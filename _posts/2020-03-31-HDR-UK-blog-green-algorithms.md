@@ -3,10 +3,11 @@ title: "HDR-UK blog: Green Algorithms for Health Data Science"
 
 blog_link: https://www.hdruk.ac.uk/news/green-algorithms-for-health-data-science/
 
-category: "My research"
+author: Me short
+
+category: "Green Algorithms"
 ---
 
-<!-- TODO: fix the "blog" homepage -->
 We published an opinion piece with Jason Grealey and Michael Inouye on the [HDR-UK blog]({{ page.blog_link }}).
 
 Here is the start of it:

@@ -4,7 +4,7 @@ main:
   - title: "Teaching"
     # description: "some tips"
     url: /teaching/
-  - title: "Blog"
+  - title: "Blog and News"
     url: /blog/
   - title: "About"
     url: /about/
@@ -21,18 +21,19 @@ research:
         url: http://green-algorithms.org
 
 teaching:
-  - title: "Workshops"
+  - title: "Lectures & workshops"
   - title: "Supervisions"
     children:
-      - title: "Introduction to the Scientific Basis for Medicine"
-      - title: "Introduction to Data Science"
       - title: "Bioinformatics"
+      - title: "FEBP"
+      - title: "Introduction to Data Science"
+      - title: "Statistics"
 
 blog:
   - title: "All posts"
     url: /blog/
   # - title: "Learning challenge: Ethics in AI"
-  - title: "Machine Learning tutorials for scientists"
-    url: /blog/machine-learning-tutorials/
-  - title: "Blog articles about my research"
-    url: /blog/my-research/
+  # - title: "Machine Learning tutorials for scientists"
+  #   url: /blog/machine-learning-tutorials/
+  - title: "Blog articles about Green Algorithms"
+    url: /blog/green-algorithms/

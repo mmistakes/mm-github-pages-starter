@@ -45,7 +45,7 @@ layout: default
         {{ content }}
 
         <!-- Recent posts recap -->
-        <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+        <h2>{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h2>
 
         {% if paginator %}
           {% assign posts = paginator.posts %}

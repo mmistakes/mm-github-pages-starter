@@ -1,0 +1,24 @@
+Me short:
+  name: "Loïc Lannelongue"
+  avatar: "/assets/images/profil_loic.jpg"
+  bio    : ""
+  # location: "Cambridge, UK"
+  links:
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
+    #   url: *myWebsite
+    - label: "ll582 (at) medschl.cam.ac.uk"
+      icon: "fas fa-envelope-open-text"
+      # url: mailto:ll582@medschl.cam.ac.uk
+    - label: Loic_Lnlg
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/Loic_Lnlg"
+    # - label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
+    #   url: *myGithub
+    # - label: "Google Scholar"
+    #   icon: "fas fa-newspaper"
+    #   url: *myGoogleScholar
+    # - label: "LinkedIn"
+    #   icon: "fab fa-fw fa-linkedin"
+    #   url: *myLinkedin
