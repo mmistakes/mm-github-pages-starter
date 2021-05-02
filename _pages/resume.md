@@ -28,7 +28,7 @@ aidanbrownj@gmail.com             |  [Github](https://github.com/h4wk590)
 **Junior Systems Administrator, Mosaic Forest Management - Internship**
 *May 2019 - September 2019*
 
-- Supported a Windows Server 2012/2016 VMware environment with 125+ employees.
+- Supported a Windows Server 2012/2016 VMware environment with 150+ employees.
 - Utilized Active Directory to add new users, reset passwords, and manage OUs.
 - Updated IT inventory and maintained equipment room.
 - Imaged and deployed new workstations for employees.
@@ -40,7 +40,7 @@ aidanbrownj@gmail.com             |  [Github](https://github.com/h4wk590)
 
 > PowerShell, YAML,
 > Docker, Git, Azure devops,
-> WordPress.
+> Bash, WordPress.
 
 ### IT Administration
 
@@ -63,6 +63,10 @@ To practice new technologies I created a practical homelab using VMware virtuali
 **Vancouver Island University**
 > Diploma, Information Technology & Applied Systems,
 > Graduated 2020, 3.8 GPA
+
+## Certifications
+
+> Microsoft Certified Azure Fundamentals
 
 
 
