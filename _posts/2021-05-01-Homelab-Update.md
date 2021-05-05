@@ -10,7 +10,7 @@ Major changes from the [last](https://aidanb.net/Homelab-Setup/) update. Extra f
 
 Features:
 
-- Vlan segreagation at the Router layer.
+- Vlan segregation at the Router layer.
 - Active Directory domain environment.
 - Backups over iSCSI to Synology NAS.
 - Docker-Compose stack that hosts many of my internal services like Home Assistant, Plex, a Minecraft server, etc.
