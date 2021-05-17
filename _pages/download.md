@@ -6,11 +6,11 @@ author_profile: true
 
 feature_row:
   - image_path: assets/imgs_main/d_template.png
-    image_caption: "3.1.0"
+    image_caption: "3.2"
     ## alt: ""
     title: "Rakugo Template "
     excerpt: "Rakugo Empty Game Template"
-    url: "https://github.com/rakugoteam/Rakugo/archive/master.zip"
+    url: "https://github.com/rakugoteam/Rakugo/releases/tag/3.2.0"
     btn_label: "Download"
     btn_class: "btn--primary"
   - image_path: assets/imgs_main/d_the_question.png
@@ -33,4 +33,4 @@ feature_row:
 
 ---
 
- {% include feature_row %}
+{% include feature_row %}
