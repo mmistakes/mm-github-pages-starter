@@ -13,4 +13,5 @@ fields:
   name: categories
   label: categories
 pages:
+- _pages/interesting-things.md
 - _posts/home-lab-updates.md
