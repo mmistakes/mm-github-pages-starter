@@ -10,7 +10,7 @@ feature_row:
     ## alt: ""
     title: "Rakugo Template "
     excerpt: "Rakugo Empty Game Template"
-    url: "https://github.com/rakugoteam/Rakugo/releases/tag/3.2.0"
+    url: "https://github.com/rakugoteam/Rakugo/releases/tag/3.2.1RC1"
     btn_label: "Download"
     btn_class: "btn--primary"
   - image_path: assets/imgs_main/d_the_question.png
