@@ -19,7 +19,7 @@ aidanbrownj@gmail.com             |  [Github](https://github.com/h4wk590)
 
 - Maintaining active Backup infrastructure using Veeam Backup & Replication. Troubleshooting any issues and relaying with team members and vendors.
 - Leveraged Azure to deploy an O365 backup solution with Veeam.
-- Responible for domain-wide infrastructure monitoring and alerting with SolarWinds. 
+- Responsible for domain-wide infrastructure monitoring and alerting with SolarWinds. 
 - Provided network upgrades and maintanence to remote company sites.
 - Proactively finding solutions to tickets in a quick and effective manner.
 - Ran a company-wide phishing campaign for end user vulnerability awareness.
