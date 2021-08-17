@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Federica Di Lauro"
   avatar : "/assets/images/me.jpg"
-  bio    : "Master's student at Università di Milano Bicocca, currently working in the University's robotics lab Iralab. I like robots, electronics and building stuff!"
+  bio    : "Master's student at Università di Milano Bicocca, currently working in the University's robotics lab, Iralab."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
