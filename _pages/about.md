@@ -5,12 +5,14 @@ title: "About Me"
 
 I like building stuff!
 I'm passionate about robotics, embedded programming, electronics.
+
 In my free time I also like making music.
 
 ## Education
 
 ### Master's degree - Università di Milano Bicocca (2020 - present)
 Currently studying for my Computer Science Master's degree.
+
 You can find some of the projects I made [here](https://github.com/fdila/computer-science#master)
 
 Cool courses I followed:
@@ -20,7 +22,9 @@ Cool courses I followed:
 
 ### Bachelor's degree - Università di Milano Bicocca (2018 - 2020)
 Computer Science Bachelor's degree, final marks 106/110.
+
 You can find some of the projects I made [here](https://github.com/fdila/computer-science#bachelor)
+
 You can also find my thesis [here](https://github.com/fdila/bachelor-thesis)
 
 Cool courses I followed:
@@ -32,7 +36,7 @@ Cool courses I followed:
 
 ### Junior Research Assistant - Università di Milano Bicocca (2020 - present)
 
-I'm currently working in the robotics lab of my University: https://ira.disco.unimib.it/
+I'm currently working in the robotics lab of my University: [https://ira.disco.unimib.it/](https://ira.disco.unimib.it/)
 
 We are working on a self driving golf cart.
 
