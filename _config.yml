@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Currently working in the University's robotics lab Iralab
 github_username: fdila
 minimal_mistakes_skin: contrast
-search: true
+search: false
 
 # Build settings
 markdown: kramdown
