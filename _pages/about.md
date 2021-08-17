@@ -3,6 +3,43 @@ permalink: /
 title: "About Me"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I like building stuff!
+I'm passionate about robotics, embedded programming, electronics.
+In my free time I also like making music.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+## Education
+
+### Master's degree - Università di Milano Bicocca (2020 - present)
+Currently studying for my Computer Science Master's degree.
+You can find some of the projects I made [here](https://github.com/fdila/computer-science#master)
+
+Cool courses I followed:
+- Electronics Experimentations: building an acquisition chain for SiPM sensors, building the analog circuit acquiring the data through an MCU ADC.
+- Industrial Informatics: digital circuit design and FPGA programming
+- Probabilistic Models: Bayesian networks, Markov Chains, Hidden Markov Models
+
+### Bachelor's degree - Università di Milano Bicocca (2018 - 2020)
+Computer Science Bachelor's degree, final marks 106/110.
+You can find some of the projects I made [here](https://github.com/fdila/computer-science#bachelor)
+You can also find my thesis [here](https://github.com/fdila/bachelor-thesis)
+
+Cool courses I followed:
+- Robotics and Automation
+- Signal Processing
+- Embedded Systems
+
+## Experience
+
+### Junior Research Assistant - Università di Milano Bicocca (2020 - present)
+
+I'm currently working in the robotics lab of my University: https://ira.disco.unimib.it/
+
+We are working on a self driving golf cart.
+
+I have worked both on the hardware/firmware and on the high-level software, using the framework ROS.
+
+### Tutor for the course "Computer Architecture" - Università di Milano Bicocca (2020 - present)
+
+I'm a tutor for the Computer Architecture course.
+
+I also built a MIPS simulator in logisim-evolution for the course laboratories, it can be found [here](https://github.com/fdila/MIPS-multicycle-datapath)
