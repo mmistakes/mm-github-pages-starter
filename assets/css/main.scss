@@ -12,3 +12,16 @@
     font-size: $type-size-5;
   }
   
+.page__content {
+  h1, h2, h3, h4, h5, h6 {
+    .header-link {
+      font-size: 0.6em;
+    }
+  }
+
+  p,
+  li,
+  dl {
+    font-size: 0.5em;
+  }
+}
