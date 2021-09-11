@@ -58,10 +58,8 @@ author:
   name   : "Federica Di Lauro"
   avatar : "/assets/images/me.jpg"
   bio    : "Master's student at Università di Milano Bicocca, currently working in the University's robotics lab, Iralab."
+  location: "Milan, Italy"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://fdila.github.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/fdila"
@@ -80,6 +78,11 @@ footer:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/federica-di-lauro/"
+
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:path/
 
 defaults:
   # _posts
@@ -100,13 +103,10 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _projects
+  - scope:
+      path: "_projects"
+    values:
+      layout: single
+      author_profile: true
 
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
-projects_archive:
-  type: liquid
-  path: /projects/
