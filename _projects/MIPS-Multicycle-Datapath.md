@@ -1,16 +1,16 @@
 ---
 title: "MIPS Multicycle Datapath in Logisim-Evolution"
-excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
+excerpt: "MIPS datapath made in logisim-evolution for the Computer Architecture course."
 
 header:
-  teaser: /assets/images/me.jpg
+  teaser: /assets/images/MIPS1.png
 
 gallery:
-  - url: /assets/images/me.jpg
-    image_path: assets/images/me.jpg
-    alt: "placeholder image 1"
+  - url: /assets/images/MIPS1.png
+    image_path: assets/images/MIPS1.png
+    alt: "MIPS Finite State Machine"
 
-number: 1
+number: 3
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed hendrerit pellentesque pretium. Vestibulum ullamcorper ex sed erat suscipit pulvinar. Aliquam erat volutpat. Aliquam erat volutpat. Proin viverra nisi ac risus ultrices, quis rhoncus risus finibus. Morbi ornare quam vel pulvinar fringilla. Nunc est quam, lacinia sit amet tempus aliquet, molestie a lorem. Nam rutrum elementum vehicula. Donec quis rutrum magna, a sollicitudin neque. Aliquam vitae feugiat ante. Nulla facilisi. Quisque molestie ipsum urna, ut feugiat lacus tincidunt eget. Aliquam sollicitudin tincidunt mauris, sed imperdiet dui vestibulum eu.

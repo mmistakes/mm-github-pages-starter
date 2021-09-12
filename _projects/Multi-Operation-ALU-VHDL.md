@@ -1,14 +1,20 @@
 ---
 title: "Multi-Operation ALU VHDL"
-excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
+excerpt: "Final project for the Industrial Informatics course"
 
 header:
-  teaser: /assets/images/me.jpg
+  teaser: /assets/images/MOALU0.png
 
 gallery:
-  - url: /assets/images/me.jpg
-    image_path: assets/images/me.jpg
-    alt: "placeholder image 1"
+  - url: /assets/images/MOALU1.png
+    image_path: assets/images/MOALU1.png
+    alt: "Testbench 1"
+  - url: /assets/images/MOALU2.png
+    image_path: assets/images/MOALU2.png
+    alt: "Testbench 2"
+  - url: /assets/images/MOALU2.png
+    image_path: assets/images/MOALU2.png
+    alt: "Testbench 3"
 
 number: 4
 ---

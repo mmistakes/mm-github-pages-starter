@@ -1,14 +1,14 @@
 ---
 title: "Bachelor's Thesis: my differential drive robot"
-excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
+excerpt: "Programming of the control system for a differential drive robot."
 
 header:
-  teaser: /assets/images/me.jpg
+  teaser: /assets/images/otto0.png
 
 gallery:
-  - url: /assets/images/me.jpg
-    image_path: assets/images/me.jpg
-    alt: "placeholder image 1"
+  - url: /assets/images/otto1.png
+    image_path: assets/images/otto1.png
+    alt: "Otto"
 
 number: 2
 ---
