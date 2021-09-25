@@ -1,6 +1,6 @@
 ---
 title: "MIPS Multicycle Datapath in Logisim-Evolution"
-excerpt: "MIPS datapath made in logisim-evolution for the Computer Architecture course."
+excerpt: "MIPS datapath made in logisim-evolution for the Computer's Architecture course."
 
 header:
   teaser: /assets/images/MIPS1.png
@@ -13,10 +13,14 @@ gallery:
 number: 3
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed hendrerit pellentesque pretium. Vestibulum ullamcorper ex sed erat suscipit pulvinar. Aliquam erat volutpat. Aliquam erat volutpat. Proin viverra nisi ac risus ultrices, quis rhoncus risus finibus. Morbi ornare quam vel pulvinar fringilla. Nunc est quam, lacinia sit amet tempus aliquet, molestie a lorem. Nam rutrum elementum vehicula. Donec quis rutrum magna, a sollicitudin neque. Aliquam vitae feugiat ante. Nulla facilisi. Quisque molestie ipsum urna, ut feugiat lacus tincidunt eget. Aliquam sollicitudin tincidunt mauris, sed imperdiet dui vestibulum eu.
+I have developed a small MIPS simulator in logisim-evolution for my tutoring job for the "Computer's Architecture" course.
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+There are other examples on GitHub which we could have used, but none of them were suited for our intents.
+My main focus was to make an easily modifiable simulator, so that we could use it for the exercises during the labs.
+The exercises consist of adding new instructions or exceptions to the datapath, by modifying both the main structure and the FSM.
+This simulator was developed so that the students could easily implement their solutions and test if everything works correctly.
 
+In the [MIPS-Multicycle-Datapath repository](https://github.com/fdila/MIPS-multicycle-datapath) I have included both the simulator, 
+exercises with solutions and slides used to present the simultator, including the instructions on how to modify it.
 
-Nunc gravida, mi at ultricies venenatis, urna eros lacinia elit, a condimentum quam justo in libero. Morbi fermentum magna a tortor aliquam faucibus. Aenean laoreet, quam malesuada venenatis feugiat, risus dui iaculis nulla, eget venenatis nunc tellus vel augue. Suspendisse vehicula, nulla sed vehicula accumsan, est tellus varius ex, imperdiet rutrum nisl erat malesuada lectus. Curabitur blandit vulputate risus, vitae consectetur neque ullamcorper vel. Nam ante ante, facilisis nec eros non, sagittis maximus arcu. Aenean lacinia est non ligula pretium, nec rhoncus ex hendrerit. Morbi quam leo, bibendum id libero eu, posuere maximus erat. Ut a enim placerat, molestie velit a, sollicitudin turpis. Integer sagittis feugiat efficitur. Integer et massa sed sapien congue mattis. Pellentesque eu congue mauris. Curabitur facilisis sem sed justo posuere consectetur.
-
+{% include gallery %}

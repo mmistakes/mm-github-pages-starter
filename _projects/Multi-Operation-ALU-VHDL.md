@@ -1,6 +1,6 @@
 ---
 title: "Multi-Operation ALU VHDL"
-excerpt: "Final project for the Industrial Informatics course"
+excerpt: "Final project for the Industrial Informatics course, developing a small FSM and ALU"
 
 header:
   teaser: /assets/images/MOALU0.png
@@ -16,13 +16,16 @@ gallery:
     image_path: assets/images/MOALU2.png
     alt: "Testbench 3"
 
-number: 4
+number: 3
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed hendrerit pellentesque pretium. Vestibulum ullamcorper ex sed erat suscipit pulvinar. Aliquam erat volutpat. Aliquam erat volutpat. Proin viverra nisi ac risus ultrices, quis rhoncus risus finibus. Morbi ornare quam vel pulvinar fringilla. Nunc est quam, lacinia sit amet tempus aliquet, molestie a lorem. Nam rutrum elementum vehicula. Donec quis rutrum magna, a sollicitudin neque. Aliquam vitae feugiat ante. Nulla facilisi. Quisque molestie ipsum urna, ut feugiat lacus tincidunt eget. Aliquam sollicitudin tincidunt mauris, sed imperdiet dui vestibulum eu.
+I have developed this project with my collegue Michele Pugno for the course "Industrial Informatics".
+The goal of this project was to develop a component that could receive an op-code and 2 numbers as a serial input, perform
+arithmetic/logic operations on the numbers, output the result in parallel and also transmit the 2 numbers as a serial output.
 
-{% include gallery %}
+All the code was developed in VHDL and tested using ModelSim simulations.
 
+VHDL code, requirements and a small report are available in the [Multi-Operation-ALU-VHDL repository](https://github.com/fdila/Multi-Operation-ALU-VHDL).
 
-Nunc gravida, mi at ultricies venenatis, urna eros lacinia elit, a condimentum quam justo in libero. Morbi fermentum magna a tortor aliquam faucibus. Aenean laoreet, quam malesuada venenatis feugiat, risus dui iaculis nulla, eget venenatis nunc tellus vel augue. Suspendisse vehicula, nulla sed vehicula accumsan, est tellus varius ex, imperdiet rutrum nisl erat malesuada lectus. Curabitur blandit vulputate risus, vitae consectetur neque ullamcorper vel. Nam ante ante, facilisis nec eros non, sagittis maximus arcu. Aenean lacinia est non ligula pretium, nec rhoncus ex hendrerit. Morbi quam leo, bibendum id libero eu, posuere maximus erat. Ut a enim placerat, molestie velit a, sollicitudin turpis. Integer sagittis feugiat efficitur. Integer et massa sed sapien congue mattis. Pellentesque eu congue mauris. Curabitur facilisis sem sed justo posuere consectetur.
+{% include gallery caption="Waveforms of the final testbenches"%}
 

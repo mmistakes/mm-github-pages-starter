@@ -1,6 +1,6 @@
 ---
 title: "Bachelor's Thesis: my differential drive robot"
-excerpt: "Programming of the control system for a differential drive robot."
+excerpt: "STM32 firmware developing for the control system for a differential drive robot."
 
 header:
   teaser: /assets/images/otto0.png
@@ -10,13 +10,20 @@ gallery:
     image_path: assets/images/otto1.png
     alt: "Otto"
 
-number: 2
+number: 4
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed hendrerit pellentesque pretium. Vestibulum ullamcorper ex sed erat suscipit pulvinar. Aliquam erat volutpat. Aliquam erat volutpat. Proin viverra nisi ac risus ultrices, quis rhoncus risus finibus. Morbi ornare quam vel pulvinar fringilla. Nunc est quam, lacinia sit amet tempus aliquet, molestie a lorem. Nam rutrum elementum vehicula. Donec quis rutrum magna, a sollicitudin neque. Aliquam vitae feugiat ante. Nulla facilisi. Quisque molestie ipsum urna, ut feugiat lacus tincidunt eget. Aliquam sollicitudin tincidunt mauris, sed imperdiet dui vestibulum eu.
+During my internship in Iralab (the robotics' lab of my university) I have developed the firmware and ROS driver for the control system of Otto, our differential drive robot.
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+I wrote the code for a STM32 Nucleo dev board, using the Hardware Abstraction Layer provided by ST.
+More specifically I have:
+- worked with timers to read the encoders' signals efficiently
+- worked with timers to send the correct signals to the H-Bridge to control the 2 DC motors
+- developed the PID control for the DC motors
+- developed the serial communication interface to receive commands from a PC and send the robot data to the PC.
 
+I have also written the ROS node used to communicate with the robot, and to calculate the odometry of the robot.
 
-Nunc gravida, mi at ultricies venenatis, urna eros lacinia elit, a condimentum quam justo in libero. Morbi fermentum magna a tortor aliquam faucibus. Aenean laoreet, quam malesuada venenatis feugiat, risus dui iaculis nulla, eget venenatis nunc tellus vel augue. Suspendisse vehicula, nulla sed vehicula accumsan, est tellus varius ex, imperdiet rutrum nisl erat malesuada lectus. Curabitur blandit vulputate risus, vitae consectetur neque ullamcorper vel. Nam ante ante, facilisis nec eros non, sagittis maximus arcu. Aenean lacinia est non ligula pretium, nec rhoncus ex hendrerit. Morbi quam leo, bibendum id libero eu, posuere maximus erat. Ut a enim placerat, molestie velit a, sollicitudin turpis. Integer sagittis feugiat efficitur. Integer et massa sed sapien congue mattis. Pellentesque eu congue mauris. Curabitur facilisis sem sed justo posuere consectetur.
+Unfortunately the code isn't open source, but you can still read my [final report](https://github.com/fdila/bachelor-thesis) and watch this [small demo video](https://youtu.be/fEhBCXqMYPw)
 
+{% include gallery %}

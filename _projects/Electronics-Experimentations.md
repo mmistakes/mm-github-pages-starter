@@ -1,6 +1,6 @@
 ---
 title: "Electronics Experimentations"
-excerpt: "MCU programming and analog circuit for analog acquisition of SiPM signals."
+excerpt: "Developing firmware for STM32 dev board and analog circuit study for the acquisition of SiPM signals."
 
 header:
   teaser: /assets/images/exp_electronics1.png
@@ -19,10 +19,27 @@ gallery:
 number: 1
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed hendrerit pellentesque pretium. Vestibulum ullamcorper ex sed erat suscipit pulvinar. Aliquam erat volutpat. Aliquam erat volutpat. Proin viverra nisi ac risus ultrices, quis rhoncus risus finibus. Morbi ornare quam vel pulvinar fringilla. Nunc est quam, lacinia sit amet tempus aliquet, molestie a lorem. Nam rutrum elementum vehicula. Donec quis rutrum magna, a sollicitudin neque. Aliquam vitae feugiat ante. Nulla facilisi. Quisque molestie ipsum urna, ut feugiat lacus tincidunt eget. Aliquam sollicitudin tincidunt mauris, sed imperdiet dui vestibulum eu.
+In the "Electronics Experimentations" course I have been able to work with an STM32 and electronics circuits.
+
+During the laboratories I have been able to learn how to program an STM32 MCU without usign Hardware Abstraction Layer libraries,
+but instead focusing on reading the datasheet and reference manual and understanding how various peripherals work at "register level".
+In detail I have learned about the following peripherals:
+
+- GPIOs
+- Timers
+- EXTI
+- NVIC
+- UART
+- ADC
+- DMA
+
+During the labs I was also learned how operational amplifiers work, how to make simple circuits with them and how to measure and analyze signals
+using an oscilloscope.
+
+The final project consisted in modifying a PCB with the op-amps to amplify and shape a SiPM signal, acquiring the signal using an STM32 and transimt the data to
+a computer to analyse the signals in MATLAB.
+
+The code and final report for the course are available in the [Electronics Experimentations repository](https://github.com/fdila/electronics-experimentations).
 
 {% include gallery %}
-
-
-Nunc gravida, mi at ultricies venenatis, urna eros lacinia elit, a condimentum quam justo in libero. Morbi fermentum magna a tortor aliquam faucibus. Aenean laoreet, quam malesuada venenatis feugiat, risus dui iaculis nulla, eget venenatis nunc tellus vel augue. Suspendisse vehicula, nulla sed vehicula accumsan, est tellus varius ex, imperdiet rutrum nisl erat malesuada lectus. Curabitur blandit vulputate risus, vitae consectetur neque ullamcorper vel. Nam ante ante, facilisis nec eros non, sagittis maximus arcu. Aenean lacinia est non ligula pretium, nec rhoncus ex hendrerit. Morbi quam leo, bibendum id libero eu, posuere maximus erat. Ut a enim placerat, molestie velit a, sollicitudin turpis. Integer sagittis feugiat efficitur. Integer et massa sed sapien congue mattis. Pellentesque eu congue mauris. Curabitur facilisis sem sed justo posuere consectetur.
 
