@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: zaidanr
-email: "exz3c@exz3c.dev"
-description: "Personal web site that also works as personal notes"
+title: "zaidanr's blog"
+email: "root@zaidanr.dev"
+description: "just gonna write down what i've learnt"
 twitter_username: "@ZRizaki27"
 github_username: "zaidanr"
 minimal_mistakes_skin: dark
@@ -64,7 +64,7 @@ author:
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/muhammad-ananda-zaidan-rizaki-76763a190"
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fab fa-fw fa-twitter-square"https://github.com/zaidanr/zaidanr.github.io/blob/master/_config.yml
       url: "https://twitter.com/ZRizaki27"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
