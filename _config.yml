@@ -27,7 +27,7 @@ repository               : "KenCrandall/kencrandall.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/site-logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false 
+# breadcrumbs            : false
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
@@ -109,16 +109,16 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: "mailto:ken@crandallnet.com"
+      url: "mailto:ken@crandallnet.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-       url: "http://crandallnet.com"
+      url: "http://crandallnet.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-       url: "https://twitter.com/kencrandall"
+      url: "https://twitter.com/kencrandall"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/kencrandall"
+      url: "https://github.com/kencrandall"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/kencrandall"
