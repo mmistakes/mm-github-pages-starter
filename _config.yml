@@ -109,16 +109,19 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:ken@crandallnet.com"
+       url: "mailto:ken@crandallnet.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "http://crandallnet.com"
+       url: "http://crandallnet.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/kencrandall"
+       url: "https://twitter.com/kencrandall"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/kencrandall"
+       url: "https://github.com/kencrandall"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/kencrandall"
 
 # Site Footer
 footer:
