@@ -107,9 +107,9 @@ author:
   location         : "PDX"
   email            : ken@crandallnet.com
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:ken@crandallnet.com"
+#    - label: "Email"
+#      icon: "fas fa-fw fa-envelope-square"
+#      url: "mailto:ken@crandallnet.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "http://crandallnet.com"
