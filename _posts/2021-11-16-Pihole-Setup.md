@@ -1,5 +1,5 @@
 ---
-Title: [Guide] Setup Pihole on a Raspberry Pi
+Title: Guide - Setup Pihole on a Raspberry Pi
 Date: 2021-11-17 20:00 -0800
 Categories: tech Lab 2021
 ---
