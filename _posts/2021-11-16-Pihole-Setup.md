@@ -75,7 +75,7 @@ Open up Powershell on Windows or Terminal on Mac/Linux and issue the command `ss
 
 The very first thing you'll want to do is change the default password. Issue the command `passwd`:
 
-![](/assets/images/changepw.png)
+![](/assets/images/changepwi.png)
 
 Now let's update the OS with `sudo apt update -y && sudo apt upgrade -y` This will do it's thing and get it's OS and packages up to date. At this point we're ready to get on with getting Pi-Hole and piVPN up and running, but I like to install a few extras before I get going.
 
@@ -118,7 +118,7 @@ This is up to you. Personally I chose CloudFlare as I use their services for all
 
 Go through the next few steps, confirm the ip address is correct and move onto this part:
 
-![](assets/images/piholetui4.png)
+![](/assets/images/piholetui4.png)
 
 We want to leave this option select, **DO NOT** unselect this unless you want to go through the installation process again.
 
