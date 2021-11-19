@@ -58,7 +58,7 @@ Now you can select **write** and go grab a coffee. It'll takes a few minutes.
 
 Insert the newly formatted SD card into the pi, plug in a network cable to the pi, and finally plug in the USBC cable giving it power.
 
-![](/images/assets/happypi.jpg)
+![](/assets/images/happypi.jpg)
  One happy Pi.
 
 Once it's online you will need to find it's ip address. The easiest way to do this is by going to your router interface and find the new raspberrypi device or use an ip scanner tool. Mine is connected to a switch so I know the exact port and can find it that way.
