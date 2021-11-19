@@ -10,10 +10,10 @@ On one small device we can provide our home networks with both local DNS, ad blo
 1. [Gear you'll Need](#gear)
 2. [Getting Started](#install)
 3. [Setting up Pi](#pisetup)
-    1. [Setting a Static IP](#staticip)
+    4. [Setting a Static IP](#staticip)
 4. [Installing Pi-Hole](#Pihole)
-    1. [Make Pi-Hole the Default DNS Provider](#routerpi)
-5. [Configuring Blocklists](#blocklists)
+    6. [Make Pi-Hole the Default DNS Provider](#routerpi)
+7. [Configuring Blocklists](#blocklists)
 
 ## What You Will Need <a name="gear"></a>
 
