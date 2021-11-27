@@ -38,7 +38,7 @@ plugins:
 author:
   name   : "Aidan Brown"
   avatar : "/assets/images/bio-avatar.jpg"
-  bio    : "Tech, food, drink, activities, stories, this is my corner of the web."
+  bio    : "Welcome to the place where I ramble about technology!"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
