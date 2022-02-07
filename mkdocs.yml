@@ -1,0 +1,82 @@
+site_name: Rakugo Team
+site_url: http://rakugoteam.github.io
+repo_url: https://github.com/rakugoteam
+edit_uri: ""
+theme:
+  name: material
+  logo: assets/logo.png
+  favicon: assets/favicon.ico
+  features: 
+    - navigation.tabs
+    - navigation.instant
+    - navigation.tabs.sticky
+    - navigation.indexes
+  palette:
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch-off-outline 
+        name: Switch to dark mode
+      accent: deep purple
+      primary: deep purple
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+      accent: deep purple
+      primary: deep purple
+
+
+plugins:
+  - search
+markdown_extensions:
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - meta
+  - admonition
+  - footnotes
+  - codehilite
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+
+nav:
+  - About: index.md
+  - Devlog:
+    - devlog/2022-02-07-rakugo-3.3-devlog-04.md
+    - 2021:
+      - devlog/2021-10-28-rakugo-3.3-devlog-02.md
+      - devlog/2021-10-07-rakugo-3.3-devlog.md
+      - devlog/2021-07-06-rakugo-3.21.md
+      - devlog/2021-05-17-rakugo-3.2.md
+      - devlog/2021-02-28-new-docs-the-question-patch.md
+      - devlog/2021-01-31-rakugo-3.1.1.md
+    - 2020:
+      - devlog/2020-12-29-rakugo-3.1.md
+      - devlog/2020-12-02-rakugo-3.0b.md
+      - devlog/2020-08-25-rakugo-2.1.06.md
+      - devlog/2020-08-25-rakugo-rpg-0.1.2.md
+      - devlog/2020-07-22-rakugo-2.1.05.md
+      - devlog/2020-07-22-rakugo-rpg.md
+      - devlog/2020-07-02-rakugo-2.1.04.md
+      - devlog/2020-06-24-rakugo-2.1.03.md
+      - devlog/2020-06-14-rakugo-2.1.02.md
+      - devlog/2020-05-25-rakugo-2.1.01.md
+      - devlog/2020-04-12-rakugo-2.1.00.md
+      - devlog/2020-04-12-new_web_site.md
+
+  - Plugins:
+    - plugins/AdvancedText.md
+    - plugins/Emojis-For-Godot.md
+    - plugins/Godot-Material-Icons.md
+    - plugins/QuickSceneIDs.md
+
+  - Kits:
+    - kits/VisualNovelKit.md
+
+  - Patreon: https://www.patreon.com/rakguoteam
+  - itch.io: https://jeremi360x.itch.io/rakugo
+
