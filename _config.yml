@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Christian B. Henriksen"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "A Security blog in a perspective from a fairly new security nerd. "
+  bio    : "A Security blog from the perspective from a fairly new security nerd. "
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
