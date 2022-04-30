@@ -10,7 +10,7 @@ tags:
 
 # Fundemental militærtræning, digitale færdigheder og stort kammeratskab
 
-<img src="https://github.com/Guzzy711/fdca-artikel/blob/main/abr_largetext_primary_negative.png?raw=true" align="center" height="500" width="500" >
+<img src="../assets/images/fdca_logo.png" align="center" height="500" width="500" >
 
 ---
 
