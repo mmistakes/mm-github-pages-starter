@@ -32,7 +32,7 @@ My way into this field has (maybe) been quite different, compared to what others
 
 **Let's start with my education.**
 
-I gradudated from Aalborg University with a Bsc. degree in Information Technology in 2020. The degree was focused a lot about business continuity and evolvement within the IT industry. This gave me 
+I graduated from Aalborg University with a BSc. degree in Information Technology in 2020. The degree was focused a lot on business continuity and evolvement within the IT industry. This gave me a lot of theoretical knowledge about *"how it should be done"*, but no practical experience, which might be valuable for a company.  However, as a side hustle, I worked as a Software Developer for a small start-up, where I got some of the missing lack of knowledge. 
 
 
 
