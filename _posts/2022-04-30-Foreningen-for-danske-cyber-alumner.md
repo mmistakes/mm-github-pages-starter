@@ -11,12 +11,12 @@ tags:
 
 # Fundemental militærtræning, digitale færdigheder og stort kammeratskab
 
-<img src="../assets/images/fdca_logo.png" align="center" height="500" width="500" >
+<img src="/assets/images/fdca_logo.png" align="center" height="500" width="500" style="border-radius:50%">
 
 ---
 
 ## Hvad er Cyberværnepligten?
-<img src="https://github.com/Guzzy711/fdca-artikel/blob/main/Cvpl_logo.png" align="center" height="200" width="200" >
+<img src="/assets/images/Cvpl_logo.png" align="center" height="200" width="200" >
 
 Cyberværnepligten er et politisk udspil der skal udklække ~30+ nye digitale sikkerhedstalenter om året - vis formål er at være ambassadører for god IT-sikkerhed i det danske kongerige. 
 
@@ -38,7 +38,7 @@ Lyder Cyberværnepligten som noget for dig?
 
 ## Hvad er FDCA?
 
-<img src="https://github.com/Guzzy711/fdca-artikel/blob/main/full_largetext_negative.png" align="center" height="150" width="400" >
+<img src="/assets/images/fdca_logo_long.png" align="center" height="150" width="200" style="margin:0 auto;">
 
 FDCA er en forkortelse for Foreningen for Danske Cyber Alumner. 
 
@@ -62,7 +62,7 @@ På nuværende tidspunkt består bestyrelsen af 6 ildsjæle der driver foreninge
 ## Hvad laver man i FDCA?
 Foreningen blev oprettet i September 2021, og har siden da afholdt 2 fysiske arrangementer - det ene var en Capture the flag dag, som blev afholdt på Aalborg Universitet i København. Det andet var et Purple-teaming event, med fokus på threathunting i samarbejde med David Clayton(Combitec) og Nichlas Falk(Improsec), på Combitecs faciliteter i Århus. Til dette event blev APT-gruppen "WizardSpider" analyseret, og deres TTP blev simuleret i et lukket miljø. Dette var med til at give inspiration til hvordan man kan gribe sin threat-hunting an - altså medlemmerne fik udvidet deres "hands-on"-erfaring. 
 
-<img src="https://github.com/Guzzy711/fdca-artikel/blob/main/IMG_1438.jpg" align="center" height="350" width="550" >
+<img src="/assets/images/IMG_1438.jpg" align="center" height="350" width="550" >
 
 
 Foreningen har derudover afholdt et online CTF-event, deltaget i OWASP foredrag og haft forskellige sociale sammenkomster. Selvom det sociale aspekt vægtes højt ved samtlige arrangementer, så går foreningens medlemmer altid hjem med viden eller erfaring, som kan bruges direkte i deres arbejde eller uddannelse. 
@@ -72,7 +72,8 @@ Vores førnævnte målsætninger viser, at foreningen har nogle ret seriøst amb
 Helt specifikt bruger vi nu blandt andet meget energi på at få stablet nogle varige samarbejder op med forskellige virksomheder. Vi mener, at eksterne samarbejdspartnere er essentielle for at accelerere vores vej mod vores overordnet visioner, men også at vi har en masse ekspertise, som vi kan dele ud af. Derudover har vi en masse spændende arrangementer i pipelinen, som vi glæder os meget til at kunne fortælle mere om. 
 
 **Har du lyst til at følge med i, hvad foreningen laver, så følg os på:**
- [LinkedIn](https://www.linkedin.com/company/foreningen-for-danske-cyber-alumner)
+ [LinkedIn](https://www.linkedin.com/company/foreningen-for-danske-cyber-alumner), eller vores hjemmeside: [FDCA.dk](https://fdca.dk)
+
  Eller smid os en mail på: 
  info@fdca.dk
 
