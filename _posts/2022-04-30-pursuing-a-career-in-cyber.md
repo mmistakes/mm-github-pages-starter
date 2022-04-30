@@ -17,7 +17,7 @@ In this blog post, I will try to enlighten some of the questions that a new cand
 
 ***I hope you enjoy this post. Feel free to reach out to me.***
 
-# :pencil2: Why even write about this?
+## :pencil2: Why even write about this?
 
 
 So, why do I even care about writing this blog post? It's simple... I could have used some of these points when I was about to pursue a career in this industry. The industry is very complex, and there are tons of ways into this, which can make it hard for new people to join the spaceship. 
@@ -25,15 +25,26 @@ So, why do I even care about writing this blog post? It's simple... I could have
 These new candidates might have fancy bachelor's degree from the University, vocational education, or be 100% autodidact - my point is, that they (to some degree), have the same fundamental way into this field.  
 
 
-# :question: Endless posibilities
+### :raising_hand: My background
+*If you don't want to read about my journey into Cyberspace, you can skip this part.* 
+
+My way into this field has (maybe) been quite different, compared to what others might have done in the past, but nevertheless - I'm here now. 
+
+**Let's start with my education.**
+
+I gradudated from Aalborg University with a Bsc. degree in Information Technology in 2020. The degree was focused a lot about business continuity and evolvement within the IT industry. This gave me 
 
 
-# :running: Certification Race
+
+## :question: Endless posibilities
 
 
-# :sunglasses: Imposter syndrome
+## :running: Certification Race
 
 
-# :collision: Tips & tricks
+## :sunglasses: Imposter syndrome
 
-# Conclusion
+
+## :collision: Tips & tricks
+
+## Conclusion
