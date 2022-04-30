@@ -1,5 +1,5 @@
 ---
-title: "Foreningen for Danske Cyber Alumner"
+title: ":star2: FDCA - Foreningen for Danske Cyber Alumner"
 date: 2022-04-18T15:34:30-04:00
 categories:
   - blog
@@ -9,11 +9,12 @@ tags:
   - Education
 ---
 
-# Fundemental militærtræning, digitale færdigheder og stort kammeratskab
+***This post is in Danish, and will eventually be posted in English***
+
+
 
 <img src="/assets/images/fdca_logo.png" align="center" height="500" width="500" style="border-radius:50%">
 
----
 
 ## Hvad er Cyberværnepligten?
 <img src="/assets/images/Cvpl_logo.png" align="center" height="200" width="200" >

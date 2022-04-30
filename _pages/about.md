@@ -3,6 +3,14 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+<center><img src="/assets/images/bio-photo.jpg" style="max-width:25%;text-align:center; border-radius:50%"></center>
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Hi! :wave:
+
+My name is Christian, and I'm currently working as a security professional for a Danish consultant firm. In my sparetime, I tend to do a lot of volunteering, as I sit as chairman in an association for cyber conscripts within the Danish army. 
+
+I have a huge passion for Cyber Threat Intelligence, and usually allocate a lot of my late evenings to reading about the latest threats, and keep myself updated with the current landscape - *is this a military thing*?
+
+When I'm not reading about Russian hackers, I try to keep myself fit, usually by *"hitting"* the gym, or going for a run. 
+
+If you want to learn more about the association, you can find more on our website: [https://fdca.dk](https://fdca.dk)
