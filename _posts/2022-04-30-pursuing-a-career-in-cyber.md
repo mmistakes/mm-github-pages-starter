@@ -82,6 +82,16 @@ Based upon these skills I got a new job as a Cyber Security Consultant in a priv
 
 **:stars: Enough about my way into cyberspace - let's talk about your opportunities.**
 ## :question: Endless opportunities
+<img src="/assets/images/roadmap.jpg">
+One of the questions that I hear a lot in this field, is what path to take if you want to work in this industry. It's a legitimate question, and I had it myself. This industry has so many different areas, and **the important part** is for you to do you **research**, and **test something** out. Do you think *vulnerability management* is interesting? - Spin up a VM with OpenVAS and try it out. What about *penetration testing?* It's easy for you to create an account on [HackTheBox](https://www.hackthebox.com/) and try to see if you can get access to some of the boxes. The only limit is you - there is tons of free ressources in cyberspace. 
+
+Of course, you won't become an expert with these techniques, but you develop some fundamental skills to do further research and explore your interest. That's usually a valuable skill for the company you want to work for.
+
+Don't get overwhelmed by the tons of options, I suggest you do the following:
+1. **Write down your passion**. What type of work can you get lost in? What type of work could you do every day, and not get sick of? What interests you? Do you like solving puzzles and breaking into stuff - *Penetration testing* might be something for you. Do you like keeping yourself up to date with the latest breach reports - *Threat intelligence* might be something you fancy. 
+2. **Write down your strengths & weaknesses**. What are you good at? Do you want to work with that, or do you want to evolve your skills in what you are not good at? These are questions that you need to address. And it can be very beneficial to work on your strengths, but occasionally it can be healthy to go out of your comfort zone.  
+   
+If you can enable yourself to go from just going to work because **you have to**, to going to work because it **interest you** - then you have found your right place. 
 
 
 ## :running: Certification Race
