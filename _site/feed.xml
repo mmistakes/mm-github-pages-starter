@@ -1,8 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-04-30T18:57:05+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Home</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><author><name>Christian B. Henriksen</name></author><entry><title type="html">:space_invader: Pursuing a Career in Cyberspace</title><link href="http://localhost:4000/blog/pursuing-a-career-in-cyber/" rel="alternate" type="text/html" title=":space_invader: Pursuing a Career in Cyberspace" /><published>2022-04-29T21:34:30+02:00</published><updated>2022-04-29T21:34:30+02:00</updated><id>http://localhost:4000/blog/pursuing-a-career-in-cyber</id><content type="html" xml:base="http://localhost:4000/blog/pursuing-a-career-in-cyber/">&lt;p&gt;&lt;img src=&quot;/assets/images/Cyberspace.png&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-05-01T08:40:47+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Home</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><author><name>Christian B. Henriksen</name></author><entry><title type="html">Pursuing a Career in Cyberspace</title><link href="http://localhost:4000/blog/pursuing-a-career-in-cyber/" rel="alternate" type="text/html" title="Pursuing a Career in Cyberspace" /><published>2022-04-29T21:34:30+02:00</published><updated>2022-04-29T21:34:30+02:00</updated><id>http://localhost:4000/blog/pursuing-a-career-in-cyber</id><content type="html" xml:base="http://localhost:4000/blog/pursuing-a-career-in-cyber/">&lt;p&gt;&lt;img src=&quot;/assets/images/Cyberspace.png&quot; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;this-post-is-in-progress&quot;&gt;THIS POST IS IN PROGRESS&lt;/h1&gt;
 
 &lt;p&gt;In this blog post, I will try to enlighten some of the questions that a new candidate in this industry might stumble upon. I will build my points on my own experience being &lt;strong&gt;fairly new&lt;/strong&gt;, therefore might this not apply to you. However, I’m sure that you can relate to at least, some of the upcoming points.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#this-post-is-in-progress&quot;&gt;THIS POST IS IN PROGRESS&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#pencil2-why-even-write-about-this&quot;&gt;:pencil2: Why even write about this?&lt;/a&gt;
+        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;#space_invader-my-way-onto-the-cybership&quot;&gt;:space_invader: My way onto the cybership&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#question-endless-opportunities&quot;&gt;:question: Endless opportunities&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#running-certification-race&quot;&gt;:running: Certification Race&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#sunglasses-imposter-syndrome&quot;&gt;:sunglasses: Imposter syndrome&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#collision-tips--tricks&quot;&gt;:collision: Tips &amp;amp; tricks&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#conclusion&quot;&gt;Conclusion&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;em&gt;I hope you enjoy this post. Feel free to reach out to me.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
@@ -12,7 +29,7 @@
 
 &lt;p&gt;These new candidates might have fancy bachelor’s degree from the University, vocational education, or be 100% autodidact - my point is, that they (to some degree), have the same fundamental way into this field.&lt;/p&gt;
 
-&lt;h3 id=&quot;books-my-background&quot;&gt;:books: My background&lt;/h3&gt;
+&lt;h3 id=&quot;space_invader-my-way-onto-the-cybership&quot;&gt;:space_invader: My way onto the cybership&lt;/h3&gt;
 &lt;p&gt;&lt;em&gt;If you don’t want to read about my journey into Cyberspace, you can skip this part.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;My way into this field has (maybe) been quite different, compared to what others might have done in the past, but nevertheless - I’m here now.&lt;/p&gt;
@@ -31,9 +48,38 @@
 
 &lt;p&gt;And while surfing the internet for open job listings, and degrees, I stumbled upon a new conscript the Danish Military is offering - Cyberværnepligten (&lt;em&gt;The Cyber Conscript&lt;/em&gt;).&lt;/p&gt;
 
-&lt;p&gt;I quickly read through the material, and immediately applied to this. Here in Denmark, you usually have to go through 4 months of conscript, but this education had additional 6 months of cyber-education untop - which for me sounded super interesting and fun. At that point, I hadn’t served my conscript yet, and I found this opportunity a great way for me to take a year off regular school, and think about my future.&lt;/p&gt;
+&lt;p&gt;I quickly read through the material, and immediately applied to this. Here in Denmark, you usually have to go through 4 months of conscript, but this education had additional 6 months of cyber-education untop - which for me sounded super interesting and fun. At that point, I hadn’t served my conscript yet, and I found this opportunity a great way for me to take a year off, and think about my future - which turned out to be a great decision.&lt;/p&gt;
 
-&lt;h2 id=&quot;question-endless-posibilities&quot;&gt;:question: Endless posibilities&lt;/h2&gt;
+&lt;p&gt;I got accepted to the conscript, The Cyber Conscript, and for the first time had to experience what it was to be in the military - I had to get fit.  :muscle:&lt;/p&gt;
+
+&lt;p&gt;After serving 4 months in the Royal Danish Navy as the initial conscript, I moved to the Army to get my intensive cyber education. In the six months I served I got educated in:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Networking(CCNA)&lt;/li&gt;
+  &lt;li&gt;Server administration (Win &amp;amp; Linux)&lt;/li&gt;
+  &lt;li&gt;Microsoft Active Directory Services&lt;/li&gt;
+  &lt;li&gt;Powershell Scripting&lt;/li&gt;
+  &lt;li&gt;Backup Solutions&lt;/li&gt;
+  &lt;li&gt;Governance, Risk &amp;amp; Compliance (GRC)&lt;/li&gt;
+  &lt;li&gt;Red teaming techniques and tactics&lt;/li&gt;
+  &lt;li&gt;And Incident Response&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;There is probably something else to add to the list, but this was just what I had in mind.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;All these skills were used at the end of the conscript, on a week exercise. In this exercise, we had to act as System administrators for a whole battalion of actors, which exposed us to a lot of different cases. At the end of the exercise, we had to act as Incident responders, as our infrastructure got infected with widespread malware, which we later found out was ransomware.&lt;/p&gt;
+
+&lt;p&gt;All of these skills touched upon a lot of different subjects that are widely used within this industry - at least this was a good way for me to get more practical experience and knowledge about the more technical aspects.&lt;/p&gt;
+
+&lt;p&gt;Even before my conscript was over, I applied for an entry-level position, as a First Responder within the Danish Healthcare, at a huge organisation with over 35,000 employees to manage. I got the job based upon my understanding of &lt;em&gt;people&lt;/em&gt;, &lt;em&gt;processes&lt;/em&gt; and &lt;em&gt;technology&lt;/em&gt;, but primarly my &lt;strong&gt;drive to learn.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Now I have worked for this organization for 11 months, and really developed some valuable skills, because one thing is to get an understanding of the technical skills, but there are also soft skills to be added to your resume.&lt;/p&gt;
+
+&lt;p&gt;For example, something simple as just working for a big organization, where everything is tied to processes, guidelines, and policies - was something new for me. Or the experience that I’ve gotten from the military where you had to work in different environments with people with different backgrounds and culture.&lt;/p&gt;
+
+&lt;p&gt;Based upon these skills I got a new job as a Cyber Security Consultant in a private cooperation.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;:stars: Enough about my way into cyberspace - let’s talk about your opportunities.&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&quot;question-endless-opportunities&quot;&gt;:question: Endless opportunities&lt;/h2&gt;
 
 &lt;h2 id=&quot;running-certification-race&quot;&gt;:running: Certification Race&lt;/h2&gt;
 
@@ -41,7 +87,7 @@
 
 &lt;h2 id=&quot;collision-tips--tricks&quot;&gt;:collision: Tips &amp;amp; tricks&lt;/h2&gt;
 
-&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;</content><author><name>Christian B. Henriksen</name></author><category term="blog" /><category term="Career" /><category term="Cybersecurity" /><category term="Education" /><category term="Tips &amp; Tricks" /><summary type="html"></summary></entry><entry><title type="html">:star2: FDCA - Foreningen for Danske Cyber Alumner</title><link href="http://localhost:4000/blog/foreningen-for-danske-cyber-alumner/" rel="alternate" type="text/html" title=":star2: FDCA - Foreningen for Danske Cyber Alumner" /><published>2022-04-18T21:34:30+02:00</published><updated>2022-04-18T21:34:30+02:00</updated><id>http://localhost:4000/blog/foreningen-for-danske-cyber-alumner</id><content type="html" xml:base="http://localhost:4000/blog/foreningen-for-danske-cyber-alumner/">&lt;p&gt;&lt;strong&gt;&lt;em&gt;This post is in Danish, and will eventually be posted in English&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;</content><author><name>Christian B. Henriksen</name></author><category term="blog" /><category term="Career" /><category term="Cybersecurity" /><category term="Education" /><category term="Tips &amp; Tricks" /><summary type="html"></summary></entry><entry><title type="html">FDCA - Foreningen for Danske Cyber Alumner</title><link href="http://localhost:4000/blog/foreningen-for-danske-cyber-alumner/" rel="alternate" type="text/html" title="FDCA - Foreningen for Danske Cyber Alumner" /><published>2022-04-18T21:34:30+02:00</published><updated>2022-04-18T21:34:30+02:00</updated><id>http://localhost:4000/blog/foreningen-for-danske-cyber-alumner</id><content type="html" xml:base="http://localhost:4000/blog/foreningen-for-danske-cyber-alumner/">&lt;p&gt;&lt;strong&gt;&lt;em&gt;This post is in Danish, and will eventually be posted in English&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/fdca_logo.png&quot; align=&quot;center&quot; height=&quot;500&quot; width=&quot;500&quot; style=&quot;border-radius:50%&quot; /&gt;&lt;/p&gt;
 
