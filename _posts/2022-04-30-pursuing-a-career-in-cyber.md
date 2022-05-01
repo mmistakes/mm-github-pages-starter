@@ -4,7 +4,7 @@ date: 2022-04-29T15:34:30-04:00
 categories:
   - blog
 tags:
-  - Career
+  - Career-development
   - Cybersecurity
   - Education
   - Tips & Tricks
@@ -99,8 +99,15 @@ If you can enable yourself to go from just going to work because **you have to**
 
 
 ## :sunglasses: Imposter syndrome
+This is a subject that I had been dealing a lot with. It's the sense of self-doubt related to work capability and accomplishment. And I know that a lot of new candidates are struggling with this feeling, and this will definitely become a hindrance to your career development. 
 
+Down below, I have a couple of guidelines that I try to follow, to overcome this stupid syndrome:
+1. **Stop comparing yourself to others**. This is probably one of the most important facts that I use to fight this syndrome - you won't get anything out of comparing yourself with others. 
+2. **Write your accomplishments down in a document - review it often**. This can be feedback from your boss, friend, professor, or just some achievement you noticed on your own. Did you just pwn a box on HackTheBox in 25 minutes? Good job, screenshot it and save it for later. 
+3. **Accept that perfectionism is impossible**. When you have addressed your strengths and weaknesses, you find that you can't be good at everything and that nobody is perfect. You need to learn to accept, that failing will every so often increase your resilience, and make it easier learn from your mistakes.  
+4. **Approach feedback.**
 
+**The good argument always wins the battle..**
 ## :collision: Tips & tricks
 
 ## Conclusion

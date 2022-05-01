@@ -13,7 +13,7 @@ var store = [{
       },{
         "title": "Pursuing a Career in Cyberspace",
         "excerpt":"In this blog post, I will try to enlighten some of the questions that a new candidate in this industry might stumble upon. I will build my points on my own experience being fairly new, therefore might this not apply to you. However, I’m sure that you can relate to...","categories": ["blog"],
-        "tags": ["Career","Cybersecurity","Education","Tips & Tricks"],
+        "tags": ["Career-development","Cybersecurity","Education","Tips & Tricks"],
         "url": "/blog/pursuing-a-career-in-cyber/",
         "teaser": null
       }]
