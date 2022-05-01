@@ -9,11 +9,12 @@ tags:
   - Education
   - Tips & Tricks
 ---
+In this blog post, I will try to enlighten some of the questions that a new candidate in this industry might stumble upon. I will build my points on my own experience being **fairly new**, therefore might this not apply to you. However, I'm sure that you can relate to at least, some of the upcoming points. 
 <img src="/assets/images/Cyberspace.png">
 
 # THIS POST IS IN PROGRESS
 
-In this blog post, I will try to enlighten some of the questions that a new candidate in this industry might stumble upon. I will build my points on my own experience being **fairly new**, therefore might this not apply to you. However, I'm sure that you can relate to at least, some of the upcoming points. 
+
 
 - [THIS POST IS IN PROGRESS](#this-post-is-in-progress)
   - [:pencil2: Why even write about this?](#pencil2-why-even-write-about-this)

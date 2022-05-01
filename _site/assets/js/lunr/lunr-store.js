@@ -6,13 +6,13 @@ var store = [{
         "teaser": null
       },{
         "title": "FDCA - Foreningen for Danske Cyber Alumner",
-        "excerpt":"This post is in Danish, and will eventually be posted in English Hvad er Cyberværnepligten? Cyberværnepligten er et politisk udspil der skal udklække ~30+ nye digitale sikkerhedstalenter om året - vis formål er at være ambassadører for god IT-sikkerhed i det danske kongerige. Værnepligtsperioden er samlet 10 måneder, delt op...","categories": ["blog"],
+        "excerpt":"Hvad er FDCA, hvordan bliver man medlem, og hvad laver en cyber forening egentligt? Det vil jeg prøve at beskrive i følgende blog post. This post is in Danish, and will eventually be posted in English Hvad er Cyberværnepligten? Cyberværnepligten er et politisk udspil der skal udklække ~30+ nye digitale...","categories": ["blog"],
         "tags": ["Cyberværnepligt","Cybersecurity","Education"],
         "url": "/blog/foreningen-for-danske-cyber-alumner/",
         "teaser": null
       },{
         "title": "Pursuing a Career in Cyberspace",
-        "excerpt":"THIS POST IS IN PROGRESS In this blog post, I will try to enlighten some of the questions that a new candidate in this industry might stumble upon. I will build my points on my own experience being fairly new, therefore might this not apply to you. However, I’m sure...","categories": ["blog"],
+        "excerpt":"In this blog post, I will try to enlighten some of the questions that a new candidate in this industry might stumble upon. I will build my points on my own experience being fairly new, therefore might this not apply to you. However, I’m sure that you can relate to...","categories": ["blog"],
         "tags": ["Career","Cybersecurity","Education","Tips & Tricks"],
         "url": "/blog/pursuing-a-career-in-cyber/",
         "teaser": null

@@ -8,16 +8,17 @@ tags:
   - Cybersecurity
   - Education
 ---
+Hvad er FDCA, hvordan bliver man medlem, og hvad laver en cyber forening egentligt? Det vil jeg prøve at beskrive i følgende blog post. 
 
 ***This post is in Danish, and will eventually be posted in English***
 
 
 
-<img src="/assets/images/fdca_logo.png" align="center" height="500" width="500" style="border-radius:50%">
+<center><img src="/assets/images/fdca_logo.png" align="center" height="300" width="300" style="border-radius:50%"></center>
 
 
 ## Hvad er Cyberværnepligten?
-<img src="/assets/images/Cvpl_logo.png" align="center" height="200" width="200" >
+<center><img src="/assets/images/Cvpl_logo.png" align="center" height="200" width="200" ></center>
 
 Cyberværnepligten er et politisk udspil der skal udklække ~30+ nye digitale sikkerhedstalenter om året - vis formål er at være ambassadører for god IT-sikkerhed i det danske kongerige. 
 
@@ -39,7 +40,7 @@ Lyder Cyberværnepligten som noget for dig?
 
 ## Hvad er FDCA?
 
-<img src="/assets/images/fdca_logo_long.png" align="center" height="150" width="200" style="margin:0 auto;">
+<center><img src="/assets/images/fdca_logo_long.png" align="center" height="200" width="250" style="margin:0 auto;"></center>
 
 FDCA er en forkortelse for Foreningen for Danske Cyber Alumner. 
 
@@ -63,7 +64,7 @@ På nuværende tidspunkt består bestyrelsen af 6 ildsjæle der driver foreninge
 ## Hvad laver man i FDCA?
 Foreningen blev oprettet i September 2021, og har siden da afholdt 2 fysiske arrangementer - det ene var en Capture the flag dag, som blev afholdt på Aalborg Universitet i København. Det andet var et Purple-teaming event, med fokus på threathunting i samarbejde med David Clayton(Combitec) og Nichlas Falk(Improsec), på Combitecs faciliteter i Århus. Til dette event blev APT-gruppen "WizardSpider" analyseret, og deres TTP blev simuleret i et lukket miljø. Dette var med til at give inspiration til hvordan man kan gribe sin threat-hunting an - altså medlemmerne fik udvidet deres "hands-on"-erfaring. 
 
-<img src="/assets/images/IMG_1438.jpg" align="center" height="350" width="550" >
+<center><img src="/assets/images/IMG_1438.jpg" align="center" height="350" width="550" ></center>
 
 
 Foreningen har derudover afholdt et online CTF-event, deltaget i OWASP foredrag og haft forskellige sociale sammenkomster. Selvom det sociale aspekt vægtes højt ved samtlige arrangementer, så går foreningens medlemmer altid hjem med viden eller erfaring, som kan bruges direkte i deres arbejde eller uddannelse. 
