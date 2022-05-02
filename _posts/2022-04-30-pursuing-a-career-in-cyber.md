@@ -98,7 +98,7 @@ If you can enable yourself to go from just going to work because **you have to**
 
 ## :running: Certification Race
 
-
+I wont recommend taking a certification from E-Council, as these courses are focused a lot around tool showcasing, rather than actually getting something useful out. 
 
 ## :sunglasses: Imposter syndrome
 This is a subject that I had been dealing a lot with. It's the sense of self-doubt related to work capability and accomplishment. And I know that a lot of new candidates are struggling with this feeling, and this will definitely become a hindrance to your career development. 
