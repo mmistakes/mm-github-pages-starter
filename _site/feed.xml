@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-05-01T16:03:27+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Home</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><author><name>Christian B. Henriksen</name></author><entry><title type="html">Pursuing a Career in Cyberspace</title><link href="http://localhost:4000/blog/pursuing-a-career-in-cyber/" rel="alternate" type="text/html" title="Pursuing a Career in Cyberspace" /><published>2022-04-29T21:34:30+02:00</published><updated>2022-04-29T21:34:30+02:00</updated><id>http://localhost:4000/blog/pursuing-a-career-in-cyber</id><content type="html" xml:base="http://localhost:4000/blog/pursuing-a-career-in-cyber/">&lt;p&gt;In this blog post, I will try to enlighten some of the questions that a new candidate in this industry might stumble upon. I will build my points on my own experience being &lt;strong&gt;fairly new&lt;/strong&gt;, therefore might this not apply to you. However, I’m sure that you can relate to at least, some of the upcoming points. 
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-05-02T05:59:23+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Home</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><author><name>Christian B. Henriksen</name></author><entry><title type="html">Pursuing a Career in Cyberspace</title><link href="http://localhost:4000/blog/pursuing-a-career-in-cyber/" rel="alternate" type="text/html" title="Pursuing a Career in Cyberspace" /><published>2022-04-29T21:34:30+02:00</published><updated>2022-04-29T21:34:30+02:00</updated><id>http://localhost:4000/blog/pursuing-a-career-in-cyber</id><content type="html" xml:base="http://localhost:4000/blog/pursuing-a-career-in-cyber/">&lt;p&gt;In this blog post, I will try to enlighten some of the questions that a new candidate in this industry might stumble upon. I will build my points on my own experience being &lt;strong&gt;fairly new&lt;/strong&gt;, therefore might this not apply to you. However, I’m sure that you can relate to at least, some of the upcoming points. 
 &lt;img src=&quot;/assets/images/Cyberspace.png&quot; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;this-post-is-in-progress&quot;&gt;THIS POST IS IN PROGRESS&lt;/h1&gt;
@@ -100,91 +100,108 @@ One of the questions that I hear a lot in this field, is what path to take if yo
 &lt;p&gt;Down below, I have a couple of guidelines that I try to follow, to overcome this stupid syndrome:&lt;/p&gt;
 &lt;ol&gt;
   &lt;li&gt;&lt;strong&gt;Stop comparing yourself to others&lt;/strong&gt;. This is probably one of the most important facts that I use to fight this syndrome - you won’t get anything out of comparing yourself with others.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Write your accomplishments down in a document - review it often&lt;/strong&gt;. This can be feedback from your boss, friend, professor, or just some achievement you noticed on your own. Did you just pwn a box on HackTheBox in 25 minutes? Good job, screenshot it and save it for later.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Write your accomplishments down in a document - review it often&lt;/strong&gt;. This can be feedback from your boss, friend, professor, or just some achievement you noticed on your own. Did you just pwn a box on HackTheBox in 25 minutes? Did you receive a e-mail from your boss, endorsing and praising the work you did? Good job, screenshot it and save it for later. &lt;em&gt;It’s the small accomplishments that count in the long run.&lt;/em&gt;&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Accept that perfectionism is impossible&lt;/strong&gt;. When you have addressed your strengths and weaknesses, you find that you can’t be good at everything and that nobody is perfect. You need to learn to accept, that failing will every so often increase your resilience, and make it easier learn from your mistakes.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Approach feedback.&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Approach feedback.&lt;/strong&gt; Have you created or written something you are unsure whether is good or inadequate? I suggest you seek feedback from somebody in your network, your parents or someone else, as this will clarify the state of the work you did. You no longer live in uncertainty, but convert it to something you can act upon. &lt;em&gt;This blog report I actually sent to a couple of people in my network.&lt;/em&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;strong&gt;The good argument always wins the battle..&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;:bulb:&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;The good argument always wins the battle..&lt;/code&gt;&lt;/p&gt;
 &lt;h2 id=&quot;collision-tips--tricks&quot;&gt;:collision: Tips &amp;amp; tricks&lt;/h2&gt;
 
-&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;</content><author><name>Christian B. Henriksen</name></author><category term="blog" /><category term="Career-development" /><category term="Cybersecurity" /><category term="Education" /><category term="Tips &amp; Tricks" /><summary type="html">In this blog post, I will try to enlighten some of the questions that a new candidate in this industry might stumble upon. I will build my points on my own experience being fairly new, therefore might this not apply to you. However, I’m sure that you can relate to at least, some of the upcoming points.</summary></entry><entry><title type="html">FDCA - Foreningen for Danske Cyber Alumner</title><link href="http://localhost:4000/blog/foreningen-for-danske-cyber-alumner/" rel="alternate" type="text/html" title="FDCA - Foreningen for Danske Cyber Alumner" /><published>2022-04-18T21:34:30+02:00</published><updated>2022-04-18T21:34:30+02:00</updated><id>http://localhost:4000/blog/foreningen-for-danske-cyber-alumner</id><content type="html" xml:base="http://localhost:4000/blog/foreningen-for-danske-cyber-alumner/">&lt;p&gt;Hvad er FDCA, hvordan bliver man medlem, og hvad laver en cyber forening egentligt? Det vil jeg prøve at beskrive i følgende blog post.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;This post is in Danish, and will eventually be posted in English&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;center&gt;&lt;img src=&quot;/assets/images/fdca_logo.png&quot; align=&quot;center&quot; height=&quot;300&quot; width=&quot;300&quot; style=&quot;border-radius:50%&quot; /&gt;&lt;/center&gt;
-
-&lt;h2 id=&quot;hvad-er-cyberværnepligten&quot;&gt;Hvad er Cyberværnepligten?&lt;/h2&gt;
-&lt;center&gt;&lt;img src=&quot;/assets/images/Cvpl_logo.png&quot; align=&quot;center&quot; height=&quot;200&quot; width=&quot;200&quot; /&gt;&lt;/center&gt;
-
-&lt;p&gt;Cyberværnepligten er et politisk udspil der skal udklække ~30+ nye digitale sikkerhedstalenter om året - vis formål er at være ambassadører for god IT-sikkerhed i det danske kongerige.&lt;/p&gt;
-
-&lt;p&gt;Værnepligtsperioden er samlet 10 måneder, delt op i to sektioner:&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;4 måneders grundlæggende værnepligt, i et af de tre værn (Hæren, Flyvevåbenet eller Søværnet)&lt;/li&gt;
-  &lt;li&gt;6 Måneders cyberuddannelse ved Føringstøtteregimentet i Fredericia. Uddannelsen indeholder desuden to ugers praktik og afsluttes med en uges incident response øvelse.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ask questions.&lt;/strong&gt; This is probably my number one tip that have gotten me where I am now. I always have a curiosity to understand why things is the way they are. Whether you are at a job interview, meeting or just &lt;em&gt;networking&lt;/em&gt; - throw a few questions at the recieptient, as this will indicate that you are interested in the conversation, and you dare to express what’s on your mind. It will also be very valuable for the company - maybe they are having a process that should be reviewed and changed, based on your question.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Don’t be afraid of doing something out of your comfortzone.&lt;/strong&gt; &lt;em&gt;I discussed this earlier.&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Be self-aware.&lt;/strong&gt; As described earlier, describe your blindspots and work on them.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Celebrate your small victories.&lt;/strong&gt; Described earlier, but this is also a very important point. I keep a folder on my desktop with all my victories. :sunglasses:&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Keep a motivation to keep learning.&lt;/strong&gt; In this industry, things are changing constantly, and you need to keep yourself up-to-date with the lastest trends and education to challenge others.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Network.&lt;/strong&gt; This tip is also a major part of where I am today. I attend a lot of community events (OWASP, bsides, Vsec, CitySec here in Denmark), where I get the opportunity to talk to people from the industry, and this broadens my network of people that are likeminded. I actually heard about the job that I’m currently working at, as I was attending one of these events and had a conversation with one of the employees at this company. He told his boss about me, and I got a interview with them.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Der er forskellige krav for at kunne blive optaget på denne uddanelse, du skal b.la. kunne sikkerhedsgodkendes til HEMMELIG, og bestå en prøve der kortlægger dine IT-færdigheder.
-Det skal dog siges, at man behøver ikke have de vilde tekniske kompetencer, men blot en nysgerrighed for at lære, og en grundforståelse for de komponenter en computer og et netværk består af.&lt;/p&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;</content><author><name>Christian B. Henriksen</name></author><category term="blog" /><category term="Career-development" /><category term="Cybersecurity" /><category term="Education" /><category term="Tips &amp; Tricks" /><summary type="html">In this blog post, I will try to enlighten some of the questions that a new candidate in this industry might stumble upon. I will build my points on my own experience being fairly new, therefore might this not apply to you. However, I’m sure that you can relate to at least, some of the upcoming points.</summary></entry><entry><title type="html">FDCA - Foreningen for Danske Cyber Alumner</title><link href="http://localhost:4000/blog/foreningen-for-danske-cyber-alumner/" rel="alternate" type="text/html" title="FDCA - Foreningen for Danske Cyber Alumner" /><published>2022-04-18T21:34:30+02:00</published><updated>2022-04-18T21:34:30+02:00</updated><id>http://localhost:4000/blog/foreningen-for-danske-cyber-alumner</id><content type="html" xml:base="http://localhost:4000/blog/foreningen-for-danske-cyber-alumner/">Hvad er FDCA, hvordan bliver man medlem, og hvad laver en cyber forening egentligt? Det vil jeg prøve at beskrive i følgende blog post. 
 
-&lt;p&gt;Efter du har gennemført denne intensive uddannelse kan man enten vælger at fortsætte i en militærstilling i Forsvaret, eller tage det civile spring.&lt;/p&gt;
+***This post is in Danish, and will eventually be posted in English***
 
-&lt;p&gt;I dag er der flere tidligere cyberværnepligtige, som eksempelvis arbejder som incident respondere, cyberanalytikere og penetration testere i firmaer som Sundhedsdatastyrelsen, Region Midt og F-secure. Nogle har også valg at fortsætte i Forsvaret ved blandt af Føringsstøtteregimentet, Efterretningsregimentet og Koncern IT (KAKI)&lt;/p&gt;
 
-&lt;p&gt;Lyder Cyberværnepligten som noget for dig?
- &lt;a href=&quot;https://karriere.forsvaret.dk/varnepligt/varnepligten/cybervarnepligt/&quot;&gt;Så kan du læse mere om den her&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;hvad-er-fdca&quot;&gt;Hvad er FDCA?&lt;/h2&gt;
+&lt;center&gt;&lt;img src=&quot;/assets/images/fdca_logo.png&quot; align=&quot;center&quot; height=&quot;300&quot; width=&quot;300&quot; style=&quot;border-radius:50%&quot;&gt;&lt;/center&gt;
 
-&lt;center&gt;&lt;img src=&quot;/assets/images/fdca_logo_long.png&quot; align=&quot;center&quot; height=&quot;200&quot; width=&quot;250&quot; style=&quot;margin:0 auto;&quot; /&gt;&lt;/center&gt;
 
-&lt;p&gt;FDCA er en forkortelse for Foreningen for Danske Cyber Alumner.&lt;/p&gt;
+## Hvad er Cyberværnepligten?
+&lt;center&gt;&lt;img src=&quot;/assets/images/Cvpl_logo.png&quot; align=&quot;center&quot; height=&quot;200&quot; width=&quot;200&quot; &gt;&lt;/center&gt;
 
-&lt;p&gt;Foreningens formål er:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Bidrage til Danmarks og Rigsfællesskabets modstandsdygtighed overfor Cyber-trusler.&lt;/li&gt;
-  &lt;li&gt;Udvikle medlemmernes viden, færdigheder og kompetencer inden for Cyber- og IT-sikkerhed.&lt;/li&gt;
-  &lt;li&gt;Karriererådgivning og eksponering for virksomheder.&lt;/li&gt;
-  &lt;li&gt;Fastholde og fremme kammeratskab på tværs af hjemsendte Cyberværnepligtshold.&lt;/li&gt;
-&lt;/ul&gt;
+Cyberværnepligten er et politisk udspil der skal udklække ~30+ nye digitale sikkerhedstalenter om året - vis formål er at være ambassadører for god IT-sikkerhed i det danske kongerige. 
 
-&lt;p&gt;For at fremme ovenstående formål, så hjælper foreningen med at afholde sociale og faglige arrangementer, samt hjælp til finansering af diverse certificeringer, både med formål at fremme ‘soft-skils’, men også tekniske kompetencer.&lt;/p&gt;
+Værnepligtsperioden er samlet 10 måneder, delt op i to sektioner: 
+- 4 måneders grundlæggende værnepligt, i et af de tre værn (Hæren, Flyvevåbenet eller Søværnet)
+- 6 Måneders cyberuddannelse ved Føringstøtteregimentet i Fredericia. Uddannelsen indeholder desuden to ugers praktik og afsluttes med en uges incident response øvelse.  
 
-&lt;p&gt;Foreningen er altså er fællesskab, hvis formål er at hjælpe alumner der er færdige med deres cyberværnepligt.&lt;/p&gt;
 
-&lt;h2 id=&quot;hvorfor-er-fdca-oprettet&quot;&gt;Hvorfor er FDCA oprettet?&lt;/h2&gt;
+Der er forskellige krav for at kunne blive optaget på denne uddanelse, du skal b.la. kunne sikkerhedsgodkendes til HEMMELIG, og bestå en prøve der kortlægger dine IT-færdigheder.
+Det skal dog siges, at man behøver ikke have de vilde tekniske kompetencer, men blot en nysgerrighed for at lære, og en grundforståelse for de komponenter en computer og et netværk består af. 
 
-&lt;p&gt;Efter vi (bestyrelsen) selv havde færdiggjort vores værnepligt, så savnede vi et centralt holdepunkt hvori man kunne dyrke cyberværnepligtens unikke fællesskab og bygge videre på de egenskaber, som man havde tilegnet sig over de sidste 10 måneder. FDCA blev derfor oprettet både for at dyrke kammeratskabet, men også fordi der blev set et potentiale i at skabe et centralt samlepunkt, hvor der bland andet tilbydes kompetence- og karriereudvikling.&lt;/p&gt;
+Efter du har gennemført denne intensive uddannelse kan man enten vælger at fortsætte i en militærstilling i Forsvaret, eller tage det civile spring. 
 
-&lt;p&gt;På nuværende tidspunkt består bestyrelsen af 6 ildsjæle der driver foreningen i samarbejde med et bredt udvalg af foreningens medlemmer.&lt;/p&gt;
+I dag er der flere tidligere cyberværnepligtige, som eksempelvis arbejder som incident respondere, cyberanalytikere og penetration testere i firmaer som Sundhedsdatastyrelsen, Region Midt og F-secure. Nogle har også valg at fortsætte i Forsvaret ved blandt af Føringsstøtteregimentet, Efterretningsregimentet og Koncern IT (KAKI) 
 
-&lt;h2 id=&quot;hvad-laver-man-i-fdca&quot;&gt;Hvad laver man i FDCA?&lt;/h2&gt;
-&lt;p&gt;Foreningen blev oprettet i September 2021, og har siden da afholdt 2 fysiske arrangementer - det ene var en Capture the flag dag, som blev afholdt på Aalborg Universitet i København. Det andet var et Purple-teaming event, med fokus på threathunting i samarbejde med David Clayton(Combitec) og Nichlas Falk(Improsec), på Combitecs faciliteter i Århus. Til dette event blev APT-gruppen “WizardSpider” analyseret, og deres TTP blev simuleret i et lukket miljø. Dette var med til at give inspiration til hvordan man kan gribe sin threat-hunting an - altså medlemmerne fik udvidet deres “hands-on”-erfaring.&lt;/p&gt;
 
-&lt;center&gt;&lt;img src=&quot;/assets/images/IMG_1438.jpg&quot; align=&quot;center&quot; height=&quot;350&quot; width=&quot;550&quot; /&gt;&lt;/center&gt;
+Lyder Cyberværnepligten som noget for dig?
+ [Så kan du læse mere om den her](https://karriere.forsvaret.dk/varnepligt/varnepligten/cybervarnepligt/)
 
-&lt;p&gt;Foreningen har derudover afholdt et online CTF-event, deltaget i OWASP foredrag og haft forskellige sociale sammenkomster. Selvom det sociale aspekt vægtes højt ved samtlige arrangementer, så går foreningens medlemmer altid hjem med viden eller erfaring, som kan bruges direkte i deres arbejde eller uddannelse.&lt;/p&gt;
+## Hvad er FDCA?
 
-&lt;h2 id=&quot;hvor-vil-foreningen-hen&quot;&gt;Hvor vil foreningen hen?&lt;/h2&gt;
-&lt;p&gt;Vores førnævnte målsætninger viser, at foreningen har nogle ret seriøst ambitioner, og det er dem, som vi skal ud at jage nu. Det kan dog selvfølgelig være svært at definere og måle på hvordan og hvornår vi gør hele Rigsfællesskabet mere sikkert. Vi er af den overbevisning, at hvis vi fortsætter med af hverve en masse alumner og kan tilbyde dem kvalificeret ”state of the art” kompetence- og karriereudvikling, så skal vi helt sikkert nok lykkes. 
-Helt specifikt bruger vi nu blandt andet meget energi på at få stablet nogle varige samarbejder op med forskellige virksomheder. Vi mener, at eksterne samarbejdspartnere er essentielle for at accelerere vores vej mod vores overordnet visioner, men også at vi har en masse ekspertise, som vi kan dele ud af. Derudover har vi en masse spændende arrangementer i pipelinen, som vi glæder os meget til at kunne fortælle mere om.&lt;/p&gt;
+&lt;center&gt;&lt;img src=&quot;/assets/images/fdca_logo_long.png&quot; align=&quot;center&quot; height=&quot;200&quot; width=&quot;250&quot; style=&quot;margin:0 auto;&quot;&gt;&lt;/center&gt;
 
-&lt;p&gt;&lt;strong&gt;Har du lyst til at følge med i, hvad foreningen laver, så følg os på:&lt;/strong&gt;
- &lt;a href=&quot;https://www.linkedin.com/company/foreningen-for-danske-cyber-alumner&quot;&gt;LinkedIn&lt;/a&gt;, eller vores hjemmeside: &lt;a href=&quot;https://fdca.dk&quot;&gt;FDCA.dk&lt;/a&gt;&lt;/p&gt;
+FDCA er en forkortelse for Foreningen for Danske Cyber Alumner. 
 
-&lt;p&gt;Eller smid os en mail på: 
- info@fdca.dk&lt;/p&gt;</content><author><name>Christian B. Henriksen</name></author><category term="blog" /><category term="Cyberværnepligt" /><category term="Cybersecurity" /><category term="Education" /><summary type="html">Hvad er FDCA, hvordan bliver man medlem, og hvad laver en cyber forening egentligt? Det vil jeg prøve at beskrive i følgende blog post.</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/blog/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2019-04-18T21:34:30+02:00</published><updated>2019-04-18T21:34:30+02:00</updated><id>http://localhost:4000/blog/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/blog/welcome-to-jekyll/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+Foreningens formål er: 
+- Bidrage til Danmarks og Rigsfællesskabets modstandsdygtighed overfor Cyber-trusler.
+- Udvikle medlemmernes viden, færdigheder og kompetencer inden for Cyber- og IT-sikkerhed.
+- Karriererådgivning og eksponering for virksomheder. 
+- Fastholde og fremme kammeratskab på tværs af hjemsendte Cyberværnepligtshold.
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+For at fremme ovenstående formål, så hjælper foreningen med at afholde sociale og faglige arrangementer, samt hjælp til finansering af diverse certificeringer, både med formål at fremme &apos;soft-skils&apos;, men også tekniske kompetencer. 
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+Foreningen er altså er fællesskab, hvis formål er at hjælpe alumner der er færdige med deres cyberværnepligt. 
 
-&lt;div class=&quot;language-ruby highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&apos;Tom&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &apos;Hi, Tom&apos; to STDOUT.&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+## Hvorfor er FDCA oprettet?
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name>Christian B. Henriksen</name></author><category term="blog" /><category term="Jekyll" /><category term="update" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
+Efter vi (bestyrelsen) selv havde færdiggjort vores værnepligt, så savnede vi et centralt holdepunkt hvori man kunne dyrke cyberværnepligtens unikke fællesskab og bygge videre på de egenskaber, som man havde tilegnet sig over de sidste 10 måneder. FDCA blev derfor oprettet både for at dyrke kammeratskabet, men også fordi der blev set et potentiale i at skabe et centralt samlepunkt, hvor der bland andet tilbydes kompetence- og karriereudvikling. 
+
+
+På nuværende tidspunkt består bestyrelsen af 6 ildsjæle der driver foreningen i samarbejde med et bredt udvalg af foreningens medlemmer. 
+
+## Hvad laver man i FDCA?
+Foreningen blev oprettet i September 2021, og har siden da afholdt 2 fysiske arrangementer - det ene var en Capture the flag dag, som blev afholdt på Aalborg Universitet i København. Det andet var et Purple-teaming event, med fokus på threathunting i samarbejde med David Clayton(Combitec) og Nichlas Falk(Improsec), på Combitecs faciliteter i Århus. Til dette event blev APT-gruppen &quot;WizardSpider&quot; analyseret, og deres TTP blev simuleret i et lukket miljø. Dette var med til at give inspiration til hvordan man kan gribe sin threat-hunting an - altså medlemmerne fik udvidet deres &quot;hands-on&quot;-erfaring. 
+
+&lt;center&gt;&lt;img src=&quot;/assets/images/IMG_1438.jpg&quot; align=&quot;center&quot; height=&quot;350&quot; width=&quot;550&quot; &gt;&lt;/center&gt;
+
+
+Foreningen har derudover afholdt et online CTF-event, deltaget i OWASP foredrag og haft forskellige sociale sammenkomster. Selvom det sociale aspekt vægtes højt ved samtlige arrangementer, så går foreningens medlemmer altid hjem med viden eller erfaring, som kan bruges direkte i deres arbejde eller uddannelse. 
+
+## Hvor vil foreningen hen?
+Vores førnævnte målsætninger viser, at foreningen har nogle ret seriøst ambitioner, og det er dem, som vi skal ud at jage nu. Det kan dog selvfølgelig være svært at definere og måle på hvordan og hvornår vi gør hele Rigsfællesskabet mere sikkert. Vi er af den overbevisning, at hvis vi fortsætter med af hverve en masse alumner og kan tilbyde dem kvalificeret ”state of the art” kompetence- og karriereudvikling, så skal vi helt sikkert nok lykkes. 
+Helt specifikt bruger vi nu blandt andet meget energi på at få stablet nogle varige samarbejder op med forskellige virksomheder. Vi mener, at eksterne samarbejdspartnere er essentielle for at accelerere vores vej mod vores overordnet visioner, men også at vi har en masse ekspertise, som vi kan dele ud af. Derudover har vi en masse spændende arrangementer i pipelinen, som vi glæder os meget til at kunne fortælle mere om. 
+
+**Har du lyst til at følge med i, hvad foreningen laver, så følg os på:**
+ [LinkedIn](https://www.linkedin.com/company/foreningen-for-danske-cyber-alumner), eller vores hjemmeside: [FDCA.dk](https://fdca.dk)
+
+ Eller smid os en mail på: 
+ info@fdca.dk</content><author><name>Christian B. Henriksen</name></author><category term="blog" /><category term="Cyberværnepligt" /><category term="Cybersecurity" /><category term="Education" /><summary type="html">Hvad er FDCA, hvordan bliver man medlem, og hvad laver en cyber forening egentligt? Det vil jeg prøve at beskrive i følgende blog post.</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/blog/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2019-04-18T21:34:30+02:00</published><updated>2019-04-18T21:34:30+02:00</updated><id>http://localhost:4000/blog/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/blog/welcome-to-jekyll/">You&apos;ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+
+To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+
+Jekyll also offers powerful support for code snippets:
+
+```ruby
+def print_hi(name)
+  puts &quot;Hi, #{name}&quot;
+end
+print_hi(&apos;Tom&apos;)
+#=&gt; prints &apos;Hi, Tom&apos; to STDOUT.
+```
+
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/</content><author><name>Christian B. Henriksen</name></author><category term="blog" /><category term="Jekyll" /><category term="update" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>

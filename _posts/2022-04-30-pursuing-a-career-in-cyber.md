@@ -103,11 +103,18 @@ This is a subject that I had been dealing a lot with. It's the sense of self-dou
 
 Down below, I have a couple of guidelines that I try to follow, to overcome this stupid syndrome:
 1. **Stop comparing yourself to others**. This is probably one of the most important facts that I use to fight this syndrome - you won't get anything out of comparing yourself with others. 
-2. **Write your accomplishments down in a document - review it often**. This can be feedback from your boss, friend, professor, or just some achievement you noticed on your own. Did you just pwn a box on HackTheBox in 25 minutes? Good job, screenshot it and save it for later. 
+2. **Write your accomplishments down in a document - review it often**. This can be feedback from your boss, friend, professor, or just some achievement you noticed on your own. Did you just pwn a box on HackTheBox in 25 minutes? Did you receive a e-mail from your boss, endorsing and praising the work you did? Good job, screenshot it and save it for later. *It's the small accomplishments that count in the long run.*
 3. **Accept that perfectionism is impossible**. When you have addressed your strengths and weaknesses, you find that you can't be good at everything and that nobody is perfect. You need to learn to accept, that failing will every so often increase your resilience, and make it easier learn from your mistakes.  
-4. **Approach feedback.**
+4. **Approach feedback.** Have you created or written something you are unsure whether is good or inadequate? I suggest you seek feedback from somebody in your network, your parents or someone else, as this will clarify the state of the work you did. You no longer live in uncertainty, but convert it to something you can act upon. *This blog report I actually sent to a couple of people in my network.*
 
-**The good argument always wins the battle..**
+ :bulb:`The good argument always wins the battle..`
 ## :collision: Tips & tricks
+
+- **Ask questions.** This is probably my number one tip that have gotten me where I am now. I always have a curiosity to understand why things is the way they are. Whether you are at a job interview, meeting or just *networking* - throw a few questions at the recieptient, as this will indicate that you are interested in the conversation, and you dare to express what's on your mind. It will also be very valuable for the company - maybe they are having a process that should be reviewed and changed, based on your question. 
+- **Don't be afraid of doing something out of your comfortzone.** *I discussed this earlier.* 
+- **Be self-aware.** As described earlier, describe your blindspots and work on them. 
+- **Celebrate your small victories.** Described earlier, but this is also a very important point. I keep a folder on my desktop with all my victories. :sunglasses:
+- **Keep a motivation to keep learning.** In this industry, things are changing constantly, and you need to keep yourself up-to-date with the lastest trends and education to challenge others. 
+- **Network.** This tip is also a major part of where I am today. I attend a lot of community events (OWASP, bsides, Vsec, CitySec here in Denmark), where I get the opportunity to talk to people from the industry, and this broadens my network of people that are likeminded. I actually heard about the job that I'm currently working at, as I was attending one of these events and had a conversation with one of the employees at this company. He told his boss about me, and I got a interview with them. 
 
 ## Conclusion
