@@ -24,6 +24,7 @@ In this blog post, I will try to enlighten some of the questions that a new cand
   - [:sunglasses: Imposter syndrome](#sunglasses-imposter-syndrome)
   - [:collision: Tips & tricks](#collision-tips--tricks)
   - [Conclusion](#conclusion)
+  - [Useful resources](#useful-resources)
 
 ***I hope you enjoy this post. Feel free to reach out to me.***
 
@@ -98,6 +99,7 @@ If you can enable yourself to go from just going to work because **you have to**
 ## :running: Certification Race
 
 
+
 ## :sunglasses: Imposter syndrome
 This is a subject that I had been dealing a lot with. It's the sense of self-doubt related to work capability and accomplishment. And I know that a lot of new candidates are struggling with this feeling, and this will definitely become a hindrance to your career development. 
 
@@ -116,5 +118,12 @@ Down below, I have a couple of guidelines that I try to follow, to overcome this
 - **Celebrate your small victories.** Described earlier, but this is also a very important point. I keep a folder on my desktop with all my victories. :sunglasses:
 - **Keep a motivation to keep learning.** In this industry, things are changing constantly, and you need to keep yourself up-to-date with the lastest trends and education to challenge others. 
 - **Network.** This tip is also a major part of where I am today. I attend a lot of community events (OWASP, bsides, Vsec, CitySec here in Denmark), where I get the opportunity to talk to people from the industry, and this broadens my network of people that are likeminded. I actually heard about the job that I'm currently working at, as I was attending one of these events and had a conversation with one of the employees at this company. He told his boss about me, and I got a interview with them. 
+- **Keep your Linkedin up-to-date**. Another tip is to connect with the people you meet, on Linkedin. I use Linkedin as a way of organizing the people I met and had some great conversations with, as long as follow their journey. Linkedin is also a good resource for finding great articles and posts. 
 
 ## Conclusion
+
+## Useful resources
+- [Linkedin](https://linkedin.com)
+- [HackTheBox](https://www.hackthebox.com/)
+- [Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/)
+- [/r/Cybersecurity](https://www.reddit.com/r/cybersecurity/)
