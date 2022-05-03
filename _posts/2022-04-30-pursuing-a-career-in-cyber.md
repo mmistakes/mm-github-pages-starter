@@ -9,7 +9,7 @@ tags:
   - Education
   - Tips & Tricks
 ---
-In this blog post, I will try to enlighten some of the questions that a new candidate in this industry might stumble upon. I will build my points on my own experience being **fairly new**, therefore might this not apply to you. However, I'm sure that you can relate to at least, some of the upcoming points. 
+In this blog post, I will try to enlighten some of the questions that a new candidate in this industry might stumble upon. I will build my points on my own experience being **fairly new**, therefore might this not apply to you. However, I'm sure that you can relate to at least, some of the upcoming points. This post is inspired by a talk that [@David Thejl-Clayton](https://twitter.com/DCSecuritydk) gave on an internal [FDCA](https://fdca.dk) webinar. 
 <img src="/assets/images/Cyberspace.png">
 
 - [:pencil2: Why even write about this?](#pencil2-why-even-write-about-this)
@@ -118,7 +118,7 @@ Down below, I have a couple of guidelines that I try to follow, to overcome this
  :bulb:`The good argument always wins the battle..`
 ## :collision: Tips & tricks
 
-- **Ask questions.** This is probably my number one tip that have gotten me where I am now. I always have a curiosity to understand why things is the way they are. Whether you are at a job interview, meeting or just *networking* - throw a few questions at the recieptient, as this will indicate that you are interested in the conversation, and you dare to express what's on your mind. It will also be very valuable for the company - maybe they are having a process that should be reviewed and changed, based on your question. 
+- **Ask questions.** This is probably my number one tip that have gotten me where I am now. I always have a curiosity to understand why things is the way they are. Whether you are at a job interview, meeting or just *networking* - throw a few questions at the recipient, as this will indicate that you are interested in the conversation, and you dare to express what's on your mind. It will also be very valuable for the company - maybe they are having a process that should be reviewed and changed, based on your question. 
 - **Don't be afraid of doing something out of your comfortzone.** *I discussed this earlier.* 
 - **Be self-aware.** As described earlier, describe your blindspots and work on them. 
 - **Celebrate your small victories.** Described earlier, but this is also a very important point. I keep a folder on my desktop with all my victories. :sunglasses:
