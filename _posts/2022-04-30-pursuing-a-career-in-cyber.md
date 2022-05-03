@@ -97,8 +97,19 @@ If you can enable yourself to go from just going to work because **you have to**
 
 
 ## :running: Certification Race
+<img src="/assets/images/kelly-sikkema-9-kKRL6aiik-unsplash.jpg">
+*Photo by Kelly Sikkema on Unsplash*
 
-I wont recommend taking a certification from E-Council, as these courses are focused a lot around tool showcasing, rather than actually getting something useful out. 
+In cyberspace it's common to go for certifications to learn about new techniques and tacties to either hunt, attack or explore other fields in this domain. My own certification path has just started, so I can't give any detailed explainations or share experiences from OSCP, CISSP etc, as I haven't completed them. 
+
+However, I wont recommend taking a certification from EC-Council, as these courses are focused a lot around tool showcasing, rather than actually getting something useful out. I took Certified Incident Handler from their course-catalog, and I had to admit that I surely regret taking this course! 
+
+If you want entry-level certifications, you should go for something like eJPT from [Elearnsecurity](https://elearnsecurity.com/), or something else they have to offer. Unfortunately I haven't had the opportunity to take it myself, but will definately pursue it. 
+SANS is also a huge player, if not the biggest, in this industry. They offer tons of top-notch courses, and they actually have a [roadmap](https://www.sans.org/cyber-security-skills-roadmap/), where you can see the different tracks to evolve in this industry. 
+
+However, you should try to get you employer to pay for your education whether its certifcations or other education - because a lot of these certs are valued at a high price, especially SANS-course, they typically go for $7500. 
+
+There is also a [good overview here](https://pauljerimy.com/security-certification-roadmap/) detailing the different domains, and what certifications to pursue.
 
 ## :sunglasses: Imposter syndrome
 This is a subject that I had been dealing a lot with. It's the sense of self-doubt related to work capability and accomplishment. And I know that a lot of new candidates are struggling with this feeling, and this will definitely become a hindrance to your career development. 
