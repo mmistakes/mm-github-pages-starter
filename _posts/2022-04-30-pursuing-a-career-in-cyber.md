@@ -12,19 +12,14 @@ tags:
 In this blog post, I will try to enlighten some of the questions that a new candidate in this industry might stumble upon. I will build my points on my own experience being **fairly new**, therefore might this not apply to you. However, I'm sure that you can relate to at least, some of the upcoming points. 
 <img src="/assets/images/Cyberspace.png">
 
-# THIS POST IS IN PROGRESS
-
-
-
-- [THIS POST IS IN PROGRESS](#this-post-is-in-progress)
-  - [:pencil2: Why even write about this?](#pencil2-why-even-write-about-this)
-    - [:space_invader: My way onto the cybership](#space_invader-my-way-onto-the-cybership)
-  - [:question: Endless opportunities](#question-endless-opportunities)
-  - [:running: Certification Race](#running-certification-race)
-  - [:sunglasses: Imposter syndrome](#sunglasses-imposter-syndrome)
-  - [:collision: Tips & tricks](#collision-tips--tricks)
-  - [Conclusion](#conclusion)
-  - [Useful resources](#useful-resources)
+- [:pencil2: Why even write about this?](#pencil2-why-even-write-about-this)
+  - [:space_invader: My way onto the cybership](#space_invader-my-way-onto-the-cybership)
+- [:question: Endless opportunities](#question-endless-opportunities)
+- [:running: Certification Race](#running-certification-race)
+- [:sunglasses: Imposter syndrome](#sunglasses-imposter-syndrome)
+- [:collision: Tips & tricks](#collision-tips--tricks)
+- [Conclusion](#conclusion)
+- [Useful resources](#useful-resources)
 
 ***I hope you enjoy this post. Feel free to reach out to me.***
 

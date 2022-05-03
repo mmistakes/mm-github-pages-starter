@@ -1,24 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-05-03T07:44:56+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Home</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><author><name>Christian B. Henriksen</name></author><entry><title type="html">Pursuing a Career in Cyberspace</title><link href="http://localhost:4000/blog/pursuing-a-career-in-cyber/" rel="alternate" type="text/html" title="Pursuing a Career in Cyberspace" /><published>2022-04-29T21:34:30+02:00</published><updated>2022-04-29T21:34:30+02:00</updated><id>http://localhost:4000/blog/pursuing-a-career-in-cyber</id><content type="html" xml:base="http://localhost:4000/blog/pursuing-a-career-in-cyber/">&lt;p&gt;In this blog post, I will try to enlighten some of the questions that a new candidate in this industry might stumble upon. I will build my points on my own experience being &lt;strong&gt;fairly new&lt;/strong&gt;, therefore might this not apply to you. However, I’m sure that you can relate to at least, some of the upcoming points. 
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-05-03T07:49:19+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Home</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><author><name>Christian B. Henriksen</name></author><entry><title type="html">Pursuing a Career in Cyberspace</title><link href="http://localhost:4000/blog/pursuing-a-career-in-cyber/" rel="alternate" type="text/html" title="Pursuing a Career in Cyberspace" /><published>2022-04-29T21:34:30+02:00</published><updated>2022-04-29T21:34:30+02:00</updated><id>http://localhost:4000/blog/pursuing-a-career-in-cyber</id><content type="html" xml:base="http://localhost:4000/blog/pursuing-a-career-in-cyber/">&lt;p&gt;In this blog post, I will try to enlighten some of the questions that a new candidate in this industry might stumble upon. I will build my points on my own experience being &lt;strong&gt;fairly new&lt;/strong&gt;, therefore might this not apply to you. However, I’m sure that you can relate to at least, some of the upcoming points. 
 &lt;img src=&quot;/assets/images/Cyberspace.png&quot; /&gt;&lt;/p&gt;
 
-&lt;h1 id=&quot;this-post-is-in-progress&quot;&gt;THIS POST IS IN PROGRESS&lt;/h1&gt;
-
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;#this-post-is-in-progress&quot;&gt;THIS POST IS IN PROGRESS&lt;/a&gt;
+  &lt;li&gt;&lt;a href=&quot;#pencil2-why-even-write-about-this&quot;&gt;:pencil2: Why even write about this?&lt;/a&gt;
     &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#pencil2-why-even-write-about-this&quot;&gt;:pencil2: Why even write about this?&lt;/a&gt;
-        &lt;ul&gt;
-          &lt;li&gt;&lt;a href=&quot;#space_invader-my-way-onto-the-cybership&quot;&gt;:space_invader: My way onto the cybership&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#question-endless-opportunities&quot;&gt;:question: Endless opportunities&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#running-certification-race&quot;&gt;:running: Certification Race&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#sunglasses-imposter-syndrome&quot;&gt;:sunglasses: Imposter syndrome&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#collision-tips--tricks&quot;&gt;:collision: Tips &amp;amp; tricks&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#conclusion&quot;&gt;Conclusion&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#useful-resources&quot;&gt;Useful resources&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#space_invader-my-way-onto-the-cybership&quot;&gt;:space_invader: My way onto the cybership&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#question-endless-opportunities&quot;&gt;:question: Endless opportunities&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#running-certification-race&quot;&gt;:running: Certification Race&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#sunglasses-imposter-syndrome&quot;&gt;:sunglasses: Imposter syndrome&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#collision-tips--tricks&quot;&gt;:collision: Tips &amp;amp; tricks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#conclusion&quot;&gt;Conclusion&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#useful-resources&quot;&gt;Useful resources&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;em&gt;I hope you enjoy this post. Feel free to reach out to me.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
