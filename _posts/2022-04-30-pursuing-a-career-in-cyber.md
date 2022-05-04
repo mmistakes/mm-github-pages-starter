@@ -18,7 +18,7 @@ In this blog post, I will try to enlighten some of the questions that a new cand
 - [:running: Certification Race](#running-certification-race)
 - [:sunglasses: Imposter syndrome](#sunglasses-imposter-syndrome)
 - [:collision: Tips & tricks](#collision-tips--tricks)
-- [Conclusion](#conclusion)
+- [Wrapping up](#wrapping-up)
 - [Useful resources](#useful-resources)
 
 ***I hope you enjoy this post. Feel free to reach out to me.***
@@ -79,7 +79,10 @@ Based upon these skills I got a new job as a Cyber Security Consultant in a priv
 
 **:stars: Enough about my way into cyberspace - let's talk about your opportunities.**
 ## :question: Endless opportunities
+
 <img src="/assets/images/roadmap.jpg">
+*Image from [Henry Jiang](https://derechodelared.com/wp-content/uploads/2021/04/Cybersecurity-Domains-Map-3.0.pdf)*
+
 One of the questions that I hear a lot in this field, is what path to take if you want to work in this industry. It's a legitimate question, and I had it myself. This industry has so many different areas, and **the important part** is for you to do you **research**, and **test something** out. Do you think *vulnerability management* is interesting? - Spin up a VM with OpenVAS and try it out. What about *penetration testing?* It's easy for you to create an account on [HackTheBox](https://www.hackthebox.com/) and try to see if you can get access to some of the boxes. The only limit is you - there is tons of free ressources in cyberspace. 
 
 Of course, you won't become an expert with these techniques, but you develop some fundamental skills to do further research and explore your interest. That's usually a valuable skill for the company you want to work for.
@@ -95,7 +98,7 @@ If you can enable yourself to go from just going to work because **you have to**
 <img src="/assets/images/kelly-sikkema-9-kKRL6aiik-unsplash.jpg">
 *Photo by Kelly Sikkema on Unsplash*
 
-In cyberspace it's common to go for certifications to learn about new techniques and tacties to either hunt, attack or explore other fields in this domain. My own certification path has just started, so I can't give any detailed explainations or share experiences from OSCP, CISSP etc, as I haven't completed them. 
+In cyberspace it's common to go for certifications to learn about new techniques and tactics to either hunt, attack or explore other fields in this domain. My own certification path has just started, so I can't give any detailed explainations or share experiences from OSCP, CISSP etc, as I haven't completed them. 
 
 However, I wont recommend taking a certification from EC-Council, as these courses are focused a lot around tool showcasing, rather than actually getting something useful out. I took Certified Incident Handler from their course-catalog, and I had to admit that I surely regret taking this course! 
 
@@ -126,7 +129,14 @@ Down below, I have a couple of guidelines that I try to follow, to overcome this
 - **Network.** This tip is also a major part of where I am today. I attend a lot of community events (OWASP, bsides, Vsec, CitySec here in Denmark), where I get the opportunity to talk to people from the industry, and this broadens my network of people that are likeminded. I actually heard about the job that I'm currently working at, as I was attending one of these events and had a conversation with one of the employees at this company. He told his boss about me, and I got a interview with them. 
 - **Keep your Linkedin up-to-date**. Another tip is to connect with the people you meet, on Linkedin. I use Linkedin as a way of organizing the people I met and had some great conversations with, as long as follow their journey. Linkedin is also a good resource for finding great articles and posts. 
 
-## Conclusion
+## Wrapping up
+Wow, that was a long speech from me. :grimacing:
+
+I sincerely hope you liked the post and could use some of the points addressed. I know that my experience in this industry is not broad yet, but I feel that I, nevertheless, have something to share with the community.  
+
+If your just here to read the conclusion, I suggest that you read the section ":collision: Tips & tricks", as this outlines the most important points that addressed in this article. 
+
+The next post will be about how to write a Curriculum Vitae, or CV - as this can be unfamiliar for a lot of people, and I will try to address what you should write in a CV, templates to use among other things. 
 
 ## Useful resources
 - [Linkedin](https://linkedin.com)

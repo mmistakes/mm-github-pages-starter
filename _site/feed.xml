@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-05-03T07:49:19+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Home</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><author><name>Christian B. Henriksen</name></author><entry><title type="html">Pursuing a Career in Cyberspace</title><link href="http://localhost:4000/blog/pursuing-a-career-in-cyber/" rel="alternate" type="text/html" title="Pursuing a Career in Cyberspace" /><published>2022-04-29T21:34:30+02:00</published><updated>2022-04-29T21:34:30+02:00</updated><id>http://localhost:4000/blog/pursuing-a-career-in-cyber</id><content type="html" xml:base="http://localhost:4000/blog/pursuing-a-career-in-cyber/">&lt;p&gt;In this blog post, I will try to enlighten some of the questions that a new candidate in this industry might stumble upon. I will build my points on my own experience being &lt;strong&gt;fairly new&lt;/strong&gt;, therefore might this not apply to you. However, I’m sure that you can relate to at least, some of the upcoming points. 
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-05-04T06:25:14+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Home</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><author><name>Christian B. Henriksen</name></author><entry><title type="html">Pursuing a Career in Cyberspace</title><link href="http://localhost:4000/blog/pursuing-a-career-in-cyber/" rel="alternate" type="text/html" title="Pursuing a Career in Cyberspace" /><published>2022-04-29T21:34:30+02:00</published><updated>2022-04-29T21:34:30+02:00</updated><id>http://localhost:4000/blog/pursuing-a-career-in-cyber</id><content type="html" xml:base="http://localhost:4000/blog/pursuing-a-career-in-cyber/">&lt;p&gt;In this blog post, I will try to enlighten some of the questions that a new candidate in this industry might stumble upon. I will build my points on my own experience being &lt;strong&gt;fairly new&lt;/strong&gt;, therefore might this not apply to you. However, I’m sure that you can relate to at least, some of the upcoming points. This post is inspired by a talk that &lt;a href=&quot;https://twitter.com/DCSecuritydk&quot;&gt;@David Thejl-Clayton&lt;/a&gt; gave on an internal &lt;a href=&quot;https://fdca.dk&quot;&gt;FDCA&lt;/a&gt; webinar. 
 &lt;img src=&quot;/assets/images/Cyberspace.png&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
@@ -11,7 +11,7 @@
   &lt;li&gt;&lt;a href=&quot;#running-certification-race&quot;&gt;:running: Certification Race&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#sunglasses-imposter-syndrome&quot;&gt;:sunglasses: Imposter syndrome&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#collision-tips--tricks&quot;&gt;:collision: Tips &amp;amp; tricks&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#conclusion&quot;&gt;Conclusion&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#wrapping-up&quot;&gt;Wrapping up&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#useful-resources&quot;&gt;Useful resources&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -74,8 +74,11 @@
 
 &lt;p&gt;&lt;strong&gt;:stars: Enough about my way into cyberspace - let’s talk about your opportunities.&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id=&quot;question-endless-opportunities&quot;&gt;:question: Endless opportunities&lt;/h2&gt;
+
 &lt;p&gt;&lt;img src=&quot;/assets/images/roadmap.jpg&quot; /&gt;
-One of the questions that I hear a lot in this field, is what path to take if you want to work in this industry. It’s a legitimate question, and I had it myself. This industry has so many different areas, and &lt;strong&gt;the important part&lt;/strong&gt; is for you to do you &lt;strong&gt;research&lt;/strong&gt;, and &lt;strong&gt;test something&lt;/strong&gt; out. Do you think &lt;em&gt;vulnerability management&lt;/em&gt; is interesting? - Spin up a VM with OpenVAS and try it out. What about &lt;em&gt;penetration testing?&lt;/em&gt; It’s easy for you to create an account on &lt;a href=&quot;https://www.hackthebox.com/&quot;&gt;HackTheBox&lt;/a&gt; and try to see if you can get access to some of the boxes. The only limit is you - there is tons of free ressources in cyberspace.&lt;/p&gt;
+&lt;em&gt;Image from &lt;a href=&quot;https://derechodelared.com/wp-content/uploads/2021/04/Cybersecurity-Domains-Map-3.0.pdf&quot;&gt;Henry Jiang&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;One of the questions that I hear a lot in this field, is what path to take if you want to work in this industry. It’s a legitimate question, and I had it myself. This industry has so many different areas, and &lt;strong&gt;the important part&lt;/strong&gt; is for you to do you &lt;strong&gt;research&lt;/strong&gt;, and &lt;strong&gt;test something&lt;/strong&gt; out. Do you think &lt;em&gt;vulnerability management&lt;/em&gt; is interesting? - Spin up a VM with OpenVAS and try it out. What about &lt;em&gt;penetration testing?&lt;/em&gt; It’s easy for you to create an account on &lt;a href=&quot;https://www.hackthebox.com/&quot;&gt;HackTheBox&lt;/a&gt; and try to see if you can get access to some of the boxes. The only limit is you - there is tons of free ressources in cyberspace.&lt;/p&gt;
 
 &lt;p&gt;Of course, you won’t become an expert with these techniques, but you develop some fundamental skills to do further research and explore your interest. That’s usually a valuable skill for the company you want to work for.&lt;/p&gt;
 
@@ -91,7 +94,7 @@ One of the questions that I hear a lot in this field, is what path to take if yo
 &lt;p&gt;&lt;img src=&quot;/assets/images/kelly-sikkema-9-kKRL6aiik-unsplash.jpg&quot; /&gt;
 &lt;em&gt;Photo by Kelly Sikkema on Unsplash&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;In cyberspace it’s common to go for certifications to learn about new techniques and tacties to either hunt, attack or explore other fields in this domain. My own certification path has just started, so I can’t give any detailed explainations or share experiences from OSCP, CISSP etc, as I haven’t completed them.&lt;/p&gt;
+&lt;p&gt;In cyberspace it’s common to go for certifications to learn about new techniques and tactics to either hunt, attack or explore other fields in this domain. My own certification path has just started, so I can’t give any detailed explainations or share experiences from OSCP, CISSP etc, as I haven’t completed them.&lt;/p&gt;
 
 &lt;p&gt;However, I wont recommend taking a certification from EC-Council, as these courses are focused a lot around tool showcasing, rather than actually getting something useful out. I took Certified Incident Handler from their course-catalog, and I had to admit that I surely regret taking this course!&lt;/p&gt;
 
@@ -117,7 +120,7 @@ SANS is also a huge player, if not the biggest, in this industry. They offer ton
 &lt;h2 id=&quot;collision-tips--tricks&quot;&gt;:collision: Tips &amp;amp; tricks&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Ask questions.&lt;/strong&gt; This is probably my number one tip that have gotten me where I am now. I always have a curiosity to understand why things is the way they are. Whether you are at a job interview, meeting or just &lt;em&gt;networking&lt;/em&gt; - throw a few questions at the recieptient, as this will indicate that you are interested in the conversation, and you dare to express what’s on your mind. It will also be very valuable for the company - maybe they are having a process that should be reviewed and changed, based on your question.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ask questions.&lt;/strong&gt; This is probably my number one tip that have gotten me where I am now. I always have a curiosity to understand why things is the way they are. Whether you are at a job interview, meeting or just &lt;em&gt;networking&lt;/em&gt; - throw a few questions at the recipient, as this will indicate that you are interested in the conversation, and you dare to express what’s on your mind. It will also be very valuable for the company - maybe they are having a process that should be reviewed and changed, based on your question.&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Don’t be afraid of doing something out of your comfortzone.&lt;/strong&gt; &lt;em&gt;I discussed this earlier.&lt;/em&gt;&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Be self-aware.&lt;/strong&gt; As described earlier, describe your blindspots and work on them.&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Celebrate your small victories.&lt;/strong&gt; Described earlier, but this is also a very important point. I keep a folder on my desktop with all my victories. :sunglasses:&lt;/li&gt;
@@ -126,7 +129,14 @@ SANS is also a huge player, if not the biggest, in this industry. They offer ton
   &lt;li&gt;&lt;strong&gt;Keep your Linkedin up-to-date&lt;/strong&gt;. Another tip is to connect with the people you meet, on Linkedin. I use Linkedin as a way of organizing the people I met and had some great conversations with, as long as follow their journey. Linkedin is also a good resource for finding great articles and posts.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+&lt;h2 id=&quot;wrapping-up&quot;&gt;Wrapping up&lt;/h2&gt;
+&lt;p&gt;Wow, that was a long speech from me. :grimacing:&lt;/p&gt;
+
+&lt;p&gt;I sincerely hope you liked the post and could use some of the points addressed. I know that my experience in this industry is not broad yet, but I feel that I, nevertheless, have something to share with the community.&lt;/p&gt;
+
+&lt;p&gt;If your just here to read the conclusion, I suggest that you read the section “:collision: Tips &amp;amp; tricks”, as this outlines the most important points that addressed in this article.&lt;/p&gt;
+
+&lt;p&gt;The next post will be about how to write a Curriculum Vitae, or CV - as this can be unfamiliar for a lot of people, and I will try to address what you should write in a CV, templates to use among other things.&lt;/p&gt;
 
 &lt;h2 id=&quot;useful-resources&quot;&gt;Useful resources&lt;/h2&gt;
 &lt;ul&gt;
@@ -134,7 +144,7 @@ SANS is also a huge player, if not the biggest, in this industry. They offer ton
   &lt;li&gt;&lt;a href=&quot;https://www.hackthebox.com/&quot;&gt;HackTheBox&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://pauljerimy.com/security-certification-roadmap/&quot;&gt;Security Certification Roadmap&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/cybersecurity/&quot;&gt;/r/Cybersecurity&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Christian B. Henriksen</name></author><category term="blog" /><category term="Career-development" /><category term="Cybersecurity" /><category term="Education" /><category term="Tips &amp; Tricks" /><summary type="html">In this blog post, I will try to enlighten some of the questions that a new candidate in this industry might stumble upon. I will build my points on my own experience being fairly new, therefore might this not apply to you. However, I’m sure that you can relate to at least, some of the upcoming points.</summary></entry><entry><title type="html">FDCA - Foreningen for Danske Cyber Alumner</title><link href="http://localhost:4000/blog/Foreningen-for-danske-cyber-alumner/" rel="alternate" type="text/html" title="FDCA - Foreningen for Danske Cyber Alumner" /><published>2022-04-18T21:34:30+02:00</published><updated>2022-04-18T21:34:30+02:00</updated><id>http://localhost:4000/blog/Foreningen-for-danske-cyber-alumner</id><content type="html" xml:base="http://localhost:4000/blog/Foreningen-for-danske-cyber-alumner/">&lt;p&gt;Hvad er FDCA, hvordan bliver man medlem, og hvad laver en cyber forening egentligt? Det vil jeg prøve at beskrive i følgende blog post.&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>Christian B. Henriksen</name></author><category term="blog" /><category term="Career-development" /><category term="Cybersecurity" /><category term="Education" /><category term="Tips &amp; Tricks" /><summary type="html">In this blog post, I will try to enlighten some of the questions that a new candidate in this industry might stumble upon. I will build my points on my own experience being fairly new, therefore might this not apply to you. However, I’m sure that you can relate to at least, some of the upcoming points. This post is inspired by a talk that @David Thejl-Clayton gave on an internal FDCA webinar.</summary></entry><entry><title type="html">FDCA - Foreningen for Danske Cyber Alumner</title><link href="http://localhost:4000/blog/Foreningen-for-danske-cyber-alumner/" rel="alternate" type="text/html" title="FDCA - Foreningen for Danske Cyber Alumner" /><published>2022-04-18T21:34:30+02:00</published><updated>2022-04-18T21:34:30+02:00</updated><id>http://localhost:4000/blog/Foreningen-for-danske-cyber-alumner</id><content type="html" xml:base="http://localhost:4000/blog/Foreningen-for-danske-cyber-alumner/">&lt;p&gt;Hvad er FDCA, hvordan bliver man medlem, og hvad laver en cyber forening egentligt? Det vil jeg prøve at beskrive i følgende blog post.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;em&gt;This post is in Danish, and will eventually be posted in English&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
