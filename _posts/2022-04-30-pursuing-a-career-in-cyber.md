@@ -9,7 +9,7 @@ tags:
   - Education
   - Tips & Tricks
 ---
-In this blog post, I will try to enlighten some of the questions that a new candidate in this industry might stumble upon. I will build my points on my own experience being **fairly new**, therefore might this not apply to you. However, I'm sure that you can relate to at least, some of the upcoming points. This post is inspired by a talk that [@David Thejl-Clayton](https://twitter.com/DCSecuritydk) gave on an internal [FDCA](https://fdca.dk) webinar. 
+In this blog post, I will try to enlighten some of the questions that a new candidate in this industry might stumble upon. I will build my points on my own experience being **fairly new**, therefore this might not apply to you. However, I'm sure that you can relate to at least, some of the upcoming points. This post is inspired by a talk that [@David Thejl-Clayton](https://twitter.com/DCSecuritydk) gave on an internal [FDCA](https://fdca.dk) webinar. 
 <img src="/assets/images/Cyberspace.png">
 
 - [:pencil2: Why even write about this?](#pencil2-why-even-write-about-this)
@@ -21,7 +21,7 @@ In this blog post, I will try to enlighten some of the questions that a new cand
 - [Wrapping up](#wrapping-up)
 - [Useful resources](#useful-resources)
 
-***I hope you enjoy this post. Feel free to reach out to me.***
+***I hope you enjoy this post. Feel free to reach out to me by either of the provided links on the left side panel.***
 
 ## :pencil2: Why even write about this?
 
@@ -38,12 +38,12 @@ My way into this field has (maybe) been quite different, compared to what others
 
 **Let's start with my education.**
 
-I graduated from Aalborg University with a BSc. degree in Information Technology in 2020. The degree was focused a lot on business continuity and evolvement within the IT industry. This gave me a lot of theoretical knowledge about *"how it should be done"*, but no practical experience, which might be valuable for a company.  However, as a side hustle, I worked as a Software Developer for a small start-up - where I developed some of the missing lack of knowledge. 
+I graduated from Aalborg University with a BSc. degree in Information Technology in 2020. The degree was focused a lot on business continuity and evolvement within the IT industry. This gave me a lot of theoretical knowledge about *"how it should be done"*, but no oppertunity to build practical experience, which might be valuable for a company.  However, as a side hustle, I worked as a Software Developer for a small start-up - where I developed some of the missing lack of knowledge. 
 
-After i graduated, I was unsure whether to pursue a Masters degree, or go straight for a entry-level position. I knew that I wanted to work with security, and I knew that i had to get some more knowledge within this field. 
+After i graduated, I was unsure whether to pursue a Masters degree, or go straight for a entry-level position. Two things I however was sure about, was that I knew that I wanted to work with security, and I knew that i had to get some more knowledge within this field. 
 
 **So i had two options:**
-1. Go for additional two years to University, to pursue a Masters degree in something "conventional". 
+1. Spend two futher years at the University, to pursue a Masters degree in something "conventional". 
 2. Apply for an entry level position within a security company. 
 
 And while surfing the internet for open job listings, and degrees, I stumbled upon a new conscript the Danish Military is offering - Cyberværnepligten (*The Cyber Conscript*). 
@@ -60,7 +60,7 @@ After serving 4 months in the Royal Danish Navy as the initial conscript, I move
 - Backup Solutions
 - Governance, Risk & Compliance (GRC)
 - Red teaming techniques and tactics
-- And Incident Response
+- Incident Response
 
 *There is probably something else to add to the list, but this was just what I had in mind.*
 
@@ -95,8 +95,6 @@ If you can enable yourself to go from just going to work because **you have to**
 
 
 ## :running: Certification Race
-<img src="/assets/images/kelly-sikkema-9-kKRL6aiik-unsplash.jpg">
-*Photo by Kelly Sikkema on Unsplash*
 
 In cyberspace it's common to go for certifications to learn about new techniques and tactics to either hunt, attack or explore other fields in this domain. My own certification path has just started, so I can't give any detailed explainations or share experiences from OSCP, CISSP etc, as I haven't completed them. 
 
@@ -105,7 +103,7 @@ However, I wont recommend taking a certification from EC-Council, as these cours
 If you want entry-level certifications, you should go for something like eJPT from [Elearnsecurity](https://elearnsecurity.com/), or something else they have to offer. Unfortunately I haven't had the opportunity to take it myself, but will definately pursue it. 
 SANS is also a huge player, if not the biggest, in this industry. They offer tons of top-notch courses, and they actually have a [roadmap](https://www.sans.org/cyber-security-skills-roadmap/), where you can see the different tracks to evolve in this industry. 
 
-However, you should try to get you employer to pay for your education whether its certifcations or other education - because a lot of these certs are valued at a high price, especially SANS-course, they typically go for $7500. 
+Due to the high price range of the courses, I'd advise trying to cooperate with your firm to have them fund the courses for you, seeing as it would both profit you and your talents as well as the employee development for the firm. A win win for both the employee and employer
 
 There is also a [good overview here](https://pauljerimy.com/security-certification-roadmap/) detailing the different domains, and what certifications to pursue.
 
