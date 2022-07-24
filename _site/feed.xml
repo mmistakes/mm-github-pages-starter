@@ -1,4 +1,119 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-05-04T06:25:14+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Home</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><author><name>Christian B. Henriksen</name></author><entry><title type="html">Pursuing a Career in Cyberspace</title><link href="http://localhost:4000/blog/pursuing-a-career-in-cyber/" rel="alternate" type="text/html" title="Pursuing a Career in Cyberspace" /><published>2022-04-29T21:34:30+02:00</published><updated>2022-04-29T21:34:30+02:00</updated><id>http://localhost:4000/blog/pursuing-a-career-in-cyber</id><content type="html" xml:base="http://localhost:4000/blog/pursuing-a-career-in-cyber/">&lt;p&gt;In this blog post, I will try to enlighten some of the questions that a new candidate in this industry might stumble upon. I will build my points on my own experience being &lt;strong&gt;fairly new&lt;/strong&gt;, therefore might this not apply to you. However, I’m sure that you can relate to at least, some of the upcoming points. This post is inspired by a talk that &lt;a href=&quot;https://twitter.com/DCSecuritydk&quot;&gt;@David Thejl-Clayton&lt;/a&gt; gave on an internal &lt;a href=&quot;https://fdca.dk&quot;&gt;FDCA&lt;/a&gt; webinar. 
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-07-24T15:17:06+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Home</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><author><name>Christian B. Henriksen</name></author><entry><title type="html">WAFW00F - Web Application Firewall Fingerprinting</title><link href="http://localhost:4000/blog/WAFW00F/" rel="alternate" type="text/html" title="WAFW00F - Web Application Firewall Fingerprinting" /><published>2022-07-23T21:34:30+02:00</published><updated>2022-07-23T21:34:30+02:00</updated><id>http://localhost:4000/blog/WAFW00F</id><content type="html" xml:base="http://localhost:4000/blog/WAFW00F/">&lt;p&gt;In this blog post, I will take a look at a cool tool that I have been working with the last couple of weeks, called &lt;a href=&quot;https://github.com/EnableSecurity/wafw00f&quot;&gt;WAFW00F&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;WAFW00F is a tool for fingerprinting if a webserver has a Web Application Firewall.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/WAFW00F.png&quot; /&gt;
+&lt;em&gt;Image is from WAFW00F Github&lt;em&gt;&lt;/em&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#what-is-a-web-application-firewall-waf&quot;&gt;What is a Web Application Firewall (WAF)?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#what-is-fingerprinting&quot;&gt;What is Fingerprinting?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#what-is-wafw00f&quot;&gt;What is WAFW00F&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#how-to-use-wafw00f&quot;&gt;How to use WAFW00F&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#references&quot;&gt;References&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-is-a-web-application-firewall-waf&quot;&gt;What is a Web Application Firewall (WAF)?&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/WAF.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Web Application Firewalls monitor, filter and block certain HTTP packets as they are shifting between the client and the web application/website, unlike a traditional firewall, that prevents unauthorized access to a private network based upon network traffic alone. The WAF will sit between external users and a web application, in which it will analyze and interpret all HTTP communication before it reaches the web application as it operates on Layer 7 in the &lt;a href=&quot;https://en.wikipedia.org/wiki/OSI_model&quot;&gt;OSI model&lt;/a&gt;. This enables security boundaries for critical web applications and protects against zero-day and other known attacks against the web application/server. These attacks can be Cross-site Request Forgery(CSRF), Cross-site-scripting(XSS), or SQL injections among others, and are set up through different policies, and block- or allowlists.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.cloudflare.com/learning/ddos/glossary/web-application-firewall-waf/&quot;&gt;Cloudflare&lt;/a&gt; has a great quote on how to describe a WAF block- and allowlists:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Blocklist Think of a blocklist WAF as a club bouncer instructed to deny admittance to guests who don’t meet the dress code.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Allowlist: This is like the bouncer at an exclusive party, he or she only admits people who are on the list.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;However, a Web Application Firewall can be a hindrance for a penetration test, as the requests from our tools might be blocked by the WAF, nonetheless, there are &lt;a href=&quot;https://www.exploit-db.com/docs/43946&quot;&gt;different ways&lt;/a&gt; to evade these WAFs.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-fingerprinting&quot;&gt;What is Fingerprinting?&lt;/h2&gt;
+&lt;p&gt;Fingerprinting is a method of figuring out, which infrastructure sits in front or behind any web application. Usually, as a pentester, you want to figure out which web engine the website uses, for example, Nginx, Apache, Tomcat, or IIS. Knowing this, you want to pinpoint which version they use, and search for common exploits and vulnerabilities for that particular engine. This information can be acquired in different ways by sending tailored requests to the server and analyzing the response. You can do it manually, or use Nmap to do this fingerprinting. This method of fingerprinting won’t tell you if there is a WAF in front of the web application, and we, therefore, need another tool to do that, WAFW00F.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-wafw00f&quot;&gt;What is WAFW00F&lt;/h2&gt;
+&lt;p&gt;WAFW00F is an open-source Python tool that can fingerprint a lot of different WAF, by sending a normal HTTP request and then doing the automated analysis of the response, to identify which WAF is sitting in front of the Web Application. If it can’t interpret the response, it will send several malicious requests, and use logic to pinpoint which WAF it is.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-to-use-wafw00f&quot;&gt;How to use WAFW00F&lt;/h2&gt;
+
+&lt;p&gt;Firstly you will need to install it. Note, if you are using kali, WAFW00F will come preinstalled.
+If not, you can install it this way:&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;─&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;cbh㉿ubuntu&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;-[~]
+└─&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;git clone https://github.com/EnableSecurity/wafw00f
+
+─&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;cbh㉿ubuntu&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;-[~]
+└─&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;python3 setup.py &lt;span class=&quot;nb&quot;&gt;install&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;You can get a list of all the WAFs that WAFW00F can identify by writing the following:&lt;/p&gt;
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;wafw00f &lt;span class=&quot;nt&quot;&gt;-l&lt;/span&gt;
+
+                   ______
+                  /      &lt;span class=&quot;se&quot;&gt;\&lt;/span&gt;
+                 &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;  Woof! &lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
+                  &lt;span class=&quot;se&quot;&gt;\ &lt;/span&gt; ____/                      &lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
+                  ,,                           &lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;_
+             .-. -    _______                 &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt; |__|
+            &lt;span class=&quot;o&quot;&gt;()&lt;/span&gt;&lt;span class=&quot;sb&quot;&gt;``&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; |&lt;span class=&quot;o&quot;&gt;==&lt;/span&gt;|_______&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;                .&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;|__|
+            / &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&apos;        /|\                  (  |__|
+        (  /  )        / | \                  . |__|
+         \(_)_))      /  |  \                   |__|
+
+                    ~ WAFW00F : v2.2.0 ~
+    The Web Application Firewall Fingerprinting Toolkit
+
+[+] Can test for these WAFs:
+
+  WAF Name                        Manufacturer
+  --------                        ------------
+
+  ACE XML Gateway                  Cisco
+  aeSecure                         aeSecure
+  AireeCDN                         Airee
+  Airlock                          Phion/Ergon
+  Alert Logic                      Alert Logic
+  AliYunDun                        Alibaba Cloud Computing
+  Anquanbao                        Anquanbao
+  AnYu                             AnYu Technologies
+  [...]                            [...]
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;And to use it, simply just run:&lt;/p&gt;
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;─&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;cbh㉿kali&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;-[~]
+└─&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;wafw00f https://blog.guzzy.dk                                                           
+
+                   ______
+                  /      &lt;span class=&quot;se&quot;&gt;\&lt;/span&gt;
+                 &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;  Woof! &lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
+                  &lt;span class=&quot;se&quot;&gt;\ &lt;/span&gt; ____/                      &lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
+                  ,,                           &lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;_
+             .-. -    _______                 &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt; |__|
+            &lt;span class=&quot;o&quot;&gt;()&lt;/span&gt;&lt;span class=&quot;sb&quot;&gt;``&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; |&lt;span class=&quot;o&quot;&gt;==&lt;/span&gt;|_______&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;                .&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;|__|
+            / &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&apos;        /|\                  (  |__|
+        (  /  )        / | \                  . |__|
+         \(_)_))      /  |  \                   |__|
+
+                    ~ WAFW00F : v2.1.0 ~
+    The Web Application Firewall Fingerprinting Toolkit
+    
+[*] Checking https://blog.guzzy.dk
+[+] The site https://blog.guzzy.dk is behind Cloudflare (Cloudflare Inc.) WAF.
+[~] Number of requests: 2
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;As you can see, blog.guzzy.dk is using Cloudflare as a WAF. 
+You can now use this tool for your next Web Application PenTest to look for those annoying WAFs.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;I hope you enjoy this post. Feel free to reach out to me by either of the provided links on the left side panel.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/EnableSecurity/wafw00f&quot;&gt;WAFW00F - Github&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cloudflare.com/learning/ddos/glossary/web-application-firewall-waf/&quot;&gt;CloudFlare - What is a Web Application Firewall&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.exploit-db.com/docs/43946&quot;&gt;Web Application Firewall (WAF) Evasion Techniques
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Christian B. Henriksen</name></author><category term="blog" /><category term="Cybersecurity" /><category term="Education" /><category term="Tools" /><category term="Red teaming" /><category term="Tips &amp; Tricks" /><summary type="html">In this blog post, I will take a look at a cool tool that I have been working with the last couple of weeks, called WAFW00F.</summary></entry><entry><title type="html">Pursuing a Career in Cyberspace</title><link href="http://localhost:4000/blog/pursuing-a-career-in-cyber/" rel="alternate" type="text/html" title="Pursuing a Career in Cyberspace" /><published>2022-04-29T21:34:30+02:00</published><updated>2022-04-29T21:34:30+02:00</updated><id>http://localhost:4000/blog/pursuing-a-career-in-cyber</id><content type="html" xml:base="http://localhost:4000/blog/pursuing-a-career-in-cyber/">&lt;p&gt;In this blog post, I will try to enlighten some of the questions that a new candidate in this industry might stumble upon. I will build my points on my own experience being &lt;strong&gt;fairly new&lt;/strong&gt;, therefore this might not apply to you. However, I’m sure that you can relate to at least, some of the upcoming points. This post is inspired by a talk that &lt;a href=&quot;https://twitter.com/DCSecuritydk&quot;&gt;@David Thejl-Clayton&lt;/a&gt; gave on an internal &lt;a href=&quot;https://fdca.dk&quot;&gt;FDCA&lt;/a&gt; webinar. 
 &lt;img src=&quot;/assets/images/Cyberspace.png&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
@@ -15,7 +130,7 @@
   &lt;li&gt;&lt;a href=&quot;#useful-resources&quot;&gt;Useful resources&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;I hope you enjoy this post. Feel free to reach out to me.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;I hope you enjoy this post. Feel free to reach out to me by either of the provided links on the left side panel.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;pencil2-why-even-write-about-this&quot;&gt;:pencil2: Why even write about this?&lt;/h2&gt;
 
@@ -30,13 +145,13 @@
 
 &lt;p&gt;&lt;strong&gt;Let’s start with my education.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;I graduated from Aalborg University with a BSc. degree in Information Technology in 2020. The degree was focused a lot on business continuity and evolvement within the IT industry. This gave me a lot of theoretical knowledge about &lt;em&gt;“how it should be done”&lt;/em&gt;, but no practical experience, which might be valuable for a company.  However, as a side hustle, I worked as a Software Developer for a small start-up - where I developed some of the missing lack of knowledge.&lt;/p&gt;
+&lt;p&gt;I graduated from Aalborg University with a BSc. degree in Information Technology in 2020. The degree was focused a lot on business continuity and evolvement within the IT industry. This gave me a lot of theoretical knowledge about &lt;em&gt;“how it should be done”&lt;/em&gt;, but no oppertunity to build practical experience, which might be valuable for a company.  However, as a side hustle, I worked as a Software Developer for a small start-up - where I developed some of the missing lack of knowledge.&lt;/p&gt;
 
-&lt;p&gt;After i graduated, I was unsure whether to pursue a Masters degree, or go straight for a entry-level position. I knew that I wanted to work with security, and I knew that i had to get some more knowledge within this field.&lt;/p&gt;
+&lt;p&gt;After i graduated, I was unsure whether to pursue a Masters degree, or go straight for a entry-level position. Two things I however was sure about, was that I knew that I wanted to work with security, and I knew that i had to get some more knowledge within this field.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;So i had two options:&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
-  &lt;li&gt;Go for additional two years to University, to pursue a Masters degree in something “conventional”.&lt;/li&gt;
+  &lt;li&gt;Spend two futher years at the University, to pursue a Masters degree in something “conventional”.&lt;/li&gt;
   &lt;li&gt;Apply for an entry level position within a security company.&lt;/li&gt;
 &lt;/ol&gt;
 
@@ -55,7 +170,7 @@
   &lt;li&gt;Backup Solutions&lt;/li&gt;
   &lt;li&gt;Governance, Risk &amp;amp; Compliance (GRC)&lt;/li&gt;
   &lt;li&gt;Red teaming techniques and tactics&lt;/li&gt;
-  &lt;li&gt;And Incident Response&lt;/li&gt;
+  &lt;li&gt;Incident Response&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;em&gt;There is probably something else to add to the list, but this was just what I had in mind.&lt;/em&gt;&lt;/p&gt;
@@ -91,8 +206,6 @@
 &lt;p&gt;If you can enable yourself to go from just going to work because &lt;strong&gt;you have to&lt;/strong&gt;, to going to work because it &lt;strong&gt;interest you&lt;/strong&gt; - then you have found your right place.&lt;/p&gt;
 
 &lt;h2 id=&quot;running-certification-race&quot;&gt;:running: Certification Race&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/images/kelly-sikkema-9-kKRL6aiik-unsplash.jpg&quot; /&gt;
-&lt;em&gt;Photo by Kelly Sikkema on Unsplash&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;In cyberspace it’s common to go for certifications to learn about new techniques and tactics to either hunt, attack or explore other fields in this domain. My own certification path has just started, so I can’t give any detailed explainations or share experiences from OSCP, CISSP etc, as I haven’t completed them.&lt;/p&gt;
 
@@ -101,7 +214,7 @@
 &lt;p&gt;If you want entry-level certifications, you should go for something like eJPT from &lt;a href=&quot;https://elearnsecurity.com/&quot;&gt;Elearnsecurity&lt;/a&gt;, or something else they have to offer. Unfortunately I haven’t had the opportunity to take it myself, but will definately pursue it. 
 SANS is also a huge player, if not the biggest, in this industry. They offer tons of top-notch courses, and they actually have a &lt;a href=&quot;https://www.sans.org/cyber-security-skills-roadmap/&quot;&gt;roadmap&lt;/a&gt;, where you can see the different tracks to evolve in this industry.&lt;/p&gt;
 
-&lt;p&gt;However, you should try to get you employer to pay for your education whether its certifcations or other education - because a lot of these certs are valued at a high price, especially SANS-course, they typically go for $7500.&lt;/p&gt;
+&lt;p&gt;Due to the high price range of the courses, I’d advise trying to cooperate with your firm to have them fund the courses for you, seeing as it would both profit you and your talents as well as the employee development for the firm. A win win for both the employee and employer&lt;/p&gt;
 
 &lt;p&gt;There is also a &lt;a href=&quot;https://pauljerimy.com/security-certification-roadmap/&quot;&gt;good overview here&lt;/a&gt; detailing the different domains, and what certifications to pursue.&lt;/p&gt;
 
@@ -144,7 +257,7 @@ SANS is also a huge player, if not the biggest, in this industry. They offer ton
   &lt;li&gt;&lt;a href=&quot;https://www.hackthebox.com/&quot;&gt;HackTheBox&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://pauljerimy.com/security-certification-roadmap/&quot;&gt;Security Certification Roadmap&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/cybersecurity/&quot;&gt;/r/Cybersecurity&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Christian B. Henriksen</name></author><category term="blog" /><category term="Career-development" /><category term="Cybersecurity" /><category term="Education" /><category term="Tips &amp; Tricks" /><summary type="html">In this blog post, I will try to enlighten some of the questions that a new candidate in this industry might stumble upon. I will build my points on my own experience being fairly new, therefore might this not apply to you. However, I’m sure that you can relate to at least, some of the upcoming points. This post is inspired by a talk that @David Thejl-Clayton gave on an internal FDCA webinar.</summary></entry><entry><title type="html">FDCA - Foreningen for Danske Cyber Alumner</title><link href="http://localhost:4000/blog/Foreningen-for-danske-cyber-alumner/" rel="alternate" type="text/html" title="FDCA - Foreningen for Danske Cyber Alumner" /><published>2022-04-18T21:34:30+02:00</published><updated>2022-04-18T21:34:30+02:00</updated><id>http://localhost:4000/blog/Foreningen-for-danske-cyber-alumner</id><content type="html" xml:base="http://localhost:4000/blog/Foreningen-for-danske-cyber-alumner/">&lt;p&gt;Hvad er FDCA, hvordan bliver man medlem, og hvad laver en cyber forening egentligt? Det vil jeg prøve at beskrive i følgende blog post.&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>Christian B. Henriksen</name></author><category term="blog" /><category term="Career-development" /><category term="Cybersecurity" /><category term="Education" /><category term="Tips &amp; Tricks" /><summary type="html">In this blog post, I will try to enlighten some of the questions that a new candidate in this industry might stumble upon. I will build my points on my own experience being fairly new, therefore this might not apply to you. However, I’m sure that you can relate to at least, some of the upcoming points. This post is inspired by a talk that @David Thejl-Clayton gave on an internal FDCA webinar.</summary></entry><entry><title type="html">FDCA - Foreningen for Danske Cyber Alumner</title><link href="http://localhost:4000/blog/foreningen-for-danske-cyber-alumner/" rel="alternate" type="text/html" title="FDCA - Foreningen for Danske Cyber Alumner" /><published>2022-04-18T21:34:30+02:00</published><updated>2022-04-18T21:34:30+02:00</updated><id>http://localhost:4000/blog/foreningen-for-danske-cyber-alumner</id><content type="html" xml:base="http://localhost:4000/blog/foreningen-for-danske-cyber-alumner/">&lt;p&gt;Hvad er FDCA, hvordan bliver man medlem, og hvad laver en cyber forening egentligt? Det vil jeg prøve at beskrive i følgende blog post.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;em&gt;This post is in Danish, and will eventually be posted in English&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
@@ -210,17 +323,4 @@ Helt specifikt bruger vi nu blandt andet meget energi på at få stablet nogle v
  &lt;a href=&quot;https://www.linkedin.com/company/foreningen-for-danske-cyber-alumner&quot;&gt;LinkedIn&lt;/a&gt;, eller vores hjemmeside: &lt;a href=&quot;https://fdca.dk&quot;&gt;FDCA.dk&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Eller smid os en mail på: 
- info@fdca.dk&lt;/p&gt;</content><author><name>Christian B. Henriksen</name></author><category term="blog" /><category term="Cyberværnepligt" /><category term="Cybersecurity" /><category term="Education" /><summary type="html">Hvad er FDCA, hvordan bliver man medlem, og hvad laver en cyber forening egentligt? Det vil jeg prøve at beskrive i følgende blog post.</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/blog/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2019-04-18T21:34:30+02:00</published><updated>2019-04-18T21:34:30+02:00</updated><id>http://localhost:4000/blog/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/blog/welcome-to-jekyll/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;div class=&quot;language-ruby highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name>Christian B. Henriksen</name></author><category term="blog" /><category term="Jekyll" /><category term="update" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
+ info@fdca.dk&lt;/p&gt;</content><author><name>Christian B. Henriksen</name></author><category term="blog" /><category term="Cyberværnepligt" /><category term="Cybersecurity" /><category term="Education" /><summary type="html">Hvad er FDCA, hvordan bliver man medlem, og hvad laver en cyber forening egentligt? Det vil jeg prøve at beskrive i følgende blog post.</summary></entry></feed>

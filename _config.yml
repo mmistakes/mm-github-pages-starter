@@ -23,7 +23,7 @@ twitter_username: Christi54456697
 github_username: Guzzy711
 minimal_mistakes_skin: dark
 search: true
-
+future: true
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes

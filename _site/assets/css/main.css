@@ -259,9 +259,6 @@ tt, code, kbd, samp, pre { font-family: Monaco, Consolas, "Lucida Console", mono
 
 pre { overflow-x: auto; /* add scrollbars to wide code blocks*/ }
 
-p > code, a > code, li > code, figcaption > code, td > code { padding-top: 0.1rem; padding-bottom: 0.1rem; font-size: 0.8em; background: #1f242c; border-radius: 4px; }
-p > code:before, p > code:after, a > code:before, a > code:after, li > code:before, li > code:after, figcaption > code:before, figcaption > code:after, td > code:before, td > code:after { letter-spacing: -0.2em; content: "\00a0"; /* non-breaking space*/ }
-
 /* horizontal rule */
 hr { display: block; margin: 1em 0; border: 0; border-top: 1px solid #51555d; }
 
@@ -470,6 +467,7 @@ tr, td, th { vertical-align: middle; }
 .notice h4 + p { /* remove space above paragraphs that appear directly after notice headline*/ margin-top: 0; padding-top: 0; }
 .notice a { color: #aaaeb0; }
 .notice a:hover { color: #5f6162; }
+blockquote.notice { border-left-color: #aaaeb0; }
 .notice code { background-color: #343942; }
 .notice pre code { background-color: inherit; }
 .notice ul:last-child { margin-bottom: 0; /* override*/ }
@@ -482,6 +480,7 @@ tr, td, th { vertical-align: middle; }
 .notice--primary h4 + p { /* remove space above paragraphs that appear directly after notice headline*/ margin-top: 0; padding-top: 0; }
 .notice--primary a { color: #009ca3; }
 .notice--primary a:hover { color: #00575b; }
+blockquote.notice--primary { border-left-color: #009ca3; }
 .notice--primary code { background-color: #213741; }
 .notice--primary pre code { background-color: inherit; }
 .notice--primary ul:last-child { margin-bottom: 0; /* override*/ }
@@ -494,6 +493,7 @@ tr, td, th { vertical-align: middle; }
 .notice--info h4 + p { /* remove space above paragraphs that appear directly after notice headline*/ margin-top: 0; padding-top: 0; }
 .notice--info a { color: #358ca7; }
 .notice--info a:hover { color: #1e4e5d; }
+blockquote.notice--info { border-left-color: #358ca7; }
 .notice--info code { background-color: #273541; }
 .notice--info pre code { background-color: inherit; }
 .notice--info ul:last-child { margin-bottom: 0; /* override*/ }
@@ -506,6 +506,7 @@ tr, td, th { vertical-align: middle; }
 .notice--warning h4 + p { /* remove space above paragraphs that appear directly after notice headline*/ margin-top: 0; padding-top: 0; }
 .notice--warning a { color: #c17205; }
 .notice--warning a:hover { color: #6b4003; }
+blockquote.notice--warning { border-left-color: #c17205; }
 .notice--warning code { background-color: #37332f; }
 .notice--warning pre code { background-color: inherit; }
 .notice--warning ul:last-child { margin-bottom: 0; /* override*/ }
@@ -518,6 +519,7 @@ tr, td, th { vertical-align: middle; }
 .notice--success h4 + p { /* remove space above paragraphs that appear directly after notice headline*/ margin-top: 0; padding-top: 0; }
 .notice--success a { color: #399539; }
 .notice--success a:hover { color: #205320; }
+blockquote.notice--success { border-left-color: #399539; }
 .notice--success code { background-color: #283635; }
 .notice--success pre code { background-color: inherit; }
 .notice--success ul:last-child { margin-bottom: 0; /* override*/ }
@@ -530,6 +532,7 @@ tr, td, th { vertical-align: middle; }
 .notice--danger h4 + p { /* remove space above paragraphs that appear directly after notice headline*/ margin-top: 0; padding-top: 0; }
 .notice--danger a { color: #d65652; }
 .notice--danger a:hover { color: #77302e; }
+blockquote.notice--danger { border-left-color: #d65652; }
 .notice--danger code { background-color: #392f38; }
 .notice--danger pre code { background-color: inherit; }
 .notice--danger ul:last-child { margin-bottom: 0; /* override*/ }
@@ -961,6 +964,8 @@ body { display: -webkit-box; display: -ms-flexbox; display: flex; min-height: 10
 .page__content p { margin: 0 0 1.3em; /* sibling indentation*/ }
 .page__content a:not(.btn):hover { text-decoration: underline; }
 .page__content a:not(.btn):hover img { box-shadow: 0 0 10px rgba(0, 0, 0, 0.25); }
+.page__content :not(pre) > code { padding-top: 0.1rem; padding-bottom: 0.1rem; font-size: 0.8em; background: #1f242c; border-radius: 4px; }
+.page__content :not(pre) > code::before, .page__content :not(pre) > code::after { letter-spacing: -0.2em; content: "\00a0"; /* non-breaking space*/ }
 .page__content dt { margin-top: 1em; font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif; font-weight: bold; }
 .page__content dd { margin-left: 1em; font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif; font-size: 0.75em; }
 .page__content .small { font-size: 0.75em; }

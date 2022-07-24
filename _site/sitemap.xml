@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/blog/welcome-to-jekyll/</loc>
-<lastmod>2019-04-18T21:34:30+02:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/blog/Foreningen-for-danske-cyber-alumner/</loc>
+<loc>http://localhost:4000/blog/foreningen-for-danske-cyber-alumner/</loc>
 <lastmod>2022-04-18T21:34:30+02:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/blog/pursuing-a-career-in-cyber/</loc>
 <lastmod>2022-04-29T21:34:30+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/WAFW00F/</loc>
+<lastmod>2022-07-23T21:34:30+02:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/about/</loc>
