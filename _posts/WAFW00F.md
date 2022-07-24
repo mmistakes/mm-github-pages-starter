@@ -1,0 +1,119 @@
+---
+title: "WAFW00F - Web Application Firewall Fingerprinting"
+date: 2022-07-24T15:34:30-04:00
+categories:
+  - blog
+tags:
+  - Cybersecurity
+  - Education
+  - Tools
+  - Red teaming
+  - Tips & Tricks
+---
+In this blog post, I will take a look at a cool tool that I have been working with the last couple of weeks, called [WAFW00F](https://github.com/EnableSecurity/wafw00f). 
+
+WAFW00F is a tool for fingerprinting if a webserver has a Web Application Firewall. 
+
+<img src="/assets/images/WAFW00F.png">
+
+## What is a Web Application Firewall (WAF)?
+<img src="/assets/images/WAF.png">
+
+Web Application Firewalls monitor, filter and block certain HTTP packets as they are shifting between the client and the web application/website, unlike a traditional firewall, that prevents unauthorized access to a private network based upon network traffic alone. The WAF will sit between external users and a web application, in which it will analyze and interpret all HTTP communication before it reaches the web application as it operates on Layer 7 in the [OSI model](https://en.wikipedia.org/wiki/OSI_model). This enables security boundaries for critical web applications and protects against zero-day and other known attacks against the web application/server. These attacks can be Cross-site Request Forgery(CSRF), Cross-site-scripting(XSS), or SQL injections among others, and are set up through different policies, and block- or allowlists. 
+
+[Cloudflare](https://www.cloudflare.com/learning/ddos/glossary/web-application-firewall-waf/) has a great quote on how to describe a WAF block- and allowlists:
+> Blocklist Think of a blocklist WAF as a club bouncer instructed to deny admittance to guests who don’t meet the dress code.
+
+> Allowlist: This is like the bouncer at an exclusive party, he or she only admits people who are on the list.
+
+However, a Web Application Firewall can be a hindrance for a penetration test, as the requests from our tools might be blocked by the WAF, nonetheless, there are [different ways](https://www.exploit-db.com/docs/43946) to evade these WAFs. 
+
+## What is Fingerprinting?
+Fingerprinting is a method of figuring out, which infrastructure sits in front or behind any web application. Usually, as a pentester, you want to figure out which web engine the website uses, for example, Nginx, Apache, Tomcat, or IIS. Knowing this, you want to pinpoint which version they use, and search for common exploits and vulnerabilities for that particular engine. This information can be acquired in different ways by sending tailored requests to the server and analyzing the response. You can do it manually, or use Nmap to do this fingerprinting. This method of fingerprinting won't tell you if there is a WAF in front of the web application, and we, therefore, need another tool to do that, WAFW00F. 
+
+
+## What is WAFW00F
+WAFW00F is an open-source Python tool that can fingerprint a lot of different WAF, by sending a normal HTTP request and then doing the automated analysis of the response, to identify which WAF is sitting in front of the Web Application. If it can't interpret the response, it will send several malicious requests, and use logic to pinpoint which WAF it is.  
+
+## How to use WAFW00F
+
+Firstly you will need to install it. Note, if you are using kali, WAFW00F will come preinstalled.
+If not, you can install it this way:
+
+```bash
+─(cbh㉿ubuntu)-[~]
+└─$ git clone https://github.com/EnableSecurity/wafw00f
+
+─(cbh㉿ubuntu)-[~]
+└─$ python3 setup.py install
+```
+
+You can get a list of all the WAFs that WAFW00F can identify by writing the following:
+```bash
+$ wafw00f -l
+
+                   ______
+                  /      \
+                 (  Woof! )
+                  \  ____/                      )
+                  ,,                           ) (_
+             .-. -    _______                 ( |__|
+            ()``; |==|_______)                .)|__|
+            / ('        /|\                  (  |__|
+        (  /  )        / | \                  . |__|
+         \(_)_))      /  |  \                   |__|
+
+                    ~ WAFW00F : v2.2.0 ~
+    The Web Application Firewall Fingerprinting Toolkit
+
+[+] Can test for these WAFs:
+
+  WAF Name                        Manufacturer
+  --------                        ------------
+
+  ACE XML Gateway                  Cisco
+  aeSecure                         aeSecure
+  AireeCDN                         Airee
+  Airlock                          Phion/Ergon
+  Alert Logic                      Alert Logic
+  AliYunDun                        Alibaba Cloud Computing
+  Anquanbao                        Anquanbao
+  AnYu                             AnYu Technologies
+  [...]                            [...]
+```
+
+And to use it, simply just run:
+```bash
+─(cbh㉿kali)-[~]
+└─$ wafw00f https://blog.guzzy.dk                                                           
+
+                   ______
+                  /      \
+                 (  Woof! )
+                  \  ____/                      )
+                  ,,                           ) (_
+             .-. -    _______                 ( |__|
+            ()``; |==|_______)                .)|__|
+            / ('        /|\                  (  |__|
+        (  /  )        / | \                  . |__|
+         \(_)_))      /  |  \                   |__|
+
+                    ~ WAFW00F : v2.1.0 ~
+    The Web Application Firewall Fingerprinting Toolkit
+    
+[*] Checking https://blog.guzzy.dk
+[+] The site https://blog.guzzy.dk is behind Cloudflare (Cloudflare Inc.) WAF.
+[~] Number of requests: 2
+```
+As you can see, blog.guzzy.dk is using Cloudflare as a WAF. 
+You can now use this tool for your next Web Application PenTest to look for those annoying WAFs. 
+
+
+
+***I hope you enjoy this post. Feel free to reach out to me by either of the provided links on the left side panel.***
+
+## References
+- [WAFW00F - Github](https://github.com/EnableSecurity/wafw00f)
+- [CloudFlare - What is a Web Application Firewall](https://www.cloudflare.com/learning/ddos/glossary/web-application-firewall-waf/)
+- [Web Application Firewall (WAF) Evasion Techniques
+](https://www.exploit-db.com/docs/43946)
