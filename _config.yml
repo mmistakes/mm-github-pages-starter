@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "zaidanr's blog"
 email: "root@zaidanr.dev"
-description: "just gonna write down what i've learnt"
+description: "ancora imparo"
 twitter_username: "@ZRizaki27"
 github_username: "zaidanr"
 minimal_mistakes_skin: dark
@@ -74,7 +74,7 @@ footer:
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
-      url: "https://www.linkedin.com/in/muhammad-ananda-zaidan-rizaki-76763a190"
+      url: "https://www.linkedin.com/in/zaidanrizaki"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/ZRizaki27"
