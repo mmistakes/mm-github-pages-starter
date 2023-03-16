@@ -17,7 +17,7 @@ var store = [{
         "url": "/blog/WAFW00F/",
         "teaser": null
       },{
-        "title": "👨‍💻 The Realities of Being an IT-Consultant",
+        "title": "👨‍💻 The Realities of being an IT-Consultant",
         "excerpt":"Introduction I have gotten a few inquiries regarding how it is to work as a consultant, and what makes this profession so exciting. My name is Christian Henriksen, and I work as a Cybersecurity Consultant at Trifork Security in Denmark. My primary job areas are quite broad compared to other...","categories": ["blog"],
         "tags": ["Cybersecurity","Education","Career"],
         "url": "/blog/The-Realities-of-Being-an-IT-Consultant/",

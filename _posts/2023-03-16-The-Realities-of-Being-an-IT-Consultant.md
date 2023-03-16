@@ -1,5 +1,5 @@
 ---
-title: "👨‍💻 The Realities of Being an IT-Consultant"
+title: "👨‍💻 The Realities of being an IT-Consultant"
 date: 2023-04-16T15:34:30-04:00
 categories:
   - blog
