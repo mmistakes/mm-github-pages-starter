@@ -1,4 +1,112 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-07-24T15:26:12+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Home</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><author><name>Christian B. Henriksen</name></author><entry><title type="html">WAFW00F - Web Application Firewall Fingerprinting</title><link href="http://localhost:4000/blog/WAFW00F/" rel="alternate" type="text/html" title="WAFW00F - Web Application Firewall Fingerprinting" /><published>2022-07-23T21:34:30+02:00</published><updated>2022-07-23T21:34:30+02:00</updated><id>http://localhost:4000/blog/WAFW00F</id><content type="html" xml:base="http://localhost:4000/blog/WAFW00F/">&lt;p&gt;In this blog post, I will take a look at a cool tool that I have been working with the last couple of weeks, called &lt;a href=&quot;https://github.com/EnableSecurity/wafw00f&quot;&gt;WAFW00F&lt;/a&gt;.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-03-16T15:58:49+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Home</title><subtitle>Simple security blog addressing different wierd stuff.</subtitle><author><name>Christian B. Henriksen</name></author><entry><title type="html">👨‍💻 The Realities of Being an IT-Consultant</title><link href="http://localhost:4000/blog/The-Realities-of-Being-an-IT-Consultant/" rel="alternate" type="text/html" title="👨‍💻 The Realities of Being an IT-Consultant" /><published>2023-04-16T21:34:30+02:00</published><updated>2023-04-16T21:34:30+02:00</updated><id>http://localhost:4000/blog/The-Realities-of-Being-an-IT-Consultant</id><content type="html" xml:base="http://localhost:4000/blog/The-Realities-of-Being-an-IT-Consultant/">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;I have gotten a few inquiries regarding how it is to work as a consultant, and what makes this profession so exciting.&lt;/p&gt;
+
+&lt;p&gt;My name is Christian Henriksen, and I work as a Cybersecurity Consultant at Trifork Security in Denmark.&lt;/p&gt;
+
+&lt;p&gt;My primary job areas are quite broad compared to other consultants, but I primarily work in Managed Detection &amp;amp; Response (MDR), Offensive Security and also participate as Incident Response Lead for our Incident Response team.&lt;/p&gt;
+
+&lt;p&gt;If you want to read more about my path to working in Cybersecurity, you can read my blog post about “Pursuing a Career in Cyberspace”:
+&lt;a href=&quot;https://blog.guzzy.dk/blog/pursuing-a-career-in-cyber/&quot;&gt;https://blog.guzzy.dk/blog/pursuing-a-career-in-cyber/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/consultant.png&quot; style=&quot;border-radius:50%;max-width:55%&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-consultant-life-like&quot;&gt;What is consultant life like?&lt;/h2&gt;
+&lt;p&gt;There is a lot of rumours and misconceptions to what the consultant life is. Some of it might be true, to some consulting businesses, but this is definitely not true for all of them. 
+Some of the misconceptions might be related to the following:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Working 60+ hours/week&lt;/li&gt;
+  &lt;li&gt;Consultants delivers 120% every day&lt;/li&gt;
+  &lt;li&gt;Consultants make PowerPoints all day long&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;working-60-hoursweek&quot;&gt;Working 60+ hours/week&lt;/h3&gt;
+&lt;p&gt;That’s certainly not accurate. Companies understand that their most valuable assets, particularly in consulting firms, are their employees. If consultants are diagnosed with stress, it places a significant burden on the company, and it may take a considerable amount of time before they can resume their work effectively. Personally, my contract specifies 37 hours per week, which is standard in Denmark.&lt;/p&gt;
+
+&lt;p&gt;However, my workload can fluctuate a bit since I’m also a member of the incident response team, which sometimes requires me to work on a case for more than those 37 hours. Fortunately, my employer is incredibly flexible when it comes to scheduling, so if I work for 45 hours one week, I can work less the following week and so on.&lt;/p&gt;
+
+&lt;p&gt;Many “modern” consulting firms provide this level of flexibility, but some of the “old boys in the club” may still be adhering to extremely demanding work schedules - yes, McKinsey, I’m looking at you… :-)&lt;/p&gt;
+
+&lt;h3 id=&quot;consultants-delivers-120-every-day&quot;&gt;Consultants delivers 120% every day&lt;/h3&gt;
+&lt;p&gt;I agree that it is super satisfying to always deliver more than what is expected. However, while it might seem like a great way to impress clients or supervisors, the truth is that it’s often unfeasible.&lt;/p&gt;
+
+&lt;p&gt;I always strive to perform to the best of my abilities, but I don’t let it affect me if I fall short and deliver work that’s only around 80 or 90% of what was expected. If I were to feel compelled to surpass expectations every single time, I doubt I’d even be able to write this blog post.&lt;/p&gt;
+
+&lt;h3 id=&quot;consultants-make-powerpoints-all-day-long&quot;&gt;Consultants make PowerPoints all day long&lt;/h3&gt;
+&lt;p&gt;Oh, interestingly enough, I’ve been creating numerous PowerPoint presentations lately, although it’s not a task I typically do frequently. It’s essential to recognize that reporting is incredibly significant when working as a consultant because you need to provide an account of your activities, and show the clients the value you are adding.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;However, if I had to quantify the amount of reporting I undertake, I’d estimate it to be around 20% of my workload, with the remainder being dedicated to collaborating with customers and resolving their issues.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;My daily work as an consultant can vary a lot depending on the customers I’m working on, but generally a week consists of the following tasks:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Meeting with clients/customers&lt;/li&gt;
+  &lt;li&gt;Developing solutions&lt;/li&gt;
+  &lt;li&gt;Assessments&lt;/li&gt;
+  &lt;li&gt;Analysing data&lt;/li&gt;
+  &lt;li&gt;Writing reports and presentations&lt;/li&gt;
+  &lt;li&gt;Networking and business development&lt;/li&gt;
+  &lt;li&gt;Study/research&lt;/li&gt;
+  &lt;li&gt;Project management&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The scope of the tasks is extensive, providing opportunity for diverse and thrilling assignments. However, reporting is also part of my duties as a consultant, because if the customer cannot see what you are doing, you are in trouble… :-)&lt;/p&gt;
+
+&lt;p&gt;What I find particularly stimulating is the fact that each task is typically unexplored territory for me (or at least some aspects of it are), affording me the chance to collaborate with various customers/clients and gain strong relationships with them.&lt;/p&gt;
+
+&lt;p&gt;Consultancy may be daunting for some due to the requirement of time tracking. This entails keeping track of the time spent on each task and determining whether it can be billed to the client. It took me some time to adapt to this practice since I had previously worked for the government, where time tracking was not necessary. But to be honest, this is not a big deal, and something you will get used to fairly quick.&lt;/p&gt;
+
+&lt;h2 id=&quot;skills-that-set-you-apart&quot;&gt;Skills that set you apart&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/skills.png&quot; style=&quot;max-width:50%;margin:0 auto;text-align:center;border-radius:50%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In my opinion that there are certain skills that are absolutely essential for anyone working as a consultant, and some that will set you apart. Let’s start with the essential.&lt;/p&gt;
+
+&lt;p&gt;One of the most crucial skills for a consultant to possess is &lt;strong&gt;strong communication skills&lt;/strong&gt;. As a consultant, you’ll have numerous discussions and conversations with clients, vendors, partners, and other stakeholders.&lt;/p&gt;
+
+&lt;p&gt;Therefore, it’s important to be able to articulate your message in a manner that is clear and understandable to the person on the receiving end.&lt;/p&gt;
+
+&lt;p&gt;Following communication skills, it’s important to have a &lt;strong&gt;flair for problem-solving&lt;/strong&gt;, and being able to solve assignments in an analytical manner. As a consultant, clients expect you to develop well-thought-out solutions that have been thoroughly analysed and rationally crafted.&lt;/p&gt;
+
+&lt;p&gt;The final skill that (in my opinion) is indispensable as a consultant, is &lt;strong&gt;flexibility and adaptability&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Clients/customers often change their opinions and decisions, and as a result, a solution that you have been working on for weeks may be abandoned, requiring you to develop an alternative approach to address the problem. This can be super frustrating, but that’s part of the game as an consultant.&lt;/p&gt;
+
+&lt;p&gt;There are certainly additional skills that can help you as a consultant. Some examples are provided below:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Technical proficiency&lt;/li&gt;
+  &lt;li&gt;Teamwork abilities&lt;/li&gt;
+  &lt;li&gt;Time management&lt;/li&gt;
+  &lt;li&gt;Industry knowledge&lt;/li&gt;
+  &lt;li&gt;Strategic thinking&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A lot of these will automatically come to you when you have been working as a consultant for a while - don’t worry.&lt;/p&gt;
+
+&lt;h2 id=&quot;work-life-balance&quot;&gt;Work life balance&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/dopamine.png&quot; style=&quot;max-width:50%;margin:0 auto;text-align:center;border-radius:50%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Maintaining a healthy work-life balance is vital for everyone who works, not just consultants. Prioritising your well-being is essential, and a balanced work-life can prevent burnout and reduce stress.&lt;/p&gt;
+
+&lt;p&gt;There are different ways to balance work and life, and I will just touch upon some of the things that works for me.&lt;/p&gt;
+
+&lt;h3 id=&quot;learn-to-say-no&quot;&gt;Learn to say “no”&lt;/h3&gt;
+&lt;p&gt;Personally, I find that being able to decline certain tasks helps me avoid burnout. Understanding my limits and knowing when to say no is critical.&lt;/p&gt;
+
+&lt;p&gt;When faced with new projects in an unfamiliar field, they require more energy and time, so saying no to other tasks becomes even more important.&lt;/p&gt;
+
+&lt;h3 id=&quot;exercise-and-happy-drugs&quot;&gt;Exercise and “Happy drugs”&lt;/h3&gt;
+&lt;p&gt;In order to prioritise time away from the computer screen, I make an effort to focus solely on myself and eliminate other distractions.&lt;/p&gt;
+
+&lt;p&gt;As someone who spends many hours a day in front of a computer, I believe it’s crucial to prioritise physical fitness and endurance training, and I always make time for these activities in my daily routine.&lt;/p&gt;
+
+&lt;p&gt;It’s been scientifically proven that exercise triggers the release of dopamine, commonly known as the “happy drug,” which can lead to improved mental health, a crucial factor in managing a busy schedule. Combined with sleep, this is my recipe to a good mental health.&lt;/p&gt;
+
+&lt;h1 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h1&gt;
+&lt;p&gt;In conclusion, working as a consultant is a diverse and exciting profession that offers a wide range of tasks and opportunities to develop strong relationships with clients.&lt;/p&gt;
+
+&lt;p&gt;I really enjoy working as a consultant, and i can highly recommend the profession to anyone who is eager to work in a ever evolving field, and challenge yourself.&lt;/p&gt;
+
+&lt;p&gt;Feel free to reach out to me, if you have any questions regarding the life of a consultant, or any other subject, please do not hesitate to contact me.&lt;/p&gt;</content><author><name>Christian B. Henriksen</name></author><category term="blog" /><category term="Cybersecurity" /><category term="Education" /><category term="Career" /><summary type="html">Introduction I have gotten a few inquiries regarding how it is to work as a consultant, and what makes this profession so exciting.</summary></entry><entry><title type="html">WAFW00F - Web Application Firewall Fingerprinting</title><link href="http://localhost:4000/blog/WAFW00F/" rel="alternate" type="text/html" title="WAFW00F - Web Application Firewall Fingerprinting" /><published>2022-07-23T21:34:30+02:00</published><updated>2022-07-23T21:34:30+02:00</updated><id>http://localhost:4000/blog/WAFW00F</id><content type="html" xml:base="http://localhost:4000/blog/WAFW00F/">&lt;p&gt;In this blog post, I will take a look at a cool tool that I have been working with the last couple of weeks, called &lt;a href=&quot;https://github.com/EnableSecurity/wafw00f&quot;&gt;WAFW00F&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;WAFW00F is a tool for fingerprinting if a webserver has a Web Application Firewall.&lt;/p&gt;
 
@@ -57,7 +165,7 @@ If not, you can install it this way:&lt;/p&gt;
                   ,,                           &lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;_
              .-. -    _______                 &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt; |__|
             &lt;span class=&quot;o&quot;&gt;()&lt;/span&gt;&lt;span class=&quot;sb&quot;&gt;``&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; |&lt;span class=&quot;o&quot;&gt;==&lt;/span&gt;|_______&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;                .&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;|__|
-            / &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&apos;        /|\                  (  |__|
+            / &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'        /|\                  (  |__|
         (  /  )        / | \                  . |__|
          \(_)_))      /  |  \                   |__|
 
@@ -91,7 +199,7 @@ If not, you can install it this way:&lt;/p&gt;
                   ,,                           &lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;_
              .-. -    _______                 &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt; |__|
             &lt;span class=&quot;o&quot;&gt;()&lt;/span&gt;&lt;span class=&quot;sb&quot;&gt;``&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; |&lt;span class=&quot;o&quot;&gt;==&lt;/span&gt;|_______&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;                .&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;|__|
-            / &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&apos;        /|\                  (  |__|
+            / &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'        /|\                  (  |__|
         (  /  )        / | \                  . |__|
          \(_)_))      /  |  \                   |__|
 
@@ -257,7 +365,7 @@ SANS is also a huge player, if not the biggest, in this industry. They offer ton
   &lt;li&gt;&lt;a href=&quot;https://www.hackthebox.com/&quot;&gt;HackTheBox&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://pauljerimy.com/security-certification-roadmap/&quot;&gt;Security Certification Roadmap&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/cybersecurity/&quot;&gt;/r/Cybersecurity&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Christian B. Henriksen</name></author><category term="blog" /><category term="Career-development" /><category term="Cybersecurity" /><category term="Education" /><category term="Tips &amp; Tricks" /><summary type="html">In this blog post, I will try to enlighten some of the questions that a new candidate in this industry might stumble upon. I will build my points on my own experience being fairly new, therefore this might not apply to you. However, I’m sure that you can relate to at least, some of the upcoming points. This post is inspired by a talk that @David Thejl-Clayton gave on an internal FDCA webinar.</summary></entry><entry><title type="html">FDCA - Foreningen for Danske Cyber Alumner</title><link href="http://localhost:4000/blog/foreningen-for-danske-cyber-alumner/" rel="alternate" type="text/html" title="FDCA - Foreningen for Danske Cyber Alumner" /><published>2022-04-18T21:34:30+02:00</published><updated>2022-04-18T21:34:30+02:00</updated><id>http://localhost:4000/blog/foreningen-for-danske-cyber-alumner</id><content type="html" xml:base="http://localhost:4000/blog/foreningen-for-danske-cyber-alumner/">&lt;p&gt;Hvad er FDCA, hvordan bliver man medlem, og hvad laver en cyber forening egentligt? Det vil jeg prøve at beskrive i følgende blog post.&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>Christian B. Henriksen</name></author><category term="blog" /><category term="Career-development" /><category term="Cybersecurity" /><category term="Education" /><category term="Tips &amp; Tricks" /><summary type="html">In this blog post, I will try to enlighten some of the questions that a new candidate in this industry might stumble upon. I will build my points on my own experience being fairly new, therefore this might not apply to you. However, I’m sure that you can relate to at least, some of the upcoming points. This post is inspired by a talk that @David Thejl-Clayton gave on an internal FDCA webinar.</summary></entry><entry><title type="html">FDCA - Foreningen for Danske Cyber Alumner</title><link href="http://localhost:4000/blog/Foreningen-for-danske-cyber-alumner/" rel="alternate" type="text/html" title="FDCA - Foreningen for Danske Cyber Alumner" /><published>2022-04-18T21:34:30+02:00</published><updated>2022-04-18T21:34:30+02:00</updated><id>http://localhost:4000/blog/Foreningen-for-danske-cyber-alumner</id><content type="html" xml:base="http://localhost:4000/blog/Foreningen-for-danske-cyber-alumner/">&lt;p&gt;Hvad er FDCA, hvordan bliver man medlem, og hvad laver en cyber forening egentligt? Det vil jeg prøve at beskrive i følgende blog post.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;em&gt;This post is in Danish, and will eventually be posted in English&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
