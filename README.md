@@ -1,4 +1,4 @@
-# My Personal blog site
+# My Personal Site
 
 - Built using Jekyll static site generator
 - Posts/pages are edited using Markdown
