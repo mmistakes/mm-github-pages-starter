@@ -1,0 +1,4 @@
+Contact: mailto:christian@guzzy.dk
+Expires: 2024-01-01T07:00:00.000Z
+Encryption: EBC9BA1B5FAE23F9AC6EBAF3AD6A970CA8F1334A
+Preferred-Languages: en, dk

@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-03-17T07:17:13+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Home</title><subtitle>Simple security blog addressing different wierd stuff.</subtitle><author><name>Christian B. Henriksen</name></author><entry><title type="html">👨‍💻 The Realities of being an IT-Consultant</title><link href="http://localhost:4000/blog/The-Realities-of-Being-an-IT-Consultant/" rel="alternate" type="text/html" title="👨‍💻 The Realities of being an IT-Consultant" /><published>2023-04-16T21:34:30+02:00</published><updated>2023-04-16T21:34:30+02:00</updated><id>http://localhost:4000/blog/The-Realities-of-Being-an-IT-Consultant</id><content type="html" xml:base="http://localhost:4000/blog/The-Realities-of-Being-an-IT-Consultant/">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;I have gotten a few inquiries regarding how it is to work as a consultant, and what makes this profession so exciting.&lt;/p&gt;
+
+&lt;p&gt;My name is Christian Henriksen, and I work as a Cybersecurity Consultant at Trifork Security in Denmark.&lt;/p&gt;
+
+&lt;p&gt;My primary job areas are quite broad compared to other consultants, but I primarily work in Managed Detection &amp;amp; Response (MDR), Offensive Security and also participate as Incident Response Lead for our Incident Response team.&lt;/p&gt;
+
+&lt;p&gt;If you want to read more about my path to working in Cybersecurity, you can read my blog post about “Pursuing a Career in Cyberspace”:
+&lt;a href=&quot;https://blog.guzzy.dk/blog/pursuing-a-career-in-cyber/&quot;&gt;https://blog.guzzy.dk/blog/pursuing-a-career-in-cyber/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/consultant.png&quot; style=&quot;border-radius:50%;max-width:55%&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-consultant-life-like&quot;&gt;What is consultant life like?&lt;/h2&gt;
+&lt;p&gt;There is a lot of rumours and misconceptions to what the consultant life is. Some of it might be true, to some consulting businesses, but this is definitely not true for all of them. 
+Some of the misconceptions might be related to the following:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Working 60+ hours/week&lt;/li&gt;
+  &lt;li&gt;Consultants delivers 120% every day&lt;/li&gt;
+  &lt;li&gt;Consultants make PowerPoints all day long&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;working-60-hoursweek&quot;&gt;Working 60+ hours/week&lt;/h3&gt;
+&lt;p&gt;That’s certainly not accurate. Companies understand that their most valuable assets, particularly in consulting firms, are their employees. If consultants are diagnosed with stress, it places a significant burden on the company, and it may take a considerable amount of time before they can resume their work effectively. Personally, my contract specifies 37 hours per week, which is standard in Denmark.&lt;/p&gt;
+
+&lt;p&gt;However, my workload can fluctuate a bit since I’m also a member of the incident response team, which sometimes requires me to work on a case for more than those 37 hours. Fortunately, my employer is incredibly flexible when it comes to scheduling, so if I work for 45 hours one week, I can work less the following week and so on.&lt;/p&gt;
+
+&lt;p&gt;Many “modern” consulting firms provide this level of flexibility, but some of the “old boys in the club” may still be adhering to extremely demanding work schedules - yes, McKinsey, I’m looking at you… :-)&lt;/p&gt;
+
+&lt;h3 id=&quot;consultants-delivers-120-every-day&quot;&gt;Consultants delivers 120% every day&lt;/h3&gt;
+&lt;p&gt;I agree that it is super satisfying to always deliver more than what is expected. However, while it might seem like a great way to impress clients or supervisors, the truth is that it’s often unfeasible.&lt;/p&gt;
+
+&lt;p&gt;I always strive to perform to the best of my abilities, but I don’t let it affect me if I fall short and deliver work that’s only around 80 or 90% of what was expected. If I were to feel compelled to surpass expectations every single time, I doubt I’d even be able to write this blog post.&lt;/p&gt;
+
+&lt;h3 id=&quot;consultants-make-powerpoints-all-day-long&quot;&gt;Consultants make PowerPoints all day long&lt;/h3&gt;
+&lt;p&gt;Oh, interestingly enough, I’ve been creating numerous PowerPoint presentations lately, although it’s not a task I typically do frequently. It’s essential to recognize that reporting is incredibly significant when working as a consultant because you need to provide an account of your activities, and show the clients the value you are adding.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;However, if I had to quantify the amount of reporting I undertake, I’d estimate it to be around 20% of my workload, with the remainder being dedicated to collaborating with customers and resolving their issues.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;My daily work as an consultant can vary a lot depending on the customers I’m working on, but generally a week consists of the following tasks:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Meeting with clients/customers&lt;/li&gt;
+  &lt;li&gt;Developing solutions&lt;/li&gt;
+  &lt;li&gt;Assessments&lt;/li&gt;
+  &lt;li&gt;Analysing data&lt;/li&gt;
+  &lt;li&gt;Writing reports and presentations&lt;/li&gt;
+  &lt;li&gt;Networking and business development&lt;/li&gt;
+  &lt;li&gt;Study/research&lt;/li&gt;
+  &lt;li&gt;Project management&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The scope of the tasks is extensive, providing opportunity for diverse and thrilling assignments. However, reporting is also part of my duties as a consultant, because if the customer cannot see what you are doing, you are in trouble… :-)&lt;/p&gt;
+
+&lt;p&gt;What I find particularly stimulating is the fact that each task is typically unexplored territory for me (or at least some aspects of it are), affording me the chance to collaborate with various customers/clients and gain strong relationships with them.&lt;/p&gt;
+
+&lt;p&gt;Consultancy may be daunting for some due to the requirement of time tracking. This entails keeping track of the time spent on each task and determining whether it can be billed to the client. It took me some time to adapt to this practice since I had previously worked for the government, where time tracking was not necessary. But to be honest, this is not a big deal, and something you will get used to fairly quick.&lt;/p&gt;
+
+&lt;h2 id=&quot;skills-that-set-you-apart&quot;&gt;Skills that set you apart&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/skills.png&quot; style=&quot;max-width:50%;margin:0 auto;text-align:center;border-radius:50%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In my opinion that there are certain skills that are absolutely essential for anyone working as a consultant, and some that will set you apart. Let’s start with the essential.&lt;/p&gt;
+
+&lt;p&gt;One of the most crucial skills for a consultant to possess is &lt;strong&gt;strong communication skills&lt;/strong&gt;. As a consultant, you’ll have numerous discussions and conversations with clients, vendors, partners, and other stakeholders.&lt;/p&gt;
+
+&lt;p&gt;Therefore, it’s important to be able to articulate your message in a manner that is clear and understandable to the person on the receiving end.&lt;/p&gt;
+
+&lt;p&gt;Following communication skills, it’s important to have a &lt;strong&gt;flair for problem-solving&lt;/strong&gt;, and being able to solve assignments in an analytical manner. As a consultant, clients expect you to develop well-thought-out solutions that have been thoroughly analysed and rationally crafted.&lt;/p&gt;
+
+&lt;p&gt;The final skill that (in my opinion) is indispensable as a consultant, is &lt;strong&gt;flexibility and adaptability&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Clients/customers often change their opinions and decisions, and as a result, a solution that you have been working on for weeks may be abandoned, requiring you to develop an alternative approach to address the problem. This can be super frustrating, but that’s part of the game as an consultant.&lt;/p&gt;
+
+&lt;p&gt;There are certainly additional skills that can help you as a consultant. Some examples are provided below:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Technical proficiency&lt;/li&gt;
+  &lt;li&gt;Teamwork abilities&lt;/li&gt;
+  &lt;li&gt;Time management&lt;/li&gt;
+  &lt;li&gt;Industry knowledge&lt;/li&gt;
+  &lt;li&gt;Strategic thinking&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A lot of these will automatically come to you when you have been working as a consultant for a while - don’t worry.&lt;/p&gt;
+
+&lt;h2 id=&quot;work-life-balance&quot;&gt;Work life balance&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/dopamine.png&quot; style=&quot;max-width:50%;margin:0 auto;text-align:center;border-radius:50%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Maintaining a healthy work-life balance is vital for everyone who works, not just consultants. Prioritising your well-being is essential, and a balanced work-life can prevent burnout and reduce stress.&lt;/p&gt;
+
+&lt;p&gt;There are different ways to balance work and life, and I will just touch upon some of the things that works for me.&lt;/p&gt;
+
+&lt;h3 id=&quot;learn-to-say-no&quot;&gt;Learn to say “no”&lt;/h3&gt;
+&lt;p&gt;Personally, I find that being able to decline certain tasks helps me avoid burnout. Understanding my limits and knowing when to say no is critical.&lt;/p&gt;
+
+&lt;p&gt;When faced with new projects in an unfamiliar field, they require more energy and time, so saying no to other tasks becomes even more important.&lt;/p&gt;
+
+&lt;h3 id=&quot;exercise-and-happy-drugs&quot;&gt;Exercise and “Happy drugs”&lt;/h3&gt;
+&lt;p&gt;In order to prioritise time away from the computer screen, I make an effort to focus solely on myself and eliminate other distractions.&lt;/p&gt;
+
+&lt;p&gt;As someone who spends many hours a day in front of a computer, I believe it’s crucial to prioritise physical fitness and endurance training, and I always make time for these activities in my daily routine.&lt;/p&gt;
+
+&lt;p&gt;It’s been scientifically proven that exercise triggers the release of dopamine, commonly known as the “happy drug,” which can lead to improved mental health, a crucial factor in managing a busy schedule. Combined with sleep, this is my recipe to a good mental health.&lt;/p&gt;
+
+&lt;h1 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h1&gt;
+&lt;p&gt;In conclusion, working as a consultant is a diverse and exciting profession that offers a wide range of tasks and opportunities to develop strong relationships with clients.&lt;/p&gt;
+
+&lt;p&gt;I really enjoy working as a consultant, and i can highly recommend the profession to anyone who is eager to work in a ever evolving field, and challenge yourself.&lt;/p&gt;
+
+&lt;p&gt;Feel free to reach out to me, if you have any questions regarding the life of a consultant, or any other subject, please do not hesitate to contact me.&lt;/p&gt;
+
+&lt;h1 id=&quot;references&quot;&gt;References&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Pictures generated by &lt;a href=&quot;https://www.midjourney.com/app/&quot;&gt;MidJourney&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Christian B. Henriksen</name></author><category term="blog" /><category term="Cybersecurity" /><category term="Education" /><category term="Career" /><summary type="html">Introduction I have gotten a few inquiries regarding how it is to work as a consultant, and what makes this profession so exciting.</summary></entry><entry><title type="html">WAFW00F - Web Application Firewall Fingerprinting</title><link href="http://localhost:4000/blog/WAFW00F/" rel="alternate" type="text/html" title="WAFW00F - Web Application Firewall Fingerprinting" /><published>2022-07-23T21:34:30+02:00</published><updated>2022-07-23T21:34:30+02:00</updated><id>http://localhost:4000/blog/WAFW00F</id><content type="html" xml:base="http://localhost:4000/blog/WAFW00F/">&lt;p&gt;In this blog post, I will take a look at a cool tool that I have been working with the last couple of weeks, called &lt;a href=&quot;https://github.com/EnableSecurity/wafw00f&quot;&gt;WAFW00F&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;WAFW00F is a tool for fingerprinting if a webserver has a Web Application Firewall.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/WAFW00F.png&quot; /&gt;
+&lt;em&gt;Image is from WAFW00F Github&lt;em&gt;&lt;/em&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#what-is-a-web-application-firewall-waf&quot;&gt;What is a Web Application Firewall (WAF)?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#what-is-fingerprinting&quot;&gt;What is Fingerprinting?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#what-is-wafw00f&quot;&gt;What is WAFW00F&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#how-to-use-wafw00f&quot;&gt;How to use WAFW00F&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#references&quot;&gt;References&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-is-a-web-application-firewall-waf&quot;&gt;What is a Web Application Firewall (WAF)?&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/WAF.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Web Application Firewalls monitor, filter and block certain HTTP packets as they are shifting between the client and the web application/website, unlike a traditional firewall, that prevents unauthorized access to a private network based upon network traffic alone. The WAF will sit between external users and a web application, in which it will analyze and interpret all HTTP communication before it reaches the web application as it operates on Layer 7 in the &lt;a href=&quot;https://en.wikipedia.org/wiki/OSI_model&quot;&gt;OSI model&lt;/a&gt;. This enables security boundaries for critical web applications and protects against zero-day and other known attacks against the web application/server. These attacks can be Cross-site Request Forgery(CSRF), Cross-site-scripting(XSS), or SQL injections among others, and are set up through different policies, and block- or allowlists.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.cloudflare.com/learning/ddos/glossary/web-application-firewall-waf/&quot;&gt;Cloudflare&lt;/a&gt; has a great quote on how to describe a WAF block- and allowlists:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Blocklist Think of a blocklist WAF as a club bouncer instructed to deny admittance to guests who don’t meet the dress code.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Allowlist: This is like the bouncer at an exclusive party, he or she only admits people who are on the list.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;However, a Web Application Firewall can be a hindrance for a penetration test, as the requests from our tools might be blocked by the WAF, nonetheless, there are &lt;a href=&quot;https://www.exploit-db.com/docs/43946&quot;&gt;different ways&lt;/a&gt; to evade these WAFs.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-fingerprinting&quot;&gt;What is Fingerprinting?&lt;/h2&gt;
+&lt;p&gt;Fingerprinting is a method of figuring out, which infrastructure sits in front or behind any web application. Usually, as a pentester, you want to figure out which web engine the website uses, for example, Nginx, Apache, Tomcat, or IIS. Knowing this, you want to pinpoint which version they use, and search for common exploits and vulnerabilities for that particular engine. This information can be acquired in different ways by sending tailored requests to the server and analyzing the response. You can do it manually, or use Nmap to do this fingerprinting. This method of fingerprinting won’t tell you if there is a WAF in front of the web application, and we, therefore, need another tool to do that, WAFW00F.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-wafw00f&quot;&gt;What is WAFW00F&lt;/h2&gt;
+&lt;p&gt;WAFW00F is an open-source Python tool that can fingerprint a lot of different WAF, by sending a normal HTTP request and then doing the automated analysis of the response, to identify which WAF is sitting in front of the Web Application. If it can’t interpret the response, it will send several malicious requests, and use logic to pinpoint which WAF it is.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-to-use-wafw00f&quot;&gt;How to use WAFW00F&lt;/h2&gt;
+
+&lt;p&gt;Firstly you will need to install it. Note, if you are using kali, WAFW00F will come preinstalled.
+If not, you can install it this way:&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;─&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;cbh㉿ubuntu&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;-[~]
+└─&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;git clone https://github.com/EnableSecurity/wafw00f
+
+─&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;cbh㉿ubuntu&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;-[~]
+└─&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;python3 setup.py &lt;span class=&quot;nb&quot;&gt;install&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;You can get a list of all the WAFs that WAFW00F can identify by writing the following:&lt;/p&gt;
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;wafw00f &lt;span class=&quot;nt&quot;&gt;-l&lt;/span&gt;
+
+                   ______
+                  /      &lt;span class=&quot;se&quot;&gt;\&lt;/span&gt;
+                 &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;  Woof! &lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
+                  &lt;span class=&quot;se&quot;&gt;\ &lt;/span&gt; ____/                      &lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
+                  ,,                           &lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;_
+             .-. -    _______                 &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt; |__|
+            &lt;span class=&quot;o&quot;&gt;()&lt;/span&gt;&lt;span class=&quot;sb&quot;&gt;``&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; |&lt;span class=&quot;o&quot;&gt;==&lt;/span&gt;|_______&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;                .&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;|__|
+            / &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'        /|\                  (  |__|
+        (  /  )        / | \                  . |__|
+         \(_)_))      /  |  \                   |__|
+
+                    ~ WAFW00F : v2.2.0 ~
+    The Web Application Firewall Fingerprinting Toolkit
+
+[+] Can test for these WAFs:
+
+  WAF Name                        Manufacturer
+  --------                        ------------
+
+  ACE XML Gateway                  Cisco
+  aeSecure                         aeSecure
+  AireeCDN                         Airee
+  Airlock                          Phion/Ergon
+  Alert Logic                      Alert Logic
+  AliYunDun                        Alibaba Cloud Computing
+  Anquanbao                        Anquanbao
+  AnYu                             AnYu Technologies
+  [...]                            [...]
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;And to use it, simply just run:&lt;/p&gt;
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;─&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;cbh㉿kali&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;-[~]
+└─&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;wafw00f https://blog.guzzy.dk                                                           
+
+                   ______
+                  /      &lt;span class=&quot;se&quot;&gt;\&lt;/span&gt;
+                 &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;  Woof! &lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
+                  &lt;span class=&quot;se&quot;&gt;\ &lt;/span&gt; ____/                      &lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
+                  ,,                           &lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;_
+             .-. -    _______                 &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt; |__|
+            &lt;span class=&quot;o&quot;&gt;()&lt;/span&gt;&lt;span class=&quot;sb&quot;&gt;``&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; |&lt;span class=&quot;o&quot;&gt;==&lt;/span&gt;|_______&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;                .&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;|__|
+            / &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'        /|\                  (  |__|
+        (  /  )        / | \                  . |__|
+         \(_)_))      /  |  \                   |__|
+
+                    ~ WAFW00F : v2.1.0 ~
+    The Web Application Firewall Fingerprinting Toolkit
+    
+[*] Checking https://blog.guzzy.dk
+[+] The site https://blog.guzzy.dk is behind Cloudflare (Cloudflare Inc.) WAF.
+[~] Number of requests: 2
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;As you can see, blog.guzzy.dk is using Cloudflare as a WAF. 
+You can now use this tool for your next Web Application PenTest to look for those annoying WAFs.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;I hope you enjoy this post. Feel free to reach out to me by either of the provided links on the left side panel.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/EnableSecurity/wafw00f&quot;&gt;WAFW00F - Github&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cloudflare.com/learning/ddos/glossary/web-application-firewall-waf/&quot;&gt;CloudFlare - What is a Web Application Firewall&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.exploit-db.com/docs/43946&quot;&gt;Web Application Firewall (WAF) Evasion Techniques
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Christian B. Henriksen</name></author><category term="blog" /><category term="Cybersecurity" /><category term="Education" /><category term="Tools" /><category term="Red teaming" /><category term="Tips &amp; Tricks" /><summary type="html">In this blog post, I will take a look at a cool tool that I have been working with the last couple of weeks, called WAFW00F.</summary></entry><entry><title type="html">Pursuing a Career in Cyberspace</title><link href="http://localhost:4000/blog/pursuing-a-career-in-cyber/" rel="alternate" type="text/html" title="Pursuing a Career in Cyberspace" /><published>2022-04-29T21:34:30+02:00</published><updated>2022-04-29T21:34:30+02:00</updated><id>http://localhost:4000/blog/pursuing-a-career-in-cyber</id><content type="html" xml:base="http://localhost:4000/blog/pursuing-a-career-in-cyber/">&lt;p&gt;In this blog post, I will try to enlighten some of the questions that a new candidate in this industry might stumble upon. I will build my points on my own experience being &lt;strong&gt;fairly new&lt;/strong&gt;, therefore this might not apply to you. However, I’m sure that you can relate to at least, some of the upcoming points. This post is inspired by a talk that &lt;a href=&quot;https://twitter.com/DCSecuritydk&quot;&gt;@David Thejl-Clayton&lt;/a&gt; gave on an internal &lt;a href=&quot;https://fdca.dk&quot;&gt;FDCA&lt;/a&gt; webinar. 
+&lt;img src=&quot;/assets/images/Cyberspace.png&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#pencil2-why-even-write-about-this&quot;&gt;:pencil2: Why even write about this?&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#space_invader-my-way-onto-the-cybership&quot;&gt;:space_invader: My way onto the cybership&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#question-endless-opportunities&quot;&gt;:question: Endless opportunities&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#running-certification-race&quot;&gt;:running: Certification Race&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#sunglasses-imposter-syndrome&quot;&gt;:sunglasses: Imposter syndrome&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#collision-tips--tricks&quot;&gt;:collision: Tips &amp;amp; tricks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#wrapping-up&quot;&gt;Wrapping up&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#useful-resources&quot;&gt;Useful resources&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;I hope you enjoy this post. Feel free to reach out to me by either of the provided links on the left side panel.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;pencil2-why-even-write-about-this&quot;&gt;:pencil2: Why even write about this?&lt;/h2&gt;
+
+&lt;p&gt;So, why do I even care about writing this blog post? It’s simple… I could have used some of these points when I was about to pursue a career in this industry. The industry is very complex, and there are tons of ways into this, which can make it hard for new people to join the spaceship.&lt;/p&gt;
+
+&lt;p&gt;These new candidates might have fancy bachelor’s degree from the University, vocational education, or be 100% autodidact - my point is, that they (to some degree), have the same fundamental way into this field.&lt;/p&gt;
+
+&lt;h3 id=&quot;space_invader-my-way-onto-the-cybership&quot;&gt;:space_invader: My way onto the cybership&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;If you don’t want to read about my journey into Cyberspace, you can skip this part.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;My way into this field has (maybe) been quite different, compared to what others might have done in the past, but nevertheless - I’m here now.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Let’s start with my education.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I graduated from Aalborg University with a BSc. degree in Information Technology in 2020. The degree was focused a lot on business continuity and evolvement within the IT industry. This gave me a lot of theoretical knowledge about &lt;em&gt;“how it should be done”&lt;/em&gt;, but no oppertunity to build practical experience, which might be valuable for a company.  However, as a side hustle, I worked as a Software Developer for a small start-up - where I developed some of the missing lack of knowledge.&lt;/p&gt;
+
+&lt;p&gt;After i graduated, I was unsure whether to pursue a Masters degree, or go straight for a entry-level position. Two things I however was sure about, was that I knew that I wanted to work with security, and I knew that i had to get some more knowledge within this field.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;So i had two options:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Spend two futher years at the University, to pursue a Masters degree in something “conventional”.&lt;/li&gt;
+  &lt;li&gt;Apply for an entry level position within a security company.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;And while surfing the internet for open job listings, and degrees, I stumbled upon a new conscript the Danish Military is offering - Cyberværnepligten (&lt;em&gt;The Cyber Conscript&lt;/em&gt;).&lt;/p&gt;
+
+&lt;p&gt;I quickly read through the material, and immediately applied to this. Here in Denmark, you usually have to go through 4 months of conscript, but this education had additional 6 months of cyber-education untop - which for me sounded super interesting and fun. At that point, I hadn’t served my conscript yet, and I found this opportunity a great way for me to take a year off, and think about my future - which turned out to be a great decision.&lt;/p&gt;
+
+&lt;p&gt;I got accepted to the conscript, The Cyber Conscript, and for the first time had to experience what it was to be in the military - I had to get fit.  :muscle:&lt;/p&gt;
+
+&lt;p&gt;After serving 4 months in the Royal Danish Navy as the initial conscript, I moved to the Army to get my intensive cyber education. In the six months I served I got educated in:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Networking(CCNA)&lt;/li&gt;
+  &lt;li&gt;Server administration (Win &amp;amp; Linux)&lt;/li&gt;
+  &lt;li&gt;Microsoft Active Directory Services&lt;/li&gt;
+  &lt;li&gt;Powershell Scripting&lt;/li&gt;
+  &lt;li&gt;Backup Solutions&lt;/li&gt;
+  &lt;li&gt;Governance, Risk &amp;amp; Compliance (GRC)&lt;/li&gt;
+  &lt;li&gt;Red teaming techniques and tactics&lt;/li&gt;
+  &lt;li&gt;Incident Response&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;There is probably something else to add to the list, but this was just what I had in mind.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;All these skills were used at the end of the conscript, on a week exercise. In this exercise, we had to act as System administrators for a whole battalion of actors, which exposed us to a lot of different cases. At the end of the exercise, we had to act as Incident responders, as our infrastructure got infected with widespread malware, which we later found out was ransomware.&lt;/p&gt;
+
+&lt;p&gt;All of these skills touched upon a lot of different subjects that are widely used within this industry - at least this was a good way for me to get more practical experience and knowledge about the more technical aspects.&lt;/p&gt;
+
+&lt;p&gt;Even before my conscript was over, I applied for an entry-level position, as a First Responder within the Danish Healthcare, at a huge organisation with over 35,000 employees to manage. I got the job based upon my understanding of &lt;em&gt;people&lt;/em&gt;, &lt;em&gt;processes&lt;/em&gt; and &lt;em&gt;technology&lt;/em&gt;, but primarly my &lt;strong&gt;drive to learn.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Now I have worked for this organization for 11 months, and really developed some valuable skills, because one thing is to get an understanding of the technical skills, but there are also soft skills to be added to your resume.&lt;/p&gt;
+
+&lt;p&gt;For example, something simple as just working for a big organization, where everything is tied to processes, guidelines, and policies - was something new for me. Or the experience that I’ve gotten from the military where you had to work in different environments with people with different backgrounds and culture.&lt;/p&gt;
+
+&lt;p&gt;Based upon these skills I got a new job as a Cyber Security Consultant in a private cooperation.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;:stars: Enough about my way into cyberspace - let’s talk about your opportunities.&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&quot;question-endless-opportunities&quot;&gt;:question: Endless opportunities&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/roadmap.jpg&quot; /&gt;
+&lt;em&gt;Image from &lt;a href=&quot;https://derechodelared.com/wp-content/uploads/2021/04/Cybersecurity-Domains-Map-3.0.pdf&quot;&gt;Henry Jiang&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;One of the questions that I hear a lot in this field, is what path to take if you want to work in this industry. It’s a legitimate question, and I had it myself. This industry has so many different areas, and &lt;strong&gt;the important part&lt;/strong&gt; is for you to do you &lt;strong&gt;research&lt;/strong&gt;, and &lt;strong&gt;test something&lt;/strong&gt; out. Do you think &lt;em&gt;vulnerability management&lt;/em&gt; is interesting? - Spin up a VM with OpenVAS and try it out. What about &lt;em&gt;penetration testing?&lt;/em&gt; It’s easy for you to create an account on &lt;a href=&quot;https://www.hackthebox.com/&quot;&gt;HackTheBox&lt;/a&gt; and try to see if you can get access to some of the boxes. The only limit is you - there is tons of free ressources in cyberspace.&lt;/p&gt;
+
+&lt;p&gt;Of course, you won’t become an expert with these techniques, but you develop some fundamental skills to do further research and explore your interest. That’s usually a valuable skill for the company you want to work for.&lt;/p&gt;
+
+&lt;p&gt;Don’t get overwhelmed by the tons of options, I suggest you do the following:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Write down your passion&lt;/strong&gt;. What type of work can you get lost in? What type of work could you do every day, and not get sick of? What interests you? Do you like solving puzzles and breaking into stuff - &lt;em&gt;Penetration testing&lt;/em&gt; might be something for you. Do you like keeping yourself up to date with the latest breach reports - &lt;em&gt;Threat intelligence&lt;/em&gt; might be something you fancy.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Write down your strengths &amp;amp; weaknesses&lt;/strong&gt;. What are you good at? Do you want to work with that, or do you want to evolve your skills in what you are not good at? These are questions that you need to address. And it can be very beneficial to work on your strengths, but occasionally it can be healthy to go out of your comfort zone.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;If you can enable yourself to go from just going to work because &lt;strong&gt;you have to&lt;/strong&gt;, to going to work because it &lt;strong&gt;interest you&lt;/strong&gt; - then you have found your right place.&lt;/p&gt;
+
+&lt;h2 id=&quot;running-certification-race&quot;&gt;:running: Certification Race&lt;/h2&gt;
+
+&lt;p&gt;In cyberspace it’s common to go for certifications to learn about new techniques and tactics to either hunt, attack or explore other fields in this domain. My own certification path has just started, so I can’t give any detailed explainations or share experiences from OSCP, CISSP etc, as I haven’t completed them.&lt;/p&gt;
+
+&lt;p&gt;However, I wont recommend taking a certification from EC-Council, as these courses are focused a lot around tool showcasing, rather than actually getting something useful out. I took Certified Incident Handler from their course-catalog, and I had to admit that I surely regret taking this course!&lt;/p&gt;
+
+&lt;p&gt;If you want entry-level certifications, you should go for something like eJPT from &lt;a href=&quot;https://elearnsecurity.com/&quot;&gt;Elearnsecurity&lt;/a&gt;, or something else they have to offer. Unfortunately I haven’t had the opportunity to take it myself, but will definately pursue it. 
+SANS is also a huge player, if not the biggest, in this industry. They offer tons of top-notch courses, and they actually have a &lt;a href=&quot;https://www.sans.org/cyber-security-skills-roadmap/&quot;&gt;roadmap&lt;/a&gt;, where you can see the different tracks to evolve in this industry.&lt;/p&gt;
+
+&lt;p&gt;Due to the high price range of the courses, I’d advise trying to cooperate with your firm to have them fund the courses for you, seeing as it would both profit you and your talents as well as the employee development for the firm. A win win for both the employee and employer&lt;/p&gt;
+
+&lt;p&gt;There is also a &lt;a href=&quot;https://pauljerimy.com/security-certification-roadmap/&quot;&gt;good overview here&lt;/a&gt; detailing the different domains, and what certifications to pursue.&lt;/p&gt;
+
+&lt;h2 id=&quot;sunglasses-imposter-syndrome&quot;&gt;:sunglasses: Imposter syndrome&lt;/h2&gt;
+&lt;p&gt;This is a subject that I had been dealing a lot with. It’s the sense of self-doubt related to work capability and accomplishment. And I know that a lot of new candidates are struggling with this feeling, and this will definitely become a hindrance to your career development.&lt;/p&gt;
+
+&lt;p&gt;Down below, I have a couple of guidelines that I try to follow, to overcome this stupid syndrome:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Stop comparing yourself to others&lt;/strong&gt;. This is probably one of the most important facts that I use to fight this syndrome - you won’t get anything out of comparing yourself with others.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Write your accomplishments down in a document - review it often&lt;/strong&gt;. This can be feedback from your boss, friend, professor, or just some achievement you noticed on your own. Did you just pwn a box on HackTheBox in 25 minutes? Did you receive a e-mail from your boss, endorsing and praising the work you did? Good job, screenshot it and save it for later. &lt;em&gt;It’s the small accomplishments that count in the long run.&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Accept that perfectionism is impossible&lt;/strong&gt;. When you have addressed your strengths and weaknesses, you find that you can’t be good at everything and that nobody is perfect. You need to learn to accept, that failing will every so often increase your resilience, and make it easier learn from your mistakes.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Approach feedback.&lt;/strong&gt; Have you created or written something you are unsure whether is good or inadequate? I suggest you seek feedback from somebody in your network, your parents or someone else, as this will clarify the state of the work you did. You no longer live in uncertainty, but convert it to something you can act upon. &lt;em&gt;This blog report I actually sent to a couple of people in my network.&lt;/em&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;:bulb:&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;The good argument always wins the battle..&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&quot;collision-tips--tricks&quot;&gt;:collision: Tips &amp;amp; tricks&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Ask questions.&lt;/strong&gt; This is probably my number one tip that have gotten me where I am now. I always have a curiosity to understand why things is the way they are. Whether you are at a job interview, meeting or just &lt;em&gt;networking&lt;/em&gt; - throw a few questions at the recipient, as this will indicate that you are interested in the conversation, and you dare to express what’s on your mind. It will also be very valuable for the company - maybe they are having a process that should be reviewed and changed, based on your question.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Don’t be afraid of doing something out of your comfortzone.&lt;/strong&gt; &lt;em&gt;I discussed this earlier.&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Be self-aware.&lt;/strong&gt; As described earlier, describe your blindspots and work on them.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Celebrate your small victories.&lt;/strong&gt; Described earlier, but this is also a very important point. I keep a folder on my desktop with all my victories. :sunglasses:&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Keep a motivation to keep learning.&lt;/strong&gt; In this industry, things are changing constantly, and you need to keep yourself up-to-date with the lastest trends and education to challenge others.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Network.&lt;/strong&gt; This tip is also a major part of where I am today. I attend a lot of community events (OWASP, bsides, Vsec, CitySec here in Denmark), where I get the opportunity to talk to people from the industry, and this broadens my network of people that are likeminded. I actually heard about the job that I’m currently working at, as I was attending one of these events and had a conversation with one of the employees at this company. He told his boss about me, and I got a interview with them.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Keep your Linkedin up-to-date&lt;/strong&gt;. Another tip is to connect with the people you meet, on Linkedin. I use Linkedin as a way of organizing the people I met and had some great conversations with, as long as follow their journey. Linkedin is also a good resource for finding great articles and posts.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;wrapping-up&quot;&gt;Wrapping up&lt;/h2&gt;
+&lt;p&gt;Wow, that was a long speech from me. :grimacing:&lt;/p&gt;
+
+&lt;p&gt;I sincerely hope you liked the post and could use some of the points addressed. I know that my experience in this industry is not broad yet, but I feel that I, nevertheless, have something to share with the community.&lt;/p&gt;
+
+&lt;p&gt;If your just here to read the conclusion, I suggest that you read the section “:collision: Tips &amp;amp; tricks”, as this outlines the most important points that addressed in this article.&lt;/p&gt;
+
+&lt;p&gt;The next post will be about how to write a Curriculum Vitae, or CV - as this can be unfamiliar for a lot of people, and I will try to address what you should write in a CV, templates to use among other things.&lt;/p&gt;
+
+&lt;h2 id=&quot;useful-resources&quot;&gt;Useful resources&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://linkedin.com&quot;&gt;Linkedin&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.hackthebox.com/&quot;&gt;HackTheBox&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pauljerimy.com/security-certification-roadmap/&quot;&gt;Security Certification Roadmap&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/cybersecurity/&quot;&gt;/r/Cybersecurity&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Christian B. Henriksen</name></author><category term="blog" /><category term="Career-development" /><category term="Cybersecurity" /><category term="Education" /><category term="Tips &amp; Tricks" /><summary type="html">In this blog post, I will try to enlighten some of the questions that a new candidate in this industry might stumble upon. I will build my points on my own experience being fairly new, therefore this might not apply to you. However, I’m sure that you can relate to at least, some of the upcoming points. This post is inspired by a talk that @David Thejl-Clayton gave on an internal FDCA webinar.</summary></entry><entry><title type="html">FDCA - Foreningen for Danske Cyber Alumner</title><link href="http://localhost:4000/blog/Foreningen-for-danske-cyber-alumner/" rel="alternate" type="text/html" title="FDCA - Foreningen for Danske Cyber Alumner" /><published>2022-04-18T21:34:30+02:00</published><updated>2022-04-18T21:34:30+02:00</updated><id>http://localhost:4000/blog/Foreningen-for-danske-cyber-alumner</id><content type="html" xml:base="http://localhost:4000/blog/Foreningen-for-danske-cyber-alumner/">&lt;p&gt;Hvad er FDCA, hvordan bliver man medlem, og hvad laver en cyber forening egentligt? Det vil jeg prøve at beskrive i følgende blog post.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;This post is in Danish, and will eventually be posted in English&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;center&gt;&lt;img src=&quot;/assets/images/fdca_logo.png&quot; align=&quot;center&quot; height=&quot;300&quot; width=&quot;300&quot; style=&quot;border-radius:50%&quot; /&gt;&lt;/center&gt;
+
+&lt;h2 id=&quot;hvad-er-cyberværnepligten&quot;&gt;Hvad er Cyberværnepligten?&lt;/h2&gt;
+&lt;center&gt;&lt;img src=&quot;/assets/images/Cvpl_logo.png&quot; align=&quot;center&quot; height=&quot;200&quot; width=&quot;200&quot; /&gt;&lt;/center&gt;
+
+&lt;p&gt;Cyberværnepligten er et politisk udspil der skal udklække ~30+ nye digitale sikkerhedstalenter om året - vis formål er at være ambassadører for god IT-sikkerhed i det danske kongerige.&lt;/p&gt;
+
+&lt;p&gt;Værnepligtsperioden er samlet 10 måneder, delt op i to sektioner:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;4 måneders grundlæggende værnepligt, i et af de tre værn (Hæren, Flyvevåbenet eller Søværnet)&lt;/li&gt;
+  &lt;li&gt;6 Måneders cyberuddannelse ved Føringstøtteregimentet i Fredericia. Uddannelsen indeholder desuden to ugers praktik og afsluttes med en uges incident response øvelse.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Der er forskellige krav for at kunne blive optaget på denne uddanelse, du skal b.la. kunne sikkerhedsgodkendes til HEMMELIG, og bestå en prøve der kortlægger dine IT-færdigheder.
+Det skal dog siges, at man behøver ikke have de vilde tekniske kompetencer, men blot en nysgerrighed for at lære, og en grundforståelse for de komponenter en computer og et netværk består af.&lt;/p&gt;
+
+&lt;p&gt;Efter du har gennemført denne intensive uddannelse kan man enten vælger at fortsætte i en militærstilling i Forsvaret, eller tage det civile spring.&lt;/p&gt;
+
+&lt;p&gt;I dag er der flere tidligere cyberværnepligtige, som eksempelvis arbejder som incident respondere, cyberanalytikere og penetration testere i firmaer som Sundhedsdatastyrelsen, Region Midt og F-secure. Nogle har også valg at fortsætte i Forsvaret ved blandt af Føringsstøtteregimentet, Efterretningsregimentet og Koncern IT (KAKI)&lt;/p&gt;
+
+&lt;p&gt;Lyder Cyberværnepligten som noget for dig?
+ &lt;a href=&quot;https://karriere.forsvaret.dk/varnepligt/varnepligten/cybervarnepligt/&quot;&gt;Så kan du læse mere om den her&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;hvad-er-fdca&quot;&gt;Hvad er FDCA?&lt;/h2&gt;
+
+&lt;center&gt;&lt;img src=&quot;/assets/images/fdca_logo_long.png&quot; align=&quot;center&quot; height=&quot;200&quot; width=&quot;250&quot; style=&quot;margin:0 auto;&quot; /&gt;&lt;/center&gt;
+
+&lt;p&gt;FDCA er en forkortelse for Foreningen for Danske Cyber Alumner.&lt;/p&gt;
+
+&lt;p&gt;Foreningens formål er:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Bidrage til Danmarks og Rigsfællesskabets modstandsdygtighed overfor Cyber-trusler.&lt;/li&gt;
+  &lt;li&gt;Udvikle medlemmernes viden, færdigheder og kompetencer inden for Cyber- og IT-sikkerhed.&lt;/li&gt;
+  &lt;li&gt;Karriererådgivning og eksponering for virksomheder.&lt;/li&gt;
+  &lt;li&gt;Fastholde og fremme kammeratskab på tværs af hjemsendte Cyberværnepligtshold.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For at fremme ovenstående formål, så hjælper foreningen med at afholde sociale og faglige arrangementer, samt hjælp til finansering af diverse certificeringer, både med formål at fremme ‘soft-skils’, men også tekniske kompetencer.&lt;/p&gt;
+
+&lt;p&gt;Foreningen er altså er fællesskab, hvis formål er at hjælpe alumner der er færdige med deres cyberværnepligt.&lt;/p&gt;
+
+&lt;h2 id=&quot;hvorfor-er-fdca-oprettet&quot;&gt;Hvorfor er FDCA oprettet?&lt;/h2&gt;
+
+&lt;p&gt;Efter vi (bestyrelsen) selv havde færdiggjort vores værnepligt, så savnede vi et centralt holdepunkt hvori man kunne dyrke cyberværnepligtens unikke fællesskab og bygge videre på de egenskaber, som man havde tilegnet sig over de sidste 10 måneder. FDCA blev derfor oprettet både for at dyrke kammeratskabet, men også fordi der blev set et potentiale i at skabe et centralt samlepunkt, hvor der bland andet tilbydes kompetence- og karriereudvikling.&lt;/p&gt;
+
+&lt;p&gt;På nuværende tidspunkt består bestyrelsen af 6 ildsjæle der driver foreningen i samarbejde med et bredt udvalg af foreningens medlemmer.&lt;/p&gt;
+
+&lt;h2 id=&quot;hvad-laver-man-i-fdca&quot;&gt;Hvad laver man i FDCA?&lt;/h2&gt;
+&lt;p&gt;Foreningen blev oprettet i September 2021, og har siden da afholdt 2 fysiske arrangementer - det ene var en Capture the flag dag, som blev afholdt på Aalborg Universitet i København. Det andet var et Purple-teaming event, med fokus på threathunting i samarbejde med David Clayton(Combitec) og Nichlas Falk(Improsec), på Combitecs faciliteter i Århus. Til dette event blev APT-gruppen “WizardSpider” analyseret, og deres TTP blev simuleret i et lukket miljø. Dette var med til at give inspiration til hvordan man kan gribe sin threat-hunting an - altså medlemmerne fik udvidet deres “hands-on”-erfaring.&lt;/p&gt;
+
+&lt;center&gt;&lt;img src=&quot;/assets/images/IMG_1438.jpg&quot; align=&quot;center&quot; height=&quot;350&quot; width=&quot;550&quot; /&gt;&lt;/center&gt;
+
+&lt;p&gt;Foreningen har derudover afholdt et online CTF-event, deltaget i OWASP foredrag og haft forskellige sociale sammenkomster. Selvom det sociale aspekt vægtes højt ved samtlige arrangementer, så går foreningens medlemmer altid hjem med viden eller erfaring, som kan bruges direkte i deres arbejde eller uddannelse.&lt;/p&gt;
+
+&lt;h2 id=&quot;hvor-vil-foreningen-hen&quot;&gt;Hvor vil foreningen hen?&lt;/h2&gt;
+&lt;p&gt;Vores førnævnte målsætninger viser, at foreningen har nogle ret seriøst ambitioner, og det er dem, som vi skal ud at jage nu. Det kan dog selvfølgelig være svært at definere og måle på hvordan og hvornår vi gør hele Rigsfællesskabet mere sikkert. Vi er af den overbevisning, at hvis vi fortsætter med af hverve en masse alumner og kan tilbyde dem kvalificeret ”state of the art” kompetence- og karriereudvikling, så skal vi helt sikkert nok lykkes. 
+Helt specifikt bruger vi nu blandt andet meget energi på at få stablet nogle varige samarbejder op med forskellige virksomheder. Vi mener, at eksterne samarbejdspartnere er essentielle for at accelerere vores vej mod vores overordnet visioner, men også at vi har en masse ekspertise, som vi kan dele ud af. Derudover har vi en masse spændende arrangementer i pipelinen, som vi glæder os meget til at kunne fortælle mere om.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Har du lyst til at følge med i, hvad foreningen laver, så følg os på:&lt;/strong&gt;
+ &lt;a href=&quot;https://www.linkedin.com/company/foreningen-for-danske-cyber-alumner&quot;&gt;LinkedIn&lt;/a&gt;, eller vores hjemmeside: &lt;a href=&quot;https://fdca.dk&quot;&gt;FDCA.dk&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Eller smid os en mail på: 
+ info@fdca.dk&lt;/p&gt;</content><author><name>Christian B. Henriksen</name></author><category term="blog" /><category term="Cyberværnepligt" /><category term="Cybersecurity" /><category term="Education" /><summary type="html">Hvad er FDCA, hvordan bliver man medlem, og hvad laver en cyber forening egentligt? Det vil jeg prøve at beskrive i følgende blog post.</summary></entry></feed>

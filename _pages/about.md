@@ -3,6 +3,16 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+<center><img src="/assets/images/bio-photo.jpg" style="max-width:45%;text-align:center; border-radius:20%"></center>
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Hi! :wave:
+
+Christian is an accomplished Cyber Security Professional with a proven track record in penetration testing, managed detection and response, and incident response. With several years of experience under his belt, he has honed his skills in identifying and mitigating security threats, conducting risk assessments, and developing and implementing security protocols.
+
+In addition to his Bachelor of Science in Computer Science, Christian holds numerous certifications, including being certified as a CrowdStrike Champion (Administrator, Responder & Threat hunter) and a Certified Red Team Operator (CRTO). His technical expertise and knowledge have allowed him to excel in his field, and he is always eager to learn and expand his skill set.
+
+Beyond his work in Cyber Security, Christian is also a passionate and dedicated volunteer. He serves on the board of a volunteering association (FDCA), where he focuses on promoting Cyber Security awareness and education. Through his work with FDCA, Christian has been able to share his knowledge and expertise with others, helping to raise awareness about the importance of Cyber Security.
+
+If you are looking for a Cyber Security Professional with a wealth of experience and a commitment to excellence, Christian is the ideal candidate for your organization.
+
+If you want to learn more about the association, you can find more on our website: [https://fdca.dk](https://fdca.dk)
