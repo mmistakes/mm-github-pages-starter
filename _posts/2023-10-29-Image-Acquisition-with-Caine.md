@@ -1,6 +1,6 @@
 ---
 title: "🕵️‍♂️ Image Acquisition with Caine"
-date: 2023-10-28T15:34:30-04:00
+date: 2023-10-28
 categories:
   - blog
 tags:
