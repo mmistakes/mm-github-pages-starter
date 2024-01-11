@@ -7,8 +7,8 @@ main:
     url: /projects/
   - title: "R packages"
     url: /packages/
-  - title: "Photography"
-    url: /photo/
+#  - title: "Photography"
+#    url: /photo/
   - title: "Posts"
     url: /posts/
 #  - title: "Categories"
