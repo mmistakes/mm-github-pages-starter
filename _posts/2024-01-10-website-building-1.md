@@ -19,4 +19,4 @@ Changing the domain name of the Restore website from Github Pages to a dedicated
 [GRP_link]:       https://www.globalrestoreproject.com/
 [grp_gh_link]:    https://github.com/global-restore-project/grp_website
 [gh_link]:        https://pages.github.com/
-[technews3_link]: /blog/post-link/index.html
+[technews3_link]: /blog/tech_news_3/index.html

@@ -32,9 +32,10 @@ search: true
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
+incremental: true
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 7 # amount of posts to show default is 5
 paginate_path: /page:num/
 timezone: Europe/Berlin # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
