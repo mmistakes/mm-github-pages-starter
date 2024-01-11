@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: "About me"
+permalink: /packages/
+title: "R packages"
 ---
 
 My name is Alban Sagouis and this is my first personal website.

@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: "About me"
+permalink: /projects/
+title: "Research projects"
 ---
 
 My name is Alban Sagouis and this is my first personal website.

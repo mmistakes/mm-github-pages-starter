@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: "About me"
+permalink: /photo/
+title: "Photography"
 ---
 
 My name is Alban Sagouis and this is my first personal website.

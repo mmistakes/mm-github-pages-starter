@@ -1,9 +1,17 @@
 main:
+  - title: "About me"
+    url: /about/
+  - title: "My CV"
+    url: /cv/
+  - title: "Research projects"
+    url: /projects/
+  - title: "R packages"
+    url: /packages/
+  - title: "Photography"
+    url: /photo/
   - title: "Posts"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+#  - title: "Categories"
+#    url: /categories/
+#  - title: "Tags"
+#    url: /tags/

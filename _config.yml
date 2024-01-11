@@ -13,15 +13,20 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: A personal website, a living CV
+#logo: "/assets/images/88x88.png" # https://mmistakes.github.io/minimal-mistakes/docs/configuration/#site-masthead-logo
+#subtitle: "This is a sub-title"
+
+email: sagouis@pm.me
 description: >- # this means to ignore newlines until "baseurl:"
+  This is a professional personal page, welcome and I hope you'll find
+  something interesting.
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
+github_username: AlbanSagouis
+minimal_mistakes_skin: dark # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise" https://mmistakes.github.io/minimal-mistakes/docs/configuration/#skin
+locale: "en-GB"
 search: true
 
 # Build settings
@@ -31,7 +36,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Berlin # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
@@ -58,34 +63,34 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Alban Sagouis"
+  avatar : "/assets/images/portrait_with_scarf.jpeg"
+  bio    : "R programmer, reproducibility software advocate and community ecologist"
   links:
-    - label: "Website"
+    - label: "Company website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://www.idiv.de/en/profile/1244.html"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/albansagouis"
+  # - label: "Instagram"
+    # icon: "fab fa-fw fa-instagram" 
+    # url: "https://instagram.com/"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+#  - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/"
+#   - label: "Mastodon"
+#      icon: "fab fa-fw fa-mastodon" # not tested, see here: https://mmistakes.github.io/minimal-mistakes/docs/layouts/#author-profile
+#      url: "https://fosstodon.org/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/albansagouis"
+ #   - label: "Instagram"
+ #     icon: "fab fa-fw fa-instagram"
+ #     url: "https://instagram.com/"
 
 defaults:
   # _posts
@@ -95,6 +100,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      show_date: true
       read_time: true
       comments: true
       share: true
@@ -104,8 +110,19 @@ defaults:
       path: "_pages"
       type: pages
     values:
-      layout: single
       author_profile: true
+      layout: single
+      classes: wide
+      header:
+        excerpt: "This piece of text could be shown on top of the overlay_image, just under the title"
+        show_overlay_excerpt: false
+        overlay_image: assets/images/landscape_cundinamarca.jpg
+        overlay_filter: 0.1
+#       overlay_filter: linear-gradient(rgba(255, 0, 0, 0.5), rgba(0, 255, 255, 0.5)) # can also be a colourful gradient
+
+#      header: # just an image, higher than the overlay_image
+#        image: assets/images/landscape_cundinamarca.jpg
+#        image_description: "A description of the image"
 
 category_archive:
   type: liquid
