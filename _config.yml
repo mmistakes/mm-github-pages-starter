@@ -33,6 +33,11 @@ search: true
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 incremental: true
+livereload: true
+#relative_links: # the plugin is disabled but see https://github.com/benbalter/jekyll-relative-links
+#  enabled: true
+#  collections: true
+
 # Outputting
 permalink: /:categories/:title/
 paginate: 7 # amount of posts to show default is 5
@@ -62,6 +67,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+#  - jekyll-relative-links # not needed at the moment
 
 author:
   name   : "Alban Sagouis"

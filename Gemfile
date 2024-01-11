@@ -18,3 +18,4 @@ end
 
 gem "faraday-retry", "~> 2.2"
 gem "webrick"
+# gem "jekyll-relative-links"
