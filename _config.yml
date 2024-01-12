@@ -25,6 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 github_username: AlbanSagouis
+github: [metadata]
 minimal_mistakes_skin: dark # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise" https://mmistakes.github.io/minimal-mistakes/docs/configuration/#skin
 locale: "en-GB"
 search: true
