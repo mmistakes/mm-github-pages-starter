@@ -6,7 +6,7 @@ categories:
 tags:
   - photography
   - gear
-picture: /assets/images/discovery-analog-photography/1197143.jpeg
+image: /assets/images/discovery-analog-photography/Nikon_EM.jpeg
 gallery:
   - url: /assets/images/discovery-analog-photography/000002.jpeg
     image_path: /assets/images/discovery-analog-photography/000002.jpeg

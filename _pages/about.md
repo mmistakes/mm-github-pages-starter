@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "About me"
-picture: /assets/images/portrait_with_scarf.jpeg
+image: /assets/images/portrait_with_scarf.jpeg
 ---
 
 My name is Alban Sagouis and this is my personal professional website. My CV is here but I also plan to use the collection feature of this website to build a dynamic CV: I'll post blog posts about experiences I had that will be gathered together automatically.

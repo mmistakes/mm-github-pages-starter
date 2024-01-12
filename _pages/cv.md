@@ -1,8 +1,12 @@
 ---
 permalink: /cv/
 title: "My CV"
+layout: tag
+taxonomy: experience
+entries_layout: grid
+
 ---
 
-My name is Alban Sagouis and this is my first personal website.
+This is my dynamic CV!  
+My blogposts tagged with "experience" are automatically collected here.
 
-I used the template Minimal Mistake by Michael Rose and develop and build locally in Visual Studio Code.

@@ -1,8 +1,8 @@
 main:
   - title: "About me"
     url: /about/
-#  - title: "My CV"
-#    url: /cv/
+  - title: "My CV"
+    url: /cv/
 #  - title: "Research projects"
 #    url: /projects/
 #  - title: "R packages"
