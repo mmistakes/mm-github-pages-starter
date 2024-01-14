@@ -85,6 +85,9 @@ author:
     - label: orcid
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0002-3827-1063"
+    - label: researchgate
+      icon: "fab fa-fw fa-researchgate"
+      url: https://www.researchgate.net/profile/Alban-Sagouis
     - label: LinkedIn
       icon: "fab fa-fw fa-linkedin"
       url: https://www.linkedin.com/in/alban-sagouis-567886283/
@@ -106,6 +109,9 @@ footer:
     - label: orcid
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0002-3827-1063"
+    - label: researchgate
+      icon: "fab fa-fw fa-researchgate"
+      url: https://www.researchgate.net/profile/Alban-Sagouis
     - label: LinkedIn
       icon: "fab fa-fw fa-linkedin"
       url: https://www.linkedin.com/in/alban-sagouis-567886283/
