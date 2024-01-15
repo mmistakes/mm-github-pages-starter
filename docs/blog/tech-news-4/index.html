@@ -101,6 +101,10 @@
   </ul>
 </nav>
 
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+
     
 
 <div class="masthead">
@@ -141,30 +145,28 @@
 
 
 
-
-
 <div id="main" role="main">
   
   <div class="sidebar sticky">
   
 
 
-<div itemscope itemtype="https://schema.org/Person" class="h-card">
+<div itemscope itemtype="https://schema.org/Person">
 
   
     <div class="author__avatar">
-      <a href="/">
-        <img src="/assets/images/portrait_with_scarf.jpeg" alt="Alban Sagouis" itemprop="image" class="u-photo">
-      </a>
+      
+        <img src="/assets/images/portrait_with_scarf.jpeg" alt="Alban Sagouis" itemprop="image">
+      
     </div>
   
 
   <div class="author__content">
-    <h3 class="author__name p-name" itemprop="name">
-      <a class="u-url" rel="me" href="/" itemprop="url">Alban Sagouis</a>
-    </h3>
     
-      <div class="author__bio p-note" itemprop="description">
+      <h3 class="author__name" itemprop="name">Alban Sagouis</h3>
+    
+    
+      <div class="author__bio" itemprop="description">
         <p>R programmer, reproducibility software advocate and community ecologist</p>
 
       </div>
@@ -179,23 +181,23 @@
       
         
           
-            <li><a href="https://www.idiv.de/en/profile/1244.html" rel="nofollow noopener noreferrer me" itemprop="sameAs"><i class="fas fa-fw fa-link" aria-hidden="true"></i><span class="label">Company website</span></a></li>
+            <li><a href="https://www.idiv.de/en/profile/1244.html" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-link" aria-hidden="true"></i><span class="label">Company website</span></a></li>
           
         
           
-            <li><a href="https://github.com/albansagouis" rel="nofollow noopener noreferrer me" itemprop="sameAs"><i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">GitHub</span></a></li>
+            <li><a href="https://github.com/albansagouis" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">GitHub</span></a></li>
           
         
           
-            <li><a href="https://orcid.org/0000-0002-3827-1063" rel="nofollow noopener noreferrer me" itemprop="sameAs"><i class="fab fa-fw fa-orcid" aria-hidden="true"></i><span class="label">orcid</span></a></li>
+            <li><a href="https://orcid.org/0000-0002-3827-1063" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-orcid" aria-hidden="true"></i><span class="label">orcid</span></a></li>
           
         
           
-            <li><a href="https://www.researchgate.net/profile/Alban-Sagouis" rel="nofollow noopener noreferrer me" itemprop="sameAs"><i class="fab fa-fw fa-researchgate" aria-hidden="true"></i><span class="label">researchgate</span></a></li>
+            <li><a href="https://www.researchgate.net/profile/Alban-Sagouis" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-researchgate" aria-hidden="true"></i><span class="label">researchgate</span></a></li>
           
         
           
-            <li><a href="https://www.linkedin.com/in/alban-sagouis-567886283/" rel="nofollow noopener noreferrer me" itemprop="sameAs"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span class="label">LinkedIn</span></a></li>
+            <li><a href="https://www.linkedin.com/in/alban-sagouis-567886283/" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span class="label">LinkedIn</span></a></li>
           
         
       
@@ -250,7 +252,7 @@
 
       <!--
   <li>
-    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer me">
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer">
       <i class="fas fa-fw" aria-hidden="true"></i> Custom Social Profile Link
     </a>
   </li>
@@ -264,7 +266,7 @@
 
 
 
-  <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
     <meta itemprop="headline" content="Tech news 4: Reporting your figures and model results in your manuscript">
     <meta itemprop="description" content="Dear all,">
     <meta itemprop="datePublished" content="2023-10-20T14:25:30+02:00">
@@ -273,10 +275,8 @@
     <div class="page__inner-wrap">
       
         <header>
-          <h1 id="page-title" class="page__title p-name" itemprop="headline">
-            <a href="/blog/tech-news-4/" class="u-url" itemprop="url">Tech news 4: Reporting your figures and model results in your manuscript
-</a>
-          </h1>
+          <h1 id="page-title" class="page__title" itemprop="headline">Tech news 4: Reporting your figures and model results in your manuscript
+</h1>
           
 
   <p class="page__meta">
@@ -308,7 +308,7 @@
         </header>
       
 
-      <section class="page__content e-content" itemprop="text">
+      <section class="page__content" itemprop="text">
         
         <h3 id="dear-all">Dear all,</h3>
 
@@ -489,15 +489,15 @@ You want the table in your manuscript, exactly where it is useful (if Words let 
     <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Tags: </strong>
     <span itemprop="keywords">
     
-      <a href="/tags/#experience" class="page__taxonomy-item p-category" rel="tag">experience</a><span class="sep">, </span>
+      <a href="/tags/#experience" class="page__taxonomy-item" rel="tag">experience</a><span class="sep">, </span>
     
-      <a href="/tags/#package" class="page__taxonomy-item p-category" rel="tag">package</a><span class="sep">, </span>
+      <a href="/tags/#package" class="page__taxonomy-item" rel="tag">package</a><span class="sep">, </span>
     
-      <a href="/tags/#r" class="page__taxonomy-item p-category" rel="tag">R</a><span class="sep">, </span>
+      <a href="/tags/#r" class="page__taxonomy-item" rel="tag">R</a><span class="sep">, </span>
     
-      <a href="/tags/#reproducibility" class="page__taxonomy-item p-category" rel="tag">reproducibility</a><span class="sep">, </span>
+      <a href="/tags/#reproducibility" class="page__taxonomy-item" rel="tag">reproducibility</a><span class="sep">, </span>
     
-      <a href="/tags/#technews" class="page__taxonomy-item p-category" rel="tag">technews</a>
+      <a href="/tags/#technews" class="page__taxonomy-item" rel="tag">technews</a>
     
     </span>
   </p>
@@ -514,7 +514,7 @@ You want the table in your manuscript, exactly where it is useful (if Words let 
     <strong><i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> Categories: </strong>
     <span itemprop="keywords">
     
-      <a href="/categories/#blog" class="page__taxonomy-item p-category" rel="tag">blog</a>
+      <a href="/categories/#blog" class="page__taxonomy-item" rel="tag">blog</a>
     
     </span>
   </p>
@@ -522,7 +522,8 @@ You want the table in your manuscript, exactly where it is useful (if Words let 
 
         
 
-  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2023-10-20T14:25:30+02:00">October 20, 2023</time></p>
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2023-10-20T14:25:30+02:00">October 20, 2023</time></p>
+
 
       </footer>
 
@@ -557,7 +558,7 @@ You want the table in your manuscript, exactly where it is useful (if Words let 
   
   
     <div class="page__related">
-      <h2 class="page__related-title">You May Also Enjoy</h2>
+      <h4 class="page__related-title">You May Also Enjoy</h4>
       <div class="grid__wrapper">
         
           
@@ -761,7 +762,7 @@ I downloaded the mini...</p>
 
     
       <div class="search-content">
-        <div class="search-content__inner-wrap"><form class="search-content__form" onkeydown="return event.key != 'Enter';" role="search">
+        <div class="search-content__inner-wrap"><form class="search-content__form" onkeydown="return event.key != 'Enter';">
     <label class="sr-only" for="search">
       Enter your search term...
     </label>
