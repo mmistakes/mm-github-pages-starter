@@ -19,11 +19,10 @@ title: A personal website, a living CV
 
 email: sagouis@pm.me
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a professional personal page, welcome and I hope you'll find
-  something interesting.
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is a professional personal page, I speak of R programming, 
+  scientific development, web development, reproducibility 
+  and photography
+  
 github_username: AlbanSagouis
 github: [metadata]
 locale: "en-GB"
@@ -36,6 +35,7 @@ remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: dark # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise" https://mmistakes.github.io/minimal-mistakes/docs/configuration/#skin
 incremental: true
 livereload: true
+destination: docs/
 #relative_links: # the plugin is disabled but see https://github.com/benbalter/jekyll-relative-links
 #  enabled: true
 #  collections: true
