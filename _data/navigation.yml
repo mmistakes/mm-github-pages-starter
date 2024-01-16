@@ -1,6 +1,6 @@
 main:
-  - title: "About me"
-    url: /about/
+# - title: "About me"
+#   url: /about/
   - title: "My CV"
     url: /cv/
 #  - title: "Research projects"

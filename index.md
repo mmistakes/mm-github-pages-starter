@@ -1,7 +1,16 @@
 ---
-permalink: /about/
+# permalink: /about/
 title: "About me"
 image: /assets/images/portrait_with_scarf.jpeg
+order: 1
+author_profile: true
+layout: single
+classes: wide
+header:
+    excerpt: "This piece of text could be shown on top of the overlay_image, just under the title"
+    show_overlay_excerpt: false
+    overlay_image: assets/images/landscape_cundinamarca.jpg
+    overlay_filter: 0.1
 ---
 
 My name is Alban Sagouis and this is my personal professional website. My CV is here but I also plan to use the collection feature of this website to build a dynamic CV: I'll post blog posts about experiences I had that will be gathered together automatically.

@@ -76,15 +76,15 @@ author:
   avatar : "/assets/images/portrait_with_scarf.jpeg"
   bio    : "R programmer, reproducibility software advocate and community ecologist"
   links:
-    - label: "Company website"
+    - label: "iDiv website"
       icon: "fas fa-fw fa-link"
-      url: "https://www.idiv.de/en/profile/1244.html"
+      url: https://www.idiv.de/en/profile/1244.html
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/albansagouis"
+      url: https://github.com/albansagouis
     - label: orcid
       icon: "fab fa-fw fa-orcid"
-      url: "https://orcid.org/0000-0002-3827-1063"
+      url: https://orcid.org/0000-0002-3827-1063
     - label: researchgate
       icon: "fab fa-fw fa-researchgate"
       url: https://www.researchgate.net/profile/Alban-Sagouis
@@ -105,10 +105,10 @@ footer:
 #      url: "https://fosstodon.org/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/albansagouis"
+      url: https://github.com/albansagouis
     - label: orcid
       icon: "fab fa-fw fa-orcid"
-      url: "https://orcid.org/0000-0002-3827-1063"
+      url: https://orcid.org/0000-0002-3827-1063
     - label: researchgate
       icon: "fab fa-fw fa-researchgate"
       url: https://www.researchgate.net/profile/Alban-Sagouis
