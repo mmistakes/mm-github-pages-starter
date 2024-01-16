@@ -11,6 +11,7 @@ header:
     show_overlay_excerpt: false
     overlay_image: assets/images/landscape_cundinamarca.jpg
     overlay_filter: 0.1
+related: true
 ---
 
 My name is Alban Sagouis and this is my personal professional website. My CV is here but I also plan to use the collection feature of this website to build a dynamic CV: I'll post blog posts about experiences I had that will be gathered together automatically.
