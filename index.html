@@ -1,7 +1,49 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
+layout: single
+title: "小白的工程实践与思考档案"
 author_profile: true
+classes: wide
 ---
+
+<section class="home-hero">
+  <p class="home-kicker">个人作品 · 学习复盘 · 思考档案</p>
+  <h1>小白的工程实践与思考档案</h1>
+  <p>
+    我是一名正在学习机器人、嵌入式、人工智能与软件工程的本科生。这里记录我做过的项目、遇到的问题、学习后的理解，以及认知发生变化的过程。
+  </p>
+</section>
+
+<section class="home-section">
+  <h2>当前关注</h2>
+  <p>机器人、嵌入式控制、YOLO目标检测、Linux和软件工程。</p>
+</section>
+
+<section class="home-section">
+  <h2>精选项目</h2>
+  <div class="archive-grid">
+    <article class="archive-card">
+      <h3><a href="/projects/#robot-arm">六自由度机械臂</a></h3>
+      <p>记录机械臂结构、控制和调试过程中的问题。当前内容为 V0.1 占位，后续补充真实进展。</p>
+    </article>
+    <article class="archive-card">
+      <h3><a href="/projects/#yolo-practice">YOLO目标检测学习与实践</a></h3>
+      <p>记录目标检测学习、模型部署与实践复盘。当前内容为 V0.1 占位，后续补充实验记录。</p>
+    </article>
+  </div>
+</section>
+
+<section class="home-section">
+  <h2>最新文章</h2>
+  {% if site.posts.size > 0 %}
+    <ul class="post-list-compact">
+      {% for post in site.posts limit: 5 %}
+        <li>
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          <span>{{ post.date | date: "%Y-%m-%d" }}</span>
+        </li>
+      {% endfor %}
+    </ul>
+  {% else %}
+    <p>暂无已发布文章。</p>
+  {% endif %}
+</section>
