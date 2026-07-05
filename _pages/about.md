@@ -1,8 +1,35 @@
 ---
 permalink: /about/
-title: "About"
+title: "关于"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+## 我是谁
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+我是一名正在学习机器人、嵌入式、人工智能与软件工程的本科生。
+
+这个网站不是用来包装“已经很厉害的我”，而是用来记录一个学习者从不会到逐渐理解的过程。
+
+## 当前学习方向
+
+- 机器人与机械结构实践
+- 嵌入式控制与硬件调试
+- YOLO 目标检测与模型部署
+- Linux 基础使用
+- 软件工程与项目整理方法
+
+## 我正在做的项目
+
+- 六自由度机械臂：待补充真实结构、控制方式、调试记录和阶段成果。
+- YOLO目标检测学习与实践：待补充数据、训练、部署和测试过程。
+
+## 为什么建立这个网站
+
+我希望把项目过程中的问题、调整和复盘留下来，而不是只保存最后的结果。
+
+很多学习内容在刚接触时看起来很碎：一个报错、一次接线错误、一个结构不稳的问题、一个模型转换失败的尝试。这个网站会把这些碎片整理成可以回看的记录。
+
+## GitHub 联系方式
+
+GitHub：<https://github.com/bloodest761-ship-it>
+
+更多联系方式：待补充。
