@@ -1,0 +1,123 @@
+@use 'constants';
+
+.epqm-description {
+  margin: auto;
+  background-color: rgba(constants.$h2-color, 0.5);
+  > *, strong { 
+    color: constants.$h1-color;
+    // font-weight: bold;
+  }
+  border-radius: 10px;
+  padding: 3px 20px;
+}
+
+.home-article {
+  margin-bottom: 1em;
+  > div  {
+    font-weight: 500;
+    font-size: 1.1em;
+    display: block;
+    text-align: left;
+  }
+  // padding-left: 1em;
+  // border-left: 0.3em solid constants.$h2-color;
+}
+
+.rest {
+  color: constants.$h1-color;
+  text-decoration: none;
+}
+.first{
+  color: constants.$h2-color;
+  text-decoration: none;
+}
+.home-excerpt {
+  font-size: 0.9em;
+  color: constants.$h1-color;
+  opacity: 0.4;
+}
+.date {
+  font-weight: bold;
+  font-size: 0.9em;
+  color: constants.$h1-color;
+  margin-right: 1em;
+  opacity: 0.7;
+}
+
+.first:hover {
+  text-decoration-thickness: 3px;
+  text-underline-offset: 3px;
+  text-decoration-color: constants.$fg-color;
+}
+.rest:hover {
+  text-decoration-thickness: 3px;
+  text-underline-offset: 3px;
+  text-decoration-color: constants.$h2-color;
+}
+
+.home-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 2em;
+}
+
+////////////////////////////////////////
+
+.featured {
+  margin: 0 0 3.5rem;
+}
+
+.featured-image {
+  display: block;
+  width: 100%;
+  overflow: hidden;
+}
+
+.featured-image img {
+  display: block;
+  width: 100%;
+  height: auto;
+
+  transition: transform 600ms ease;
+}
+
+.featured-image:hover img {
+  transform: scale(1.15);
+}
+
+.featured-label {
+  color: constants.$h2-color;
+  font-size: 0.85rem;
+  font-weight: bold;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.featured h2 {
+  text-decoration: none;
+  color: constants.$h1-color;
+}
+
+.gallery-item {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+  flex: 1;
+  > .home-excerpt {
+    height: 4em;
+  }
+}
+.gallery-item img {
+  width: 100%;
+  aspect-ratio: 3 / 2;
+  object-fit: cover;
+  display: block;
+}
+
+.gallery {
+  display: flex;
+  justify-content: space-between;
+  gap: 1em;
+  overflow: hidden;
+}

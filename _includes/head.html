@@ -1,0 +1,23 @@
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  <title>{{ site.title }}</title>
+  <link rel="stylesheet" href={{ "assets/css/styles.css" | relative_url }}>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/mshaugh/nerdfont-webfonts@v3.3.0/build/firacode-nerd-font.css">
+
+  {% for file in site.static_files %}
+  {% if file.path contains "/assets/fonts/" %}
+  {% if file.path contains "/stylesheet.css" %}
+  <link rel="stylesheet" href={{ file.path | relative_url }}>
+  {% endif %}
+  {% endif %}
+  {% endfor %}
+  <meta name="description" content={{ site.description }}>
+
+  <meta property="og:title" content={{ page.title }}>
+  <meta property="og:url" content={{ page.url }}>
+  <meta property="og:image" content={{ page.image }}>
+
+  <link rel="icon" href="/assets/images/favicon.svg" type="image/x-icon">
+
+</head>

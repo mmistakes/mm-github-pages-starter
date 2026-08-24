@@ -1,0 +1,65 @@
+@use 'constants';
+
+html {
+  background-color: constants.$bg-color;
+  color: constants.$fg-color;
+  font-family: constants.$font, constants.$emoji-font !important;
+  font-size: constants.$size;
+  font-weight: constants.$weight;
+  text-align: justify;
+  overflow-y: scroll;
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none;  /* Internet Explorer 10+ */
+}
+html::-webkit-scrollbar { /* WebKit */
+    width: 0;
+    height: 0;
+}
+
+body {
+  width: 100%;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  min-height: 100vh;
+}
+
+main {
+  margin: calc(50vw - 0.5 * constants.$width);
+  min-height: calc(100% - constants.$bar-height - 2 * constants.$margin);
+  max-width: constants.$width;
+  margin-top: constants.$margin;
+  margin-bottom: constants.$margin;
+  flex: 1;
+}
+
+@media only screen and (max-width: constants.$breakpoint1)  {
+  body {
+    width: 100vw;
+  }
+  main {
+    margin-left: constants.$margin;
+    margin-right: constants.$margin;
+  }
+}
+
+@media only screen and (max-width: constants.$breakpoint2)  {
+  html {
+    font-size: 1em;
+  }
+}
+
+.nf-dev-google {
+  color: constants.$google;
+}
+.nf-dev-github {
+  color: constants.$github;
+}
+.nf-md-email_check {
+  color: constants.$email;
+}
+
+.excerpt {
+  font-style: italic;
+}

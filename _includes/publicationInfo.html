@@ -1,0 +1,6 @@
+<span class="publication-title">{{ work["title"] }}</span><br>
+<span class="publication-time">{{ work["time"] }}</span>.&nbsp;<a class="publication-reference" href="{{ work["doi"] }}">{{ work["journal_ref_short"] }}</a>.&nbsp; <span class="publication-reference">{{ work["arxiv_ref"] }}</span>
+{%- if include.showAuthor == true -%}
+{% assign authorList = work["authors"] | join: ", " | replace: "Abhirup Mukherjee", "<span class='author'>Abhirup Mukherjee</span>" | markdownify | remove: '<p>' | remove: '</p>' %}<br>
+{%- endif -%}
+{{ authorList }}

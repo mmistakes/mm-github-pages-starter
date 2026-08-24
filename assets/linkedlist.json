@@ -1,0 +1,16 @@
+---
+layout: null
+---
+
+[
+  {% for post in site.categories["linkedlist"] %}
+    {
+      "title": {{ post.title | jsonify }},
+      "date": "{{ post.date | date_to_xmlschema }}",
+      "permalink": "{{ post.permalink }}",
+      "author": "{{ post.authors | join: ", " }}",
+      "category": {{ post.category | jsonify }},
+      "hero-image": {{ "/assets/images" | append: post.permalink | append: post.hero-image | jsonify }}
+    }{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]

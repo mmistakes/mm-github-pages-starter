@@ -1,0 +1,38 @@
+- date: "Mar 18, 2023"
+  title: "Graph Polynomials & Topological Entanglement Entropy"
+  occasion: "DPS Day 2023, IISER Kolkata"
+  video_url:
+  slides_url: "/assets/pdfs/DPSDay2023SomnathBasu.pdf"
+  comments: "A short presentation by EPQM friend and collaborator, Prof. Somnath Basu (of DMS, IISER Kolkata) on our collaborative work on developing new mathematical tools and techniques for dealing with unveiling topological entanglement entropy in topologically ordered quantum systems."
+- date: "Dec 15, 2022"
+  title: "What makes the Quantum Computer different?"
+  occasion: "Winter School on Quantum Computing at IISER Kolkata"
+  video_url: 
+  slides_url: "/assets/pdfs/EntanglementQCshort.pdf"
+  comments: "Various features of Quantum mechanics make the quantum computer different. We discuss each of them in turn."
+- date: "Nov 10, 2022"
+  title: "Revisiting the impurity Metal-Insulator transition at the heart of DMFT: what lies behind the veil of self-consistency?"
+  occasion: "Grad Program in Physics- Federal University of Uberlândia"
+  video_url: "https://www.youtube.com/watch?v=JuPtebPgxtQ&ab_channel=P%C3%B3sGradua%C3%A7%C3%A3oemF%C3%ADsica-InstitutodeF%C3%ADsica"
+  slides_url: "/assets/pdfs/esiam_seminar.pdf"
+  comments: "DMFT offers an exact solution to the metal-insulator transition of the half-filled Hubbard model on the Bethe lattice in infinite dimensions. We seek to understand why that is the case."
+- date: "March 1, 2022"
+  title: "Unitary RG study of the Kondo model"
+  occasion: "Department of Theoretical Physics, TIFR"
+  video_url: "https://www.youtube.com/watch?v=C0cPoWahzLA&ab_channel=DepartmentofTheoreticalPhysics%2CTIFR"
+  slides_url: "/assets/pdfs/kondo_seminar.pdf"
+  comments: "Applying the unitary RG method to the well-known Kondo problem reveals fresh insight, such as a theory for the Kondo screening cloud."
+- date: "Jan 21, 2022"
+  title: "Origin of topological order in a Cooper-pair insulator"
+  occasion: "Gluon - The Physics Journal Club, IISER Kolkata"
+  video_url: "https://drive.google.com/file/d/1Drh-N5Z5QUURXYC_okh6ZRLtNvAXXz3n/view"
+  slides_url: 
+  comments: "What is topological order? We discuss how to answer this question in a prototypical insulating quantum liquid system comprised of Cooper pairs."
+- date: "Dec 15, 2020"
+  title: "Insights on the origin and nature of superconductivity of the hole-doped 2D Hubbard model"
+  occasion: "YIMQCMT 2020"
+  video_url: "https://www.youtube.com/live/slghUn1h0KY?feature=share&t=3155"
+  slides_url: 
+  comments: "A fresh take on the well-known conundrum of superconductivity from repulsion in the 2D Hubbard model. Additional context can be found [here](https://youtu.be/6gVd-XVjOBU)."
+
+

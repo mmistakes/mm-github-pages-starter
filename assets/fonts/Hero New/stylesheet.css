@@ -1,0 +1,270 @@
+@font-face {
+    font-family: 'Lato Hairline';
+    src: url('Lato-HairlineItalic.woff2') format('woff2'),
+        url('Lato-HairlineItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lato Hairline';
+    src: url('Lato-Hairline.woff2') format('woff2'),
+        url('Lato-Hairline.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('Lato-Regular.woff2') format('woff2'),
+        url('Lato-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('Lato-BoldItalic.woff2') format('woff2'),
+        url('Lato-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('Lato-Black.woff2') format('woff2'),
+        url('Lato-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('Lato-BlackItalic.woff2') format('woff2'),
+        url('Lato-BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('Lato-Italic.woff2') format('woff2'),
+        url('Lato-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('Lato-LightItalic.woff2') format('woff2'),
+        url('Lato-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('Lato-Light.woff2') format('woff2'),
+        url('Lato-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('Lato-Bold.woff2') format('woff2'),
+        url('Lato-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hero New';
+    src: url('HeroNew-Thin.woff2') format('woff2'),
+        url('HeroNew-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hero New';
+    src: url('HeroNew-UltraLightItalic.woff2') format('woff2'),
+        url('HeroNew-UltraLightItalic.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hero New';
+    src: url('HeroNew-UltraLight.woff2') format('woff2'),
+        url('HeroNew-UltraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hero New';
+    src: url('HeroNew-SemiBoldItalic.woff2') format('woff2'),
+        url('HeroNew-SemiBoldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hero New';
+    src: url('HeroNew-ThinItalic.woff2') format('woff2'),
+        url('HeroNew-ThinItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hero New Super';
+    src: url('HeroNew-SuperItalic.woff2') format('woff2'),
+        url('HeroNew-SuperItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hero New';
+    src: url('HeroNew-Regular.woff2') format('woff2'),
+        url('HeroNew-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hero New';
+    src: url('HeroNew-SemiBold.woff2') format('woff2'),
+        url('HeroNew-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hero New Super';
+    src: url('HeroNew-Super.woff2') format('woff2'),
+        url('HeroNew-Super.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hero New';
+    src: url('HeroNew-Medium.woff2') format('woff2'),
+        url('HeroNew-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hero New Hairline';
+    src: url('HeroNew-Hairline.woff2') format('woff2'),
+        url('HeroNew-Hairline.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hero New';
+    src: url('HeroNew-LightItalic.woff2') format('woff2'),
+        url('HeroNew-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hero New';
+    src: url('HeroNew-Light.woff2') format('woff2'),
+        url('HeroNew-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hero New';
+    src: url('HeroNew-RegularItalic.woff2') format('woff2'),
+        url('HeroNew-RegularItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hero New';
+    src: url('HeroNew-MediumItalic.woff2') format('woff2'),
+        url('HeroNew-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hero New';
+    src: url('HeroNew-BoldItalic.woff2') format('woff2'),
+        url('HeroNew-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hero New';
+    src: url('HeroNew-ExtraBold.woff2') format('woff2'),
+        url('HeroNew-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hero New';
+    src: url('HeroNew-Bold.woff2') format('woff2'),
+        url('HeroNew-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hero New';
+    src: url('HeroNew-ExtraBoldItalic.woff2') format('woff2'),
+        url('HeroNew-ExtraBoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hero New Hairline';
+    src: url('HeroNew-HairlineItalic.woff2') format('woff2'),
+        url('HeroNew-HairlineItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+

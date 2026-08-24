@@ -1,0 +1,27 @@
+@use 'constants';
+
+.button {
+  background-color: constants.$button-color;
+  color: constants.$bg-color;
+  font-size: 0.8rem;
+  border-radius: 4px;
+  padding: 7px 9px;
+  margin-top: 0.2rem;
+  margin-bottom: 0.2rem;
+  display: inline-block;
+  text-decoration: none;
+}
+
+.notice {
+  // background-color: constants.$accent-color;
+  // font-size: 1rem;
+  border-radius: 0px;
+}
+
+.button:hover {
+  text-decoration: none;
+  transform: translate(2px, 0px);
+  -webkit-transition: background-color 1000ms linear;
+  -ms-transition: background-color 1000ms linear;
+  transition: background-color 1000ms linear;
+}

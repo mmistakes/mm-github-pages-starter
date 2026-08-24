@@ -1,0 +1,12 @@
+services:
+  site:
+    image: jekyll/jekyll:4.4.1
+    ports:
+      - "4000:4000"
+    volumes:
+      - .:/srv/jekyll
+      - bundle:/usr/local/bundle
+    command: sh -c "bundle install && bundle exec jekyll serve --host 0.0.0.0 -wl --force_polling"
+
+volumes:
+  bundle:

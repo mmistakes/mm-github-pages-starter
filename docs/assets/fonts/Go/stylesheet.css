@@ -1,0 +1,225 @@
+@font-face {
+    font-family: 'Anonymous';
+    src: url('Anonymous.woff2') format('woff2'),
+        url('Anonymous.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Go Smallcaps';
+    src: url('GoSmallcaps.woff2') format('woff2'),
+        url('GoSmallcaps.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Go';
+    src: url('GoRegular.woff2') format('woff2'),
+        url('GoRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Go Smallcaps';
+    src: url('GoSmallcaps-Italic.woff2') format('woff2'),
+        url('GoSmallcaps-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Go Mono';
+    src: url('GoMono-Italic.woff2') format('woff2'),
+        url('GoMono-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Go Mono';
+    src: url('GoMono.woff2') format('woff2'),
+        url('GoMono.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Go Mono';
+    src: url('GoMono-Bold.woff2') format('woff2'),
+        url('GoMono-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Go';
+    src: url('GoMedium.woff2') format('woff2'),
+        url('GoMedium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Go Mono';
+    src: url('GoMono-BoldItalic.woff2') format('woff2'),
+        url('GoMono-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Go';
+    src: url('Go-Italic.woff2') format('woff2'),
+        url('Go-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Go';
+    src: url('Go-Bold.woff2') format('woff2'),
+        url('Go-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Go';
+    src: url('GoMedium-Italic.woff2') format('woff2'),
+        url('GoMedium-Italic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Go';
+    src: url('Go-BoldItalic.woff2') format('woff2'),
+        url('Go-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Go';
+    src: url('GoRegular.woff2') format('woff2'),
+        url('GoRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Go Smallcaps';
+    src: url('GoSmallcaps.woff2') format('woff2'),
+        url('GoSmallcaps.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Go Mono';
+    src: url('GoMono-Italic.woff2') format('woff2'),
+        url('GoMono-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Go Mono';
+    src: url('GoMono.woff2') format('woff2'),
+        url('GoMono.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Go';
+    src: url('GoMedium-Italic.woff2') format('woff2'),
+        url('GoMedium-Italic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Go Mono';
+    src: url('GoMono-BoldItalic.woff2') format('woff2'),
+        url('GoMono-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Go';
+    src: url('GoMedium.woff2') format('woff2'),
+        url('GoMedium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Go Smallcaps';
+    src: url('GoSmallcaps-Italic.woff2') format('woff2'),
+        url('GoSmallcaps-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Go Mono';
+    src: url('GoMono-Bold.woff2') format('woff2'),
+        url('GoMono-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Go';
+    src: url('Go-Italic.woff2') format('woff2'),
+        url('Go-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Go';
+    src: url('Go-BoldItalic.woff2') format('woff2'),
+        url('Go-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Go';
+    src: url('Go-Bold.woff2') format('woff2'),
+        url('Go-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+

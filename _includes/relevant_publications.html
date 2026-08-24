@@ -1,0 +1,9 @@
+{% assign tags = include.tags | split:"," %}
+{% for work in site.data.publications %}
+{% for tag in tags %}
+{% if work.tags contains tag %}
+- [{{ work.reference }}]({{ work.url }})
+{% break %}
+{% endif  %}
+{% endfor %}
+{% endfor %}

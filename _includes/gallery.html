@@ -1,0 +1,9 @@
+{% assign image = include.image %}
+{% assign caption = include.caption %}
+{% assign url = include.url %}
+<div class="gallery-item" markdown="0">
+<img src="{{ image }}">
+<span class="home-excerpt"> {{ caption }} </span>
+<a href="{{ url }}"> Read more → </a>
+</div>
+

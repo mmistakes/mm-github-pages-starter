@@ -1,0 +1,18 @@
+@use 'constants';
+
+.katex .katex-mathml { 
+  font-family: constants.$math-font;
+  font-size: 1.2em;
+  font-weight: bold;
+}
+.katex-html {
+  display: none;
+}
+
+.katex-display {
+  font-size: 1.15em;
+  padding: 0.5em;
+  overflow-x: scroll;
+  scrollbar-width: none; /* Firefox */
+}
+

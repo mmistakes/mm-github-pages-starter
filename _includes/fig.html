@@ -1,0 +1,6 @@
+{% capture content %}
+{% include figure.html %}
+{% endcapture %}
+
+{{ content | remove: "<p>" | remove: "</p>" }}
+

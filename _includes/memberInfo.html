@@ -1,0 +1,8 @@
+{% assign member = include.member %}
+{% assign id = member.Image | split: "id=" | last %}
+<div class="member-info">
+<img src="https://drive.google.com/thumbnail?id={{ id }}&sz=w400"/>
+<span><b> {{ member.Name }}</b>, {{ member.Designation }} ({{ member["Start Of Tenure"] }} -- {{ member["End Of Tenure"] }}) </span>
+<a href="mailto:{{ member.Email }}">{{ member.Email }}</a>
+{{ member["Short Introduction"] }}
+</div>

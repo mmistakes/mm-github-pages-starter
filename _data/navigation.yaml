@@ -1,0 +1,26 @@
+# main links
+main:
+  - title: Updates
+    url: /posts/
+  - title: Research
+    url: /research/
+  - title: Publications
+    url: /publications/
+  - title: Seminars
+    url: /seminars/
+  - title: Teaching
+    url: /teaching/
+  - title: About
+    url: /about/
+
+# sidebar
+sidebar:
+  - title: Openings
+    url: /about/#openings
+  - title: Contacts
+    url: /about/#contact-details
+  - title: EPQM in a nutshell
+    url: /about/#what-is-epqm
+  - title: Research overview
+    url: /research/#overview-of-our-research
+

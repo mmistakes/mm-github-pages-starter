@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+{% if page.hero-image contains "/assets/" %}
+  {% assign imagePath = page.hero-image %}
+{% else %}
+  {% assign imagePath = page.permalink | append: page.hero-image | prepend: "/assets" %}
+{% endif %}
+<img class="hero-image" src="{{ imagePath }}" />
+<h1> {{ page.title }} </h1>
+<b>{{ page.date | date: "%B &nbsp;%-d, %Y" }}</b>
+<p class="excerpt"> {{ page.excerpt | markdownify | remove: "<p>" | remove: "</p>" }} </p>
+{% if page.category == "manuscript" %}
+{% assign pageId = page.permalink | replace: "/", "" %} 
+{% for entry in site.data.publications %}
+{% if entry.id == pageId %}
+<a href="{{ entry.url }}" class="button">{{ entry.reference }}</a>
+{% endif %}
+{% endfor %}
+{% endif %}
+{% if page.toc %}
+{% include toc.html content=content %}
+{% endif %}
+<hr>
+
+{% if page.toc %}
+<h2> Table of Contents </h2>
+{% include toc.html content=content %}
+{% endif %}
+{{ content }}

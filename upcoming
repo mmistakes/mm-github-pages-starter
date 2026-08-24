@@ -1,0 +1,2735 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie" lang="en" dir="ltr"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie" lang="en" dir="ltr"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie" lang="en" dir="ltr"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]> <!--> <html class="not-ie" lang="en" dir="ltr"> <!--<![endif]-->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://www.icts.res.in/sites/default/files/icts-favicon.png" type="image/png" />
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  extensions: ['tex2jax.js'],
+  jax: ['input/TeX','output/HTML-CSS'],
+  tex2jax: {
+    inlineMath: [ ['$','$'], ['\\(','\\)'] ],
+    processEscapes: true,
+    processClass: 'tex2jax',
+    ignoreClass: 'html'
+  },
+  showProcessingMessages: false,
+  messageStyle: 'none'
+});
+</script><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<style type='text/css'>body {background: #f7fcff;}</style> <meta name="google-site-verification" content="xjsI4rkbB8hj9FSLuT-Jxmt1ofV_cbKeUI_QKD4PEI8" />
+<title>| ICTS</title>
+<link type="text/css" rel="stylesheet" href="https://www.icts.res.in/sites/default/files/css/css_rEI_5cK_B9hB4So2yZUtr5weuEV3heuAllCDE6XsIkI.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.icts.res.in/sites/default/files/css/css_fCTw-3jjWBOjoinMNzSWugX2RMqxVtrFvsYsuOspgK8.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.icts.res.in/sites/default/files/css/css_0XMDEWRm-QIK803EbkqTFs1pEDpd-Om7a3DzwaIRwKY.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.icts.res.in/sites/default/files/css/css_AJN5wT27duvJMdHHhzD0wwfl4cED1yd12gI_iS8Li4U.css" media="all" />
+<script type="text/javascript" src="https://www.icts.res.in/sites/all/libraries/respondjs/respond.min.js?ru474o"></script>
+<script type="text/javascript" src="https://www.icts.res.in/sites/default/files/js/js_0RyHJ63yYLuaWsodCPCgSD8dcTIA0dqcDf8-7c2XdBw.js"></script>
+<script type="text/javascript" src="https://www.icts.res.in/sites/default/files/js/js_IE1tR0MJwQVLroCSS5Sy4yftAmfwZ4RgT9sBLauhG2o.js"></script>
+<script type="text/javascript" src="https://www.icts.res.in/sites/default/files/js/js_wpaMBJpmYkZ2Jm_RwIvK65nyz1-igcu-IuGL2yx7Pgo.js"></script>
+<script type="text/javascript" src="https://www.icts.res.in/sites/default/files/js/js_8EkKWx4qMcsY4-tomxDm6p2N3KZtvp73Lpg2QykDAAc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-83411007-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");ga("send", "event", "Messages", "Error message", "Notice: Undefined index: body in include() (line 71 of \/home\/it\/www\/www-icts\/sites\/all\/themes\/riley\/templates\/views\/views-programs\/views-view-fields--views-programs.tpl.php).");ga("send", "event", "Messages", "Error message", "Notice: Trying to get property of non-object in include() (line 71 of \/home\/it\/www\/www-icts\/sites\/all\/themes\/riley\/templates\/views\/views-programs\/views-view-fields--views-programs.tpl.php).");ga("send", "event", "Messages", "Error message", "Notice: Undefined index: body in include() (line 71 of \/home\/it\/www\/www-icts\/sites\/all\/themes\/riley\/templates\/views\/views-programs\/views-view-fields--views-programs.tpl.php).");ga("send", "event", "Messages", "Error message", "Notice: Trying to get property of non-object in include() (line 71 of \/home\/it\/www\/www-icts\/sites\/all\/themes\/riley\/templates\/views\/views-programs\/views-view-fields--views-programs.tpl.php).");ga("send", "event", "Messages", "Error message", "Notice: Undefined index: body in include() (line 71 of \/home\/it\/www\/www-icts\/sites\/all\/themes\/riley\/templates\/views\/views-programs\/views-view-fields--views-programs.tpl.php).");ga("send", "event", "Messages", "Error message", "Notice: Trying to get property of non-object in include() (line 71 of \/home\/it\/www\/www-icts\/sites\/all\/themes\/riley\/templates\/views\/views-programs\/views-view-fields--views-programs.tpl.php).");ga("send", "event", "Messages", "Error message", "Notice: Undefined index: body in include() (line 71 of \/home\/it\/www\/www-icts\/sites\/all\/themes\/riley\/templates\/views\/views-programs\/views-view-fields--views-programs.tpl.php).");ga("send", "event", "Messages", "Error message", "Notice: Trying to get property of non-object in include() (line 71 of \/home\/it\/www\/www-icts\/sites\/all\/themes\/riley\/templates\/views\/views-programs\/views-view-fields--views-programs.tpl.php).");ga("send", "event", "Messages", "Error message", "Notice: Undefined index: body in include() (line 71 of \/home\/it\/www\/www-icts\/sites\/all\/themes\/riley\/templates\/views\/views-programs\/views-view-fields--views-programs.tpl.php).");ga("send", "event", "Messages", "Error message", "Notice: Trying to get property of non-object in include() (line 71 of \/home\/it\/www\/www-icts\/sites\/all\/themes\/riley\/templates\/views\/views-programs\/views-view-fields--views-programs.tpl.php).");ga("send", "event", "Messages", "Error message", "Notice: Undefined index: body in include() (line 71 of \/home\/it\/www\/www-icts\/sites\/all\/themes\/riley\/templates\/views\/views-programs\/views-view-fields--views-programs.tpl.php).");ga("send", "event", "Messages", "Error message", "Notice: Trying to get property of non-object in include() (line 71 of \/home\/it\/www\/www-icts\/sites\/all\/themes\/riley\/templates\/views\/views-programs\/views-view-fields--views-programs.tpl.php).");ga("send", "event", "Messages", "Error message", "Notice: Undefined index: body in include() (line 71 of \/home\/it\/www\/www-icts\/sites\/all\/themes\/riley\/templates\/views\/views-programs\/views-view-fields--views-programs.tpl.php).");ga("send", "event", "Messages", "Error message", "Notice: Trying to get property of non-object in include() (line 71 of \/home\/it\/www\/www-icts\/sites\/all\/themes\/riley\/templates\/views\/views-programs\/views-view-fields--views-programs.tpl.php).");ga("send", "event", "Messages", "Error message", "Notice: Undefined index: body in include() (line 71 of \/home\/it\/www\/www-icts\/sites\/all\/themes\/riley\/templates\/views\/views-programs\/views-view-fields--views-programs.tpl.php).");ga("send", "event", "Messages", "Error message", "Notice: Trying to get property of non-object in include() (line 71 of \/home\/it\/www\/www-icts\/sites\/all\/themes\/riley\/templates\/views\/views-programs\/views-view-fields--views-programs.tpl.php).");ga("send", "event", "Messages", "Error message", "Notice: Undefined index: body in include() (line 71 of \/home\/it\/www\/www-icts\/sites\/all\/themes\/riley\/templates\/views\/views-programs\/views-view-fields--views-programs.tpl.php).");ga("send", "event", "Messages", "Error message", "Notice: Trying to get property of non-object in include() (line 71 of \/home\/it\/www\/www-icts\/sites\/all\/themes\/riley\/templates\/views\/views-programs\/views-view-fields--views-programs.tpl.php).");ga("send", "event", "Messages", "Error message", "Notice: Undefined index: body in include() (line 71 of \/home\/it\/www\/www-icts\/sites\/all\/themes\/riley\/templates\/views\/views-programs\/views-view-fields--views-programs.tpl.php).");ga("send", "event", "Messages", "Error message", "Notice: Trying to get property of non-object in include() (line 71 of \/home\/it\/www\/www-icts\/sites\/all\/themes\/riley\/templates\/views\/views-programs\/views-view-fields--views-programs.tpl.php).");ga("send", "event", "Messages", "Error message", "Notice: Undefined index: body in include() (line 71 of \/home\/it\/www\/www-icts\/sites\/all\/themes\/riley\/templates\/views\/views-programs\/views-view-fields--views-programs.tpl.php).");ga("send", "event", "Messages", "Error message", "Notice: Trying to get property of non-object in include() (line 71 of \/home\/it\/www\/www-icts\/sites\/all\/themes\/riley\/templates\/views\/views-programs\/views-view-fields--views-programs.tpl.php).");ga("send", "event", "Messages", "Error message", "Notice: Undefined index: body in include() (line 71 of \/home\/it\/www\/www-icts\/sites\/all\/themes\/riley\/templates\/views\/views-programs\/views-view-fields--views-programs.tpl.php).");ga("send", "event", "Messages", "Error message", "Notice: Trying to get property of non-object in include() (line 71 of \/home\/it\/www\/www-icts\/sites\/all\/themes\/riley\/templates\/views\/views-programs\/views-view-fields--views-programs.tpl.php).");ga("send", "event", "Messages", "Error message", "Notice: Undefined index: body in include() (line 71 of \/home\/it\/www\/www-icts\/sites\/all\/themes\/riley\/templates\/views\/views-programs\/views-view-fields--views-programs.tpl.php).");ga("send", "event", "Messages", "Error message", "Notice: Trying to get property of non-object in include() (line 71 of \/home\/it\/www\/www-icts\/sites\/all\/themes\/riley\/templates\/views\/views-programs\/views-view-fields--views-programs.tpl.php).");ga("send", "event", "Messages", "Error message", "Notice: Undefined index: body in include() (line 71 of \/home\/it\/www\/www-icts\/sites\/all\/themes\/riley\/templates\/views\/views-programs\/views-view-fields--views-programs.tpl.php).");ga("send", "event", "Messages", "Error message", "Notice: Trying to get property of non-object in include() (line 71 of \/home\/it\/www\/www-icts\/sites\/all\/themes\/riley\/templates\/views\/views-programs\/views-view-fields--views-programs.tpl.php).");ga("send", "event", "Messages", "Error message", "Notice: Undefined index: body in include() (line 71 of \/home\/it\/www\/www-icts\/sites\/all\/themes\/riley\/templates\/views\/views-programs\/views-view-fields--views-programs.tpl.php).");ga("send", "event", "Messages", "Error message", "Notice: Trying to get property of non-object in include() (line 71 of \/home\/it\/www\/www-icts\/sites\/all\/themes\/riley\/templates\/views\/views-programs\/views-view-fields--views-programs.tpl.php).");ga("send", "event", "Messages", "Error message", "Notice: Undefined index: body in include() (line 71 of \/home\/it\/www\/www-icts\/sites\/all\/themes\/riley\/templates\/views\/views-programs\/views-view-fields--views-programs.tpl.php).");ga("send", "event", "Messages", "Error message", "Notice: Trying to get property of non-object in include() (line 71 of \/home\/it\/www\/www-icts\/sites\/all\/themes\/riley\/templates\/views\/views-programs\/views-view-fields--views-programs.tpl.php).");ga("send", "event", "Messages", "Error message", "Notice: Undefined index: body in include() (line 71 of \/home\/it\/www\/www-icts\/sites\/all\/themes\/riley\/templates\/views\/views-programs\/views-view-fields--views-programs.tpl.php).");ga("send", "event", "Messages", "Error message", "Notice: Trying to get property of non-object in include() (line 71 of \/home\/it\/www\/www-icts\/sites\/all\/themes\/riley\/templates\/views\/views-programs\/views-view-fields--views-programs.tpl.php).");ga("send", "event", "Messages", "Error message", "Notice: Undefined index: body in include() (line 71 of \/home\/it\/www\/www-icts\/sites\/all\/themes\/riley\/templates\/views\/views-programs\/views-view-fields--views-programs.tpl.php).");ga("send", "event", "Messages", "Error message", "Notice: Trying to get property of non-object in include() (line 71 of \/home\/it\/www\/www-icts\/sites\/all\/themes\/riley\/templates\/views\/views-programs\/views-view-fields--views-programs.tpl.php).");ga("send", "event", "Messages", "Error message", "Notice: Undefined index: body in include() (line 71 of \/home\/it\/www\/www-icts\/sites\/all\/themes\/riley\/templates\/views\/views-programs\/views-view-fields--views-programs.tpl.php).");ga("send", "event", "Messages", "Error message", "Notice: Trying to get property of non-object in include() (line 71 of \/home\/it\/www\/www-icts\/sites\/all\/themes\/riley\/templates\/views\/views-programs\/views-view-fields--views-programs.tpl.php).");ga("send", "event", "Messages", "Error message", "Notice: Undefined index: body in include() (line 71 of \/home\/it\/www\/www-icts\/sites\/all\/themes\/riley\/templates\/views\/views-programs\/views-view-fields--views-programs.tpl.php).");ga("send", "event", "Messages", "Error message", "Notice: Trying to get property of non-object in include() (line 71 of \/home\/it\/www\/www-icts\/sites\/all\/themes\/riley\/templates\/views\/views-programs\/views-view-fields--views-programs.tpl.php).");
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://www.icts.res.in/sites/default/files/js/js_grXZExOdJQ8mtrJoJphI3xJyoItrXdcPlultzrdJM1w.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script type="text/javascript" src="https://www.icts.res.in/sites/default/files/js/js_61wyHE7FQfO6ryiNpLI5QxA_kVieIXz-JxfNBxfFoi0.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"riley","theme_token":"puZZ2k9IpMTndi6rNeO9hMoyxHF0LBTpSncubkrwsH8","js":{"sites\/all\/libraries\/respondjs\/respond.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/beautytips\/js\/jquery.bt.min.js":1,"sites\/all\/modules\/contrib\/beautytips\/js\/beautytips.min.js":1,"sites\/all\/modules\/contrib\/mathjax\/mathjax.js":1,"sites\/all\/modules\/contrib\/tb_megamenu\/js\/tb-megamenu-frontend.js":1,"sites\/all\/modules\/contrib\/tb_megamenu\/js\/tb-megamenu-touch.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/modules\/contrib\/beautytips\/other_libs\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/placeholder\/jquery.placeholder.js":1,"sites\/all\/modules\/contrib\/placeholder\/placeholder.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/mathjax\/2.7.0\/MathJax.js?config=TeX-AMS-MML_HTMLorMML":1,"sites\/all\/themes\/riley\/js\/modernizr.js":1,"sites\/all\/themes\/riley\/js\/bootstrap.js":1,"sites\/all\/themes\/riley\/js\/jquery.easing.js":1,"sites\/all\/themes\/riley\/js\/jquery.sticky.js":1,"sites\/all\/themes\/riley\/js\/tinynav.min.js":1,"sites\/all\/themes\/riley\/js\/animate.js":1,"sites\/all\/themes\/riley\/js\/jquery.jflickrfeed.min.js":1,"sites\/all\/themes\/riley\/js\/jquery.fitvids.js":1,"sites\/all\/themes\/riley\/js\/jquery.isotope.min.js":1,"sites\/all\/themes\/riley\/js\/jquery.parallax-1.1.3.js":1,"sites\/all\/themes\/riley\/js\/jquery.magnific-popup.min.js":1,"sites\/all\/themes\/riley\/js\/retina.js":1,"sites\/all\/themes\/riley\/js\/respond.min.js":1,"sites\/all\/themes\/riley\/js\/jquery.flexslider-min.js":1,"sites\/all\/themes\/riley\/js\/jquery.refineslide.js":1,"sites\/all\/themes\/riley\/layerslider\/js\/greensock.js":1,"sites\/all\/themes\/riley\/layerslider\/js\/layerslider.transitions.js":1,"sites\/all\/themes\/riley\/layerslider\/js\/layerslider.kreaturamedia.jquery.js":1,"sites\/all\/themes\/riley\/js\/functions.js":1,"sites\/all\/themes\/riley\/js\/addtoany.js":1,"sites\/all\/themes\/riley\/js\/customize-twitter-1.1.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"sites\/all\/modules\/contrib\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/contrib\/calendar_tooltips\/calendar_tooltips.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/modules\/contrib\/tb_megamenu\/fonts\/font-awesome\/css\/font-awesome.css":1,"sites\/all\/modules\/contrib\/tb_megamenu\/css\/bootstrap.css":1,"sites\/all\/modules\/contrib\/tb_megamenu\/css\/base.css":1,"sites\/all\/modules\/contrib\/tb_megamenu\/css\/default.css":1,"sites\/all\/modules\/contrib\/tb_megamenu\/css\/compatibility.css":1,"sites\/all\/modules\/contrib\/tb_megamenu\/css\/styles\/blue.css":1,"sites\/all\/modules\/contrib\/addtoany\/addtoany.css":1,"sites\/all\/themes\/riley\/css\/bootstrap.css":1,"sites\/all\/themes\/riley\/css\/styles.css":1,"sites\/all\/themes\/riley\/layerslider\/css\/layerslider.css":1,"sites\/all\/themes\/riley\/css\/flexslider.css":1,"sites\/all\/themes\/riley\/css\/refineslide.css":1,"sites\/all\/themes\/riley\/css\/magnific-popup.css":1,"sites\/all\/themes\/riley\/css\/animate.css":1,"sites\/all\/themes\/riley\/css\/font-awesome.min.css":1,"sites\/all\/themes\/riley\/css\/entypo.css":1,"sites\/all\/themes\/riley\/css\/typicons.min.css":1,"sites\/all\/themes\/riley\/css\/equal-height-columns.css":1,"sites\/all\/themes\/riley\/css\/custom.css":1,"sites\/all\/themes\/riley\/css\/custom-layerslider.css":1,"sites\/all\/themes\/riley\/css\/testimonial.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"beautytips":{"calendar-tooltips":{"fill":"#f3f1ea","strokeStyle":"#666666","spikeLength":20,"spikeGirth":10,"width":350,"overlap":0,"centerPointY":1,"cornerRadius":0,"cssStyles":{"fontFamily":"\u0026quot;Lucida Grande\u0026quot;,Helvetica,Arial,Verdana,sans-serif","fontSize":"12px","padding":"10px 14px"},"shadow":1,"shadowColor":"rgba(0,0,0,.5)","shadowBlur":8,"shadowOffsetX":4,"shadowOffsetY":4,"padding":"5px","cssSelect":".calendar-calendar .mini-day-on a, .calendar-calendar .day a, .calendar-calendar .mini-day-on span, .calendar-calendar .day span","contentSelector":"$(this).next().html()","hoverIntentOpts":{"timeout":"3000","interval":0},"list":["fill","strokeStyle","spikeLength","spikeGirth","width","overlap","centerPointY","cornerRadius","cssStyles","shadow","shadowColor","shadowBlur","shadowOffsetX","shadowOffsetY","padding","contentSelector","hoverIntentOpts"]}},"urlIsAjaxTrusted":{"\/programs\/upcoming":true}});
+//--><!]]>
+</script>
+
+
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+  <!-- Web Fonts -->
+	<link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,600,700,300,800' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic,600,600italic,700,700italic,300italic,300' rel='stylesheet' type='text/css'>
+	<link href="https://fonts.googleapis.com/css?family=Cormorant+SC:300,400,500,600,700|Cormorant:300,300i,400,400i,500,500i,600,600i,700,700i|Muli:300,300i,400,400i|Source+Serif+Pro:600&subset=latin-ext" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=PT+Sans:400,400i,700,700i" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i" rel="stylesheet">
+
+<!-- User defined CSS --><style type='text/css'>.accordion-group {
+    border-radius: 0px;
+    border: 0px;
+    border-left: 5px solid #f84d26;
+    margin-bottom: 1px;
+}
+
+.accordion-heading
+{
+width:250px;
+}
+
+/**P-font-size******************/
+.p-fnt-size{
+font-size:16px;
+}
+/*******************************/
+
+/******views-buttons*******/
+.views-exposed-form .views-exposed-widget .form-submit {
+    margin-top: 1.2em;
+}
+/****************************/
+/****seminars--colloquia***/
+.views-title-width
+{
+width:376px;
+}75px
+
+.views-speaker-width
+{
+width:318px;
+}
+
+.views-venue-width
+{
+width:275px;
+}
+/****************/
+
+
+
+
+/*********program-event-type-css****/
+
+.event-type{
+    font-size: 12px;
+    padding: 5px 5px 5px 10px;
+    margin: 0;
+    display: inline-block;
+    background-color: rgba(255,255,255,0.85);
+    color: #b4361e;
+    font-family: "lato",Helvetica,Arial,sans-serif;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-weight: 500;
+font-style: normal;
+}
+/***************/
+
+/******rev-slider***/
+
+.tp-bannertimer {display:none !important;}
+
+/********/
+
+.center-img-text{
+width:80%;
+margin-right:auto;
+margin-left:auto;
+}
+
+.hr-custom{
+background: #e6e6e6;
+}
+
+#art-revolution {
+    margin-bottom: 15px !important;
+}
+
+/*****news-grid-teaser*****/
+.grid-teaser{
+padding-bottom:15px;
+}</style><!-- End user defined CSS -->	<link href="/sites/all/themes/riley/css/responsive.css" rel="stylesheet">
+<script>
+	var options = {
+		"url": "/sites/all/themes/riley/css/twitter-styles.css"
+	};
+	CustomizeTwitterWidget(options);
+</script>
+
+</head>
+
+<body class="html not-front not-logged-in no-sidebars page-programs page-programs-upcoming color-1 " >
+
+<!-- Header -->
+<!---<marquee><font color = "red">The Website will be under maintenance mode from 7:00 AM To 11:00 AM today and will be active after 11:00 AM, sorry for the inconvenience caused. Thank you for your patience.</font></marquee>--->
+<header>
+	<div id="searchbar">
+	<div class="container">
+	<form onsubmit="if(this.search_block_form.value==&#039;Search&#039;){ alert(&#039;Please enter a search&#039;); return false; }" action="/programs/upcoming" method="post" id="search-block-form--2" accept-charset="UTF-8"><div><input type="text" id="edit-search-block-form--2" name="search_block_form" value="" placeholder="Search pages and people..." size="50" maxlength="128" />
+<input class="button" id="edit-submit" name="op" value="GO!" type="submit" />
+<input type="hidden" name="form_build_id" value="form-CXYcAJGG4cKaIz2XGWF7QSAQWzm3MUuzCs8iOjIyxsM" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div></form>	</div>
+	</div>
+
+			<div class="top-bar">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-4 col-sm-4">
+    					<p>
+        					<!-- Online:<i class="fa fa-phone"></i>+566 21 33 32 -->
+					 	</p>
+					</div>
+					<div class="col-sm-8 col-md-8">
+    					<ul class=top-bar-links>
+                                        <li><div id='secondary-menu'><a href="/opportunities">Careers</a></div></i></li>
+                		<!--	<li><div id='secondary-menu'><a href="/seminars">Seminars and Colloquia</a></div></i></li>-->
+                			<li><div id='secondary-menu'><a href="/news">News</a></div></i></li>
+					<li><div id='secondary-menu'><a href="/grievance-cell/page1">Grievance Cells</a></div></i></li>
+							<li><div id='searchbutton'><i class="fa fa-search"></div></i></li>
+										 		<li><div id="login-button"><a href="/user"><i class="fa fa-sign-in"></i> &nbsp;&nbsp;&nbsp;Login</a></div></li>
+					 					    </ul>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="container-wrapper">
+    <div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<div class="top-container">
+					<!-- Logo -->
+										<div class="row row-eq-height">
+					<div class="col-xs-12 col-md-4">
+						<a href="/" title="Home" rel="home" class="logo">
+							<img src="https://www.icts.res.in/sites/default/files/icts-logo-2.png" alt="Home" />
+						</a>
+					</div>
+
+					<div class="col-md-6 logo-background hidden-xs hidden-sm">&nbsp;</div>
+
+					<div class="col-md-2 hidden-xs hidden-sm">
+						<a href="http://www.tifr.res.in/" title="TIFR" target="_blank" rel="home">
+							<img class="logo-tifr" src="/sites/default/files/tifr-logo.png" alt="TIFR Logo" style="float:right;" />
+						</a>
+					</div>
+					</div>
+					
+											<div id="name-and-slogan">
+															<h1 id="site-name" class="hidden">
+									<a href="/" title="Home" rel="home"><span>ICTS</span></a>
+								</h1>
+							
+													</div> <!-- /#name-and-slogan -->
+					
+					<!-- Top Items -->
+											<!-- Top Items End -->
+				</div>
+			<!-- </div> -->
+		</div>
+    </div>
+	</div>
+    <!-- Nav -->
+    <nav class="navbar" role="navigation">
+		<div class="navbar-inner">
+			<div class="container">
+				<div class="row">
+				<!-- Menu -->
+											  <div id="block-tb-megamenu-main-menu" class="block block-tb-megamenu" >
+		 
+		
+			<div  class="tb-megamenu tb-megamenu-main-menu style-blue">
+      <button data-target=".nav-collapse" data-toggle="collapse" class="btn btn-navbar tb-megamenu-button" type="button">
+      <i class="icon-reorder"></i>
+    </button>
+    <div class="nav-collapse collapse always-show">
+    <ul  class="tb-megamenu-nav nav level-0 items-17">
+  <li  data-id="219" data-level="1" data-type="menu_item" data-class="home-custom" data-xicon="icon icon-home-new" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega home-custom">
+ <a href="/" class="" >   
+       <span class="icon icon-home-new"></span>
+        
+    &nbsp;          </a>
+  </li>
+
+<li  data-id="706" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega dropdown">
+ <a href="/about" class="dropdown-toggle" >   
+     
+    About          </a>
+  <div  data-class="" data-width="" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-3" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-10">
+  <li  data-id="1777" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+ <a href="/about/icts" class="" >   
+     
+    About ICTS          </a>
+  </li>
+
+<li  data-id="805" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+ <a href="/people/international-advisory-board" class="" >   
+     
+    International Advisory Board          </a>
+  </li>
+
+<li  data-id="1778" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+ <a href="/about/management-board" class="" >   
+     
+    Management Board          </a>
+  </li>
+
+<li  data-id="806" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+ <a href="/people/program-committee" class="" >   
+     
+    Program Committee          </a>
+  </li>
+
+<li  data-id="1805" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+ <a href="/directors-page" class="" >   
+     
+    Director's Page          </a>
+  </li>
+
+<li  data-id="1921" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+ <a href="/newsletter" class="" >   
+     
+    Newsletter          </a>
+  </li>
+
+<li  data-id="3046" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega dropdown-submenu">
+ <a href="/reports" class="dropdown-toggle" >   
+     
+    Reports          </a>
+  <div  data-class="" data-width="" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-1" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-4">
+  <li  data-id="3047" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+ <a href="/biennial-activity-reports" class="" >   
+     
+    Biennial Activity Reports          </a>
+  </li>
+
+<li  data-id="3048" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+ <a href="/triannual-iab-reports" class="" >   
+     
+    Triannual IAB Reports          </a>
+  </li>
+
+<li  data-id="3049" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+ <a href="/brochure" class="" >   
+     
+    Brochure          </a>
+  </li>
+
+<li  data-id="3050" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+ <a href="/international-review-reports" class="" >   
+     
+    International Review Report          </a>
+  </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+</li>
+
+<li  data-id="1913" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+ <a href="/about/campus" class="" >   
+     
+    Campus          </a>
+  </li>
+
+<li  data-id="1947" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+ <a href="/about/history" class="" >   
+     
+    History          </a>
+  </li>
+
+<li  data-id="3043" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega dropdown-submenu">
+ <a href="/values" class="dropdown-toggle" >   
+     
+    Values          </a>
+  <div  data-class="" data-width="" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-2" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-2">
+  <li  data-id="3044" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+ <a href="/academic-freedom" class="" >   
+     
+    Academic Freedom          </a>
+  </li>
+
+<li  data-id="3045" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+ <a href="/diversity-inclusiveness" class="" >   
+     
+    Diversity & Inclusiveness          </a>
+  </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+</li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+</li>
+
+<li  data-id="692" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega dropdown">
+ <a href="/research" class="dropdown-toggle" >   
+     
+    Research          </a>
+  <div  data-class="" data-width="" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-4" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-6">
+  <li  data-id="834" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+ <a href="/research/statphys" class="" >   
+     
+    Statistical Physics and Condensed Matter          </a>
+  </li>
+
+<li  data-id="2078" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+ <a href="/research/fluid-dynamics" class="" >   
+     
+    Fluid Dynamics and Turbulence          </a>
+  </li>
+
+<li  data-id="833" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+ <a href="/research/physbio" class="" >   
+     
+    Physical Biology          </a>
+  </li>
+
+<li  data-id="835" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+ <a href="/research/string" class="" >   
+     
+    String Theory and Quantum Gravity          </a>
+  </li>
+
+<li  data-id="831" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+ <a href="/research/astrorel" class="" >   
+     
+    Astrophysical Relativity          </a>
+  </li>
+
+<li  data-id="832" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+ <a href="/research/mathematics" class="" >   
+     
+    Mathematics          </a>
+  </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+</li>
+
+<li  data-id="680" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega dropdown active">
+ <a href="/programs" class="dropdown-toggle" >   
+     
+    Programs          </a>
+  <div  data-class="" data-width="" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-7" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-5">
+  <li  data-id="813" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega active">
+ <a href="/programs/upcoming" class="" >   
+     
+    Current & Upcoming          </a>
+  </li>
+
+<li  data-id="814" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+ <a href="/programs/past" class="" >   
+     
+    Past          </a>
+  </li>
+
+<li  data-id="815" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+ <a href="/organize-program" class="" >   
+     
+    Organize a Program          </a>
+  </li>
+
+<li  data-id="1767" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega dropdown-submenu">
+ <a href="/lectures" class="dropdown-toggle" >   
+     
+    Special Lectures          </a>
+  <div  data-class="" data-width="" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-5" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-12">
+  <li  data-id="1769" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+ <a href="/lectures/chandrasekhar" class="" >   
+     
+    Infosys-ICTS  Chandrasekhar  Lectures          </a>
+  </li>
+
+<li  data-id="1775" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+ <a href="/lectures/ramanujan" class="" >   
+     
+    Infosys-ICTS Ramanujan  Lectures          </a>
+  </li>
+
+<li  data-id="1772" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+ <a href="/lectures/turing" class="" >   
+     
+    Infosys-ICTS Turing  Lectures          </a>
+  </li>
+
+<li  data-id="1773" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+ <a href="/lectures/abdus-salam" class="" >   
+     
+    Abdus  Salam  Memorial  Lectures          </a>
+  </li>
+
+<li  data-id="1768" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+ <a href="/lectures/public" class="" >   
+     
+    Public  Lectures          </a>
+  </li>
+
+<li  data-id="1771" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+ <a href="/lectures/distinguished" class="" >   
+     
+    Distinguished  Lectures          </a>
+  </li>
+
+<li  data-id="1944" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+ <a href="/lectures/einstein" class="" >   
+     
+    Einstein  Lectures          </a>
+  </li>
+
+<li  data-id="2300" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+ <a href="/lectures/vishveshwara" class="" >   
+     
+    Vishveshwara Lectures          </a>
+  </li>
+
+<li  data-id="2461" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+ <a href="/lectures/kosambi" class="" >   
+     
+    D. D. Kosambi Lectures          </a>
+  </li>
+
+<li  data-id="2634" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+ <a href="/lectures/madhava-lectures" class="" >   
+     
+    Madhava Lectures          </a>
+  </li>
+
+<li  data-id="2468" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+ <a href="/lectures/string-theory" class="" >   
+     
+    Infosys-ICTS String Theory Lectures          </a>
+  </li>
+
+<li  data-id="2633" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+ <a href="/lectures/foundation-day-lectures" class="" >   
+     
+    Foundation Day Lectures          </a>
+  </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+</li>
+
+<li  data-id="2206" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega dropdown-submenu">
+ <a href="/events/" class="dropdown-toggle" >   
+     
+    Special Events          </a>
+  <div  data-class="" data-width="" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-6" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-8">
+  <li  data-id="2629" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+ <a href="https://www.icts.res.in/special-event/cgm" class="" >   
+     
+    Special New Year          </a>
+  </li>
+
+<li  data-id="2305" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+ <a href="/discussion-meeting/icts-at-ten" class="" >   
+     
+    ICTS at Ten          </a>
+  </li>
+
+<li  data-id="2186" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+ <a href="/discussion-meeting/STPP2017" class="" >   
+     
+    Spentafest          </a>
+  </li>
+
+<li  data-id="2304" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+ <a href="/event/universe-in-new-light" class="" >   
+     
+    The Universe in a New Light          </a>
+  </li>
+
+<li  data-id="1950" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+ <a href="https://strings2015.icts.res.in/" class="" >   
+     
+    Strings 2015          </a>
+  </li>
+
+<li  data-id="2169" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+ <a href="/event/science-at-icts" class="" >   
+     
+    Inauguration Event: Science at ICTS          </a>
+  </li>
+
+<li  data-id="2207" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+ <a href="/program/MPE2013" class="" >   
+     
+    MPE - 2013          </a>
+  </li>
+
+<li  data-id="1969" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+ <a href="/event/science-without-boundaries" class="" >   
+     
+    Foundation Stone Laying Ceremony          </a>
+  </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+</li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+</li>
+
+<li  data-id="1901" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega dropdown">
+ <a href="/outreach" class="dropdown-toggle" >   
+     
+    Outreach          </a>
+  <div  data-class="" data-width="" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-11" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-7">
+  <li  data-id="3061" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega dropdown-submenu">
+ <a href="https://www.icts.res.in/outreach/lectures" class="dropdown-toggle" >   
+     
+    Lectures          </a>
+  <div  data-class="" data-width="" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-8" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-5">
+  <li  data-id="1993" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+ <a href="/outreach/kaapi-with-kuriosity" class="" >   
+     
+    Kaapi with Kuriosity          </a>
+  </li>
+
+<li  data-id="1903" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+ <a href="/lectures/einstein/upcoming" class="" >   
+     
+    Einstein Lectures          </a>
+  </li>
+
+<li  data-id="2890" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+ <a href="/outreach/vigyan-adda" class="" >   
+     
+    Vigyan Adda          </a>
+  </li>
+
+<li  data-id="2302" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+ <a href="/lectures/vishveshwara" class="" >   
+     
+    Vishveshwara Lectures          </a>
+  </li>
+
+<li  data-id="1902" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+ <a href="/lectures/public" class="" >   
+     
+    Public Lectures          </a>
+  </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+</li>
+
+<li  data-id="2905" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega dropdown-submenu">
+ <a href="https://www.icts.res.in/outreach/mci" class="dropdown-toggle" >   
+     
+    Maths Circles          </a>
+  <div  data-class="" data-width="" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-9" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-3">
+  <li  data-id="2908" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+ <a href="/outreach/maths-circle-india" class="" >   
+     
+    Maths Circle India          </a>
+  </li>
+
+<li  data-id="3051" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+ <a href="/outreach/maths-circle/icts-rri-maths-circle" class="" >   
+     
+    ICTS-RRI MATHS CIRCLE          </a>
+  </li>
+
+<li  data-id="2488" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+ <a href="/outreach/maths-circle" class="" >   
+     
+    ICTS-NIAS Maths Circle          </a>
+  </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+</li>
+
+<li  data-id="2922" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+ <a href="/outreach/sep" class="" >   
+     
+    Science Education Program          </a>
+  </li>
+
+<li  data-id="2503" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+ <a href="/outreach/science-outreach-in-schools" class="" >   
+     
+    Science Outreach in Schools          </a>
+  </li>
+
+<li  data-id="3063" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega dropdown-submenu">
+ <a href="https://www.icts.res.in/outreach/exhibitions" class="dropdown-toggle" >   
+     
+    Exhibitions          </a>
+  <div  data-class="" data-width="" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-10" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-3">
+  <li  data-id="3064" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+ <a href="https://www.icts.res.in/program/MPE2013" class="" >   
+     
+    Mathematics of the Planet Earth 2013          </a>
+  </li>
+
+<li  data-id="2893" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+ <a href="/lectures/cosmic-zoom" class="" >   
+     
+    Cosmic Zoom          </a>
+  </li>
+
+<li  data-id="3065" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+ <a href="https://www.icts.res.in/event/climateexhibition2023" class="" >   
+     
+    Climate Chaos: We’re Just Warming Up          </a>
+  </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+</li>
+
+<li  data-id="2490" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+ <a href="https://blog.icts.res.in/" class=""    target="_blank"
+  >   
+     
+    Blog          </a>
+  </li>
+
+<li  data-id="3062" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+ <a href="https://www.icts.res.in/outreach/other-event" class="" >   
+     
+    Other Events          </a>
+  </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+</li>
+
+<li  data-id="811" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega dropdown">
+ <a href="/people" class="dropdown-toggle" >   
+     
+    People          </a>
+  <div  data-class="" data-width="" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-12" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-8">
+  <li  data-id="974" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+ <a href="/people/faculty" class="" >   
+     
+    Faculty          </a>
+  </li>
+
+<li  data-id="977" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+ <a href="/people/postdoctoral-fellows" class="" >   
+     
+    Postdoctoral Fellows          </a>
+  </li>
+
+<li  data-id="978" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+ <a href="/people/students" class="" >   
+     
+    Students          </a>
+  </li>
+
+<li  data-id="975" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+ <a href="/people/associates" class="" >   
+     
+    Associates          </a>
+  </li>
+
+<li  data-id="1934" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+ <a href="/people/visitors" class="" >   
+     
+    Visitors          </a>
+  </li>
+
+<li  data-id="808" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+ <a href="/people/scientific-and-technical" class="" >   
+     
+    Scientific and Technical          </a>
+  </li>
+
+<li  data-id="810" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+ <a href="/people/administrative" class="" >   
+     
+    Administrative          </a>
+  </li>
+
+<li  data-id="1948" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+ <a href="/people/directory" class="" >   
+     
+    Directory          </a>
+  </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+</li>
+
+<li  data-id="1799" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega dropdown">
+ <a href="/academic" class="dropdown-toggle" >   
+     
+    Academic          </a>
+  <div  data-class="" data-width="" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-14" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-10">
+  <li  data-id="1803" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+ <a href="/academic/postdoctoral-fellowships" class="" >   
+     
+    Postdoctoral Program          </a>
+  </li>
+
+<li  data-id="1802" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega dropdown-submenu">
+ <a href="/students/graduate-studies" class="dropdown-toggle" >   
+     
+    Graduate Studies          </a>
+  <div  data-class="" data-width="" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-13" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-2 items-3">
+  <li  data-id="1859" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+ <a href="https://www.icts.res.in/physics_home" class="" >   
+     
+    Physical Sciences          </a>
+  </li>
+
+<li  data-id="1860" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+ <a href="https://www.icts.res.in/gsmaths" class="" >   
+     
+    Mathematics          </a>
+  </li>
+
+<li  data-id="3042" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-3 mega">
+ <a href="https://pol.icts.res.in/" class="" >   
+     
+    Physics of Life          </a>
+  </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+</li>
+
+<li  data-id="2435" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+ <a href="/academic/graduate-course" class="" >   
+     
+    Graduate Courses          </a>
+  </li>
+
+<li  data-id="2469" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+ <a href="https://www.icts.res.in/summer-courses" class="" >   
+     
+    Summer Courses          </a>
+  </li>
+
+<li  data-id="1804" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+ <a href="/academic/summer-research-program" class="" >   
+     
+    Summer Research Program          </a>
+  </li>
+
+<li  data-id="2303" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+ <a href="https://www.icts.res.in/academic/long-term-visiting-student-program" class="" >   
+     
+    Long Term Visiting Students Program          </a>
+  </li>
+
+<li  data-id="1774" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+ <a href="/seminars" class="" >   
+     
+    Seminars           </a>
+  </li>
+
+<li  data-id="2501" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+ <a href="/colloquia" class="" >   
+     
+    Colloquia          </a>
+  </li>
+
+<li  data-id="2888" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+ <a href="/TMC-DLS" class="" >   
+     
+    TMC Distinguished Lectures          </a>
+  </li>
+
+<li  data-id="2502" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+ <a href="https://thesis.icts.res.in/" class=""    target="_blank"
+  >   
+     
+    Thesis Archive          </a>
+  </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+</li>
+
+<li  data-id="2891" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega">
+ <a href="https://videos.icts.res.in/" class=""    target="_blank"
+  >   
+     
+    Videos          </a>
+  </li>
+
+<li  data-id="1900" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega dropdown">
+ <a href="/support" class="dropdown-toggle" >   
+     
+    Support          </a>
+  <div  data-class="" data-width="" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-15" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-2">
+  <li  data-id="1925" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+ <a href="/support/supporters" class="" >   
+     
+    Our Supporters          </a>
+  </li>
+
+<li  data-id="1814" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+ <a href="/support/endowment" class="" >   
+     
+    Endowment          </a>
+  </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+</li>
+
+<li  data-id="1910" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega dropdown">
+ <a href="/campus-resources" class="dropdown-toggle" >   
+     
+    Resources          </a>
+  <div  data-class="" data-width="" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-16" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-11">
+  <li  data-id="2460" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+ <a href="https://it.icts.res.in/" class=""    target="_blank"
+  >   
+     
+    Computing          </a>
+  </li>
+
+<li  data-id="2465" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+ <a href="http://library.icts.res.in/" class=""    target="_blank"
+  >   
+     
+    Library          </a>
+  </li>
+
+<li  data-id="1915" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+ <a href="/facilities/transport" class="" >   
+     
+    Transport          </a>
+  </li>
+
+<li  data-id="1916" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+ <a href="/facilities/cafeteria" class="" >   
+     
+    Cafeteria          </a>
+  </li>
+
+<li  data-id="1917" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+ <a href="/facilities/recreation" class="" >   
+     
+    Recreation          </a>
+  </li>
+
+<li  data-id="1918" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+ <a href="/ccf" class="" >   
+     
+    Child care          </a>
+  </li>
+
+<li  data-id="1951" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+ <a href="/visitors/guidelines" class="" >   
+     
+    Visitor Guidelines          </a>
+  </li>
+
+<li  data-id="1945" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+ <a href="/facilities/first-aid-centre" class="" >   
+     
+    First Aid Centre          </a>
+  </li>
+
+<li  data-id="2896" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+ <a href="/counselling-services" class="" >   
+     
+    Counseling Service          </a>
+  </li>
+
+<li  data-id="1920" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+ <a href="/contact-us" class="" >   
+     
+    How to Reach          </a>
+  </li>
+
+<li  data-id="816" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+ <a href="/service-informatique" class="" >   
+     
+    Service Informatique          </a>
+  </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+</li>
+
+<li  data-id="2630" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega dropdown">
+ <a href="https://www.icts.res.in/opportunities" class="dropdown-toggle" >   
+     
+    Careers          </a>
+  <div  data-class="" data-width="" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-17" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-2">
+  <li  data-id="2631" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+ <a href="https://www.icts.res.in/opportunities" class="" >   
+     
+    Academic Positions          </a>
+  </li>
+
+<li  data-id="2632" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+ <a href="/opportunities/non-academic" class="" >   
+     
+    Non-Academic Positions          </a>
+  </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+</li>
+</ul>
+      </div>
+  </div>
+	</div>									<!-- Menu End -->
+
+				<!-- Social Top -->
+					  <div id="block-block-15" class="block block-block" >
+		 
+		
+			<div class="social-top social-6">
+<a href="https://www.youtube.com/ictstalks" target="_blank"><i class="fa fa-youtube"></i></a>
+<a href="https://www.linkedin.com/company/icts-tifr/" target="_blank"><i class="fa fa-linkedin"></i></a>
+<a href="https://www.facebook.com/ictstifr" target="_blank"><i class="fa fa-facebook"></i></a>
+<a href="https://www.twitter.com/ictstifr" target="_blank"><i class="fa fa-twitter"></i></a>
+</div>	</div>				<!-- Social Top End -->
+				</div>
+			</div>
+		</div>
+    </nav>
+    <!-- Nav End -->
+
+	
+</header>
+<!-- Header End -->
+
+<section id="content">
+<div class = "space10"></div>
+
+	
+	
+			<div class="messages error">
+<h2 class="element-invisible">Error message</h2>
+ <ul>
+  <li><em class="placeholder">Notice</em>: Undefined index: body in <em class="placeholder">include()</em> (line <em class="placeholder">71</em> of <em class="placeholder">/home/it/www/www-icts/sites/all/themes/riley/templates/views/views-programs/views-view-fields--views-programs.tpl.php</em>).</li>
+  <li><em class="placeholder">Notice</em>: Trying to get property of non-object in <em class="placeholder">include()</em> (line <em class="placeholder">71</em> of <em class="placeholder">/home/it/www/www-icts/sites/all/themes/riley/templates/views/views-programs/views-view-fields--views-programs.tpl.php</em>).</li>
+  <li><em class="placeholder">Notice</em>: Undefined index: body in <em class="placeholder">include()</em> (line <em class="placeholder">71</em> of <em class="placeholder">/home/it/www/www-icts/sites/all/themes/riley/templates/views/views-programs/views-view-fields--views-programs.tpl.php</em>).</li>
+  <li><em class="placeholder">Notice</em>: Trying to get property of non-object in <em class="placeholder">include()</em> (line <em class="placeholder">71</em> of <em class="placeholder">/home/it/www/www-icts/sites/all/themes/riley/templates/views/views-programs/views-view-fields--views-programs.tpl.php</em>).</li>
+  <li><em class="placeholder">Notice</em>: Undefined index: body in <em class="placeholder">include()</em> (line <em class="placeholder">71</em> of <em class="placeholder">/home/it/www/www-icts/sites/all/themes/riley/templates/views/views-programs/views-view-fields--views-programs.tpl.php</em>).</li>
+  <li><em class="placeholder">Notice</em>: Trying to get property of non-object in <em class="placeholder">include()</em> (line <em class="placeholder">71</em> of <em class="placeholder">/home/it/www/www-icts/sites/all/themes/riley/templates/views/views-programs/views-view-fields--views-programs.tpl.php</em>).</li>
+  <li><em class="placeholder">Notice</em>: Undefined index: body in <em class="placeholder">include()</em> (line <em class="placeholder">71</em> of <em class="placeholder">/home/it/www/www-icts/sites/all/themes/riley/templates/views/views-programs/views-view-fields--views-programs.tpl.php</em>).</li>
+  <li><em class="placeholder">Notice</em>: Trying to get property of non-object in <em class="placeholder">include()</em> (line <em class="placeholder">71</em> of <em class="placeholder">/home/it/www/www-icts/sites/all/themes/riley/templates/views/views-programs/views-view-fields--views-programs.tpl.php</em>).</li>
+  <li><em class="placeholder">Notice</em>: Undefined index: body in <em class="placeholder">include()</em> (line <em class="placeholder">71</em> of <em class="placeholder">/home/it/www/www-icts/sites/all/themes/riley/templates/views/views-programs/views-view-fields--views-programs.tpl.php</em>).</li>
+  <li><em class="placeholder">Notice</em>: Trying to get property of non-object in <em class="placeholder">include()</em> (line <em class="placeholder">71</em> of <em class="placeholder">/home/it/www/www-icts/sites/all/themes/riley/templates/views/views-programs/views-view-fields--views-programs.tpl.php</em>).</li>
+  <li><em class="placeholder">Notice</em>: Undefined index: body in <em class="placeholder">include()</em> (line <em class="placeholder">71</em> of <em class="placeholder">/home/it/www/www-icts/sites/all/themes/riley/templates/views/views-programs/views-view-fields--views-programs.tpl.php</em>).</li>
+  <li><em class="placeholder">Notice</em>: Trying to get property of non-object in <em class="placeholder">include()</em> (line <em class="placeholder">71</em> of <em class="placeholder">/home/it/www/www-icts/sites/all/themes/riley/templates/views/views-programs/views-view-fields--views-programs.tpl.php</em>).</li>
+  <li><em class="placeholder">Notice</em>: Undefined index: body in <em class="placeholder">include()</em> (line <em class="placeholder">71</em> of <em class="placeholder">/home/it/www/www-icts/sites/all/themes/riley/templates/views/views-programs/views-view-fields--views-programs.tpl.php</em>).</li>
+  <li><em class="placeholder">Notice</em>: Trying to get property of non-object in <em class="placeholder">include()</em> (line <em class="placeholder">71</em> of <em class="placeholder">/home/it/www/www-icts/sites/all/themes/riley/templates/views/views-programs/views-view-fields--views-programs.tpl.php</em>).</li>
+  <li><em class="placeholder">Notice</em>: Undefined index: body in <em class="placeholder">include()</em> (line <em class="placeholder">71</em> of <em class="placeholder">/home/it/www/www-icts/sites/all/themes/riley/templates/views/views-programs/views-view-fields--views-programs.tpl.php</em>).</li>
+  <li><em class="placeholder">Notice</em>: Trying to get property of non-object in <em class="placeholder">include()</em> (line <em class="placeholder">71</em> of <em class="placeholder">/home/it/www/www-icts/sites/all/themes/riley/templates/views/views-programs/views-view-fields--views-programs.tpl.php</em>).</li>
+  <li><em class="placeholder">Notice</em>: Undefined index: body in <em class="placeholder">include()</em> (line <em class="placeholder">71</em> of <em class="placeholder">/home/it/www/www-icts/sites/all/themes/riley/templates/views/views-programs/views-view-fields--views-programs.tpl.php</em>).</li>
+  <li><em class="placeholder">Notice</em>: Trying to get property of non-object in <em class="placeholder">include()</em> (line <em class="placeholder">71</em> of <em class="placeholder">/home/it/www/www-icts/sites/all/themes/riley/templates/views/views-programs/views-view-fields--views-programs.tpl.php</em>).</li>
+  <li><em class="placeholder">Notice</em>: Undefined index: body in <em class="placeholder">include()</em> (line <em class="placeholder">71</em> of <em class="placeholder">/home/it/www/www-icts/sites/all/themes/riley/templates/views/views-programs/views-view-fields--views-programs.tpl.php</em>).</li>
+  <li><em class="placeholder">Notice</em>: Trying to get property of non-object in <em class="placeholder">include()</em> (line <em class="placeholder">71</em> of <em class="placeholder">/home/it/www/www-icts/sites/all/themes/riley/templates/views/views-programs/views-view-fields--views-programs.tpl.php</em>).</li>
+  <li><em class="placeholder">Notice</em>: Undefined index: body in <em class="placeholder">include()</em> (line <em class="placeholder">71</em> of <em class="placeholder">/home/it/www/www-icts/sites/all/themes/riley/templates/views/views-programs/views-view-fields--views-programs.tpl.php</em>).</li>
+  <li><em class="placeholder">Notice</em>: Trying to get property of non-object in <em class="placeholder">include()</em> (line <em class="placeholder">71</em> of <em class="placeholder">/home/it/www/www-icts/sites/all/themes/riley/templates/views/views-programs/views-view-fields--views-programs.tpl.php</em>).</li>
+  <li><em class="placeholder">Notice</em>: Undefined index: body in <em class="placeholder">include()</em> (line <em class="placeholder">71</em> of <em class="placeholder">/home/it/www/www-icts/sites/all/themes/riley/templates/views/views-programs/views-view-fields--views-programs.tpl.php</em>).</li>
+  <li><em class="placeholder">Notice</em>: Trying to get property of non-object in <em class="placeholder">include()</em> (line <em class="placeholder">71</em> of <em class="placeholder">/home/it/www/www-icts/sites/all/themes/riley/templates/views/views-programs/views-view-fields--views-programs.tpl.php</em>).</li>
+  <li><em class="placeholder">Notice</em>: Undefined index: body in <em class="placeholder">include()</em> (line <em class="placeholder">71</em> of <em class="placeholder">/home/it/www/www-icts/sites/all/themes/riley/templates/views/views-programs/views-view-fields--views-programs.tpl.php</em>).</li>
+  <li><em class="placeholder">Notice</em>: Trying to get property of non-object in <em class="placeholder">include()</em> (line <em class="placeholder">71</em> of <em class="placeholder">/home/it/www/www-icts/sites/all/themes/riley/templates/views/views-programs/views-view-fields--views-programs.tpl.php</em>).</li>
+  <li><em class="placeholder">Notice</em>: Undefined index: body in <em class="placeholder">include()</em> (line <em class="placeholder">71</em> of <em class="placeholder">/home/it/www/www-icts/sites/all/themes/riley/templates/views/views-programs/views-view-fields--views-programs.tpl.php</em>).</li>
+  <li><em class="placeholder">Notice</em>: Trying to get property of non-object in <em class="placeholder">include()</em> (line <em class="placeholder">71</em> of <em class="placeholder">/home/it/www/www-icts/sites/all/themes/riley/templates/views/views-programs/views-view-fields--views-programs.tpl.php</em>).</li>
+  <li><em class="placeholder">Notice</em>: Undefined index: body in <em class="placeholder">include()</em> (line <em class="placeholder">71</em> of <em class="placeholder">/home/it/www/www-icts/sites/all/themes/riley/templates/views/views-programs/views-view-fields--views-programs.tpl.php</em>).</li>
+  <li><em class="placeholder">Notice</em>: Trying to get property of non-object in <em class="placeholder">include()</em> (line <em class="placeholder">71</em> of <em class="placeholder">/home/it/www/www-icts/sites/all/themes/riley/templates/views/views-programs/views-view-fields--views-programs.tpl.php</em>).</li>
+  <li><em class="placeholder">Notice</em>: Undefined index: body in <em class="placeholder">include()</em> (line <em class="placeholder">71</em> of <em class="placeholder">/home/it/www/www-icts/sites/all/themes/riley/templates/views/views-programs/views-view-fields--views-programs.tpl.php</em>).</li>
+  <li><em class="placeholder">Notice</em>: Trying to get property of non-object in <em class="placeholder">include()</em> (line <em class="placeholder">71</em> of <em class="placeholder">/home/it/www/www-icts/sites/all/themes/riley/templates/views/views-programs/views-view-fields--views-programs.tpl.php</em>).</li>
+  <li><em class="placeholder">Notice</em>: Undefined index: body in <em class="placeholder">include()</em> (line <em class="placeholder">71</em> of <em class="placeholder">/home/it/www/www-icts/sites/all/themes/riley/templates/views/views-programs/views-view-fields--views-programs.tpl.php</em>).</li>
+  <li><em class="placeholder">Notice</em>: Trying to get property of non-object in <em class="placeholder">include()</em> (line <em class="placeholder">71</em> of <em class="placeholder">/home/it/www/www-icts/sites/all/themes/riley/templates/views/views-programs/views-view-fields--views-programs.tpl.php</em>).</li>
+  <li><em class="placeholder">Notice</em>: Undefined index: body in <em class="placeholder">include()</em> (line <em class="placeholder">71</em> of <em class="placeholder">/home/it/www/www-icts/sites/all/themes/riley/templates/views/views-programs/views-view-fields--views-programs.tpl.php</em>).</li>
+  <li><em class="placeholder">Notice</em>: Trying to get property of non-object in <em class="placeholder">include()</em> (line <em class="placeholder">71</em> of <em class="placeholder">/home/it/www/www-icts/sites/all/themes/riley/templates/views/views-programs/views-view-fields--views-programs.tpl.php</em>).</li>
+  <li><em class="placeholder">Notice</em>: Undefined index: body in <em class="placeholder">include()</em> (line <em class="placeholder">71</em> of <em class="placeholder">/home/it/www/www-icts/sites/all/themes/riley/templates/views/views-programs/views-view-fields--views-programs.tpl.php</em>).</li>
+  <li><em class="placeholder">Notice</em>: Trying to get property of non-object in <em class="placeholder">include()</em> (line <em class="placeholder">71</em> of <em class="placeholder">/home/it/www/www-icts/sites/all/themes/riley/templates/views/views-programs/views-view-fields--views-programs.tpl.php</em>).</li>
+  <li><em class="placeholder">Notice</em>: Undefined index: body in <em class="placeholder">include()</em> (line <em class="placeholder">71</em> of <em class="placeholder">/home/it/www/www-icts/sites/all/themes/riley/templates/views/views-programs/views-view-fields--views-programs.tpl.php</em>).</li>
+  <li><em class="placeholder">Notice</em>: Trying to get property of non-object in <em class="placeholder">include()</em> (line <em class="placeholder">71</em> of <em class="placeholder">/home/it/www/www-icts/sites/all/themes/riley/templates/views/views-programs/views-view-fields--views-programs.tpl.php</em>).</li>
+ </ul>
+</div>
+		
+		
+		
+				<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					  <div id="block-system-main" class="block block-system" >
+		 
+		
+			<div class="view view-views-programs view-id-views_programs view-display-id-page_1 view-dom-id-3a1294ac7ac6656543e4ca6745afc8eb container">
+      
+  
+      <div class="attachment attachment-before row">
+      <div class="view view-views-programs view-id-views_programs view-display-id-attachment_1 container">
+            <div class="view-header">
+      <div class="space10"></div>
+<div class="row">
+  <div class="section-title">Current and Upcoming</div>
+</div>    </div>
+    <div class = "space20"></div>
+  
+  
+      <div class="view-content">
+      	<div class="row">
+					<article class="row event-teaser">
+	<div class="col-xs-4 col-md-3">
+		<div class="program-image"><a href="/program/BigDataCosmo"><img typeof="foaf:Image" src="https://www.icts.res.in/sites/default/files/styles/program_posters/public/media/program/poster/Poster_23.png?itok=CdFvliyO&amp;c=f1048444ce2adbf8c8ed4cf78d101df6" alt="" /></a>
+
+</div>
+	</div>
+
+	<div class="col-xs-8 col-md-5">
+		<div class="programs-teaser">
+	      <div class="event-title">
+                <span class="event-type">Program
+
+</span><br/>
+                 <!-- <i class="fa fa-chevron-circle-right event-type-separator"></i> -->
+              <a href="/program/BigDataCosmo">Largest Cosmological Surveys and Big Data Science</a>
+
+</div>
+
+
+		<div class="space5"></div>
+	      <div class="date"><span><i class="fa fa-calendar"></i></span>  &nbsp;<span class="date-display-range"><span class="date-display-start" property="dc:date" datatype="xsd:dateTime" content="2023-05-01T00:00:00+05:30">01 May 2023</span> to <span class="date-display-end" property="dc:date" datatype="xsd:dateTime" content="2023-05-12T00:00:00+05:30">12 May 2023</span></span>
+
+</div>
+              <div class="space10"></div>
+              <div class="venue"><span><i class="fa fa-map-marker fa-lg"></i></span> &nbsp;Ramanujan Lecture Hall, ICTS Bengaluru
+
+</div>
+              		
+		<div class="space10"></div>
+	      <div class="description">
+
+</div>
+	    </div>
+	</div>
+
+  	<div class="col-xs-12 col-md-4">
+  		<ul class="fa-ul program-sidebar">
+<li>
+<i class="fa-li fa fa-users"></i>Organizers:&nbsp;
+<span class="program_teaser_list_values"><div class="view view-organizer-field-collection-view-unformatted view-id-organizer_field_collection_view_unformatted view-display-id-default view-dom-id-8760561756546021a03ebedbebc95d4e">
+        
+  
+  
+      <div class="view-content">
+      <div class="views-delimited-list">
+<span class="views-row">Shadab  Alam (TIFR, Mumbai, India)</span><span class="views-row-delimiter">, </span><span class="views-row">Girish  Kulkarni  (TIFR, Mumbai, India)</span><span class="views-row-delimiter">, </span><span class="views-row">Subha  Majumdar (TIFR, Mumbai, India)</span><span class="views-row-delimiter">, </span><span class="views-row">Surhud  More  (IUCAA, India)</span><span class="views-row-delimiter">, </span><span class="views-row">Aseem  Paranjape (IUCAA, India)</span><span class="views-row-conjunctive"> and&nbsp;</span><span class="views-row">Tirthankar Roy Choudhury  (NCRA-TIFR, India)</span></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>
+
+</span>
+</li>
+<li>      	
+
+
+
+	<li>
+      			<i class="fa-li fa fa-clock-o"></i>Application deadline:&nbsp;
+      			<span class="program_teaser_list_values">
+
+</span>
+      		</li>
+      		
+      		<li>
+      			<i class="fa-li fa fa-envelope"></i>
+      			<span class="program_teaser_list_values">bigdatacosmo&nbsp;<img src='/sites/all/themes/riley/img/resource/eat.gif' class='eimg'>&nbsp;icts<img src='/sites/all/themes/riley/img/resource/edot.gif' class='eimg'>res<img src='/sites/all/themes/riley/img/resource/edot.gif' class='eimg'>in</span>
+      		</li>
+     	</ul>
+    	<!-- <div class="space10"></div>
+    	<div></div> -->
+  	</div>
+</article>
+<div class="space20"></div>
+			</div>
+    </div>
+  
+  
+  
+  
+  
+</div>    </div>
+  
+          <div class="view-content">
+      	<div class="row">
+					<article class="row event-teaser">
+	<div class="col-xs-4 col-md-3">
+		<div class="program-image"><a href="/program/dta2023"><img typeof="foaf:Image" src="https://www.icts.res.in/sites/default/files/styles/program_posters/public/media/program/poster/POSTER%202.png?itok=bCwPvtZy&amp;c=0b5dbe5c7b0141e114bb712cdc8c3e81" alt="" /></a></div>
+	</div>
+
+	<div class="col-xs-8 col-md-5">
+		<div class="programs-teaser">
+	      <div class="event-title">
+                <span class="event-type">Program</span><br/>
+                 <!-- <i class="fa fa-chevron-circle-right event-type-separator"></i> -->
+              <a href="/program/dta2023">Dualities in Topology and Algebra</a></div>
+
+
+		<div class="space5"></div>
+	      <div class="date"><span><i class="fa fa-calendar"></i></span>  &nbsp;<span class="date-display-range"><span class="date-display-start" property="dc:date" datatype="xsd:dateTime" content="2023-05-15T00:00:00+05:30">15 May 2023</span> to <span class="date-display-end" property="dc:date" datatype="xsd:dateTime" content="2023-05-26T00:00:00+05:30">26 May 2023</span></span></div>
+              <div class="space10"></div>
+              <div class="venue"><span><i class="fa fa-map-marker fa-lg"></i></span> &nbsp;Ramanujan Lecture Hall and Online</div>
+              		
+		<div class="space10"></div>
+	      <div class="description"></div>
+	    </div>
+	</div>
+
+  	<div class="col-xs-12 col-md-4">
+  		<ul class="fa-ul program-sidebar">
+<li>
+<i class="fa-li fa fa-users"></i>Organizers:&nbsp;
+<span class="program_teaser_list_values"><div class="view view-organizer-field-collection-view-unformatted view-id-organizer_field_collection_view_unformatted view-display-id-default view-dom-id-4d4b593d81eef07b7d3d61686f70f875">
+        
+  
+  
+      <div class="view-content">
+      <div class="views-delimited-list">
+<span class="views-row">Samik Basu (ISI-Kolkata, India)</span><span class="views-row-delimiter">, </span><span class="views-row">Anita  Naolekar (ISI-Bengaluru, India)</span><span class="views-row-conjunctive"> and&nbsp;</span><span class="views-row">Rekha  Santhanam  (IIT Bombay, India)</span></div>    </div>
+  
+  
+  
+  
+  
+  
+</div></span>
+</li>
+<li>      	
+
+
+
+	<li>
+      			<i class="fa-li fa fa-clock-o"></i>Application deadline:&nbsp;
+      			<span class="program_teaser_list_values"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2023-01-04T00:00:00+05:30">28 February 2023</span></span>
+      		</li>
+      		
+      		<li>
+      			<i class="fa-li fa fa-envelope"></i>
+      			<span class="program_teaser_list_values">dualities&nbsp;<img src='/sites/all/themes/riley/img/resource/eat.gif' class='eimg'>&nbsp;icts<img src='/sites/all/themes/riley/img/resource/edot.gif' class='eimg'>res<img src='/sites/all/themes/riley/img/resource/edot.gif' class='eimg'>in</span>
+      		</li>
+     	</ul>
+    	<!-- <div class="space10"></div>
+    	<div></div> -->
+  	</div>
+</article>
+<div class="space20"></div>
+					<article class="row event-teaser">
+	<div class="col-xs-4 col-md-3">
+		<div class="program-image"><a href="/discussion-meeting/gwodw2023"><img typeof="foaf:Image" src="https://www.icts.res.in/sites/default/files/styles/program_posters/public/media/program/poster/GW%20Workshop_0.png?itok=sgY5CQy7&amp;c=9f831a73efa323d7a0ef0af9d7cf2201" alt="" /></a></div>
+	</div>
+
+	<div class="col-xs-8 col-md-5">
+		<div class="programs-teaser">
+	      <div class="event-title">
+                <span class="event-type">Discussion Meeting</span><br/>
+                 <!-- <i class="fa fa-chevron-circle-right event-type-separator"></i> -->
+              <a href="/discussion-meeting/gwodw2023">Gravitational-Wave Open Data Workshop</a></div>
+
+
+		<div class="space5"></div>
+	      <div class="date"><span><i class="fa fa-calendar"></i></span>  &nbsp;<span class="date-display-range"><span class="date-display-start" property="dc:date" datatype="xsd:dateTime" content="2023-05-16T00:00:00+05:30">16 May 2023</span> to <span class="date-display-end" property="dc:date" datatype="xsd:dateTime" content="2023-05-17T00:00:00+05:30">17 May 2023</span></span></div>
+              <div class="space10"></div>
+              <div class="venue"><span><i class="fa fa-map-marker fa-lg"></i></span> &nbsp;Madhava Lecture Hall, ICTS Bengaluru</div>
+              		
+		<div class="space10"></div>
+	      <div class="description"></div>
+	    </div>
+	</div>
+
+  	<div class="col-xs-12 col-md-4">
+  		<ul class="fa-ul program-sidebar">
+<li>
+<i class="fa-li fa fa-users"></i>Organizers:&nbsp;
+<span class="program_teaser_list_values"><div class="view view-organizer-field-collection-view-unformatted view-id-organizer_field_collection_view_unformatted view-display-id-default view-dom-id-0435a04dbb5e91325855e282fe03b665">
+        
+  
+  
+      <div class="view-content">
+      <div class="views-delimited-list">
+<span class="views-row">Bala Iyer  (ICTS-TIFR, India)</span><span class="views-row-delimiter">, </span><span class="views-row">Mukesh Kumar Singh  (ICTS-TIFR, India)</span><span class="views-row-delimiter">, </span><span class="views-row">Prayush Kumar  (ICTS-TIFR, India)</span><span class="views-row-delimiter">, </span><span class="views-row">Uddeepta Deka  (ICTS-TIFR, India)</span><span class="views-row-conjunctive"> and&nbsp;</span><span class="views-row">Parameswaran  Ajith (ICTS-TIFR, India)</span></div>    </div>
+  
+  
+  
+  
+  
+  
+</div></span>
+</li>
+<li>      	
+
+
+
+	<li>
+      			<i class="fa-li fa fa-clock-o"></i>Application deadline:&nbsp;
+      			<span class="program_teaser_list_values"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2023-04-17T00:00:00+05:30">08 May 2023</span></span>
+      		</li>
+      		
+      		<li>
+      			<i class="fa-li fa fa-envelope"></i>
+      			<span class="program_teaser_list_values">gwodw&nbsp;<img src='/sites/all/themes/riley/img/resource/eat.gif' class='eimg'>&nbsp;icts<img src='/sites/all/themes/riley/img/resource/edot.gif' class='eimg'>res<img src='/sites/all/themes/riley/img/resource/edot.gif' class='eimg'>in</span>
+      		</li>
+     	</ul>
+    	<!-- <div class="space10"></div>
+    	<div></div> -->
+  	</div>
+</article>
+<div class="space20"></div>
+					<article class="row event-teaser">
+	<div class="col-xs-4 col-md-3">
+		<div class="program-image"><a href="/program/swp"><img typeof="foaf:Image" src="https://www.icts.res.in/sites/default/files/styles/program_posters/public/media/program/poster/6-min.png?itok=JygQnNdE&amp;c=c58a240117211afd1706a973194473d4" alt="" /></a></div>
+	</div>
+
+	<div class="col-xs-8 col-md-5">
+		<div class="programs-teaser">
+	      <div class="event-title">
+                <span class="event-type">Program</span><br/>
+                 <!-- <i class="fa fa-chevron-circle-right event-type-separator"></i> -->
+              <a href="/program/swp">Summer School for Women in Physics</a></div>
+
+
+		<div class="space5"></div>
+	      <div class="date"><span><i class="fa fa-calendar"></i></span>  &nbsp;<span class="date-display-range"><span class="date-display-start" property="dc:date" datatype="xsd:dateTime" content="2023-05-29T00:00:00+05:30">29 May 2023</span> to <span class="date-display-end" property="dc:date" datatype="xsd:dateTime" content="2023-06-09T00:00:00+05:30">09 June 2023</span></span></div>
+              <div class="space10"></div>
+              <div class="venue"><span><i class="fa fa-map-marker fa-lg"></i></span> &nbsp;Madhava Lecture Hall, ICTS, Bengaluru</div>
+              		
+		<div class="space10"></div>
+	      <div class="description"></div>
+	    </div>
+	</div>
+
+  	<div class="col-xs-12 col-md-4">
+  		<ul class="fa-ul program-sidebar">
+<li>
+<i class="fa-li fa fa-users"></i>Organizers:&nbsp;
+<span class="program_teaser_list_values"><div class="view view-organizer-field-collection-view-unformatted view-id-organizer_field_collection_view_unformatted view-display-id-default view-dom-id-17b39ca913d4d20ab892da7c703a9ee9">
+        
+  
+  
+      <div class="view-content">
+      <div class="views-delimited-list">
+<span class="views-row">Mahua  Ghosh (Mount Carmel College, Bengaluru, India)</span><span class="views-row-delimiter">, </span><span class="views-row">Kripa  Gowrishankar (Azim Premji University, Bengaluru, India)</span><span class="views-row-delimiter">, </span><span class="views-row">Sushan  Konar  (NCRA-TIFR, India)</span><span class="views-row-delimiter">, </span><span class="views-row">Rajaram Nityananda  (ICTS-TIFR, India)</span><span class="views-row-delimiter">, </span><span class="views-row">Sumathi Rao (ICTS-TIFR, India)</span><span class="views-row-delimiter">, </span><span class="views-row">Joseph  Samuel  (ICTS-TIFR, India)</span><span class="views-row-conjunctive"> and&nbsp;</span><span class="views-row">Supurna  Sinha (RRI, India)</span></div>    </div>
+  
+  
+  
+  
+  
+  
+</div></span>
+</li>
+<li>      	
+
+
+
+	<li>
+      			<i class="fa-li fa fa-clock-o"></i>Application deadline:&nbsp;
+      			<span class="program_teaser_list_values"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2023-02-16T00:00:00+05:30">05 April 2023</span></span>
+      		</li>
+      		
+      		<li>
+      			<i class="fa-li fa fa-envelope"></i>
+      			<span class="program_teaser_list_values">sswp&nbsp;<img src='/sites/all/themes/riley/img/resource/eat.gif' class='eimg'>&nbsp;icts<img src='/sites/all/themes/riley/img/resource/edot.gif' class='eimg'>res<img src='/sites/all/themes/riley/img/resource/edot.gif' class='eimg'>in</span>
+      		</li>
+     	</ul>
+    	<!-- <div class="space10"></div>
+    	<div></div> -->
+  	</div>
+</article>
+<div class="space20"></div>
+					<article class="row event-teaser">
+	<div class="col-xs-4 col-md-3">
+		<div class="program-image"><a href="/program/swms2023"><img typeof="foaf:Image" src="https://www.icts.res.in/sites/default/files/styles/program_posters/public/media/program/poster/SWMS%20Poster.png?itok=IBPBnNPM&amp;c=15135aa84b783563660f00b98771b213" alt="" /></a></div>
+	</div>
+
+	<div class="col-xs-8 col-md-5">
+		<div class="programs-teaser">
+	      <div class="event-title">
+                <span class="event-type">Program</span><br/>
+                 <!-- <i class="fa fa-chevron-circle-right event-type-separator"></i> -->
+              <a href="/program/swms2023">Summer School for Women in Mathematics and Statistics</a></div>
+
+
+		<div class="space5"></div>
+	      <div class="date"><span><i class="fa fa-calendar"></i></span>  &nbsp;<span class="date-display-range"><span class="date-display-start" property="dc:date" datatype="xsd:dateTime" content="2023-05-29T00:00:00+05:30">29 May 2023</span> to <span class="date-display-end" property="dc:date" datatype="xsd:dateTime" content="2023-06-09T00:00:00+05:30">09 June 2023</span></span></div>
+              <div class="space10"></div>
+              <div class="venue"><span><i class="fa fa-map-marker fa-lg"></i></span> &nbsp;Ramanujan Lecture Hall, ICTS Bengaluru </div>
+              		
+		<div class="space10"></div>
+	      <div class="description"></div>
+	    </div>
+	</div>
+
+  	<div class="col-xs-12 col-md-4">
+  		<ul class="fa-ul program-sidebar">
+<li>
+<i class="fa-li fa fa-users"></i>Organizers:&nbsp;
+<span class="program_teaser_list_values"><div class="view view-organizer-field-collection-view-unformatted view-id-organizer_field_collection_view_unformatted view-display-id-default view-dom-id-4f227276289a0ecf28c0073f2bf7315b">
+        
+  
+  
+      <div class="view-content">
+      <div class="views-delimited-list">
+<span class="views-row">Siva Athreya (ICTS-TIFR, ISI-Bengaluru, India)</span><span class="views-row-delimiter">, </span><span class="views-row">Rhythm  Grover (IIT-Guwahati, India)</span><span class="views-row-conjunctive"> and&nbsp;</span><span class="views-row">Dootika Vats (IIT-Kanpur, India)</span></div>    </div>
+  
+  
+  
+  
+  
+  
+</div></span>
+</li>
+<li>      	
+
+
+
+	<li>
+      			<i class="fa-li fa fa-clock-o"></i>Application deadline:&nbsp;
+      			<span class="program_teaser_list_values"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2023-02-15T00:00:00+05:30">05 April 2023</span></span>
+      		</li>
+      		
+      		<li>
+      			<i class="fa-li fa fa-envelope"></i>
+      			<span class="program_teaser_list_values">swms&nbsp;<img src='/sites/all/themes/riley/img/resource/eat.gif' class='eimg'>&nbsp;icts<img src='/sites/all/themes/riley/img/resource/edot.gif' class='eimg'>res<img src='/sites/all/themes/riley/img/resource/edot.gif' class='eimg'>in</span>
+      		</li>
+     	</ul>
+    	<!-- <div class="space10"></div>
+    	<div></div> -->
+  	</div>
+</article>
+<div class="space20"></div>
+					<article class="row event-teaser">
+	<div class="col-xs-4 col-md-3">
+		<div class="program-image"><a href="/program/pdcs2023"><img typeof="foaf:Image" src="https://www.icts.res.in/sites/default/files/styles/program_posters/public/media/program/poster/Poster_25.png?itok=sox1xgkI&amp;c=084a16913ff97ccf9086d9f08f52db21" alt="" /></a></div>
+	</div>
+
+	<div class="col-xs-8 col-md-5">
+		<div class="programs-teaser">
+	      <div class="event-title">
+                <span class="event-type">Program</span><br/>
+                 <!-- <i class="fa fa-chevron-circle-right event-type-separator"></i> -->
+              <a href="/program/pdcs2023">Periodically and quasi-periodically driven complex systems</a></div>
+
+
+		<div class="space5"></div>
+	      <div class="date"><span><i class="fa fa-calendar"></i></span>  &nbsp;<span class="date-display-range"><span class="date-display-start" property="dc:date" datatype="xsd:dateTime" content="2023-06-12T00:00:00+05:30">12 June 2023</span> to <span class="date-display-end" property="dc:date" datatype="xsd:dateTime" content="2023-06-23T00:00:00+05:30">23 June 2023</span></span></div>
+              <div class="space10"></div>
+              <div class="venue"><span><i class="fa fa-map-marker fa-lg"></i></span> &nbsp;Ramanujan Lecture Hall, ICTS Bengaluru</div>
+              		
+		<div class="space10"></div>
+	      <div class="description"></div>
+	    </div>
+	</div>
+
+  	<div class="col-xs-12 col-md-4">
+  		<ul class="fa-ul program-sidebar">
+<li>
+<i class="fa-li fa fa-users"></i>Organizers:&nbsp;
+<span class="program_teaser_list_values"><div class="view view-organizer-field-collection-view-unformatted view-id-organizer_field_collection_view_unformatted view-display-id-default view-dom-id-d24a6c05886e958e5e40d360697c1e40">
+        
+  
+  
+      <div class="view-content">
+      <div class="views-delimited-list">
+<span class="views-row">Jonathan Keeling (University of St Andrews, UK)</span><span class="views-row-delimiter">, </span><span class="views-row">Manas Kulkarni (ICTS-TIFR, Bangalore, India)</span><span class="views-row-conjunctive"> and&nbsp;</span><span class="views-row">Aditi Mitra (New York University, USA)</span></div>    </div>
+  
+  
+  
+  
+  
+  
+</div></span>
+</li>
+<li>      	
+
+
+
+	<li>
+      			<i class="fa-li fa fa-clock-o"></i>Application deadline:&nbsp;
+      			<span class="program_teaser_list_values"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2023-02-20T00:00:00+05:30">31 March 2023</span></span>
+      		</li>
+      		
+      		<li>
+      			<i class="fa-li fa fa-envelope"></i>
+      			<span class="program_teaser_list_values">pdcs&nbsp;<img src='/sites/all/themes/riley/img/resource/eat.gif' class='eimg'>&nbsp;icts<img src='/sites/all/themes/riley/img/resource/edot.gif' class='eimg'>res<img src='/sites/all/themes/riley/img/resource/edot.gif' class='eimg'>in</span>
+      		</li>
+     	</ul>
+    	<!-- <div class="space10"></div>
+    	<div></div> -->
+  	</div>
+</article>
+<div class="space20"></div>
+					<article class="row event-teaser">
+	<div class="col-xs-4 col-md-3">
+		<div class="program-image"><a href="/discussion-meeting/COAPS"><img typeof="foaf:Image" src="https://www.icts.res.in/sites/default/files/styles/program_posters/public/media/program/poster/COAPS.png?itok=blkks2Sc&amp;c=bdca22a3183e6aa1d81a4e7e11495e81" alt="" /></a></div>
+	</div>
+
+	<div class="col-xs-8 col-md-5">
+		<div class="programs-teaser">
+	      <div class="event-title">
+                <span class="event-type">Discussion Meeting</span><br/>
+                 <!-- <i class="fa fa-chevron-circle-right event-type-separator"></i> -->
+              <a href="/discussion-meeting/COAPS">Mathematical modeling of Climate, Ocean, and Atmosphere processes	</a></div>
+
+
+		<div class="space5"></div>
+	      <div class="date"><span><i class="fa fa-calendar"></i></span>  &nbsp;<span class="date-display-range"><span class="date-display-start" property="dc:date" datatype="xsd:dateTime" content="2023-06-26T00:00:00+05:30">26 June 2023</span> to <span class="date-display-end" property="dc:date" datatype="xsd:dateTime" content="2023-06-30T00:00:00+05:30">30 June 2023</span></span></div>
+              <div class="space10"></div>
+              <div class="venue"><span><i class="fa fa-map-marker fa-lg"></i></span> &nbsp;Madhava Lecture Hall, ICTS Bengaluru</div>
+              		
+		<div class="space10"></div>
+	      <div class="description"></div>
+	    </div>
+	</div>
+
+  	<div class="col-xs-12 col-md-4">
+  		<ul class="fa-ul program-sidebar">
+<li>
+<i class="fa-li fa fa-users"></i>Organizers:&nbsp;
+<span class="program_teaser_list_values"><div class="view view-organizer-field-collection-view-unformatted view-id-organizer_field_collection_view_unformatted view-display-id-default view-dom-id-f8d34d4f1283864a4abc16ba5256fc87">
+        
+  
+  
+      <div class="view-content">
+      <div class="views-delimited-list">
+<span class="views-row">Jim   Thomas (ICTS-TIFR, India)</span><span class="views-row-delimiter">, </span><span class="views-row">Ashwin  K Seshadri (IISc, India)</span><span class="views-row-conjunctive"> and&nbsp;</span><span class="views-row">Aman  Gupta (Stanford University, USA)</span></div>    </div>
+  
+  
+  
+  
+  
+  
+</div></span>
+</li>
+<li>      	
+
+
+
+	<li>
+      			<i class="fa-li fa fa-clock-o"></i>Application deadline:&nbsp;
+      			<span class="program_teaser_list_values"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2023-04-10T00:00:00+05:30">04 June 2023</span></span>
+      		</li>
+      		
+      		<li>
+      			<i class="fa-li fa fa-envelope"></i>
+      			<span class="program_teaser_list_values">coaps&nbsp;<img src='/sites/all/themes/riley/img/resource/eat.gif' class='eimg'>&nbsp;icts<img src='/sites/all/themes/riley/img/resource/edot.gif' class='eimg'>res<img src='/sites/all/themes/riley/img/resource/edot.gif' class='eimg'>in</span>
+      		</li>
+     	</ul>
+    	<!-- <div class="space10"></div>
+    	<div></div> -->
+  	</div>
+</article>
+<div class="space20"></div>
+					<article class="row event-teaser">
+	<div class="col-xs-4 col-md-3">
+		<div class="program-image"><a href="/program/Mtha"><img typeof="foaf:Image" src="https://www.icts.res.in/sites/default/files/styles/program_posters/public/media/program/poster/MTHA.png?itok=IVhFQpa1&amp;c=104504d6411fa63c5e6d04f7ca2c255e" alt="" /></a></div>
+	</div>
+
+	<div class="col-xs-8 col-md-5">
+		<div class="programs-teaser">
+	      <div class="event-title">
+                <span class="event-type">Program</span><br/>
+                 <!-- <i class="fa fa-chevron-circle-right event-type-separator"></i> -->
+              <a href="/program/Mtha">Modern trends in Harmonic Analysis</a></div>
+
+
+		<div class="space5"></div>
+	      <div class="date"><span><i class="fa fa-calendar"></i></span>  &nbsp;<span class="date-display-range"><span class="date-display-start" property="dc:date" datatype="xsd:dateTime" content="2023-06-26T00:00:00+05:30">26 June 2023</span> to <span class="date-display-end" property="dc:date" datatype="xsd:dateTime" content="2023-07-07T00:00:00+05:30">07 July 2023</span></span></div>
+              <div class="space10"></div>
+              <div class="venue"><span><i class="fa fa-map-marker fa-lg"></i></span> &nbsp;Ramanujan Lecture Hall, ICTS Bengaluru</div>
+              		
+		<div class="space10"></div>
+	      <div class="description"></div>
+	    </div>
+	</div>
+
+  	<div class="col-xs-12 col-md-4">
+  		<ul class="fa-ul program-sidebar">
+<li>
+<i class="fa-li fa fa-users"></i>Organizers:&nbsp;
+<span class="program_teaser_list_values"><div class="view view-organizer-field-collection-view-unformatted view-id-organizer_field_collection_view_unformatted view-display-id-default view-dom-id-36e2bcd9aeb8bf7415242f976289a46f">
+        
+  
+  
+      <div class="view-content">
+      <div class="views-delimited-list">
+<span class="views-row">Jotsaroop Kaur (IISER Mohali, India)</span><span class="views-row-conjunctive"> and&nbsp;</span><span class="views-row">Saurabh Shrivastava (IISER Bhopal, India)</span></div>    </div>
+  
+  
+  
+  
+  
+  
+</div></span>
+</li>
+<li>      	
+
+
+
+	<li>
+      			<i class="fa-li fa fa-clock-o"></i>Application deadline:&nbsp;
+      			<span class="program_teaser_list_values"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2022-12-20T00:00:00+05:30">15 May 2023</span></span>
+      		</li>
+      		
+      		<li>
+      			<i class="fa-li fa fa-envelope"></i>
+      			<span class="program_teaser_list_values">mtha&nbsp;<img src='/sites/all/themes/riley/img/resource/eat.gif' class='eimg'>&nbsp;icts<img src='/sites/all/themes/riley/img/resource/edot.gif' class='eimg'>res<img src='/sites/all/themes/riley/img/resource/edot.gif' class='eimg'>in</span>
+      		</li>
+     	</ul>
+    	<!-- <div class="space10"></div>
+    	<div></div> -->
+  	</div>
+</article>
+<div class="space20"></div>
+					<article class="row event-teaser">
+	<div class="col-xs-4 col-md-3">
+		<div class="program-image"><a href="/discussion-meeting/DSPOM2023"><img typeof="foaf:Image" src="https://www.icts.res.in/sites/default/files/styles/program_posters/public/media/program/poster/DSPOM_Poster.png?itok=okGAJbsT&amp;c=895b0c1f12222991a917f72dde36485c" alt="" /></a></div>
+	</div>
+
+	<div class="col-xs-8 col-md-5">
+		<div class="programs-teaser">
+	      <div class="event-title">
+                <span class="event-type">Discussion Meeting</span><br/>
+                 <!-- <i class="fa fa-chevron-circle-right event-type-separator"></i> -->
+              <a href="/discussion-meeting/DSPOM2023">Data Science: Probabilistic and Optimization Methods</a></div>
+
+
+		<div class="space5"></div>
+	      <div class="date"><span><i class="fa fa-calendar"></i></span>  &nbsp;<span class="date-display-range"><span class="date-display-start" property="dc:date" datatype="xsd:dateTime" content="2023-07-03T00:00:00+05:30">03 July 2023</span> to <span class="date-display-end" property="dc:date" datatype="xsd:dateTime" content="2023-07-07T00:00:00+05:30">07 July 2023</span></span></div>
+              <div class="space10"></div>
+              <div class="venue"><span><i class="fa fa-map-marker fa-lg"></i></span> &nbsp;Madhava Lecture Hall, ICTS</div>
+              		
+		<div class="space10"></div>
+	      <div class="description"></div>
+	    </div>
+	</div>
+
+  	<div class="col-xs-12 col-md-4">
+  		<ul class="fa-ul program-sidebar">
+<li>
+<i class="fa-li fa fa-users"></i>Organizers:&nbsp;
+<span class="program_teaser_list_values"><div class="view view-organizer-field-collection-view-unformatted view-id-organizer_field_collection_view_unformatted view-display-id-default view-dom-id-21e637bb20b55e19eca1dd21fe1ef17f">
+        
+  
+  
+      <div class="view-content">
+      <div class="views-delimited-list">
+<span class="views-row">Vivek Borkar (IIT Bombay, India)</span><span class="views-row-delimiter">, </span><span class="views-row">Sandeep Juneja (TIFR, India)</span><span class="views-row-delimiter">, </span><span class="views-row">Praneeth  Netrapalli (Google Research India)</span><span class="views-row-conjunctive"> and&nbsp;</span><span class="views-row">Devavrat  Shah (MIT, USA)</span></div>    </div>
+  
+  
+  
+  
+  
+  
+</div></span>
+</li>
+<li>      	
+
+
+
+	<li>
+      			<i class="fa-li fa fa-clock-o"></i>Application deadline:&nbsp;
+      			<span class="program_teaser_list_values"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2023-03-01T00:00:00+05:30">15 May 2023</span></span>
+      		</li>
+      		
+      		<li>
+      			<i class="fa-li fa fa-envelope"></i>
+      			<span class="program_teaser_list_values">dspom&nbsp;<img src='/sites/all/themes/riley/img/resource/eat.gif' class='eimg'>&nbsp;icts<img src='/sites/all/themes/riley/img/resource/edot.gif' class='eimg'>res<img src='/sites/all/themes/riley/img/resource/edot.gif' class='eimg'>in</span>
+      		</li>
+     	</ul>
+    	<!-- <div class="space10"></div>
+    	<div></div> -->
+  	</div>
+</article>
+<div class="space20"></div>
+					<article class="row event-teaser">
+	<div class="col-xs-4 col-md-3">
+		<div class="program-image"><a href="/program/PMQM-2023"><img typeof="foaf:Image" src="https://www.icts.res.in/sites/default/files/styles/program_posters/public/media/program/poster/PMQM%20Final%20png.png?itok=7JpmMYLg&amp;c=b5f701567cfa160daea50be541b1040e" alt="" /></a></div>
+	</div>
+
+	<div class="col-xs-8 col-md-5">
+		<div class="programs-teaser">
+	      <div class="event-title">
+                <span class="event-type">Program</span><br/>
+                 <!-- <i class="fa fa-chevron-circle-right event-type-separator"></i> -->
+              <a href="/program/PMQM-2023">Introduction to Precision Measurements and Quantum Metrology</a></div>
+
+
+		<div class="space5"></div>
+	      <div class="date"><span><i class="fa fa-calendar"></i></span>  &nbsp;<span class="date-display-range"><span class="date-display-start" property="dc:date" datatype="xsd:dateTime" content="2023-07-10T00:00:00+05:30">10 July 2023</span> to <span class="date-display-end" property="dc:date" datatype="xsd:dateTime" content="2023-07-21T00:00:00+05:30">21 July 2023</span></span></div>
+              <div class="space10"></div>
+              <div class="venue"><span><i class="fa fa-map-marker fa-lg"></i></span> &nbsp;Ramanujan Lecture Hall, ICTS Bengaluru</div>
+              		
+		<div class="space10"></div>
+	      <div class="description"></div>
+	    </div>
+	</div>
+
+  	<div class="col-xs-12 col-md-4">
+  		<ul class="fa-ul program-sidebar">
+<li>
+<i class="fa-li fa fa-users"></i>Organizers:&nbsp;
+<span class="program_teaser_list_values"><div class="view view-organizer-field-collection-view-unformatted view-id-organizer_field_collection_view_unformatted view-display-id-default view-dom-id-3a8a7a39162572f570cd7c897a345d47">
+        
+  
+  
+      <div class="view-content">
+      <div class="views-delimited-list">
+<span class="views-row">Subhadeep  De (IUCAA, Pune)</span><span class="views-row-delimiter">, </span><span class="views-row">Saikat  Ghosh (IIT Kanpur)</span><span class="views-row-delimiter">, </span><span class="views-row">Arup Kumar  Raychaudhuri (CGCRI, Kolkata)</span><span class="views-row-delimiter">, </span><span class="views-row">Kasturi  Saha (IIT Bombay, Mumbai)</span><span class="views-row-delimiter">, </span><span class="views-row">Bijaya Kumar  Sahoo (PRL, Ahmedabad)</span><span class="views-row-conjunctive"> and&nbsp;</span><span class="views-row">Anil  Shaji (IISER, Thiruvananthapuram)</span></div>    </div>
+  
+  
+  
+  
+  
+  
+</div></span>
+</li>
+<li>      	
+
+
+
+	<li>
+      			<i class="fa-li fa fa-clock-o"></i>Application deadline:&nbsp;
+      			<span class="program_teaser_list_values"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2023-01-16T00:00:00+05:30">31 March 2023</span></span>
+      		</li>
+      		
+      		<li>
+      			<i class="fa-li fa fa-envelope"></i>
+      			<span class="program_teaser_list_values">pmqm&nbsp;<img src='/sites/all/themes/riley/img/resource/eat.gif' class='eimg'>&nbsp;icts<img src='/sites/all/themes/riley/img/resource/edot.gif' class='eimg'>res<img src='/sites/all/themes/riley/img/resource/edot.gif' class='eimg'>in</span>
+      		</li>
+     	</ul>
+    	<!-- <div class="space10"></div>
+    	<div></div> -->
+  	</div>
+</article>
+<div class="space20"></div>
+					<article class="row event-teaser">
+	<div class="col-xs-4 col-md-3">
+		<div class="program-image"><a href="/program/mlhd2023"><img typeof="foaf:Image" src="https://www.icts.res.in/sites/default/files/styles/program_posters/public/media/program/poster/MLHD%20POSTER_1402_0.png?itok=k9swC6wK&amp;c=9ce44850e875a151f286ba34239b05bf" alt="" /></a></div>
+	</div>
+
+	<div class="col-xs-8 col-md-5">
+		<div class="programs-teaser">
+	      <div class="event-title">
+                <span class="event-type">Program</span><br/>
+                 <!-- <i class="fa fa-chevron-circle-right event-type-separator"></i> -->
+              <a href="/program/mlhd2023">Machine Learning for Health and Disease</a></div>
+
+
+		<div class="space5"></div>
+	      <div class="date"><span><i class="fa fa-calendar"></i></span>  &nbsp;<span class="date-display-range"><span class="date-display-start" property="dc:date" datatype="xsd:dateTime" content="2023-07-24T00:00:00+05:30">24 July 2023</span> to <span class="date-display-end" property="dc:date" datatype="xsd:dateTime" content="2023-08-04T00:00:00+05:30">04 August 2023</span></span></div>
+              <div class="space10"></div>
+              <div class="venue"><span><i class="fa fa-map-marker fa-lg"></i></span> &nbsp;Ramanujan Lecture Hall, ICTS Bengaluru</div>
+              		
+		<div class="space10"></div>
+	      <div class="description"></div>
+	    </div>
+	</div>
+
+  	<div class="col-xs-12 col-md-4">
+  		<ul class="fa-ul program-sidebar">
+<li>
+<i class="fa-li fa fa-users"></i>Organizers:&nbsp;
+<span class="program_teaser_list_values"><div class="view view-organizer-field-collection-view-unformatted view-id-organizer_field_collection_view_unformatted view-display-id-default view-dom-id-88f5c2eaca0b523bc999610d76a2c733">
+        
+  
+  
+      <div class="view-content">
+      <div class="views-delimited-list">
+<span class="views-row">Gautam Menon (Ashoka University, Sonepat, India)</span><span class="views-row-delimiter">, </span><span class="views-row">Leelavati  Narlikar (IISER Pune, India)</span><span class="views-row-delimiter">, </span><span class="views-row">Uma  Ram (Seethapathy Clinic &amp; Hospital, Chennai, India)</span><span class="views-row-delimiter">, </span><span class="views-row">Ponnusamy  Saravanan (University of Warwick, UK)</span><span class="views-row-conjunctive"> and&nbsp;</span><span class="views-row">Rahul  Siddharthan (The Institute of Mathematical Sciences, Chennai, India)</span></div>    </div>
+  
+  
+  
+  
+  
+  
+</div></span>
+</li>
+<li>      	
+
+
+
+	<li>
+      			<i class="fa-li fa fa-clock-o"></i>Application deadline:&nbsp;
+      			<span class="program_teaser_list_values"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2023-02-15T00:00:00+05:30">30 April 2023</span></span>
+      		</li>
+      		
+      		<li>
+      			<i class="fa-li fa fa-envelope"></i>
+      			<span class="program_teaser_list_values">mlhd&nbsp;<img src='/sites/all/themes/riley/img/resource/eat.gif' class='eimg'>&nbsp;icts<img src='/sites/all/themes/riley/img/resource/edot.gif' class='eimg'>res<img src='/sites/all/themes/riley/img/resource/edot.gif' class='eimg'>in</span>
+      		</li>
+     	</ul>
+    	<!-- <div class="space10"></div>
+    	<div></div> -->
+  	</div>
+</article>
+<div class="space20"></div>
+					<article class="row event-teaser">
+	<div class="col-xs-4 col-md-3">
+		<div class="program-image"><a href="/program/gws2023"><img typeof="foaf:Image" src="https://www.icts.res.in/sites/default/files/styles/program_posters/public/media/program/poster/Summer%20School%20on%20Gravitational-Wave%20Astronomy%202023%20%281%29.png?itok=401dmvUV&amp;c=d7d2e4707a14aa099d1612d1ba1b8a67" alt="" /></a></div>
+	</div>
+
+	<div class="col-xs-8 col-md-5">
+		<div class="programs-teaser">
+	      <div class="event-title">
+                <span class="event-type">Program</span><br/>
+                 <!-- <i class="fa fa-chevron-circle-right event-type-separator"></i> -->
+              <a href="/program/gws2023">Summer School on Gravitational-Wave Astronomy</a></div>
+
+
+		<div class="space5"></div>
+	      <div class="date"><span><i class="fa fa-calendar"></i></span>  &nbsp;<span class="date-display-range"><span class="date-display-start" property="dc:date" datatype="xsd:dateTime" content="2023-07-24T00:00:00+05:30">24 July 2023</span> to <span class="date-display-end" property="dc:date" datatype="xsd:dateTime" content="2023-08-04T00:00:00+05:30">04 August 2023</span></span></div>
+              <div class="space10"></div>
+              <div class="venue"><span><i class="fa fa-map-marker fa-lg"></i></span> &nbsp;Madhava Lecture Hall</div>
+              		
+		<div class="space10"></div>
+	      <div class="description"></div>
+	    </div>
+	</div>
+
+  	<div class="col-xs-12 col-md-4">
+  		<ul class="fa-ul program-sidebar">
+<li>
+<i class="fa-li fa fa-users"></i>Organizers:&nbsp;
+<span class="program_teaser_list_values"><div class="view view-organizer-field-collection-view-unformatted view-id-organizer_field_collection_view_unformatted view-display-id-default view-dom-id-1a4053dd5b3097983b205335514905f9">
+        
+  
+  
+      <div class="view-content">
+      <div class="views-delimited-list">
+<span class="views-row">Parameswaran  Ajith (ICTS-TIFR)</span><span class="views-row-delimiter">, </span><span class="views-row">K. G. Arun (CMI)</span><span class="views-row-delimiter">, </span><span class="views-row">Bala R.  Iyer (ICTS-TIFR)</span><span class="views-row-conjunctive"> and&nbsp;</span><span class="views-row">Prayush  Kumar (ICTS-TIFR)</span></div>    </div>
+  
+  
+  
+  
+  
+  
+</div></span>
+</li>
+<li>      	
+
+
+
+	<li>
+      			<i class="fa-li fa fa-clock-o"></i>Application deadline:&nbsp;
+      			<span class="program_teaser_list_values"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2023-04-06T00:00:00+05:30">15 May 2023</span></span>
+      		</li>
+      		
+      		<li>
+      			<i class="fa-li fa fa-envelope"></i>
+      			<span class="program_teaser_list_values">gwschool&nbsp;<img src='/sites/all/themes/riley/img/resource/eat.gif' class='eimg'>&nbsp;icts<img src='/sites/all/themes/riley/img/resource/edot.gif' class='eimg'>res<img src='/sites/all/themes/riley/img/resource/edot.gif' class='eimg'>in</span>
+      		</li>
+     	</ul>
+    	<!-- <div class="space10"></div>
+    	<div></div> -->
+  	</div>
+</article>
+<div class="space20"></div>
+					<article class="row event-teaser">
+	<div class="col-xs-4 col-md-3">
+		<div class="program-image"><a href="/program/SLM2023"><img typeof="foaf:Image" src="https://www.icts.res.in/sites/default/files/styles/program_posters/public/media/program/poster/Poster_22.png?itok=6RvLOskJ&amp;c=084a16913ff97ccf9086d9f08f52db21" alt="" /></a></div>
+	</div>
+
+	<div class="col-xs-8 col-md-5">
+		<div class="programs-teaser">
+	      <div class="event-title">
+                <span class="event-type">Program</span><br/>
+                 <!-- <i class="fa fa-chevron-circle-right event-type-separator"></i> -->
+              <a href="/program/SLM2023">Soft and Living Matter: from Fundamental Concepts to New Material Design</a></div>
+
+
+		<div class="space5"></div>
+	      <div class="date"><span><i class="fa fa-calendar"></i></span>  &nbsp;<span class="date-display-range"><span class="date-display-start" property="dc:date" datatype="xsd:dateTime" content="2023-08-07T00:00:00+05:30">07 August 2023</span> to <span class="date-display-end" property="dc:date" datatype="xsd:dateTime" content="2023-08-25T00:00:00+05:30">25 August 2023</span></span></div>
+              <div class="space10"></div>
+              <div class="venue"><span><i class="fa fa-map-marker fa-lg"></i></span> &nbsp;Ramanujan Lecture Hall, ICTS Bengaluru</div>
+              		
+		<div class="space10"></div>
+	      <div class="description"></div>
+	    </div>
+	</div>
+
+  	<div class="col-xs-12 col-md-4">
+  		<ul class="fa-ul program-sidebar">
+<li>
+<i class="fa-li fa fa-users"></i>Organizers:&nbsp;
+<span class="program_teaser_list_values"><div class="view view-organizer-field-collection-view-unformatted view-id-organizer_field_collection_view_unformatted view-display-id-default view-dom-id-409dd90815f774158bf2c87fa9772561">
+        
+  
+  
+      <div class="view-content">
+      <div class="views-delimited-list">
+<span class="views-row">Mahesh M  Bandi (Okinawa Institute of Science and Technology, Japan )</span><span class="views-row-conjunctive"> and&nbsp;</span><span class="views-row">Ranjini  Bandyopadhyay (RRI, India)</span></div>    </div>
+  
+  
+  
+  
+  
+  
+</div></span>
+</li>
+<li>      	
+
+
+
+	<li>
+      			<i class="fa-li fa fa-clock-o"></i>Application deadline:&nbsp;
+      			<span class="program_teaser_list_values"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2023-01-30T00:00:00+05:30">30 May 2023</span></span>
+      		</li>
+      		
+      		<li>
+      			<i class="fa-li fa fa-envelope"></i>
+      			<span class="program_teaser_list_values">slmfc&nbsp;<img src='/sites/all/themes/riley/img/resource/eat.gif' class='eimg'>&nbsp;icts<img src='/sites/all/themes/riley/img/resource/edot.gif' class='eimg'>res<img src='/sites/all/themes/riley/img/resource/edot.gif' class='eimg'>in</span>
+      		</li>
+     	</ul>
+    	<!-- <div class="space10"></div>
+    	<div></div> -->
+  	</div>
+</article>
+<div class="space20"></div>
+					<article class="row event-teaser">
+	<div class="col-xs-4 col-md-3">
+		<div class="program-image"><a href="/program/ML4HEP"><img typeof="foaf:Image" src="https://www.icts.res.in/sites/default/files/styles/program_posters/public/media/program/poster/ICTS%20Poster1A_Final.png?itok=bOT3aAzA&amp;c=da667298e9694c005d26fa679f2f5eb7" alt="" /></a></div>
+	</div>
+
+	<div class="col-xs-8 col-md-5">
+		<div class="programs-teaser">
+	      <div class="event-title">
+                <span class="event-type">Program</span><br/>
+                 <!-- <i class="fa fa-chevron-circle-right event-type-separator"></i> -->
+              <a href="/program/ML4HEP">Statistical Methods and Machine Learning in High Energy Physics</a></div>
+
+
+		<div class="space5"></div>
+	      <div class="date"><span><i class="fa fa-calendar"></i></span>  &nbsp;<span class="date-display-range"><span class="date-display-start" property="dc:date" datatype="xsd:dateTime" content="2023-08-28T00:00:00+05:30">28 August 2023</span> to <span class="date-display-end" property="dc:date" datatype="xsd:dateTime" content="2023-09-08T00:00:00+05:30">08 September 2023</span></span></div>
+              <div class="space10"></div>
+              <div class="venue"><span><i class="fa fa-map-marker fa-lg"></i></span> &nbsp;Ramanujan Lecture Hall, ICTS Bengaluru &amp; Online</div>
+              		
+		<div class="space10"></div>
+	      <div class="description"></div>
+	    </div>
+	</div>
+
+  	<div class="col-xs-12 col-md-4">
+  		<ul class="fa-ul program-sidebar">
+<li>
+<i class="fa-li fa fa-users"></i>Organizers:&nbsp;
+<span class="program_teaser_list_values"><div class="view view-organizer-field-collection-view-unformatted view-id-organizer_field_collection_view_unformatted view-display-id-default view-dom-id-9d8b185a39c1ba353ba785c068e38d48">
+        
+  
+  
+      <div class="view-content">
+      <div class="views-delimited-list">
+<span class="views-row">Sunanda  Banerjee  (University of Wisconsin, USA)</span><span class="views-row-delimiter">, </span><span class="views-row">Satyaki  Bhattacharya  (SINP, India )</span><span class="views-row-delimiter">, </span><span class="views-row">Indumathi  D (IMSc, India)</span><span class="views-row-delimiter">, </span><span class="views-row">Bhawna  Gomber  (University of Hyderabad, India)</span><span class="views-row-delimiter">, </span><span class="views-row">Partha  Konar  (PRL, India)</span><span class="views-row-delimiter">, </span><span class="views-row">Aruna Kumar Nayak  (IOPB, India)</span><span class="views-row-conjunctive"> and&nbsp;</span><span class="views-row">Ritesh Kumar  Singh  (IISER, Kolkata, India)</span></div>    </div>
+  
+  
+  
+  
+  
+  
+</div></span>
+</li>
+<li>      	
+
+
+
+	<li>
+      			<i class="fa-li fa fa-clock-o"></i>Application deadline:&nbsp;
+      			<span class="program_teaser_list_values"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2023-04-21T00:00:00+05:30">15 May 2023</span></span>
+      		</li>
+      		
+      		<li>
+      			<i class="fa-li fa fa-envelope"></i>
+      			<span class="program_teaser_list_values">ml4hep&nbsp;<img src='/sites/all/themes/riley/img/resource/eat.gif' class='eimg'>&nbsp;icts<img src='/sites/all/themes/riley/img/resource/edot.gif' class='eimg'>res<img src='/sites/all/themes/riley/img/resource/edot.gif' class='eimg'>in</span>
+      		</li>
+     	</ul>
+    	<!-- <div class="space10"></div>
+    	<div></div> -->
+  	</div>
+</article>
+<div class="space20"></div>
+					<article class="row event-teaser">
+	<div class="col-xs-4 col-md-3">
+		<div class="program-image"><a href="/program/bssp2023"><img typeof="foaf:Image" src="https://www.icts.res.in/sites/default/files/styles/program_posters/public/media/program/poster/BSSP2023_Poster_0.png?itok=v3uivW97&amp;c=12f68aa2fe64165c8f4572e930ba5c58" alt="" /></a></div>
+	</div>
+
+	<div class="col-xs-8 col-md-5">
+		<div class="programs-teaser">
+	      <div class="event-title">
+                <span class="event-type">Program</span><br/>
+                 <!-- <i class="fa fa-chevron-circle-right event-type-separator"></i> -->
+              <a href="/program/bssp2023">Bangalore School on Statistical Physics - XIV</a></div>
+
+
+		<div class="space5"></div>
+	      <div class="date"><span><i class="fa fa-calendar"></i></span>  &nbsp;<span class="date-display-range"><span class="date-display-start" property="dc:date" datatype="xsd:dateTime" content="2023-09-11T00:00:00+05:30">11 September 2023</span> to <span class="date-display-end" property="dc:date" datatype="xsd:dateTime" content="2023-09-22T00:00:00+05:30">22 September 2023</span></span></div>
+              <div class="space10"></div>
+              <div class="venue"><span><i class="fa fa-map-marker fa-lg"></i></span> &nbsp;Raman Research Institute, Bengaluru</div>
+              		
+		<div class="space10"></div>
+	      <div class="description"></div>
+	    </div>
+	</div>
+
+  	<div class="col-xs-12 col-md-4">
+  		<ul class="fa-ul program-sidebar">
+<li>
+<i class="fa-li fa fa-users"></i>Organizers:&nbsp;
+<span class="program_teaser_list_values"><div class="view view-organizer-field-collection-view-unformatted view-id-organizer_field_collection_view_unformatted view-display-id-default view-dom-id-7cac93c7926b268b92c4ccba1bda06c6">
+        
+  
+  
+      <div class="view-content">
+      <div class="views-delimited-list">
+<span class="views-row">Abhishek  Dhar (ICTS-TIFR, India)</span><span class="views-row-conjunctive"> and&nbsp;</span><span class="views-row">Sanjib  Sabhapandit (RRI, India)</span></div>    </div>
+  
+  
+  
+  
+  
+  
+</div></span>
+</li>
+<li>      	
+
+
+
+	<li>
+      			<i class="fa-li fa fa-clock-o"></i>Application deadline:&nbsp;
+      			<span class="program_teaser_list_values"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2023-03-01T00:00:00+05:30">31 May 2023</span></span>
+      		</li>
+      		
+      		<li>
+      			<i class="fa-li fa fa-envelope"></i>
+      			<span class="program_teaser_list_values">bssp&nbsp;<img src='/sites/all/themes/riley/img/resource/eat.gif' class='eimg'>&nbsp;icts<img src='/sites/all/themes/riley/img/resource/edot.gif' class='eimg'>res<img src='/sites/all/themes/riley/img/resource/edot.gif' class='eimg'>in</span>
+      		</li>
+     	</ul>
+    	<!-- <div class="space10"></div>
+    	<div></div> -->
+  	</div>
+</article>
+<div class="space20"></div>
+					<article class="row event-teaser">
+	<div class="col-xs-4 col-md-3">
+		<div class="program-image"><a href="/program/rpmc"><img typeof="foaf:Image" src="https://www.icts.res.in/sites/default/files/styles/program_posters/public/media/program/poster/7_1.png?itok=yp4w3YSi&amp;c=c58a240117211afd1706a973194473d4" alt="" /></a></div>
+	</div>
+
+	<div class="col-xs-8 col-md-5">
+		<div class="programs-teaser">
+	      <div class="event-title">
+                <span class="event-type">Program</span><br/>
+                 <!-- <i class="fa fa-chevron-circle-right event-type-separator"></i> -->
+              <a href="/program/rpmc">Rational Points on Modular Curves 			</a></div>
+
+
+		<div class="space5"></div>
+	      <div class="date"><span><i class="fa fa-calendar"></i></span>  &nbsp;<span class="date-display-range"><span class="date-display-start" property="dc:date" datatype="xsd:dateTime" content="2023-09-11T00:00:00+05:30">11 September 2023</span> to <span class="date-display-end" property="dc:date" datatype="xsd:dateTime" content="2023-09-22T00:00:00+05:30">22 September 2023</span></span></div>
+              <div class="space10"></div>
+              <div class="venue"><span><i class="fa fa-map-marker fa-lg"></i></span> &nbsp;Ramanujan Lecture Hall, ICTS Bengaluru</div>
+              		
+		<div class="space10"></div>
+	      <div class="description"></div>
+	    </div>
+	</div>
+
+  	<div class="col-xs-12 col-md-4">
+  		<ul class="fa-ul program-sidebar">
+<li>
+<i class="fa-li fa fa-users"></i>Organizers:&nbsp;
+<span class="program_teaser_list_values"><div class="view view-organizer-field-collection-view-unformatted view-id-organizer_field_collection_view_unformatted view-display-id-default view-dom-id-a113739456583c5ee4678fa3a8337667">
+        
+  
+  
+      <div class="view-content">
+      <div class="views-delimited-list">
+<span class="views-row">Chandrakant                             Aribam  (IISER Mohali, India)</span><span class="views-row-delimiter">, </span><span class="views-row">Shaunak  Deo  (IISc, India)</span><span class="views-row-delimiter">, </span><span class="views-row">Narasimha  Kumar  (Indian Institute of Technology, Hyderabad, India)</span><span class="views-row-conjunctive"> and&nbsp;</span><span class="views-row">Pierre  Parent  (Institute Mathematics De Bordeaux, France)</span></div>    </div>
+  
+  
+  
+  
+  
+  
+</div></span>
+</li>
+<li>      	
+
+
+
+	<li>
+      			<i class="fa-li fa fa-clock-o"></i>Application deadline:&nbsp;
+      			<span class="program_teaser_list_values"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2023-04-07T00:00:00+05:30">07 June 2023</span></span>
+      		</li>
+      		
+      		<li>
+      			<i class="fa-li fa fa-envelope"></i>
+      			<span class="program_teaser_list_values">rpmc&nbsp;<img src='/sites/all/themes/riley/img/resource/eat.gif' class='eimg'>&nbsp;icts<img src='/sites/all/themes/riley/img/resource/edot.gif' class='eimg'>res<img src='/sites/all/themes/riley/img/resource/edot.gif' class='eimg'>in</span>
+      		</li>
+     	</ul>
+    	<!-- <div class="space10"></div>
+    	<div></div> -->
+  	</div>
+</article>
+<div class="space20"></div>
+					<article class="row event-teaser">
+	<div class="col-xs-4 col-md-3">
+		<div class="program-image"><a href="/program/COMQUI23"><img typeof="foaf:Image" src="https://www.icts.res.in/sites/default/files/styles/program_posters/public/media/program/poster/Poster_24.png?itok=_r2T5DmW&amp;c=2fc91fd7943a81aa34da5080e8019b01" alt="" /></a></div>
+	</div>
+
+	<div class="col-xs-8 col-md-5">
+		<div class="programs-teaser">
+	      <div class="event-title">
+                <span class="event-type">Program</span><br/>
+                 <!-- <i class="fa fa-chevron-circle-right event-type-separator"></i> -->
+              <a href="/program/COMQUI23">Condensed Matter meets Quantum Information</a></div>
+
+
+		<div class="space5"></div>
+	      <div class="date"><span><i class="fa fa-calendar"></i></span>  &nbsp;<span class="date-display-range"><span class="date-display-start" property="dc:date" datatype="xsd:dateTime" content="2023-09-25T00:00:00+05:30">25 September 2023</span> to <span class="date-display-end" property="dc:date" datatype="xsd:dateTime" content="2023-10-06T00:00:00+05:30">06 October 2023</span></span></div>
+              <div class="space10"></div>
+              <div class="venue"><span><i class="fa fa-map-marker fa-lg"></i></span> &nbsp;Ramanujan Lecture Hall, ICTS</div>
+              		
+		<div class="space10"></div>
+	      <div class="description"></div>
+	    </div>
+	</div>
+
+  	<div class="col-xs-12 col-md-4">
+  		<ul class="fa-ul program-sidebar">
+<li>
+<i class="fa-li fa fa-users"></i>Organizers:&nbsp;
+<span class="program_teaser_list_values"><div class="view view-organizer-field-collection-view-unformatted view-id-organizer_field_collection_view_unformatted view-display-id-default view-dom-id-66613200e7196bd25bf255047efa0617">
+        
+  
+  
+      <div class="view-content">
+      <div class="views-delimited-list">
+<span class="views-row">Yuval  Gefen (Weizmann Institute, Israel)</span><span class="views-row-delimiter">, </span><span class="views-row">Ganpathy  Murthy (University of Kentucky, USA)</span><span class="views-row-conjunctive"> and&nbsp;</span><span class="views-row">Sumathi  Rao (ICTS-TIFR, India)</span></div>    </div>
+  
+  
+  
+  
+  
+  
+</div></span>
+</li>
+<li>      	
+
+
+
+	<li>
+      			<i class="fa-li fa fa-clock-o"></i>Application deadline:&nbsp;
+      			<span class="program_teaser_list_values"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2023-03-15T00:00:00+05:30">10 July 2023</span></span>
+      		</li>
+      		
+      		<li>
+      			<i class="fa-li fa fa-envelope"></i>
+      			<span class="program_teaser_list_values">comqui&nbsp;<img src='/sites/all/themes/riley/img/resource/eat.gif' class='eimg'>&nbsp;icts<img src='/sites/all/themes/riley/img/resource/edot.gif' class='eimg'>res<img src='/sites/all/themes/riley/img/resource/edot.gif' class='eimg'>in</span>
+      		</li>
+     	</ul>
+    	<!-- <div class="space10"></div>
+    	<div></div> -->
+  	</div>
+</article>
+<div class="space20"></div>
+					<article class="row event-teaser">
+	<div class="col-xs-4 col-md-3">
+		<div class="program-image"><a href="/program/IAGRG"><img typeof="foaf:Image" src="https://www.icts.res.in/sites/default/files/styles/program_posters/public/media/program/poster/10%20%281%29.png?itok=p9wSGgOy&amp;c=af377e7988d7f197c7d4c0e202b8dd96" alt="" /></a></div>
+	</div>
+
+	<div class="col-xs-8 col-md-5">
+		<div class="programs-teaser">
+	      <div class="event-title">
+                <span class="event-type">Program</span><br/>
+                 <!-- <i class="fa fa-chevron-circle-right event-type-separator"></i> -->
+              <a href="/program/IAGRG">IAGRG School on Gravitation and Cosmology</a></div>
+
+
+		<div class="space5"></div>
+	      <div class="date"><span><i class="fa fa-calendar"></i></span>  &nbsp;<span class="date-display-range"><span class="date-display-start" property="dc:date" datatype="xsd:dateTime" content="2023-10-09T00:00:00+05:30">09 October 2023</span> to <span class="date-display-end" property="dc:date" datatype="xsd:dateTime" content="2023-10-20T00:00:00+05:30">20 October 2023</span></span></div>
+              <div class="space10"></div>
+              <div class="venue"><span><i class="fa fa-map-marker fa-lg"></i></span> &nbsp;Ramanujan Lecture Hall, ICTS Bengaluru </div>
+              		
+		<div class="space10"></div>
+	      <div class="description"></div>
+	    </div>
+	</div>
+
+  	<div class="col-xs-12 col-md-4">
+  		<ul class="fa-ul program-sidebar">
+<li>
+<i class="fa-li fa fa-users"></i>Organizers:&nbsp;
+<span class="program_teaser_list_values"><div class="view view-organizer-field-collection-view-unformatted view-id-organizer_field_collection_view_unformatted view-display-id-default view-dom-id-79074dfa916bb1efb21e0990ef459bc0">
+        
+  
+  
+      <div class="view-content">
+      <div class="views-delimited-list">
+<span class="views-row">Amitabh Virmani  (CMI, Chennai, India)</span><span class="views-row-delimiter">, </span><span class="views-row">Anjan Ananda Sen  (CTP, Jamia Millia Islamia, New Delhi, India)</span><span class="views-row-delimiter">, </span><span class="views-row">Archana Pai  (IIT Bombay, India)</span><span class="views-row-delimiter">, </span><span class="views-row">Sudipta Das  (VBU, Santiniketan, India)</span><span class="views-row-delimiter">, </span><span class="views-row">Sudipta Sarkar  (IIT Gandhinagar, India)</span><span class="views-row-conjunctive"> and&nbsp;</span><span class="views-row">Parameswaran  Ajith (ICTS-TIFR, Bengaluru, India)</span></div>    </div>
+  
+  
+  
+  
+  
+  
+</div></span>
+</li>
+<li>      	
+
+
+
+	<li>
+      			<i class="fa-li fa fa-clock-o"></i>Application deadline:&nbsp;
+      			<span class="program_teaser_list_values"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2023-03-10T00:00:00+05:30">10 July 2023</span></span>
+      		</li>
+      		
+      		<li>
+      			<i class="fa-li fa fa-envelope"></i>
+      			<span class="program_teaser_list_values">iagrg&nbsp;<img src='/sites/all/themes/riley/img/resource/eat.gif' class='eimg'>&nbsp;icts<img src='/sites/all/themes/riley/img/resource/edot.gif' class='eimg'>res<img src='/sites/all/themes/riley/img/resource/edot.gif' class='eimg'>in</span>
+      		</li>
+     	</ul>
+    	<!-- <div class="space10"></div>
+    	<div></div> -->
+  	</div>
+</article>
+<div class="space20"></div>
+					<article class="row event-teaser">
+	<div class="col-xs-4 col-md-3">
+		<div class="program-image"><a href="/program/ACMRT2023"><img typeof="foaf:Image" src="https://www.icts.res.in/sites/default/files/styles/program_posters/public/media/program/poster/7_0.png?itok=KCpcxh-D&amp;c=418f5ec8d16bfabe8ea305f6d11be166" alt="" /></a></div>
+	</div>
+
+	<div class="col-xs-8 col-md-5">
+		<div class="programs-teaser">
+	      <div class="event-title">
+                <span class="event-type">Program</span><br/>
+                 <!-- <i class="fa fa-chevron-circle-right event-type-separator"></i> -->
+              <a href="/program/ACMRT2023">Algebraic and Combinatorial Methods in Representation Theory</a></div>
+
+
+		<div class="space5"></div>
+	      <div class="date"><span><i class="fa fa-calendar"></i></span>  &nbsp;<span class="date-display-range"><span class="date-display-start" property="dc:date" datatype="xsd:dateTime" content="2023-11-13T00:00:00+05:30">13 November 2023</span> to <span class="date-display-end" property="dc:date" datatype="xsd:dateTime" content="2023-11-24T00:00:00+05:30">24 November 2023</span></span></div>
+              <div class="space10"></div>
+              <div class="venue"><span><i class="fa fa-map-marker fa-lg"></i></span> &nbsp;Ramanujan Lecture Hall</div>
+              		
+		<div class="space10"></div>
+	      <div class="description"></div>
+	    </div>
+	</div>
+
+  	<div class="col-xs-12 col-md-4">
+  		<ul class="fa-ul program-sidebar">
+<li>
+<i class="fa-li fa fa-users"></i>Organizers:&nbsp;
+<span class="program_teaser_list_values"><div class="view view-organizer-field-collection-view-unformatted view-id-organizer_field_collection_view_unformatted view-display-id-default view-dom-id-2caafabb1ccd15073b11b5a2682c0862">
+        
+  
+  
+      <div class="view-content">
+      <div class="views-delimited-list">
+<span class="views-row">B Ravinder (IIT Tirupati, India)</span><span class="views-row-delimiter">, </span><span class="views-row">R Venkatesh (IISc, India)</span><span class="views-row-conjunctive"> and&nbsp;</span><span class="views-row">S Viswanath (IMSc, India)</span></div>    </div>
+  
+  
+  
+  
+  
+  
+</div></span>
+</li>
+<li>      	
+
+
+
+	<li>
+      			<i class="fa-li fa fa-clock-o"></i>Application deadline:&nbsp;
+      			<span class="program_teaser_list_values"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2023-03-15T00:00:00+05:30">15 June 2023</span></span>
+      		</li>
+      		
+      		<li>
+      			<i class="fa-li fa fa-envelope"></i>
+      			<span class="program_teaser_list_values">acmrt&nbsp;<img src='/sites/all/themes/riley/img/resource/eat.gif' class='eimg'>&nbsp;icts<img src='/sites/all/themes/riley/img/resource/edot.gif' class='eimg'>res<img src='/sites/all/themes/riley/img/resource/edot.gif' class='eimg'>in</span>
+      		</li>
+     	</ul>
+    	<!-- <div class="space10"></div>
+    	<div></div> -->
+  	</div>
+</article>
+<div class="space20"></div>
+					<article class="row event-teaser">
+	<div class="col-xs-4 col-md-3">
+		<div class="program-image"><a href="/discussion-meeting/ftt"><img typeof="foaf:Image" src="https://www.icts.res.in/sites/default/files/styles/program_posters/public/media/program/poster/FTT%20fin.png?itok=D-jP9fop&amp;c=c757a50b8d030b26f5d53d0533ed3368" alt="" /></a></div>
+	</div>
+
+	<div class="col-xs-8 col-md-5">
+		<div class="programs-teaser">
+	      <div class="event-title">
+                <span class="event-type">Discussion Meeting</span><br/>
+                 <!-- <i class="fa fa-chevron-circle-right event-type-separator"></i> -->
+              <a href="/discussion-meeting/ftt">Field Theory and Turbulence</a></div>
+
+
+		<div class="space5"></div>
+	      <div class="date"><span><i class="fa fa-calendar"></i></span>  &nbsp;<span class="date-display-range"><span class="date-display-start" property="dc:date" datatype="xsd:dateTime" content="2023-12-18T00:00:00+05:30">18 December 2023</span> to <span class="date-display-end" property="dc:date" datatype="xsd:dateTime" content="2023-12-22T00:00:00+05:30">22 December 2023</span></span></div>
+              <div class="space10"></div>
+              <div class="venue"><span><i class="fa fa-map-marker fa-lg"></i></span> &nbsp;Ramanujan Lecture Hall, ICTS Bengaluru </div>
+              		
+		<div class="space10"></div>
+	      <div class="description"></div>
+	    </div>
+	</div>
+
+  	<div class="col-xs-12 col-md-4">
+  		<ul class="fa-ul program-sidebar">
+<li>
+<i class="fa-li fa fa-users"></i>Organizers:&nbsp;
+<span class="program_teaser_list_values"><div class="view view-organizer-field-collection-view-unformatted view-id-organizer_field_collection_view_unformatted view-display-id-default view-dom-id-8d8e3d86544dcc7b6c4af957b6a1f818">
+        
+  
+  
+      <div class="view-content">
+      <div class="views-delimited-list">
+<span class="views-row">Katepalli R. Sreenivasan  (New York University, USA)</span><span class="views-row-delimiter">, </span><span class="views-row">Loganayagam Ramalingam  (ICTS-TIFR, Bengaluru, India)</span><span class="views-row-delimiter">, </span><span class="views-row">Luca Moriconi  (UFRJ, Rio de Janeiro, Brazil)</span><span class="views-row-conjunctive"> and&nbsp;</span><span class="views-row">Mahendra K. Verma  (IIT Kanpur, India)</span></div>    </div>
+  
+  
+  
+  
+  
+  
+</div></span>
+</li>
+
+      		<li>
+      			<i class="fa-li fa fa-envelope"></i>
+      			<span class="program_teaser_list_values">turb<img src='/sites/all/themes/riley/img/resource/edot.gif' class='eimg'>fields&nbsp;<img src='/sites/all/themes/riley/img/resource/eat.gif' class='eimg'>&nbsp;icts<img src='/sites/all/themes/riley/img/resource/edot.gif' class='eimg'>res<img src='/sites/all/themes/riley/img/resource/edot.gif' class='eimg'>in</span>
+      		</li>
+     	</ul>
+    	<!-- <div class="space10"></div>
+    	<div></div> -->
+  	</div>
+</article>
+<div class="space20"></div>
+					<article class="row event-teaser">
+	<div class="col-xs-4 col-md-3">
+		<div class="program-image"><a href="/program/ZDSG"><img typeof="foaf:Image" src="https://www.icts.res.in/sites/default/files/styles/program_posters/public/media/program/poster/ZDSG.png?itok=B1c5oo1h&amp;c=e6ad3de1a8adaabb4b5fcf24c158f8e1" alt="" /></a></div>
+	</div>
+
+	<div class="col-xs-8 col-md-5">
+		<div class="programs-teaser">
+	      <div class="event-title">
+                <span class="event-type">Program</span><br/>
+                 <!-- <i class="fa fa-chevron-circle-right event-type-separator"></i> -->
+              <a href="/program/ZDSG">Zariski dense subgroups, number theory and geometric applications</a></div>
+
+
+		<div class="space5"></div>
+	      <div class="date"><span><i class="fa fa-calendar"></i></span>  &nbsp;<span class="date-display-range"><span class="date-display-start" property="dc:date" datatype="xsd:dateTime" content="2024-01-01T00:00:00+05:30">01 January 2024</span> to <span class="date-display-end" property="dc:date" datatype="xsd:dateTime" content="2024-01-12T00:00:00+05:30">12 January 2024</span></span></div>
+              <div class="space10"></div>
+              <div class="venue"><span><i class="fa fa-map-marker fa-lg"></i></span> &nbsp;Ramanujan Lecture Hall and Online</div>
+              		
+		<div class="space10"></div>
+	      <div class="description"></div>
+	    </div>
+	</div>
+
+  	<div class="col-xs-12 col-md-4">
+  		<ul class="fa-ul program-sidebar">
+<li>
+<i class="fa-li fa fa-users"></i>Organizers:&nbsp;
+<span class="program_teaser_list_values"><div class="view view-organizer-field-collection-view-unformatted view-id-organizer_field_collection_view_unformatted view-display-id-default view-dom-id-b4a8a8623affed8b37953ebf2c3beb01">
+        
+  
+  
+      <div class="view-content">
+      <div class="views-delimited-list">
+<span class="views-row">Gopal  Prasad (University of Michigan, USA)</span><span class="views-row-delimiter">, </span><span class="views-row">Andrei  Rapinchuk  (University of Virginia, USA)</span><span class="views-row-delimiter">, </span><span class="views-row">B  Sury  (Indian Statistical Institute, Bangalore, India)</span><span class="views-row-conjunctive"> and&nbsp;</span><span class="views-row">Aleksy Tralle  (University of Warmia and Mazury, Poland)</span></div>    </div>
+  
+  
+  
+  
+  
+  
+</div></span>
+</li>
+
+      		<li>
+      			<i class="fa-li fa fa-envelope"></i>
+      			<span class="program_teaser_list_values">zdsg&nbsp;<img src='/sites/all/themes/riley/img/resource/eat.gif' class='eimg'>&nbsp;icts<img src='/sites/all/themes/riley/img/resource/edot.gif' class='eimg'>res<img src='/sites/all/themes/riley/img/resource/edot.gif' class='eimg'>in</span>
+      		</li>
+     	</ul>
+    	<!-- <div class="space10"></div>
+    	<div></div> -->
+  	</div>
+</article>
+<div class="space20"></div>
+			</div>
+    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <div class="space10"></div>
+<div class="row">
+  <div class="section-header"><a href="/programs/past">Past programs</a></div>
+</div>    </div>
+  
+  
+</div>	</div>				</div>
+			</div>
+		</div>
+			
+	
+	<div class="space10"></div>
+</section>
+
+<!-- Footer -->
+<!-- <footer class="footer-top">
+Helper text
+</footer> -->
+<footer class="footer">
+    <!-- Parallax -->
+		    <!-- Parallax End -->
+
+    <div class="footer-info">
+		<div class="container">
+			<div class="row no-left-padding">
+				<div class="col-md-3 col-sm-6">
+											  <div id="block-block-11" class="block block-block" >
+		 
+		
+			<div class="footer-header">USEFUL LINKS</div>
+<ul class="fa-ul footer-links"><li>
+    	<a href="/sitemap" class="footer-nav-links"><i class="fa-li fa fa-angle-right"></i>Site map</a>
+    </li>
+     <li>
+    	<a href="/about/campus" class="footer-nav-links"><i class="fa-li fa fa-angle-right"></i>Campus</a>
+    </li>
+    <li>
+    	<a href="/campus-resources" class="footer-nav-links"><i class="fa-li fa fa-angle-right"></i>Resources</a>
+    </li>
+    <li>
+    	<a href="/facilities/transport" class="footer-nav-links"><i class="fa-li fa fa-angle-right"></i>Bus schedule</a>
+    </li>
+    <li>
+    	<a href="/important-contacts" class="footer-nav-links"><i class="fa-li fa fa-angle-right"></i>Important contact numbers</a>
+    </li>
+    <li>
+    	<a href="/people/directory" class="footer-nav-links"><i class="fa-li fa fa-angle-right"></i>People directory</a>
+    </li>
+    <li>
+    	<a href="/grievance-cell/cprshww" class="footer-nav-links"><i class="fa-li fa fa-angle-right"></i>Women's Cell</a>
+    </li>
+    <li>
+    	<a href="/tenders" class="footer-nav-links"><i class="fa-li fa fa-angle-right"></i>Tenders</a>
+    </li>
+   <li>
+    	<a href="/rti" class="footer-nav-links"><i class="fa-li fa fa-angle-right"></i>Right to Information Act</a>
+    </li>
+    <li>
+    	<a href="/opportunities" class="footer-nav-links"><i class="fa-li fa fa-angle-right"></i>Careers</a>
+    </li>
+
+ </ul>	</div>										<!-- <div class="space10"></div> -->
+				</div>
+				<div class="col-md-3 col-sm-6">
+											  <div id="block-block-5" class="block block-block" >
+		 
+		
+			<div class="footer-header">FOR MEMBERS</div>
+<ul class="fa-ul footer-links"><li>
+    	<a href="https://ictsdat.tifr.res.in/datanet/" target="_blank" class="footer-nav-links"><i class="fa-li fa fa-angle-right"></i>Datanet</a>
+    </li>
+<li>
+    	<a href="https://datanet2.tifr.res.in/icts/#/login" target="_blank" class="footer-nav-links"><i class="fa-li fa fa-angle-right"></i>Datanet 2</a>
+    </li>
+    <li>
+    	<a href="https://intranet.icts.res.in/" target="_blank" class="footer-nav-links"><i class="fa-li fa fa-angle-right"></i>Intranet</a>
+    </li>
+   <li>
+    	<a href="/chss" class="footer-nav-links"><i class="fa-li fa fa-angle-right"></i>CHSS</a>
+    </li>
+    <li>
+    	<a href="/holiday-list" class="footer-nav-links"><i class="fa-li fa fa-angle-right"></i>Holiday List</a>
+    </li>
+ </ul>	</div>										<!-- <div class="space10"></div> -->
+				</div>
+				<div class="col-md-3 col-sm-6">
+											  <div id="block-block-13" class="block block-block" >
+		 
+		
+			<div class="block-inner">
+<div class="footer-header">Connect</div>
+
+<div class="footer-content">
+<p><a class="btn enews" href="http://enews.icts.res.in/subscription/BJaxMyzyX" target="_blank">eNews Signup</a></p>
+</div>
+</div>
+
+<div class="social-footer">
+    <a href="https://www.facebook.com/ictstifr" target="_blank"><i class="fa fa-facebook"></i></a>
+    <a href="https://www.youtube.com/ictstalks" target="_blank"><i class="fa fa-youtube"></i></a>
+    <a href="https://www.twitter.com/ictstifr" target="_blank"><i class="fa fa-twitter"></i></a>
+   <a href="https://www.linkedin.com/company/icts-tifr/" target="_blank"><i class="fa fa-linkedin"></i></a>
+</div>
+	</div>										<!-- <div class="space10"></div> -->
+				</div>
+				<div class="col-md-3 col-sm-6">
+											  <div id="block-block-3" class="block block-block" >
+		 
+		
+			<div class="footer-header"><a href="/contact-us" class="footer-contact">CONTACT</a></div>
+Survey No. 151, Shivakote, <br />
+Hesaraghatta Hobli, <br />
+Bengaluru - 560 089, India.<br /><div class="space5"></div>
+<div class="item-icon">
+  <i class="fa fa-phone"></i>
+  +91 80 4653 6000<br /></div>
+<div class="item-icon">
+<i class="fa fa-envelope"></i>info [at] icts . res . in
+</div>
+
+	</div>										<!-- <div class="space10"></div> -->
+				</div>
+
+				<!-- <div class="col-md-4">
+																					<div class="space10"></div>
+				</div>
+				<div class="col-md-4">
+																					<div class="space10"></div>
+				</div>
+				<div class="col-md-4">
+																					<div class="space10"></div> -->
+				</div>
+			</div>
+		</div>
+    </div>
+
+    <div class="footer-bottom">
+		<div class="container">
+			<div class="row">
+								<div class="space10"></div>
+				<div class="border"></div>
+				<div class="space10"></div>
+				<div class="copyright">
+					<span>Copyright &copy; 2023 International Centre for Theoretical Sciences</span>
+				<div>
+			</div>
+		</div>
+    </div>
+</footer>
+  <!-- Footer End -->
+
+<a href="#" class="back-to-top"><span></span></a>
+
+</body>
+<script>
+/* jQuery(window).load(function(){
+
+        //jQuery('.ls-nav-stop,.ls-nav-start,.ls-nav-next,.ls-nav-prev').css('display','block');
+        jQuery(".ls-nav-prev").wrapAll("<div id='wrapper-control'></div>");
+        jQuery(".ls-nav-next").appendTo("#wrapper-control");
+        jQuery(".ls-bottom-nav-wrapper").appendTo("#wrapper-control");
+        alert('test');
+        var width = jQuery(window).width();
+        var size = jQuery('.read-more').css('font-size');
+        jQuery('.ls-nav-prev,.ls-nav-next,.ls-nav-stop,.ls-nav-start').css('font-size',size);
+        jQuery(window).resize(function() {
+            var width = jQuery(window).width();
+            var size = jQuery('.read-more').css('font-size');
+            jQuery('.ls-nav-prev,.ls-nav-next,.ls-nav-stop,.ls-nav-start').css('font-size',size);
+        });
+
+    });*/
+
+    jQuery(document).ready(function(){
+    	jQuery('#searchbar').hide();
+
+	/* Calendar will be open in new tab 
+	jQuery(".calendar-next-month > a").attr("target","_blank");
+        jQuery(".calendar-prev-month > a").attr("target","_blank");
+*/
+    	jQuery('#searchbutton').click(function(){
+    		jQuery('#searchbar').slideToggle('400');
+    	});
+    	/*
+    	 * Custom JS for Past members div
+    	 */
+    	 jQuery('#past-members-heading').click(function(){
+    		 jQuery('#past-members').slideToggle('400');
+    	});
+    	/*
+    	 * End of custom JS for Past members div
+    	 */
+      });
+
+
+
+    window.onload = function()
+    {
+        setTimeout(function() {
+            jQuery('.ls-nav-stop,.ls-nav-start,.ls-nav-next,.ls-nav-prev').css('display','block');
+            jQuery(".ls-nav-prev").wrapAll("<div id='wrapper-control'></div>");
+            jQuery(".ls-nav-next").appendTo("#wrapper-control");
+            jQuery(".ls-bottom-nav-wrapper").appendTo("#wrapper-control");
+
+            var width = jQuery(window).width();
+            var size = jQuery('.read-more').css('font-size');
+            jQuery('.ls-nav-prev,.ls-nav-next,.ls-nav-stop,.ls-nav-start').css('font-size',size);
+            jQuery(window).resize(function() {
+                var width = jQuery(window).width();
+                var size = jQuery('.read-more').css('font-size');
+                jQuery('.ls-nav-prev,.ls-nav-next,.ls-nav-stop,.ls-nav-start').css('font-size',size);
+            });
+        }, 500);
+
+
+    };
+    /*jQuery(window).unload(function(){
+        jQuery(".ls-nav-prev").wrapAll("<div id='wrapper-control'></div>");
+        jQuery(".ls-nav-next").appendTo("#wrapper-control");
+        jQuery(".ls-bottom-nav-wrapper").appendTo("#wrapper-control");
+        alert('test');
+        var width = jQuery(window).width();
+        var size = jQuery('.read-more').css('font-size');
+        jQuery('.ls-nav-prev,.ls-nav-next,.ls-nav-stop,.ls-nav-start').css('font-size',size);
+        jQuery(window).resize(function() {
+            var width = jQuery(window).width();
+            var size = jQuery('.read-more').css('font-size');
+            jQuery('.ls-nav-prev,.ls-nav-next,.ls-nav-stop,.ls-nav-start').css('font-size',size);
+        });
+        });*/
+
+</script>
+</html>

@@ -1,115 +1,94 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: MM
-email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
-search: true
-
-# Build settings
-markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
-# Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
-include:
-  - _pages
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
-# Plugins (previously gems:)
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-  - jekyll-include-cache
-
-author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
-
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+title                    : "EPQM @ Siddhartha Lal"
+description              : "**EPQM** is a condensed matter group at IISER Kolkata, led by Siddhartha Lal. We explore emergent phenomena in strongly correlated quantum matter."
+url: "https://slal.iiserkol.ac.in" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: ''
+destination: ./docs
+logo: "/assets/global/lightBanner.webp"
+color-emoji:
+  article: "🧬"
+  interview: "🎙️"
+  crossword: "🎳"
+  comic: "🖍️"
+  author: "🧑‍🔬"
+  browse: "🥽"
+  download: "⤵️"
+  old: "🗓️"
+  alert: "🧩"
+  cloud: "☁️"
+  desktop: "🖥️"
+  copyright: "©️"
+  speaker: "📢"
+  newspaper: "🗞️"
+  fire: "🔥"
+  star: "🌠"
+  flask: "⚗️"
+  scientist: "🧑‍🔬"
+  clip: "📎"
+  hourglass: "⏳"
 
 defaults:
-  # _posts
   - scope:
-      path: ""
       type: posts
     values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-  # _pages
+      layout: posts
+      excerpt: ""
   - scope:
-      path: "_pages"
-      type: pages
+      path: "pages/*"
     values:
-      layout: single
-      author_profile: true
+      layout: pages
+      excerpt: ""
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
 
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+  math_engine: katex
+  parse_block_html: true
+  highlighter: rouge
+plugins:
+  - jekyll-sitemap # generates sitemap (list of all pages, etc for crawlers)
+  - kramdown-math-katex # renders math
+
+## list of items to display in short (for mobile) navbar
+navbarShort:
+  Updates: "/posts/"
+  Research: "/research/"
+  About: "/about/"
+## list of items to display in normal (for desktop) navbar
+navbar:
+  Updates: "/posts/"
+  Research: "/research/"
+  Publications: "/publications/"
+  Teaching: "/teaching/"
+  About: "/about/"
+## list of items to display under hamburger menu (all devices, meant to contain everything, add more if needed)
+navbarLong:
+  Updates: "/posts/"
+  Research: "/research/"
+  Teaching: "/teaching/"
+  About: "/about/"
+  Publications: "/publications/"
+  Members: "/about/#members-of-epqm"
+  Seminars: "/seminars/"
+  Gallery: "/gallery/"
+  External Resources: "/external-resources/"
+  Fiction Recommendations: "/fiction-recommendations/"
+
+## this cannot be moved into a datafile 
+## because it is read by a plugin (members.rb) 
+## and must be available before any processing
+membersdata: "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ3R8ASd0_9z41UXir7TE6FoQ6qUKJwWRrg_stP_QDnC3qb2rDN8SJiQrKWUmafvwyWHgXjwDUcUWKI/pub?output=tsv"
+exclude:
+  - scripts

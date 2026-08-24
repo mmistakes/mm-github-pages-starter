@@ -1,0 +1,17 @@
+{% assign title = include.title %}
+{% assign date = include.date %}
+{% assign excerpt = include.excerpt %}
+{% assign url = include.url %}
+{% assign full = include.full %}
+{% assign first = title | split: " " | slice: 0, 2 | join: " " | strip %}
+{% assign rest = title | remove_first: first | strip %}
+{% if full == false %}
+{% assign excerpt = excerpt | remove: '<p>' | remove: '</p>' | strip_html | truncatewords: 12 %}
+{% else %}
+{% assign excerpt = excerpt | remove: '<p>' | remove: '</p>' %}
+{% endif %}
+<div class="home-article" markdown="0">
+<div><a href="{{ url }}" class="first">{{ first }}</a> <a class="rest" href="{{ url }}">{{ rest }}</a> 
+</div>
+<span class="date">{{ date }}</span><span class="home-excerpt">{{ excerpt }}</span>
+</div>

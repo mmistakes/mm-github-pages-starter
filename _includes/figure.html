@@ -1,0 +1,25 @@
+{% assign images = include.image | split: ", " %}
+{% assign widths = include.width | split: ", " %}
+{% assign length = widths | size %}
+<figure>
+  {% for image in images %}
+  {% if length == 1 %}
+  {% assign currentWidth = include.width %}
+  {% else %}
+  {% assign currentWidth = widths[forloop.index0] %}
+  {% endif %}
+  {% if image contains "/assets/" %}
+	  {% assign imagePath = image %}
+  {% else %}
+	  {% assign imagePath = page.permalink | append: image | prepend: "/assets" %}
+  {% endif %}
+  {% if currentWidth != blank %}
+  <img src="{{ imagePath | relative_url }}" width="{{ currentWidth }}" />
+  {% else %}
+  <img src="{{ imagePath | relative_url }}" width="600px" />
+  {% endif %}
+  {% endfor %}
+  {% if include.caption %}
+  <figcaption>{{ include.caption | markdownify | remove: '<p>' | remove: '</p>' }}</figcaption>
+  {% endif %}
+</figure>

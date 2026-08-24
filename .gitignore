@@ -1,4 +1,17 @@
-_site
-.sass-cache
+# Jekyll built-in outputs and caches
+_site/
+.jekyll-cache/
 .jekyll-metadata
+
+# Ruby/Bundler development dependencies
+.bundle/
+vendor/
 Gemfile.lock
+
+# CSS/Sass compilation caches
+.sass-cache/
+.autoprefixer-cache/
+
+# Operating system files
+.DS_Store
+Thumbs.db

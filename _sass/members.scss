@@ -1,0 +1,16 @@
+@use 'constants';
+
+.member-info > p {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5em;
+  > img {
+    width: 200px;
+  }
+}
+
+.members {
+  display: flex;
+  flex-direction: row;
+  gap: 2em;
+}

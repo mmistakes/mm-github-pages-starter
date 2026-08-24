@@ -1,0 +1,8 @@
+- show: "Home"
+  url: "/"
+- show: "Research"
+  url: "/research/"
+- show: "Blogs"
+  url: "/blogs/"
+- show: "Toys"
+  url: "/toys/"

@@ -1,0 +1,11 @@
+{% assign html = include.content | jsonify | remove: '\"' | split: "\n" %}
+<b>Table of Contents</b>
+<ol>
+{% for line in html %}
+{% if line contains "<h2 id=" %}
+	{% assign id = line | split: 'id=' | last | split: '>' | first %}
+	{% assign heading = line | split: "</h2>" | first | split: ">" | last | strip_html %}
+	<li><a href="{{ id | prepend: '#' }}" class="toc-entry">{{ heading }}</a></li>
+{% endif %}
+{% endfor %}
+</ol>

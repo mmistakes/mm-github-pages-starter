@@ -1,0 +1,13 @@
+## socials
+email: "mailto:mukherjeeabhirup44@gmail.com"
+github: "https://github.com/abhirup-m"
+facebook: "https://www.facebook.com/epqmgroup/"
+
+## list of publications
+google-scholar: "https://scholar.google.com/citations?user=4IByBo8AAAAJ&hl=en"
+arxiv: "https://arxiv.org/a/lal_s_3.html"
+
+## the google form populates the following google-sheet. 
+## A ruby plugin then reads this google-sheet to populate
+## the _data/members.yml file.
+membersdata: "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ3R8ASd0_9z41UXir7TE6FoQ6qUKJwWRrg_stP_QDnC3qb2rDN8SJiQrKWUmafvwyWHgXjwDUcUWKI/pub?output=tsv"

@@ -1,0 +1,23 @@
+@use 'constants';
+
+.publication-time {
+  color: constants.$link-color;
+  font-weight: bold;
+}
+.publication-reference {
+  color: constants.$h1-color;
+  font-weight: bold;
+}
+.publication-authors {
+  color: constants.$link-color;
+  font-weight: bold;
+}
+
+.publication-title {
+  font-style: italic;
+}
+
+.author {
+  text-decoration: underline;
+  text-underline-offset: 4pt;
+}

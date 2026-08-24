@@ -1,0 +1,72 @@
+@use 'constants';
+
+h1 {
+  color: constants.$h1-color;
+  font-weight: 600;
+  font-family: constants.$hn-font;
+  line-height: 1.2em;
+  text-align: left;
+  text-transform: capitalize;
+}
+
+h2 {
+  text-transform: capitalize;
+  line-height: 1.2em;
+  color: constants.$h2-color;
+  // margin-bottom: 0.1em;
+  font-weight: 600;
+  font-family: constants.$hn-font;
+  text-align: left;
+}
+
+h3 {
+  line-height: 1.2em;
+  color: constants.$hn-color;
+  font-weight: 600;
+  font-family: constants.$hn-font;
+  text-align: left;
+}
+
+b, strong {
+  color: constants.$bold-color;
+}
+
+a {
+  color: constants.$accent-color;
+  font-weight: 500;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+  text-decoration-thickness: 3px;
+  text-underline-offset: 3px;
+}
+
+ul > li {
+  list-style: square;
+}
+
+ul > li::marker {
+  list-style: square;
+  font-size: 1.5em;
+}
+
+ol {
+  margin: 0;
+}
+
+a.toc-entry {
+  margin-top: 0.4em;
+  display: block;
+  // text-decoration: none;
+  color: constants.$fg-color;
+  font-weight: normal;
+}
+
+.seminar-details > p {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  gap: 2em;
+  margin-top: -0.5em;
+}

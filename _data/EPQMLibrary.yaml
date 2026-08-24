@@ -1,0 +1,731 @@
+- title: "Handbook of mathematical functions"
+  authors: "Abramowitz, Stegun"
+  spot: 1-1
+  status:
+- title: "Vol 1: Mechanics"
+  authors: "Landau & Lifshitz"
+  spot: 1-1
+  status:
+- title: "Vol 2: Classical theory of fields"
+  authors: "Landau & Lifshitz"
+  spot: 1-1
+  status: 
+- title: "Vol 3: Quantum mechanics"
+  authors: "Landau & Lifshitz"
+  spot: 1-1
+  status: 
+- title: "Vol 4: Quantum electrodynamics"
+  authors: "Landau & Lifshitz"
+  spot: 1-1
+  status: 
+- title: "Vol 5: Statistical physics"
+  authors: "Landau & Lifshitz"
+  spot: 1-1
+  status: 
+- title: "Vol 6: Fluid mechanics"
+  authors: "Landau & Lifshitz"
+  spot: 1-1
+  status: 
+- title: "Vol 7: Theory of elasticity"
+  authors: "Landau & Lifshitz"
+  spot: 1-1
+  status: 
+- title: "Vol 8: Electrodynamics of continuous media"
+  authors: "Landau & Lifshitz"
+  spot: 1-1
+  status: 
+- title: "Vol 9: Statistical physics"
+  authors: "Landau & Lifshitz"
+  spot: 1-1
+  title: "Lectures on Physics Vol 1 "
+  authors: "Feynman"
+  spot: 1-1
+  status: 
+- title: "Lectures on Physics Vol 2"
+  authors: "Feynman"
+  spot: 1-1
+  status: 
+- title: "Lectures on Physics Vol 3"
+  authors: "Feynman"
+  spot: 1-1
+  status: 
+- title: "Surprises in theoretical physics"
+  authors: "Rudolf Peierls"
+  spot: 1-1
+  status: 
+- title: "More surprises in theoretical physics"
+  authors: "Rudolf Peierls"
+  spot: 1-1
+  status: 
+- title: "Aspects of symmetry"
+  authors: "Sidney Coleman"
+  spot: 1-1
+  status: 
+- title: "Solitons & Instantons"
+  authors: "R Rajaraman"
+  spot: 1-1
+  status: 
+- title: "The Physics of quantum fields"
+  authors: "Michael Stone"
+  spot: 1-1
+  status: 
+- title: "Quantum field theory and critical phenomena"
+  authors: "Jean Zinn-Justin"
+  spot: 1-1
+  status: 
+- title: "Quantum field theory"
+  authors: "Mandl & Shaw"
+  spot: 1-1
+  status: 
+- title: "A first book of quantum field theory"
+  authors: "Amitabha Lahiri,Palash B. Pal"
+  spot: 1-1
+  status: 
+- title: "Functional integrals and collective excitations"
+  authors: "V. N. Popov"
+  spot: 1-1
+  status: 
+- title: "Quantum electrodynamics"
+  authors: "Feynman"
+  spot: 1-1
+  status: 
+- title: "Particles, sources and fields"
+  authors: "Julian Schwinger"
+  spot: 1-1
+  status: 
+- title: "Statistical field theory (Vol 1)"
+  authors: "Itzykson & Drouffe"
+  spot: 1-1
+  status: 
+- title: "Statistical field theory (Vol 2)"
+  authors: "Itzykson & Drouffe"
+  spot: 1-1
+  status: 
+- title: "Quantum field theory"
+  authors: "L H Ryder"
+  spot: 1-1
+  status: 
+- title: "Finite temparature field theory"
+  authors: "Ashok Das"
+  spot: 1-1
+  status: 
+- title: "Quantum field theory"
+  authors: "Mark Srednicki"
+  spot: 1-1
+  status: 
+- title: "Theoretical physics"
+  authors: "David Feldman"
+  spot: 1-1
+  status: 
+- title: "PhD Thesis"
+  authors: "S. Lal"
+  spot: 1-1
+  status: 
+- title: "PhD Thesis"
+  authors: "B. Trauzettel"
+  spot: 1-1
+  status: 
+- title: "PhD Thesis"
+  authors: "I. Safi"
+  spot: 1-1
+  status: 
+- title: "Int J Mod Phys"
+  authors: "S. Lal and M. Laad"
+  spot: 1-1
+  status: 
+- title: "Condensed matter physics"
+  authors: "Michael Marder"
+  spot: 1-2
+  status: 
+- title: "Basic aspects of the quantum theory of solids"
+  authors: "Daniel I Khomskii"
+  spot: 1-2
+  status: 
+- title: "Elementary Solid state physics"
+  authors: "Omar"
+  spot: 1-2
+  status: 
+- title: "Quantum theory of solids"
+  authors: "R E Peierls"
+  spot: 1-2
+  status: 
+- title: "Concepts in solids"
+  authors: "Anderson"
+  spot: 1-2
+  status: 
+- title: "Principle of the theory of solids"
+  authors: "J.M.Ziman"
+  spot: 1-2
+  status: 
+- title: "Theory of magnetism"
+  authors: "K Yosida"
+  spot: 1-2
+  status: 
+- title: "Interacting electrons and quantum magnetism"
+  authors: "Assa Auerbach"
+  spot: 1-2
+  status: 
+- title: "Many body quantum theory in condensed matter physics"
+  authors: "Bruus & Flensberg"
+  spot: 1-2
+  status: 
+- title: "Solid state physics"
+  authors: "G. Grosso and G. P. Paravicini"
+  spot: 1-2
+  status: 
+- title: "Condensed matter physics"
+  authors: "Akira Isihara"
+  spot: 1-2
+  status: 
+- title: "Theory of superconductivity"
+  authors: "J R Schrieffer"
+  spot: 1-2
+  status: 
+- title: "Quantum field theory in condensed matter physics"
+  authors: "Tsvelik"
+  spot: 1-2
+  status: 
+- title: "Electron correlation in metals"
+  authors: "Yamada"
+  spot: 1-2
+  status: 
+- title: "Introduction to superconductivity"
+  authors: "Tinkham"
+  spot: 1-2
+  status: 
+- title: "Quantum theory of electron liquid"
+  authors: "Giuliani and Vignale"
+  spot: 1-2
+  status: 
+- title: "Band theory and electronic properties of solids "
+  authors: "Singleton "
+  spot: 1-2 
+  status: 
+- title: "Defects and geometry in condensed matter physics"
+  authors: "D. Nelson"
+  spot: 1-2
+  status: 
+- title: "Nonequilibrium many body theory of quantum systems"
+  authors: "Stefanucci & van Leeuwen"
+  spot: 1-2
+  status: 
+- title: "A guide to feynman diagrams in the many body problems"
+  authors: "Mattuck"
+  spot: 1-2
+  status: 
+- title: "Low dimensional QFT for condensed matter physicists"
+  authors: "S Lundqvist, Morandy, Lu"
+  spot: 1-2
+  status: 
+- title: "The quantum hall effect"
+  authors: "D Yoshioka"
+  spot: 1-2
+  status: 
+- title: "The electron gas"
+  authors: "M Pollak, M Ortuno, A Frydman"
+  spot: 1-2
+  status: 
+- title: "Advanced solid state physics (2 copies of 2nd Ed.)"
+  authors: "Philip Philips"
+  spot: 1-2
+  status: 
+- title: "Quantum field theory of many body systems"
+  authors: "Xiao-Gang Wen"
+  spot: 1-2
+  status: 
+- title: "Kibble at 80"
+  authors: "Tom Kibble"
+  spot: 1-2
+  status: 
+- title: "Composite fermions"
+  authors: "Jainendra K Jain"
+  spot: 1-2
+  status: 
+- title: "The quantum hall effect "
+  authors: "Prange, Girvin"
+  spot: 1-2
+  status: 
+- title: "Magnetism and superconductivity "
+  authors: "L P Levy"
+  spot: 1-2
+  status: 
+- title: "Quantum theory of many body systems"
+  authors: "A Zagoskin"
+  spot: 1-2
+  status: 
+- title: "Electronic transport in mesoscopic systems"
+  authors: "Supriyo Datta"
+  spot: 1-2
+  status: 
+- title: "Introduction to mesoscopic physics"
+  authors: "Imry"
+  spot: 1-2
+  status: 
+- title: "Condensed matter field theory (1st Edition)"
+  authors: "Altland and Simons"
+  spot: 1-2
+  status: 
+- title: "Condensed matter field theory (2nd Edition)"
+  authors: "Altland and Simons"
+  spot: 1-2
+  status: 
+- title: "Statistical mechanics and applications in condensed matter"
+  authors: "C. Di Castro and R. Raimondi"
+  spot: 1-2
+  status: 
+- title: "Symmetry and condensed matter physics "
+  authors: "Batanouny and Wooten"
+  spot: 1-3
+  status: 
+- title: "A quantum approach to condensed matter physics"
+  authors: "Taylor & Heinonen"
+  spot: 1-3
+  status: 
+- title: "Field theory of non-equilibrium systems "
+  authors: "Alex Kamenev"
+  spot: 1-3
+  status: 
+- title: "Nanophysics coherence and transport"
+  authors: "Bouchiat"
+  spot: 1-3
+  status: 
+- title: "Feynmann diagram techniques in CMP"
+  authors: "Radi A Jishi"
+  spot: 1-3
+  status: 
+- title: "Bose-Einstein condensation in dilute gases"
+  authors: "Pethick & Smith"
+  spot: 1-3
+  status: 
+- title: "Soft matter physics"
+  authors: "Masao Doi"
+  spot: 1-3
+  status: 
+- title: "Electrical transport in nanoscale systems"
+  authors: "Massimiliano Di Ventra"
+  spot: 1-3
+  status: 
+- title: "Quantum liquids "
+  authors: "A J Leggett"
+  spot: 1-3
+  status: 
+- title: "Quantum physics in one dimension"
+  authors: "Thierry Giamarchi"
+  spot: 1-3
+  status: 
+- title: "Magnetism in condensed matter"
+  authors: "Blundell"
+  spot: 1-3
+  status: 
+- title: "Lecture on complex metals"
+  authors: "Dorogovtsev"
+  spot: 1-3
+  status: 
+- title: "Soft condensed matter"
+  authors: "Jones"
+  spot: 1-3
+  status: 
+- title: "Quantum theory of magnetism"
+  authors: "White"
+  spot: 1-3
+  status: 
+- title: "Green's functions for solid state physicists"
+  authors: "Doniach & Sondheimer"
+  spot: 1-3
+  status: 
+- title: "Methods of quantum field theory in statistical physics"
+  authors: "Abrikosov, Gorkov, Dzyalonskii"
+  spot: 1-3
+  status: 
+- title: "Solid state theory"
+  authors: "W.A Harrison"
+  spot: 1-3
+  status: 
+- title: "Lecture notes on field theory in CMT"
+  authors: "C. Mudry"
+  spot: 1-3
+  status: 
+- title: "Lecture notes on electron correlation and magnetism"
+  authors: "Fazekas"
+  spot: 1-3
+  status: 
+- title: "Quantum field theory in strongly correlated electronic systems"
+  authors: "N Nagaosa"
+  spot: 1-3
+  status: 
+- title: "Quantum field theory in condensed matter physics"
+  authors: "N Nagaosa"
+  spot: 1-3
+  status: 
+- title: "Field theory of condensed matter physics-(2nd edition)"
+  authors: "Eduardo Fradkin"
+  spot: 1-3
+  status: 
+- title: "Quantum transport"
+  authors: "Nazarov and Blanter"
+  spot: 1-3
+  status: 
+- title: "Transport in nanostructures"
+  authors: "Ferry,Goopdnick and Bird"
+  spot: 1-3
+  status: 
+- title: "Field theory in condensed matter physics -"
+  authors: "Sumathi Rao"
+  spot: 1-3
+  status: 
+- title: "Solid state physics"
+  authors: "Ashcroft & Mermin"
+  spot: 1-3
+  status: 
+- title: "Quantum mechanics"
+  authors: "Robert Scherrer"
+  spot: 1-4
+  status: 
+- title: "Quantum mechanics"
+  authors: "Eugen Merzbacher"
+  spot: 1-4
+  status: 
+- title: "Principle of Quantum mechanics"
+  authors: "R Shankar"
+  spot: 1-4
+  status: 
+- title: "Advanced Quantum Mechanics"
+  authors: "Nazarov and Danon"
+  spot: 1-4
+  status: 
+- title: "The principles of quantum mechanics"
+  authors: "P.Dirac"
+  spot: 1-4
+  status: 
+- title: "Quantum mechanics(vol-1)"
+  authors: "Albert Messiah"
+  spot: 1-4
+  status: 
+- title: "Quantum mechanics"
+  authors: "John L Powell & Bernd Crasemann"
+  spot: 1-4
+  status: 
+- title: "Modern Quantum Mechanics"
+  authors: "J J Sakurai"
+  spot: 1-4
+  status: 
+- title: "Advanced quantum mechanics"
+  authors: "J J Sakurai"
+  spot: 1-4
+  status: 
+- title: "Quantum Mechanics"
+  authors: "Ballentine"
+  spot: 1-4
+  status: 
+- title: "Geometric phases in physics"
+  authors: "Shapere and Wilczek"
+  spot: 1-4
+  status: 
+- title: "Quantum Mechanics"
+  authors: "Band and Avishai"
+  spot: 1-4
+  status: 
+- title: "Quantum Optics"
+  authors: "G. S. Agarwal"
+  spot: 1-4
+  status: 
+- title: "Introduction to percolation theory"
+  authors: "Strauffer & Aharony"
+  spot: 1-4
+  status: 
+- title: "A modern course in statistical physics"
+  authors: "Linda E.Reichl"
+  spot: 1-4
+  status: 
+- title: "Statistical Mechanics"
+  authors: "S K Ma"
+  spot: 1-4
+  status: 
+- title: "Equilibrium statistical physics"
+  authors: "Plischke and Bergersen"
+  spot: 1-4
+  status: 
+- title: "A modern approach to critical phenomena"
+  authors: "Igor Herbut"
+  spot: 1-4
+  status: 
+- title: "Renormalization Methods"
+  authors: "Mccomb"
+  spot: 1-4
+  status: 
+- title: "Scaling and renormalization in Statistical physics"
+  authors: "John Cardy"
+  spot: 1-4
+  status: 
+- title: "Statistical mechanics"
+  authors: "Kerson Huang"
+  spot: 1-4
+  status: 
+- title: "Statistical Mechanics"
+  authors: "Kubo"
+  spot: 1-4
+  status: 
+- title: "Understanding quantum phase transitions"
+  authors: "Lincoln D Carr"
+  spot: 1-4
+  status: 
+- title: "Quantum phase transitions"
+  authors: "Subir Sachdev"
+  spot: 1-4
+  status: 
+- title: "Statistical physics of particles"
+  authors: "Mehran Kardar"
+  spot: 1-4
+  status: 
+- title: "Statistical physics of fields"
+  authors: "Mehran Kardar"
+  spot: 1-4
+  status: 
+- title: "Lectures on phase transitions and the renormalization group"
+  authors: "Nigel Goldenfeld"
+  spot: 1-4
+  status: 
+- title: "Principles of condensed matter physics"
+  authors: "Chaikin & Lubensky"
+  spot: 1-4
+  status: 
+- title: "Mathematical mnethods for physics and engineering"
+  authors: "Riley,Hobson,Bence"
+  spot: 2-1
+  status: 
+- title: "Mathematical mnethodsin the physical sciences"
+  authors: "Mary L.Boas"
+  spot: 2-1
+  status: 
+- title: "Further pure mathematics"
+  authors: "Bostock,Chandler,Rourke"
+  spot: 2-1
+  status: 
+- title: "Basic training in mathematics"
+  authors: "R.Shankar"
+  spot: 2-1
+  status: 
+- title: "Linear algebra problem book"
+  authors: "Paul R Halmos"
+  spot: 2-1
+  status: 
+- title: "A course of pure mathematics"
+  authors: "G.H.Hardy"
+  spot: 2-1
+  status: 
+- title: "Problems and solutionbs in theoritical and mathematical physics"
+  authors: "Willi-Hans Steeb"
+  spot: 2-1
+  status: 
+- title: "Complex variables"
+  authors: "Ablowitz & Fokas"
+  spot: 2-1
+  status: 
+- title: "Introduction to topology and modern analysis"
+  authors: "GF Simmons"
+  spot: 2-1
+  status: 
+- title: "Differential equations -theory,technique,practice"
+  authors: "Simmons & Krantz"
+  spot: 2-1
+  status: 
+- title: "Finite Dimensional Vector Spaces"
+  authors: "Halmos"
+  spot: 2-1
+  status: 
+- title: "Mathematical methods for physicists"
+  authors: "Arfken,Weber,Haris"
+  spot: 2-1
+  status: 
+- title: "Mathematical methods for physicists"
+  authors: "Arfken,Weber"
+  spot: 2-1
+  status: 
+- title: "Geometry,topology and physics"
+  authors: "M Nakahara"
+  spot: 2-1
+  status: 
+- title: "Topology for physicists"
+  authors: "Albert S.Schwarz"
+  spot: 2-1
+  status: 
+- title: "Statistical Data Analysis"
+  authors: "Adrian Bevan"
+  spot: 2-1
+  status: 
+- title: "Complex variables"
+  authors: "Spiegel,Lipschutz,Schiller,Spellman"
+  spot: 2-1
+  status: 
+- title: "Group theory for physicists"
+  authors: "A.W.Joshi"
+  spot: 2-1
+  status: 
+- title: "Linear Algebra and its applications"
+  authors: "Gilbert Strang"
+  spot: 2-1
+  status: 
+- title: "Complex variables and applications"
+  authors: "Brown & Churchill"
+  spot: 2-1
+  status: 
+- title: "Mathematical methods of classical mechanics"
+  authors: "Arnold"
+  spot: 2-1
+  status: 
+- title: "Mathematical methods for physics"
+  authors: "Stone & Goldbart"
+  spot: 2-1
+  status: 
+- title: "Introduction to elementary particles"
+  authors: "D. J. Griffiths"
+  spot: 2-2
+  status: 
+- title: "Particle physics"
+  authors: "Martin & Shaw"
+  spot: 2-2
+  status: 
+- title: "The phases of Quantum Chromodynamics"
+  authors: "Kogut, Stephanov"
+  spot: 2-2
+  status: 
+- title: "Non Perturbative Field Theory"
+  authors: "Frishman, Sonneschein"
+  spot: 2-2
+  status: 
+- title: "Quarks & Leptons"
+  authors: "Francis Halzen & Alan D.Martin"
+  spot: 2-2
+  status: 
+- title: "Gauge theory of elementary particle physics"
+  authors: "Cheng & Li"
+  spot: 2-2
+  status: 
+- title: "Finite Temparature Field Theory Principles and Applications"
+  authors: "Gale & Kapusta"
+  spot: 2-2
+  status: 
+- title: "Classical mechanics"
+  authors: "Herbert Goldstein"
+  spot: 2-2
+  status: 
+- title: "Optics"
+  authors: "A Ghatak"
+  spot: 2-2
+  status: 
+- title: "Nuclear Physics"
+  authors: "I. Kaplan"
+  spot: 2-2
+  status: 
+- title: "Classical Electrodynamics"
+  authors: "J. D. Jackson"
+  spot: 2-2
+  status: 
+- title: "Electronic principles"
+  authors: "A. P. Malvino"
+  spot: 2-2
+  status: 
+- title: "Heat & Theormodynamics"
+  authors: "Zemansky & Dittman"
+  spot: 2-2
+  status: 
+- title: "A- level Physics"
+  authors: "R. Muncaster"
+  spot: 2-2
+  status: 
+- title: "Space, Time and Gravitation"
+  authors: "Vladimirov, Mitskievich and Horsky"
+  spot: 2-2
+  status: 
+- title: "Introduction to Cosmology"
+  authors: "J.V.Narlikar"
+  spot: 2-2
+  status: 
+- title: "Cosmology"
+  authors: "Steven Weinberg"
+  spot: 2-2
+  status: 
+- title: "Gravity (An intro to Einstein's general relativity)"
+  authors: "James B.Hartle"
+  spot: 2-2
+  status: 
+- title: "Unix for you"
+  authors: "P. Koparkar"
+  spot: 2-2
+  status: 
+- title: "The C-programming Language"
+  authors: "The C-programming Language"
+  spot: 2-2
+  status: 
+- title: "Practical C programming"
+  authors: "S. Ouallin"
+  spot: 2-2
+  status: 
+- title: "Introductory Economics"
+  authors: "G. F. Stanlake"
+  spot: 2-2
+  status: 
+- title: "20th Century World Affairs"
+  authors: "J. Murray"
+  spot: 2-2
+  status: 
+- title: "Swamy's Handbook"
+  authors: "Swamy"
+  spot: 2-2
+  status: 
+- title: "An appraisal of J. V. Stalin"
+  authors: "S. Bose"
+  spot: 2-2
+  status: 
+- title: "Goedel, Escher and Bach"
+  authors: "D. Hofstdater"
+  spot: 2-2
+  status: 
+- title: "Sri Ramkrishna and his Unique message"
+  authors: "Swami Ghanananda"
+  spot: 2-2
+  status: 
+- title: "Selections from the complete works of Swami Vivekanada"
+  authors: "Swami Ghanananda"
+  spot: 2-2
+  status: 
+- title: "Coping with faculty stress"
+  authors: "Gmelch"
+  spot: 2-2
+  status: 
+- title: "Even a geek can speak"
+  authors: "Joey Asher"
+  spot: 2-2
+  status: 
+- title: "First order principles for college teachers"
+  authors: "Robert Boice"
+  spot: 2-2
+  status: 
+- title: "Tomorrow's professor"
+  authors: "Richard M Reis"
+  spot: 2-2
+  status: 
+- title: "One hundred reason to be a scientist"
+  authors: "Abdus Salam"
+  spot: 2-2
+  status: 
+- title: "Science, Spirituality and the nature of Reality"
+  authors: "T. D. Singh and R. Penrose"
+  spot: 2-2
+  status: 
+- title: "Getting funded"
+  authors: "Mary Hall"
+  spot: 2-2
+  status: 
+- title: "A Phd is not enough "
+  authors: "P J Feibelman "
+  spot: 2-2 
+  status: 
+- title: "Why things are the way they are "
+  authors: "B.s.Chandrasekhar "
+  spot: 2-2 
+  status: 
+- title: "Philips Modern School Atlas"
+  authors: 
+  spot: 2-2
+  status: 
